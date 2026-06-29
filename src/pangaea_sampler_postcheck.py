@@ -46,7 +46,7 @@ import random
 import time
 import datetime
 from typing import Iterator
-
+import pangaeapy.pandataset as pds
 import requests
 
 # ---------------------------------------------------------------------------
@@ -72,11 +72,11 @@ TOPICS: list[str] = [
     "Paleontology",
 ]
 
-# OPEN_LICENSES: tuple[str, ...] = ("CC-BY", "CC0", "CC BY")
+OPEN_LICENSES_STARTSWITH: tuple[str, ...] = ("CC", "BSRN")
 
 SEARCH_URL = "https://www.pangaea.de/advanced/search.php"
-PAGE_SIZE = 20    # results per API call; keep ≤ 50 to avoid timeouts
-DELAY = 0.11       # seconds between requests (PANGAEA fair-use policy)
+PAGE_SIZE = 2    # results per API call; keep ≤ 50 to avoid timeouts
+DELAY = 0.17       # seconds between requests (PANGAEA fair-use policy allows 6/s)
 MAX_RETRIES = 3
 
 
@@ -139,7 +139,7 @@ def _is_open(licence: str | None) -> bool:
         return False
     upper = licence.label.upper()
     # return any(tag in upper for tag in OPEN_LICENSES)
-    return any(upper.startswith(tag) for tag in ['CC'])
+    return any(upper.startswith(tag) for tag in OPEN_LICENSES_STARTSWITH)
 
 
 def _load_and_validate(doi: str) -> bool:
@@ -150,11 +150,13 @@ def _load_and_validate(doi: str) -> bool:
       - non-empty keywords list
     """
     try:
-        import pangaeapy.pandataset as pds
         ds = pds.PanDataSet(doi, include_data=False)  # skip data download for speed
     except Exception as exc:
         print(f"    [skip] {doi}: load error — {exc}")
         return False
+    
+    if ds.isCollection:
+        return False, 'is collection'
 
     if not _is_open(ds.licence):
         if ds.licence:
@@ -246,21 +248,22 @@ def sample_topic(
             if not doi or doi in seen_dois:
                 continue
 
+            seen_dois.add(doi)
+            
             if validate:
                 time.sleep(DELAY)  # extra delay for the PanDataSet call
                 is_valid, failure_reason = _load_and_validate(doi)
                 if not is_valid: 
-                    print(f"    [skip ({len(collected)}/{k})] {doi}: {failure_reason}")
-                    if failure_reason in ['abstract', 'keywords']:
+                    print(f"    [skip] ({len(collected)}/{k}, {topic}) {doi}: {failure_reason}")
+                    if failure_reason in ['no abstract', 'no keywords']:
                         n_failed += 1
                     continue
 
-            seen_dois.add(doi)
             collected.append(doi)
-            print(f"    [{len(collected)}/{k}] {doi}")
+            print(f"   [success] ({len(collected)}/{k}, {topic}) {doi}")
 
     if len(collected) < k:
-        print(f"  [warn] {topic}: only collected {len(collected)}/{k}")
+        print(f"  [warn] (completed all, {topic}): only collected {len(collected)}/{k}")
 
     return collected, n_failed
 
@@ -269,6 +272,7 @@ def sample(
     n: int = 100,
     seed: int | None = None,
     validate: bool = True,
+    warm_start = None
 ) -> dict[str, list[str]]:
     """
     Return ``{topic: [doi, ...]}`` with ~n total DOIs stratified across topics.
@@ -286,6 +290,19 @@ def sample(
     if seed is not None:
         random.seed(seed)
 
+    if warm_start is not None:
+        ## load json:
+        with open(warm_start, "r") as f:
+            warm_data = json.load(f)
+        result = warm_data.get("by_topic", {})
+        dict_n_failed = warm_data.get("n_failed", {})
+        seen_dois = set(warm_data.get("all_dois", []))
+        print(f"Warm-started with {len(seen_dois)} DOIs from {warm_start}")
+    else:
+        result = {}
+        seen_dois = set()
+        dict_n_failed = {}
+
     print("── Fetching topic totals ──────────────────────────────")
     totals: dict[str, int] = {}
     for topic in TOPICS:
@@ -299,15 +316,22 @@ def sample(
         print(f"  {t}: {q}")
     print(f"  TOTAL TARGET: {sum(quota.values())}\n")
 
-    seen_dois: set[str] = set()
-    result: dict[str, list[str]] = {}
-
-    dict_n_failed = {}
+    
     for topic, k in quota.items():
         print(f"\n── Sampling '{topic}' (need {k}) ─────────────────────")
-        dois, n_failed = sample_topic(topic, totals[topic], k, seen_dois, validate=validate)
-        result[topic] = dois
-        dict_n_failed[topic] = {topic: n_failed}
+        if topic in result:
+            k = max(0, k - len(result[topic]))
+            print(f"  Already have {len(result[topic])} DOIs, need {k} more")
+            if k <= 0:
+                continue
+            dois, n_failed = sample_topic(topic, totals[topic], k, seen_dois, validate=validate)
+            result[topic].extend(dois)
+            dict_n_failed[topic] += n_failed
+        else:
+            dois, n_failed = sample_topic(topic, totals[topic], k, seen_dois, validate=validate)
+            result[topic] = dois
+            print(f"  Collected {len(dois)} DOIs for '{topic}'. N failed: {n_failed}")
+            dict_n_failed[topic] = n_failed
 
         write_json(result, dict_n_failed, out_path='tmp_save.json')
     return result, dict_n_failed
@@ -334,9 +358,11 @@ def main() -> None:
     parser.add_argument("--out", type=str, default=None, help="Output JSON file path")
     parser.add_argument("--no-load", action="store_true",
                         help="Skip PanDataSet validation (faster, no quality filter)")
+    parser.add_argument("--warm-start", type=str, default=None, help="Path to warm-start JSON file")
     args = parser.parse_args()
 
-    result, dict_n_failed = sample(n=args.n, seed=args.seed, validate=not args.no_load)
+    result, dict_n_failed = sample(n=args.n, seed=args.seed, 
+                                   validate=not args.no_load, warm_start=args.warm_start)
     
     print(f"\n── Done: {sum(len(dois) for dois in result.values())} datasets collected ──────────────────")
     
