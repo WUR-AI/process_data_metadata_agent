@@ -1,6 +1,6 @@
 <div align="center">
 
-# Title project
+# Process data for metadata agent
 ![python](https://img.shields.io/badge/python-3.12%2B-blue)
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/WUR-AI/process_data_metadata_agent/blob/main/LICENSE) <br>
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/WUR-AI/process_data_metadata_agent/pulls)
