@@ -1,0 +1,8 @@
+Event,Latitude,Longitude,Elevation,ID,Deposit type,Depth sed,Mn,Fe,Ni,Co,Cu,Samp type,Description,Date/Time
+CHMAII-9,-13.8333,-150.55,,CHMAII-9-1YB7,Mn nodule,0.1,14.8,12.3,0.42,0.54,0.27,Whole nodule,Discoidal Mn nodule with smooth surface,1970-09-02
+OKSH-CM-14-A,-13.5667,-149.3,-4520.0,OKSH-CM-14-A-1YB7,Mn nodule,0.0,16.3,15.6,0.45,0.53,0.19,Whole nodule,,1970-09-12
+OKSH-CM-10-A,-13.9167,-150.55,-3755.0,OKSH-CM-10-A-1YB7a,Mn nodule,0.0,20.0,12.5,0.46,0.63,0.22,Whole nodule,Ellipsoidal Mn nodule with core,1970-09-03
+OKSH-CM-10-A,-13.9167,-150.55,-3755.0,OKSH-CM-10-A-1YB7b,Mn nodule,0.0,18.1,11.3,0.42,0.57,0.2,Nodule without core,Ellipsoidal Mn nodule with core,1970-09-03
+OKSH-CM-15-A,-14.05,-150.6333,-3760.0,OKSH-CM-15-A-1YB7a,Mn nodule,0.0,18.1,14.8,0.58,0.54,0.25,Whole nodule,Mn nodule with core,1970-09-13
+OKSH-CM-15-A,-14.05,-150.6333,-3760.0,OKSH-CM-15-A-1YB7a,Mn nodule,0.0,16.9,13.8,0.54,0.5,0.23,Nodule without core,Mn nodule with core,1970-09-13
+OKSH-CM-18-A,12.0,-175.7167,-5340.0,OKSH-CM-18-A-1YB7,Mn nodule,0.0,17.7,12.1,0.43,0.5,0.23,Whole nodule,,1970-09-25

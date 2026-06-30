@@ -1,0 +1,9 @@
+Binary,Binary (Size),Binary (Charset),Binary (Type),Binary (Hash),Content
+1_DATA_Physico-chemical.txt,229.7 kBytes,UTF-16LE,text/plain,e4f52459da3b0a10cef68ebc556b67f6,"Physico-chemical data, including in situ parameters, basic physicochemistry, nutrients, trace elements, and contaminants."
+1_METADATA_Physico-chemical.txt,28 kBytes,UTF-16LE,text/plain,e06ddd0b6aba0e3420db77a0336c9619,Column descriptions of Physicochemical dataset.
+2_DATA_Particulate_matter.txt,95.2 kBytes,UTF-16LE,text/plain,f5339eb12d3219665f3c2ceb15b122b3,"Particulate matter data, including cations, trace elements, and mineralogy obtained via X-Ray Diffraction."
+2_METADATA_Particulate_matter.txt,22.7 kBytes,UTF-16LE,text/plain,9095ce6954fe153f14e2f1745947cefa,Column descriptions of Particulate matter dataset.
+3_DATA_Temperature.txt,5.3 MBytes,UTF-16LE,text/plain,785278b9056b43d95310bd56fc5ad7e9,Continuous temperature data at each sampling site.
+3_METADATA_Temperature.txt,5.2 kBytes,UTF-16LE,text/plain,34342509f7489cd74c38131c079ab158,Column descriptions of Temperature dataset.
+4_DATA_Hydrological.txt,158 kBytes,UTF-16LE,text/plain,e6c0a5b52ed9958c60e3c782007d5c1b,"Hydrological data, meaning modeled (all 14 sampling sites) and Water Survey of Canada measured (2 sampling sites) mean daily discharge."
+4_METADATA_Hydrological.txt,4.2 kBytes,UTF-16LE,text/plain,acf876226d2476e3a456a52927a8b26f,Column descriptions of Hydrological dataset.

@@ -40,11 +40,13 @@ Usage
 from __future__ import annotations
 
 import argparse
+import os
 import json
 import math
 import random
 import time
 import datetime
+from pathlib import Path
 from typing import Iterator
 import pangaeapy.pandataset as pds
 import requests
@@ -79,6 +81,8 @@ PAGE_SIZE = 2    # results per API call; keep ≤ 50 to avoid timeouts
 DELAY = 0.17       # seconds between requests (PANGAEA fair-use policy allows 6/s)
 MAX_RETRIES = 3
 
+REPO_ROOT = Path(__file__).resolve().parents[1]
+FOLDER_SAVE = str(REPO_ROOT / "outputs" / "pangaea")
 
 # ---------------------------------------------------------------------------
 # HTTP helpers
@@ -333,19 +337,17 @@ def sample(
             print(f"  Collected {len(dois)} DOIs for '{topic}'. N failed: {n_failed}")
             dict_n_failed[topic] = n_failed
 
-        write_json(result, dict_n_failed, out_path='tmp_save.json')
+        write_json(result, dict_n_failed, filename_out='tmp_save.json')
     return result, dict_n_failed
 
-def write_json(result, dict_n_failed, out_path: str | None = None) -> None:
+def write_json(result, dict_n_failed, filename_out: str | None = None) -> None:
     flat = [doi for dois in result.values() for doi in dois]
     output = {"by_topic": result, "all_dois": flat, "total": len(flat), "n_failed": dict_n_failed}
-    if out_path:
-        with open(out_path, "w") as f:
-            json.dump(output, f, indent=2)
-        print(f"Written to {out_path}")
-    else:
-        print(json.dumps(output, indent=2))
-
+    assert filename_out is not None, "filename_out must be provided"
+    with open(os.path.join(FOLDER_SAVE, filename_out), "w") as f:
+        json.dump(output, f, indent=2)
+        print(f"Written to {os.path.join(FOLDER_SAVE, filename_out)}")
+    
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
@@ -361,6 +363,10 @@ def main() -> None:
     parser.add_argument("--warm-start", type=str, default=None, help="Path to warm-start JSON file")
     args = parser.parse_args()
 
+    assert os.path.exists(args.warm_start) if args.warm_start else True, f"Warm-start file not found: {args.warm_start}"
+    assert os.path.exists(FOLDER_SAVE), f"Output folder not found: {FOLDER_SAVE}"
+    print(f"Output folder: {FOLDER_SAVE}")
+
     result, dict_n_failed = sample(n=args.n, seed=args.seed, 
                                    validate=not args.no_load, warm_start=args.warm_start)
     
@@ -368,10 +374,10 @@ def main() -> None:
     
     timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
     if args.out:
-        out_path = args.out.rstrip('.json') + f"_{timestamp}.json"
+        filename_out = args.out.rstrip('.json') + f"_{timestamp}.json"
     else:
-        out_path = f'samples_{timestamp}.json'
-    write_json(result, dict_n_failed, out_path=out_path)
+        filename_out = f'samples_{timestamp}.json'
+    write_json(result, dict_n_failed, filename_out=filename_out)
 
 
 if __name__ == "__main__":

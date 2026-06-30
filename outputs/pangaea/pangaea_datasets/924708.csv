@@ -1,0 +1,9 @@
+Date/Time,Latitude,Longitude,Whale,Certainty,Ind,Event
+2014-08-06 10:34:00,73.71687,13.61215,"Dolphins, unidentified",definite,5,PS87-track
+2014-08-06 22:25:00,75.28732,9.81663,"Large whale, unidentified",definite,1,PS87-track
+2014-08-07 05:02:00,76.3849,6.98023,Balaenoptera physalus,probable,1,PS87-track
+2014-08-07 11:29:00,77.19402,4.7599,"Large whale, unidentified",definite,1,PS87-track
+2014-08-07 14:39:00,77.57578,3.63923,Balaenoptera physalus,probable,2,PS87-track
+2014-08-07 16:18:00,77.86243,2.7874,Megaptera novaeangliae,definite,1,PS87-track
+2014-09-30 08:23:00,78.66195,61.78372,Orcinus orca,definite,1,PS87-track
+2014-10-01 11:50:00,75.57958,41.94702,"Dolphins, unidentified",definite,10,PS87-track

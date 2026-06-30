@@ -1,0 +1,12 @@
+Project,Content,Binary,Binary (Size),Event,Latitude,Longitude,Date/Time
+WA_CapeBlossom_20210625_7cm_01,Preview png of RGB,WA_CapeBlossom_20210625_7cm_01_preview_RGB.png,341.7 kBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Preview png of CIR,WA_CapeBlossom_20210625_7cm_01_preview_CIR.png,345.2 kBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Preview png of DSM,WA_CapeBlossom_20210625_7cm_01_preview_DSM.png,112.1 kBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Cloud-optimized GeoTIFF of Ortho,WA_CapeBlossom_20210625_7cm_01_Ortho.tif,15.4 GBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,GeoTiffs all tiles and virtual mosaic Ortho,WA_CapeBlossom_20210625_7cm_01_Ortho_tiles.zip,15.4 GBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Cloud-optimized GeoTIFF of DSM,WA_CapeBlossom_20210625_7cm_01_DSM.tif,5.3 GBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,GeoTiffs all tiles and virtual mosaic DSM,WA_CapeBlossom_20210625_7cm_01_DSM_tiles.zip,4.1 GBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Cloud-optimized GeoTIFF of hillshade,WA_CapeBlossom_20210625_7cm_01_Hillshade.tif,526.7 MBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,PointClouds all tiles NIR and RGB,WA_CapeBlossom_20210625_7cm_01_PointClouds_tiles.zip,10.6 GBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Tile footprints geojson,WA_CapeBlossom_20210625_7cm_01_tile_footprints.geojson,4.1 MBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30
+WA_CapeBlossom_20210625_7cm_01,Processing info,WA_CapeBlossom_20210625_7cm_01_processing_info.zip,1.5 MBytes,P6_224_Perma_X_2021_2106250301,66.891836,-162.596512,2021-06-25 21:21:30

@@ -12,6 +12,18 @@
       "doi:10.1594/PANGAEA.990164",
       "doi:10.1594/PANGAEA.990160"
     ],
+    "Atmosphere": [
+      "doi:10.1594/PANGAEA.913868",
+      "doi:10.1594/PANGAEA.893188",
+      "doi:10.1594/PANGAEA.990495",
+      "doi:10.1594/PANGAEA.939047",
+      "doi:10.1594/PANGAEA.913861",
+      "doi:10.1594/PANGAEA.925555",
+      "doi:10.1594/PANGAEA.945294",
+      "doi:10.1594/PANGAEA.905663",
+      "doi:10.1594/PANGAEA.927062",
+      "doi:10.1594/PANGAEA.969067"
+    ],
     "Biological Classification": [
       "doi:10.1594/PANGAEA.928506",
       "doi:10.1594/PANGAEA.965137",
@@ -190,6 +202,16 @@
     "doi:10.1594/PANGAEA.982395",
     "doi:10.1594/PANGAEA.990164",
     "doi:10.1594/PANGAEA.990160",
+    "doi:10.1594/PANGAEA.913868",
+    "doi:10.1594/PANGAEA.893188",
+    "doi:10.1594/PANGAEA.990495",
+    "doi:10.1594/PANGAEA.939047",
+    "doi:10.1594/PANGAEA.913861",
+    "doi:10.1594/PANGAEA.925555",
+    "doi:10.1594/PANGAEA.945294",
+    "doi:10.1594/PANGAEA.905663",
+    "doi:10.1594/PANGAEA.927062",
+    "doi:10.1594/PANGAEA.969067",
     "doi:10.1594/PANGAEA.928506",
     "doi:10.1594/PANGAEA.965137",
     "doi:10.1594/PANGAEA.920951",
@@ -331,9 +353,10 @@
     "doi:10.1594/PANGAEA.984573",
     "doi:10.1594/PANGAEA.949654"
   ],
-  "total": 150,
+  "total": 160,
   "n_failed": {
     "Agriculture": 10,
+    "Atmosphere": 1954,
     "Biological Classification": 213,
     "Biosphere": 39,
     "Chemistry": 532,
