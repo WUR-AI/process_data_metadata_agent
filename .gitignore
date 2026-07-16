@@ -217,3 +217,9 @@ __marimo__/
 
 **/.DS_Store
 .DS_Store
+process_data_metadata_agent.code-workspace
+
+outputs/pangaea/pangaea_incl_pub_datasets/
+outputs/pangaea/pangaea_datasets/
+outputs/inaturalist/inaturalist_100_species_1000_obs/
+data/
