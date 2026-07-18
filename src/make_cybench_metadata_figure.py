@@ -8,12 +8,12 @@ Abstract
 --------
 Reads (1) a directory of CSV files constituting one dataset and (2) a JSON
 file of predicted metadata, and emits a self-contained ``figure*`` block.
-The figure has a full-width context box summarising the input files and two
-side-by-side boxes holding the descriptive and structural halves of the
-prediction.
+The figure has a full-width context box summarising the input files, and
+three prediction boxes: descriptive and technical metadata stacked in the
+left column, structural metadata (``recordsets``) in the right.
 
 Nothing in the figure is hardcoded: shared join keys, per-file column lists,
-field-type counts, and the example row are all derived from the inputs.
+field-type counts, and the example rows are all derived from the inputs.
 
 Keywords
 --------
@@ -21,7 +21,7 @@ LaTeX, tcolorbox, Croissant, metadata, figure generation
 
 License
 -------
-CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+CC-BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 
 Usage
 -----
@@ -35,13 +35,15 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 from collections import Counter
 from pathlib import Path
-import os
+
+import pandas as pd
 from dotenv import load_dotenv
+
 load_dotenv()
 REPO = os.getenv("REPO_PATH")
-import pandas as pd
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -80,8 +82,10 @@ _LATEX_ESCAPES: dict[str, str] = {
 }
 
 NUMERIC_TYPES = ("Number", "Integer")
- 
- 
+
+# Indent applied to nested records in the recordsets excerpt.
+INDENT = "    "
+
 
 def tex_escape(s: object) -> str:
     """Escape a string for safe inclusion in LaTeX text or \\texttt{}."""
@@ -104,8 +108,12 @@ def _tt(s: object) -> str:
 # Input inspection
 # ---------------------------------------------------------------------------
 
-def read_csv_dir(csv_dir: Path, nrows: int = 5) -> dict[str, pd.DataFrame]:
-    """Read every .csv in a directory (sorted by name); keep only `nrows`."""
+def read_csv_dir(csv_dir: Path, nrows: int = 6) -> dict[str, pd.DataFrame]:
+    """Read every .csv in a directory (sorted by name).
+
+    Reads one row MORE than the figure displays, so _data_table can tell
+    whether the file continues past the last shown row. Keep nrows strictly
+    greater than max_rows or the truncation ellipsis can never appear."""
     paths = sorted(csv_dir.glob("*.csv"))
     if not paths:
         raise FileNotFoundError(f"No .csv files found in {csv_dir}")
@@ -113,11 +121,10 @@ def read_csv_dir(csv_dir: Path, nrows: int = 5) -> dict[str, pd.DataFrame]:
 
 
 def shared_columns(frames: dict[str, pd.DataFrame]) -> list[str]:
-    """Columns present in EVERY file — the implicit join keys."""
+    """Columns present in EVERY file - the implicit join keys."""
     if not frames:
         return []
     common = set.intersection(*(set(df.columns) for df in frames.values()))
-    # Preserve the column order of the first frame for stable output.
     first = next(iter(frames.values()))
     return [c for c in first.columns if c in common]
 
@@ -145,9 +152,13 @@ def type_for(
     return PANDAS_TO_TYPE.get(str(df[col].dtype), "Text")
 
 
+# ---------------------------------------------------------------------------
+# Cell / number formatting
+# ---------------------------------------------------------------------------
+
 def _fmt_number(value: object) -> str:
     """Render a number without scientific notation.
- 
+
     Plain ``%g`` flips to sci notation once the exponent reaches the
     precision, so e.g. 1361240.75 would print as 1.36124e+06. A high
     precision avoids that for realistic magnitudes; the ``e`` check catches
@@ -158,8 +169,8 @@ def _fmt_number(value: object) -> str:
     if "e" in text or "E" in text:
         text = f"{value:f}".rstrip("0").rstrip(".")
     return text
- 
- 
+
+
 def _fmt_cell(value: object, dtype: str) -> str:
     """Format one table cell. Negative numbers get a real minus sign, since a
     plain hyphen renders too short in text mode."""
@@ -171,8 +182,7 @@ def _fmt_cell(value: object, dtype: str) -> str:
             return "$-$" + tex_escape(text[1:])
         return tex_escape(text)
     return tex_escape(value)
- 
- 
+
 
 def _data_table(
     name: str,
@@ -181,16 +191,15 @@ def _data_table(
     max_rows: int = 5,
 ) -> str:
     """Render the first `max_rows` rows of one file as a booktabs tabular.
- 
+
     Numeric columns are right-aligned. A trailing ellipsis row is emitted only
-    when the file actually continues past `max_rows` (read_csv_dir loads one
-    spare row so this is knowable)."""
+    when the file actually continues past `max_rows`."""
     cols = list(df.columns)
     dtypes = [type_for(name, c, types, df) for c in cols]
- 
+
     align = "".join("r" if d in NUMERIC_TYPES else "l" for d in dtypes)
     header = " & ".join(_tt(c) for c in cols)
- 
+
     shown = df.head(max_rows)
     body = [
         " & ".join(_fmt_cell(v, d) for v, d in zip(row, dtypes)) + r" \\"
@@ -198,11 +207,11 @@ def _data_table(
     ]
     if len(df) > max_rows:
         body.append(" & ".join([r"$\cdots$"] * len(cols)) + r" \\")
- 
+
     # Wide tables need a smaller face and tighter columns to stay in the box.
     size = r"\tiny" if len(cols) > 8 else r"\scriptsize"
     sep = "3pt" if len(cols) > 8 else "5pt"
- 
+
     return "\n".join([
         r"{" + size,
         rf"\setlength{{\tabcolsep}}{{{sep}}}",
@@ -214,10 +223,12 @@ def _data_table(
         r"\bottomrule",
         r"\end{tabular}\par}",
     ])
- 
+
+
 # ---------------------------------------------------------------------------
-# Figure sections
+# Context box
 # ---------------------------------------------------------------------------
+
 def _context_box(
     frames: dict[str, pd.DataFrame],
     types: dict[tuple[str, str], str],
@@ -250,7 +261,8 @@ def _context_box(
     table_body = "\n".join(rows)
 
     if excerpt_name not in frames:
-        raise KeyError(f"{excerpt_name!r} not among the CSV files in the directory {list(frames.keys())}")
+        raise KeyError(f"{excerpt_name!r} not among the CSV files in the "
+                       f"directory {list(frames.keys())}")
     ex_df = frames[excerpt_name]
     data_table = _data_table(excerpt_name, ex_df, types, max_rows=max_rows)
     shown = min(max_rows, len(ex_df))
@@ -284,6 +296,10 @@ File & \# columns & Columns beyond the shared keys \\\\
 \end{{tcolorbox}}"""
 
 
+# ---------------------------------------------------------------------------
+# Coverage formatting
+# ---------------------------------------------------------------------------
+
 def _fmt_spatial(sc: object) -> str:
     """Render spatialCoverage, tolerating bbox dicts or plain strings."""
     if isinstance(sc, dict):
@@ -301,41 +317,52 @@ def _fmt_temporal(tc: object) -> str:
     return tex_escape(tc) if tc else r"\textit{(none)}"
 
 
-def _descriptive_box(meta: dict, frames: dict[str, pd.DataFrame]) -> str:
-    """Left box: name, description, keywords, language, coverage, filesets."""
+# ---------------------------------------------------------------------------
+# Prediction boxes
+# ---------------------------------------------------------------------------
+
+_BOX_OPTS = r"""    fonttitle=\bfseries\small,
+    colback=blue!5, colframe=blue!40!black,
+    boxrule=0.4pt, arc=2pt,
+    left=4pt, right=4pt, top=3pt, bottom=3pt,
+    width=\linewidth,"""
+
+
+def _descriptive_box(meta: dict) -> str:
+    """Top-left box: name, description, keywords, language."""
     kw = ", ".join(tex_escape(k) for k in meta.get("keywords", []))
     lang = ", ".join(_tt(l) for l in meta.get("inLanguage", [])) or r"\textit{(none)}"
-
-    fs = meta.get("filesets", meta.get("fileSets", {}))
-    includes = fs.get("includes", []) if isinstance(fs, dict) else list(fs)
-    excludes = fs.get("excludes", []) if isinstance(fs, dict) else []
-    inc_str = '[' + ', '.join(_tt(f) for f in includes) + ']' if includes else r"\textit{(none)}"
-    # inc_str = (rf"all {len(includes)} files" if len(includes) == len(frames)
-    #            else ", ".join(_tt(f) for f in includes))
-    exc_str = '[' + ', '.join(_tt(f) for f in excludes) + ']' if excludes else r"\textit{(none)}"
 
     lines = [
         rf"\textbf{{Name:}} {tex_escape(meta.get('name', ''))}",
         rf"\textbf{{Description:}} {tex_escape(meta.get('description', ''))}",
         rf"\textbf{{Keywords:}} {kw}",
         rf"\textbf{{inLanguage:}} {lang}",
-        (rf"\textbf{{spatialCoverage:}} {_fmt_spatial(meta.get('spatialCoverage'))} \\"
-         + "\n" + rf"\textbf{{spatial:}} {tex_escape(meta.get('spatial', ''))}"),
-        (rf"\textbf{{temporalCoverage:}} {_fmt_temporal(meta.get('temporalCoverage'))} \\"
-         + "\n" + rf"\textbf{{temporal:}} {tex_escape(meta.get('temporal', ''))}"),
-        rf"\textbf{{filesets.includes:}} {inc_str} \quad \textbf{{excludes:}} {exc_str}",
     ]
     body = "\n\n\\smallskip\n".join(lines)
 
     return rf"""\begin{{tcolorbox}}[
     title={{Agentic metadata --- descriptive}},
-    fonttitle=\bfseries\small,
-    colback=blue!5, colframe=blue!40!black,
-    boxrule=0.4pt, arc=2pt,
-    left=4pt, right=4pt, top=3pt, bottom=3pt,
-    width=0.49\linewidth,
-    nobeforeafter,
-    equal height group=meta,
+{_BOX_OPTS}
+]
+\scriptsize
+{body}
+\end{{tcolorbox}}"""
+
+
+def _technical_box(meta: dict) -> str:
+    """Bottom-left box: spatial and temporal coverage."""
+    lines = [
+        rf"\textbf{{spatialCoverage:}} {_fmt_spatial(meta.get('spatialCoverage'))}",
+        rf"\textbf{{spatial:}} {tex_escape(meta.get('spatial', ''))}",
+        rf"\textbf{{temporalCoverage:}} {_fmt_temporal(meta.get('temporalCoverage'))}",
+        rf"\textbf{{temporal:}} {tex_escape(meta.get('temporal', ''))}",
+    ]
+    body = "\n\n\\smallskip\n".join(lines)
+
+    return rf"""\begin{{tcolorbox}}[
+    title={{Agentic metadata --- technical}},
+{_BOX_OPTS}
 ]
 \scriptsize
 {body}
@@ -343,16 +370,16 @@ def _descriptive_box(meta: dict, frames: dict[str, pd.DataFrame]) -> str:
 
 
 def _ttlines(lines: list[str]) -> str:
-    """A monospaced block. Avoids `verbatim`, which breaks inside a
-    tcolorbox that belongs to an `equal height group` (typeset twice).
-    Spaces become `~`, so callers MUST pre-wrap: a long line has no break
-    points left and will overflow the box."""
-    esc = [tex_escape(l).replace(" ", "~") for l in lines]
+    """A monospaced block. Avoids `verbatim`, which breaks inside a tcolorbox
+    that is typeset more than once. Spaces become `~`, so callers MUST
+    pre-wrap: a long line has no break points left and will overflow."""
+    # esc = [tex_escape(l).replace(" ", "~") for l in lines]
+    esc = [r"\mbox{}" + tex_escape(l).replace(" ", "~") for l in lines]
     return ("{\\ttfamily\\scriptsize\\setlength{\\parindent}{0pt}\n"
             + " \\\\\n".join(esc) + "\n\\par}")
 
 
-def _wrap_example(text: str, width: int = 44, indent: str = "   ") -> list[str]:
+def _wrap_example(text: str, width: int = 40, indent: str = " ") -> list[str]:
     """Split an example row at ``, `` boundaries into lines <= `width` chars."""
     parts = text.split(", ")
     lines: list[str] = []
@@ -360,7 +387,7 @@ def _wrap_example(text: str, width: int = 44, indent: str = "   ") -> list[str]:
     for i, part in enumerate(parts):
         piece = part if i == len(parts) - 1 else part + ","
         candidate = f"{cur} {piece}" if cur else piece
-        if cur and len(candidate) > width:
+        if cur:
             lines.append(cur)
             cur = indent + piece
         else:
@@ -370,8 +397,28 @@ def _wrap_example(text: str, width: int = 44, indent: str = "   ") -> list[str]:
     return lines
 
 
-def _structural_box(meta: dict, excerpt: str | None = None) -> str:
-    """Right box: recordsets summary plus one excerpt rendered verbatim-ish."""
+def _recordset_lines(rs: dict, indent: str = INDENT) -> list[str]:
+    """Pretty-print one recordset with nested records indented under their
+    parent key, mirroring the JSON hierarchy."""
+    lines = [f"source: {rs['source']}", f"key:    {rs.get('key', '')}"]
+
+    fields = rs.get("fields", [])
+    if fields:
+        lines.append("fields:")
+        width = max(len(f["source"]) for f in fields)
+        for f in fields:
+            lines.append(f"{indent}{f['source']:<{width}}  {f.get('dataType', '')}")
+
+    if rs.get("examples"):
+        lines.append("examples:")
+        wrapped = _wrap_example(f'{rs["examples"][0]}', indent=indent + " ")
+        lines += [indent + w for w in wrapped]
+
+    return lines
+
+
+def _structural_box(meta: dict, excerpt: str, frames: dict[str, pd.DataFrame]) -> str:
+    """Right box: filesets plus the recordsets summary and one excerpt."""
     recordsets = meta.get("recordsets", meta.get("recordSet", []))
     n_rs = len(recordsets)
     n_fields = sum(len(rs.get("fields", [])) for rs in recordsets)
@@ -379,51 +426,42 @@ def _structural_box(meta: dict, excerpt: str | None = None) -> str:
     counts = Counter(f.get("dataType", "?")
                      for rs in recordsets for f in rs.get("fields", []))
     counts_str = ", ".join(f"{t} {c}" for t, c in counts.most_common())
+    fs = meta.get("filesets", meta.get("fileSets", {}))
+    includes = fs.get("includes", []) if isinstance(fs, dict) else list(fs)
+    excludes = fs.get("excludes", []) if isinstance(fs, dict) else []
+    inc_str = '[' + ', '.join(_tt(f) for f in includes) + ']' if includes else r"\textit{(none)}"
+    # inc_str = (rf"all {len(includes)} files" if len(includes) == len(frames)
+    #            else ", ".join(_tt(f) for f in includes))
+    exc_str = '[' + ', '.join(_tt(f) for f in excludes) + ']' if excludes else r"\textit{(none)}"
 
     keys = {rs.get("key") for rs in recordsets}
-    key_note = (rf"Every set takes {_tt(next(iter(keys)))} as its {_tt('key')}"
+    key_note = (rf"Every recordset takes {_tt(next(iter(keys)))} as its {_tt('key')}"
                 if len(keys) == 1 else
-                rf"Declared {_tt('key')}s: " + ", ".join(_tt(k) for k in sorted(map(str, keys))))
+                rf"Declared {_tt('key')}s: "
+                + ", ".join(_tt(k) for k in sorted(map(str, keys))))
 
     all_fields = [f for rs in recordsets for f in rs.get("fields", [])]
-    no_array = all(not f.get("isArray") for f in all_fields)
-    no_refs = all(f.get("references") is None for f in all_fields)
     flags = []
-    if no_array:
-        flags.append(rf"{_tt('isArray: false')}")
-    if no_refs:
-        flags.append(rf"{_tt('references: null')}")
+    if all(not f.get("isArray") for f in all_fields):
+        flags.append(_tt("isArray: false"))
+    if all(f.get("references") is None for f in all_fields):
+        flags.append(_tt("references: null"))
     flag_note = (rf"All {n_fields} fields have " + " and ".join(flags) + "."
                  if flags else "")
 
-    # Choose the excerpt: named file, else the median-width recordset.
-    if excerpt is not None:
-        rs = next((r for r in recordsets if r.get("source") == excerpt), None)
-        if rs is None:
-            raise ValueError(f"No recordset with source={excerpt!r}")
-    else:
-        rs = sorted(recordsets, key=lambda r: len(r.get("fields", [])))[len(recordsets) // 2]
+    rs = next(r for r in recordsets if r.get("source") == excerpt)
     idx = recordsets.index(rs)
-
-    width = max((len(f["source"]) for f in rs["fields"]), default=0)
-    lines = [f"source: {rs['source']}", f"key:    {rs.get('key', '')}", "fields:"]
-    lines += [f"  {f['source']:<{width}}  {f.get('dataType','')}" for f in rs["fields"]]
-    if rs.get("examples"):
-        wrapped = _wrap_example(f'"{rs["examples"][0]}"')
-        lines += ["examples:"] + ["  " + w for w in wrapped]
+    lines = _recordset_lines(rs)
 
     return rf"""\begin{{tcolorbox}}[
-    title={{Agentic metadata --- structural (\texttt{{recordsets}})}},
-    fonttitle=\bfseries\small,
-    colback=blue!5, colframe=blue!40!black,
-    boxrule=0.4pt, arc=2pt,
-    left=4pt, right=4pt, top=3pt, bottom=3pt,
-    width=0.49\linewidth,
-    nobeforeafter,
-    equal height group=meta,
+    title={{Agentic metadata --- structural}},
+{_BOX_OPTS}
 ]
 \scriptsize
-{n_rs} {_tt('recordsets')}, one per file, together declaring {n_fields} fields.
+\textbf{{filesets.includes:}} {inc_str} \quad \textbf{{excludes:}} {exc_str}
+
+\smallskip
+{n_rs} \textbf{{'recordsets'}}, one per file, together declaring {n_fields} fields.
 {key_note}. {flag_note}
 
 \smallskip
@@ -448,27 +486,30 @@ def make_metadata_figure(
     cite_key: str | None = None,
     label: str = "fig:example_metadata_multifile",
     excerpt: str | None = None,
+    max_rows: int = 5,
 ) -> str:
     """
     Build the complete ``figure*`` block as a LaTeX string.
 
+    Layout: full-width context box on top; below, a left column stacking the
+    descriptive and technical boxes and a right column holding the structural
+    box. Both columns are ``minipage[t]`` so their tops align.
+
     Parameters
     ----------
-    csv_dir : path to the directory holding the dataset's .csv files
+    csv_dir : directory holding the dataset's .csv files
     json_path : path to the predicted-metadata JSON
     caption : caption text; a neutral default is used if omitted
     cite_key : appended as ``Data from \\cite{key}.`` when given
     label : the ``\\label{...}`` for cross-referencing
-    excerpt : filename whose recordset is shown in full; median-width if None
-
-    Returns
-    -------
-    str : LaTeX source, ready to ``\\input`` or paste
+    excerpt : filename whose rows and recordset are shown
+    max_rows : data rows displayed in the context table
     """
     if csv_dir is None:
         csv_dir = os.path.join(REPO, "outputs/cybench/maize-IE/")
     if json_path is None:
-        json_path = os.path.join(REPO, "data/predictions/cybench_Qwen3.6_35B/cybench_IE_multi_csv.json")
+        json_path = os.path.join(
+            REPO, "data/predictions/cybench_Qwen3.5/cybench_IE_multi_csv.json")
     if cite_key is None:
         cite_key = "kallenberg2026cy"
     if excerpt is None:
@@ -484,11 +525,14 @@ def make_metadata_figure(
 
     if caption is None:
         caption = (
-            rf"\textbf{{Example of metadata generation for a multi-file dataset.}} "
-            rf"The $\name$ receives {len(frames)} related CSV files (top) and emits a "
-            rf"Croissant record (bottom), spanning descriptive fields (left) and "
-            rf"per-file {_tt('recordsets')} (right). The generated metadata is formatted as a JSON file, which has been human-readable for this figure. No creator-annotated metadata "
-            rf"exists for this dataset, as CY-Bench was annotated at the level of all its datasets, so no reference is shown."
+            rf"\textbf{{Example of metadata generation for a multi-file dataset by Qwen 3.5.}} "
+            rf"$\name$ receives {len(frames)} related CSV files (top) and emits a "
+            rf"Croissant record (bottom), spanning descriptive, technical "
+            rf", and structural metadata. The generated "
+            rf"metadata is formatted as a JSON file, which has been rendered "
+            rf"human-readable for this figure. No creator-annotated metadata exists "
+            rf"for this dataset, as CY-Bench was annotated at the level of all its "
+            rf"datasets, so no reference is shown."
         )
     if cite_key:
         caption += rf" Data from \cite{{{cite_key}}}."
@@ -506,14 +550,26 @@ def make_metadata_figure(
         r"\centering",
         "",
         r"% -- Context (full width) --",
-        _context_box(frames, types, keys, total_fields, excerpt_name=excerpt),
+        _context_box(frames, types, keys, total_fields,
+                     excerpt_name=excerpt, max_rows=max_rows),
         "",
         r"\smallskip",
         "",
-        r"% -- Predicted metadata (side by side) --",
-        _descriptive_box(meta, frames),
+        r"% -- Predicted metadata: left column (descriptive over technical) --",
+        r"\begin{minipage}[t]{0.49\linewidth}",
+        r"\vspace{0pt}",   # make [t] align the box top, not its first baseline
+        _descriptive_box(meta),
+        "",
+        r"\vspace{4pt}",
+        "",
+        _technical_box(meta),
+        r"\end{minipage}",
         r"\hfill",
-        _structural_box(meta, excerpt=excerpt),
+        r"% -- Predicted metadata: right column (structural) --",
+        r"\begin{minipage}[t]{0.49\linewidth}",
+        r"\vspace{0pt}",
+        _structural_box(meta, excerpt=excerpt, frames=frames),
+        r"\end{minipage}",
         "",
         rf"\caption{{{caption}}}",
         rf"\label{{{label}}}",
@@ -527,11 +583,14 @@ def main() -> None:
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--csv-dir", default=None, help="Directory of dataset .csv files")
     p.add_argument("--json", default=None, help="Predicted-metadata JSON")
-    p.add_argument("--out", default="example_annotation_cybench.tex", help="Output .tex path")
+    p.add_argument("--out", default="example_annotation_cybench.tex",
+                   help="Output .tex path")
     p.add_argument("--cite", default=None, help="BibTeX key for the data citation")
     p.add_argument("--label", default="fig:example_metadata_multifile")
     p.add_argument("--excerpt", default=None,
-                   help="Filename whose recordset is shown in full")
+                   help="Filename whose rows and recordset are shown")
+    p.add_argument("--max-rows", type=int, default=5,
+                   help="Data rows shown in the context table (default 5)")
     args = p.parse_args()
 
     tex = make_metadata_figure(
@@ -540,6 +599,7 @@ def main() -> None:
         cite_key=args.cite,
         label=args.label,
         excerpt=args.excerpt,
+        max_rows=args.max_rows,
     )
     Path(args.out).write_text(tex)
     print(f"Written {args.out} ({len(tex.splitlines())} lines)")
