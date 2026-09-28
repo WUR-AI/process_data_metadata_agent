@@ -1,0 +1,14 @@
+{
+  "name": "Stordalen Sediment Dating Data",
+  "description": "Dataset containing sediment depth, age dating information, and spatial coordinates for samples from Stordalen, including lab labels, dated materials, and associated metadata.",
+  "keywords": [
+    "sediment dating",
+    "Stordalen",
+    "age determination",
+    "latitude",
+    "longitude",
+    "elevation",
+    "lab analysis",
+    "paleoenvironment"
+  ]
+}

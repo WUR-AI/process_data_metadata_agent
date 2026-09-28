@@ -1,0 +1,14 @@
+{
+  "name": "Arctic Expedition Isotope Data",
+  "description": "Dataset containing isotope measurements (δ18O and δD) collected during an Arctic expedition. Includes spatial coordinates (latitude and longitude), sampling dates, station information, and water depth.",
+  "keywords": [
+    "Arctic",
+    "Isotope measurements",
+    "δ18O",
+    "δD",
+    "Expedition data",
+    "2019",
+    "Hydrology",
+    "Paleoclimate"
+  ]
+}

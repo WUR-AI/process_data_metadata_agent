@@ -1,0 +1,12 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and products. It includes customer details such as names, emails, and addresses, order details like order IDs, dates, and amounts, and product information including names, categories, and prices. The data spans from October 28, 2019, to July 20, 2020, with a focus on spatial coverage in the Arctic region.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "Arctic",
+    "2019-2020"
+  ]
+}

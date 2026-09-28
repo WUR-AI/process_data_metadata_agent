@@ -1,0 +1,16 @@
+{
+  "name": "Cape Blossom RGB Preview Images from WA Project (June 2021)",
+  "description": "A dataset containing metadata and preview links for RGB imagery captured during the WA_CapeBlossom project on June 25, 2021. The data includes project identifiers, event codes, binary file references for PNG previews, file sizes, and precise geospatial coordinates (Latitude 66.891836, Longitude -162.596512) and timestamps for each image acquisition.",
+  "keywords": [
+    "Cape Blossom",
+    "RGB imagery",
+    "preview images",
+    "WA project",
+    "Alaska",
+    "June 2021",
+    "geotagged images",
+    "remote sensing",
+    "field survey",
+    "PNG"
+  ]
+}

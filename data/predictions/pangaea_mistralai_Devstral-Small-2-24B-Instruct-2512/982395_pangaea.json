@@ -1,0 +1,26 @@
+{
+  "name": "Sediment Geochemical and Physical Properties Dataset",
+  "description": "Dataset containing sediment geochemical and physical properties including total organic carbon (TOC), black carbon (BC), calcium carbonate (CaCO3), pH, grain size distribution, magnetic susceptibility, total phosphorus (TP), heavy metals (Pb, Zn, Cu), sulfur (S), stable isotopes (δ13C, δ15N), and spatial-temporal metadata from sampling events in 2018-2019.",
+  "keywords": [
+    "sediment",
+    "geochemistry",
+    "TOC",
+    "black carbon",
+    "CaCO3",
+    "pH",
+    "grain size",
+    "magnetic susceptibility",
+    "total phosphorus",
+    "heavy metals",
+    "sulfur",
+    "stable isotopes",
+    "δ13C",
+    "δ15N",
+    "latitude",
+    "longitude",
+    "elevation",
+    "depth",
+    "2018-2019",
+    "Germany"
+  ]
+}

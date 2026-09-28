@@ -1,0 +1,16 @@
+{
+  "name": "Aerosol Particle Size Distribution at Neumayer Station, Antarctica (2018)",
+  "description": "Time-series dataset of aerosol particle size distributions measured at Neumayer Station (SPUSO), Antarctica. The data includes differential number concentrations (dN/dlogDp) across a wide range of particle diameters from approximately 93 nm to 4846 nm, recorded at a measurement height of 7 meters. Each record contains start and end timestamps, duration, and fixed spatial coordinates (Latitude: -70.65, Longitude: -8.25, Elevation: 42 m).",
+  "keywords": [
+    "aerosol",
+    "particle size distribution",
+    "dN/dlogDp",
+    "Neumayer Station",
+    "Antarctica",
+    "SPUSO",
+    "atmospheric science",
+    "2018",
+    "time-series",
+    "particle concentration"
+  ]
+}

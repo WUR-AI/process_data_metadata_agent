@@ -1,0 +1,23 @@
+{
+  "name": "Biological Measurements and Spatial Data from Macapule Lagoon",
+  "description": "Dataset containing biological measurements (mass, organ weights, biochemical parameters) of individuals, spatial coordinates, and temporal records from Macapule Lagoon, with observations spanning from 2013 to 2015.",
+  "keywords": [
+    "biological measurements",
+    "organ weights",
+    "biochemical parameters",
+    "Macapule Lagoon",
+    "spatial data",
+    "temporal data",
+    "latitude",
+    "longitude",
+    "mass",
+    "HSI",
+    "K",
+    "GRI",
+    "TPRT",
+    "TG",
+    "Cholesterol",
+    "Glc",
+    "2013-2015"
+  ]
+}

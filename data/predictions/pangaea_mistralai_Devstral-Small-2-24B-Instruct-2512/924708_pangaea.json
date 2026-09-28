@@ -1,0 +1,16 @@
+{
+  "name": "Whale Sightings in the Arctic Region",
+  "description": "Dataset containing observations of whale sightings in the Arctic region, including species identification, certainty of sighting, and associated event tracking. The data spans from August to October 2014 and covers a spatial area with latitude ranging from 73.71687 to 78.66195 and longitude from 2.7874 to 61.78372.",
+  "keywords": [
+    "whale sightings",
+    "Arctic",
+    "marine mammals",
+    "Dolphins",
+    "Large whale",
+    "Balaenoptera physalus",
+    "Megaptera novaeangliae",
+    "Orcinus orca",
+    "2014",
+    "PS87-track"
+  ]
+}

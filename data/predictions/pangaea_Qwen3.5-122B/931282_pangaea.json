@@ -1,0 +1,16 @@
+{
+  "name": "UPC Sensor Data Archive for March 11, 2020",
+  "description": "A dataset cataloging binary sensor data files associated with the UPC event, recorded at a specific geographic location in Barcelona, Spain, on March 11, 2020. The data includes metadata for compressed archives (ZIP files), such as file size and MIME type, alongside precise geospatial coordinates (latitude, longitude, elevation) and timestamps.",
+  "keywords": [
+    "UPC",
+    "sensor data",
+    "binary files",
+    "ZIP archives",
+    "Barcelona",
+    "Spain",
+    "2020-03-11",
+    "geospatial metadata",
+    "elevation",
+    "event monitoring"
+  ]
+}

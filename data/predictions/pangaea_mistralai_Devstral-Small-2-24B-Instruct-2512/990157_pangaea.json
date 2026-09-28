@@ -1,0 +1,19 @@
+{
+  "name": "Sediment Core Radiometric Measurements from LSMo22-1 Event",
+  "description": "Dataset containing radiometric measurements (210Pb and 137Cs) from sediment core samples collected during event LSMo22-1 at a single location in Mexico (21.365278, -104.568333) on April 8, 2022. Includes sediment depth intervals, supported and unsupported 210Pb activities, and associated standard deviations.",
+  "keywords": [
+    "sediment core",
+    "radiometric dating",
+    "210Pb",
+    "137Cs",
+    "lead-210",
+    "cesium-137",
+    "sediment depth",
+    "paleoenvironmental reconstruction",
+    "Mexico",
+    "2022",
+    "LSMo22-1",
+    "geochronology",
+    "environmental radioactivity"
+  ]
+}

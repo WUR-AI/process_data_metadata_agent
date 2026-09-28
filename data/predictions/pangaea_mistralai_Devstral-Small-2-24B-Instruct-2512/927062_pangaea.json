@@ -1,0 +1,18 @@
+{
+  "name": "Atmospheric Balloon Observation Data 2018-08-18",
+  "description": "Dataset containing atmospheric measurements from a balloon event on August 18, 2018, including time, spatial coordinates, height, pressure, temperature, humidity, wind direction, and wind speed.",
+  "keywords": [
+    "atmospheric data",
+    "balloon observations",
+    "meteorology",
+    "pressure",
+    "temperature",
+    "humidity",
+    "wind speed",
+    "wind direction",
+    "2018",
+    "August 2018",
+    "spatial data",
+    "temporal data"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mineral Composition and Sediment Data from Ocean Drilling Event 386-M0095B",
+  "description": "Dataset containing mineral composition analysis of sediment samples from ocean drilling event 386-M0095B, including various mineral percentages, sample metadata, spatial coordinates, and temporal information.",
+  "keywords": [
+    "mineral composition",
+    "sediment analysis",
+    "ocean drilling",
+    "geochemistry",
+    "IGSN",
+    "latitude",
+    "longitude",
+    "elevation",
+    "quartz",
+    "feldspar",
+    "clay minerals",
+    "carbonates",
+    "2021",
+    "North Pacific",
+    "IODP"
+  ]
+}

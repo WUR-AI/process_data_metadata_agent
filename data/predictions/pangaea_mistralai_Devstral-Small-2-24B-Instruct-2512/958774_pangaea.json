@@ -1,0 +1,15 @@
+{
+  "name": "Lake Constance Water Quality Observations",
+  "description": "Dataset containing water quality observations from Lake Constance, including total phosphorus (TP) concentrations, depth measurements, and spatial-temporal metadata for the years 1967-1971.",
+  "keywords": [
+    "Lake Constance",
+    "water quality",
+    "total phosphorus",
+    "TP",
+    "depth measurements",
+    "Fischbach-Uttwil",
+    "1967-1971",
+    "limnology",
+    "environmental monitoring"
+  ]
+}

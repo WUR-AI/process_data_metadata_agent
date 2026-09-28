@@ -1,0 +1,12 @@
+{
+  "name": "Baltic Sea pCO2 Climatology and Trend Metadata",
+  "description": "Metadata record describing two Baltic Sea pCO2 datasets: a climatology file and a long-term trend file, including their file names, sizes, and content hashes.",
+  "keywords": [
+    "Baltic Sea",
+    "pCO2",
+    "climatology",
+    "long-term trend",
+    "ocean carbon",
+    "metadata"
+  ]
+}

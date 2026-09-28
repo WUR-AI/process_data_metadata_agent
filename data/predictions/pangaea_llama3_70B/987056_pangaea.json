@@ -1,0 +1,15 @@
+{
+  "name": "Sediment Core Data",
+  "description": "This dataset contains sediment core data, including depth, total organic carbon, total inorganic carbon, event identifiers, latitude, longitude, elevation, and date/time information, collected from a single geographic point at a specific time.",
+  "keywords": [
+    "sediment core",
+    "geochemistry",
+    "geology",
+    "latitude",
+    "longitude",
+    "elevation",
+    "date/time",
+    "total organic carbon",
+    "total inorganic carbon"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Puchalski AWS Daily Weather Data",
+  "description": "This dataset contains daily weather observations from the Puchalski AWS station, including temperature, humidity, wind speed, and other meteorological variables, from 2018 to 2023.",
+  "keywords": [
+    "weather",
+    "climate",
+    "Puchalski AWS",
+    "daily observations",
+    "temperature",
+    "humidity",
+    "wind speed",
+    "meteorology",
+    "Antarctica"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PS122/5 ROV Survey Metadata",
+  "description": "Metadata for ROV quicklook ADCP current backscatter images from PS122/5 survey, including date, survey ID, binary file name, event, and geographic coordinates.",
+  "keywords": [
+    "ROV",
+    "ADCP",
+    "backscatter",
+    "survey",
+    "ocean",
+    "PS122"
+  ]
+}

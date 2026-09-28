@@ -1,0 +1,19 @@
+{
+  "name": "Sediment Pore Water Chemistry and Trace Elements from Station M186_54-1GC, Mid-Atlantic Ridge",
+  "description": "Dataset containing chemical composition of sediment pore water and associated trace elements collected at a single station (M186_54-1GC) on the Mid-Atlantic Ridge. Measurements include concentrations of major ions (Cl-, SO4 2-, Na, Mg, K, Ca), nutrients (NO3-, NO2-, NH4+, PO4 3-), and trace elements (Mn, Fe, B, Sr, Si, Ba, Li, Br, Na, Mg, K, Ca) at a sediment depth of 0.28 meters. Data includes spatial coordinates (Latitude 38.74553, Longitude -28.56587), elevation, and a specific collection timestamp from December 16, 2022.",
+  "keywords": [
+    "sediment pore water",
+    "nutrients",
+    "nitrate",
+    "nitrite",
+    "ammonium",
+    "phosphate",
+    "trace elements",
+    "major ions",
+    "Mid-Atlantic Ridge",
+    "oceanography",
+    "geochemistry",
+    "M186_54-1GC",
+    "2022"
+  ]
+}

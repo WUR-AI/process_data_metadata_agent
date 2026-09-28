@@ -1,0 +1,15 @@
+{
+  "name": "Santiurde Section Sediment Composition Data",
+  "description": "Dataset containing sediment composition analysis from the Santiurde section, including mineral content (Qz, Clay, Cal, Gp, Dol, Py), thickness, ratio, and stratigraphic height. Spatial data includes latitude, longitude, and elevation for the sampling location.",
+  "keywords": [
+    "sediment composition",
+    "mineral analysis",
+    "Santiurde section",
+    "geochemistry",
+    "stratigraphy",
+    "Spain",
+    "latitude 43.0685608",
+    "longitude -4.0878295",
+    "elevation 730m"
+  ]
+}

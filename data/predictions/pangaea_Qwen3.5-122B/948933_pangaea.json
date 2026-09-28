@@ -1,0 +1,17 @@
+{
+  "name": "Sylt Trawl Survey: Atlantic Mackerel Catch and Environmental Data, June 2021",
+  "description": "Dataset containing biological and environmental data from a benthic trawl survey conducted near Sylt, Germany, on June 29, 2021. Records include catch counts and total lengths of Atlantic mackerel (Scomber scombrus), alongside in-situ measurements of salinity and temperature, bathymetric depths, and precise spatial coordinates for start and end points of sampling events.",
+  "keywords": [
+    "Atlantic mackerel",
+    "Scomber scombrus",
+    "trawl survey",
+    "benthic habitat",
+    "Sylt",
+    "North Sea",
+    "salinity",
+    "temperature",
+    "bathymetry",
+    "fisheries",
+    "June 2021"
+  ]
+}

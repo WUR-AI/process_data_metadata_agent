@@ -1,0 +1,11 @@
+{
+  "name": "Ocean Sediment Core Geochemical and SST Data",
+  "description": "Geochemical and sea surface temperature (SST) measurements from sediment core samples, including depth, age, cluster assignment, and geographic coordinates.",
+  "keywords": [
+    "sediment core",
+    "SST",
+    "geochemistry",
+    "oceanography",
+    "paleoclimate"
+  ]
+}

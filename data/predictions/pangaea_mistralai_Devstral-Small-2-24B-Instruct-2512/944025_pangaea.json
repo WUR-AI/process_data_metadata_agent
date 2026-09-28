@@ -1,0 +1,33 @@
+{
+  "name": "German Collector Trial Pre-Impact Sediment Chemical Analysis",
+  "description": "Dataset containing chemical element concentrations and relative errors from sediment cores collected during the German collector trial pre-impact study. Includes measurements for elements such as Al, Ba, Ca, Cr, Cu, Fe, K, La, Li, Mg, Mn, Na, Ni, P, Sr, and Ti at various depths, along with spatial and temporal metadata.",
+  "keywords": [
+    "sediment chemistry",
+    "chemical elements",
+    "German collector trial",
+    "pre-impact study",
+    "marine sediment",
+    "trace metals",
+    "geochemical analysis",
+    "latitude 11.93056667",
+    "longitude -117.0224333",
+    "2019-03-10",
+    "SO268/1_43-1",
+    "Aluminum",
+    "Barium",
+    "Calcium",
+    "Chromium",
+    "Copper",
+    "Iron",
+    "Potassium",
+    "Lanthanum",
+    "Lithium",
+    "Magnesium",
+    "Manganese",
+    "Sodium",
+    "Nickel",
+    "Phosphorus",
+    "Strontium",
+    "Titanium"
+  ]
+}

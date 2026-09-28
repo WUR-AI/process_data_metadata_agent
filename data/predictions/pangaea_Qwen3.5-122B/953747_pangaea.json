@@ -1,0 +1,17 @@
+{
+  "name": "PS122/5 ROV Quicklook ADCP Backscatter Survey Data",
+  "description": "Dataset containing survey metadata and geospatial coordinates for a Polarstern PS122/5 expedition event, specifically linking survey IDs to ROV quicklook images of ADCP current backscatter. The data includes timestamps, event identifiers, and precise latitude/longitude coordinates with elevation, representing a single-point observation from September 8, 2020.",
+  "keywords": [
+    "PS122",
+    "Polarstern",
+    "ROV",
+    "ADCP",
+    "Backscatter",
+    "Current",
+    "Survey",
+    "Arctic",
+    "2020",
+    "Geospatial",
+    "Elevation"
+  ]
+}

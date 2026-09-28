@@ -1,0 +1,16 @@
+{
+  "name": "Boulder Diameter and Trunk Counts from Sucha Woda Flood Event 2018",
+  "description": "Dataset containing field measurements from the Sucha Woda flood event on July 24, 2018. Records include site location (latitude, longitude, elevation), counts of tree trunks (N trunks, N trunks_2), and diameters of 25 individual boulders (Boulder diam 1-25) collected at specific sites in the Sucha Woda area.",
+  "keywords": [
+    "Sucha Woda",
+    "Flood",
+    "2018",
+    "Boulder diameter",
+    "Tree trunks",
+    "Geomorphology",
+    "Poland",
+    "Slovakia border",
+    "Debris flow",
+    "Field measurements"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Manganese Nodule Chemical Composition and Sampling Data",
+  "description": "Dataset containing chemical composition (Mn, Fe, Ni, Co, Cu) and sampling metadata for manganese nodules collected during the CHMAII-9 event in the Pacific Ocean. Includes spatial coordinates, deposit type, sample type, and temporal coverage from September 1970.",
+  "keywords": [
+    "manganese nodules",
+    "chemical composition",
+    "Pacific Ocean",
+    "geochemical analysis",
+    "marine minerals",
+    "deep-sea sampling",
+    "1970",
+    "latitude",
+    "longitude",
+    "depth",
+    "sediment depth",
+    "CHMAII-9"
+  ]
+}

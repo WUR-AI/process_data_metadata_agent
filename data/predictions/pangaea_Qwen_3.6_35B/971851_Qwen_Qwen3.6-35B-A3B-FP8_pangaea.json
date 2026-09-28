@@ -1,0 +1,14 @@
+{
+  "name": "Paleomagnetic Core Data with VGP Coordinates",
+  "description": "Paleomagnetic measurements from sediment cores including declination, inclination, magnetic susceptibility (Kappa), remanent polarization intensity (RPI), and Virtual Geomagnetic Pole (VGP) coordinates with associated uncertainties and age estimates.",
+  "keywords": [
+    "paleomagnetism",
+    "sediment core",
+    "VGP",
+    "declination",
+    "inclination",
+    "magnetic susceptibility",
+    "RPI",
+    "paleointensity"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "E-commerce Customer and Order Data",
+  "description": "This dataset contains information about customers, their orders, and products in an e-commerce system. It includes customer details, order records, product catalog, and order items with relationships between them. The data spans from May to July 2017.",
+  "keywords": [
+    "e-commerce",
+    "customers",
+    "orders",
+    "products",
+    "order items",
+    "customer data",
+    "order records",
+    "product catalog",
+    "2017",
+    "May",
+    "June",
+    "July"
+  ]
+}

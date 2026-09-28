@@ -1,0 +1,15 @@
+{
+  "name": "WDC06A Ice Core Isotopic and Gas Age Data",
+  "description": "Dataset containing isotopic measurements (δ18O, Δ36), gas age, depth, and spatial-temporal metadata from the WDC06A ice core drilled at latitude -79.46763, longitude -112.08648, elevation 1766.0 meters on 2006-12-09.",
+  "keywords": [
+    "ice core",
+    "isotopic analysis",
+    "δ18O",
+    "Δ36",
+    "gas age",
+    "WDC06A",
+    "Antarctica",
+    "paleoclimate",
+    "2006"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Big Skidder GIS File Reference List",
+  "description": "A dataset containing a reference list of GIS-related files, specifically identifying 'Big_Skidder.zip' in the GIS column. The dataset serves as a manifest or index for geospatial resources without containing actual geospatial coordinates or temporal data.",
+  "keywords": [
+    "GIS",
+    "Big Skidder",
+    "file manifest",
+    "zip archive",
+    "geospatial reference"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MITAPI 2015-2010 Difference Dataset File Metadata",
+  "description": "Dataset containing metadata for MITAPI difference files, including file names, formats, sizes, and download URLs.",
+  "keywords": [
+    "MITAPI",
+    "file metadata",
+    "netCDF",
+    "data files",
+    "scientific data"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Marine Sediment Core Geophysical Data",
+  "description": "Dataset containing geophysical measurements from marine sediment cores, including P-wave travel time, Vp-a, AGR, and spatial-temporal metadata such as latitude, longitude, elevation, and sampling date/time.",
+  "keywords": [
+    "marine sediment",
+    "geophysics",
+    "P-wave travel time",
+    "Vp-a",
+    "AGR",
+    "sediment core",
+    "latitude",
+    "longitude",
+    "elevation",
+    "2015",
+    "Arctic",
+    "MSM44_362-1"
+  ]
+}

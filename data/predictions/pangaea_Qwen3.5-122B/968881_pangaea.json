@@ -1,0 +1,16 @@
+{
+  "name": "Snow Depth and Density Measurements at DML21/22 Refl01LG, Antarctica, December 2021",
+  "description": "Dataset containing a single observation of snow depth, snow depth top and bottom, and snow density recorded at a specific location in Antarctica. The data includes precise geographic coordinates (Latitude, Longitude), a unique event identifier (DML21/22_Refl01LG), and a timestamp from December 10, 2021. The measurements were taken at a depth interval between 0.0 and 0.05 meters with a recorded snow density of 300 kg/m³.",
+  "keywords": [
+    "snow depth",
+    "snow density",
+    "Antarctica",
+    "Dronning Maud Land",
+    "glaciology",
+    "field measurements",
+    "2021",
+    "December 2021",
+    "ice sheet",
+    "snow properties"
+  ]
+}

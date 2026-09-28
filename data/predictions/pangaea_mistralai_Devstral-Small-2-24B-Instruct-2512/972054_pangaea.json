@@ -1,0 +1,16 @@
+{
+  "name": "Uelzen, Germany 6-Band Color Composites 1984",
+  "description": "Dataset containing 6-band color composite GeoTIFF observations for Uelzen, Germany, with associated metadata including observation dates, geographic coordinates, and file information.",
+  "keywords": [
+    "Uelzen",
+    "Germany",
+    "6-band color composites",
+    "GeoTIFF",
+    "remote sensing",
+    "1984",
+    "latitude",
+    "longitude",
+    "ESIS_Uelzen",
+    "c3126"
+  ]
+}

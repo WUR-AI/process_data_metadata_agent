@@ -1,0 +1,13 @@
+{
+  "name": "Sediment Core Diatom Analysis",
+  "description": "Dataset containing diatom species abundance and environmental data from sediment core samples. Includes depth, age, and spatial coordinates, with diatom counts for various species.",
+  "keywords": [
+    "sediment core",
+    "diatom analysis",
+    "paleoceanography",
+    "Arctic",
+    "microfossils",
+    "paleoenvironment",
+    "74.78N, 8.44E"
+  ]
+}

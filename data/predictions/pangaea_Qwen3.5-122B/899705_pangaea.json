@@ -1,0 +1,16 @@
+{
+  "name": "MITAPI 2015-2010 Agricultural Land Use Difference Dataset (0.1x0.1 Degree)",
+  "description": "Metadata catalog entry for a NetCDF file containing agricultural land use difference data derived from the MITAPI project, comparing the years 2015 and 2010 at a 0.1x0.1 degree spatial resolution. The record provides file access details including the filename, format, size, and direct download URL for the dataset published by Dasadhikari et al. in 2019.",
+  "keywords": [
+    "MITAPI",
+    "agricultural land use",
+    "land use change",
+    "2015",
+    "2010",
+    "difference",
+    "NetCDF",
+    "0.1x0.1 degree",
+    "Dasadhikari",
+    "PANGAEA"
+  ]
+}

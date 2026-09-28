@@ -1,0 +1,17 @@
+{
+  "name": "Elwha River Delta Environmental Monitoring Data",
+  "description": "Dataset containing environmental monitoring measurements including latitude, longitude, elevation, date/time, HRMS, VRMS, status, description, and event information for the Elwha River Delta region. The data covers a short duration on March 20, 2011, with spatial focus on a localized area.",
+  "keywords": [
+    "Elwha River Delta",
+    "Environmental Monitoring",
+    "HRMS",
+    "VRMS",
+    "Elevation",
+    "Latitude",
+    "Longitude",
+    "2011",
+    "March",
+    "Geospatial Data",
+    "Temporal Data"
+  ]
+}

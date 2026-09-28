@@ -1,0 +1,19 @@
+{
+  "name": "Biometric and Biochemical Measurements of Marine Organisms in Macapule Lagoon (Winter 2013)",
+  "description": "A dataset containing biometric measurements (total mass, length, eviscerated mass) and organ weights (gut, liver, stomach, heart) alongside biochemical parameters (triglycerides, cholesterol, glucose, HSI, K, GRI, TPRT) for individual marine organisms. The data was collected on December 12, 2013, at Macapule Lagoon, Mexico, and includes seasonal classification and size intervals.",
+  "keywords": [
+    "marine biology",
+    "biometrics",
+    "biochemistry",
+    "organ weights",
+    "triglycerides",
+    "cholesterol",
+    "glucose",
+    "Macapule Lagoon",
+    "Mexico",
+    "Winter 2013",
+    "fish physiology",
+    "HSI",
+    "GRI"
+  ]
+}

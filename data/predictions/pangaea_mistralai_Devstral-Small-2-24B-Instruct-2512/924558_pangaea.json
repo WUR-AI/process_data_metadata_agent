@@ -1,0 +1,18 @@
+{
+  "name": "Laboratory Experiment Data on Mytilus galloprovincialis",
+  "description": "Dataset containing laboratory experiment results for Mytilus galloprovincialis, including measurements of developmental stages, chemical parameters (pH, DIC, CO2), and environmental conditions. Data is linked to species taxonomy and includes spatial-temporal context from Nagasaki, Japan.",
+  "keywords": [
+    "Mytilus galloprovincialis",
+    "laboratory experiment",
+    "developmental stages",
+    "pH",
+    "DIC",
+    "CO2",
+    "ocean acidification",
+    "Nagasaki",
+    "Japan",
+    "marine species",
+    "taxonomy",
+    "chemical parameters"
+  ]
+}

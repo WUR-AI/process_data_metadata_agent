@@ -1,0 +1,13 @@
+{
+  "name": "Birkeland Cruise Event Data",
+  "description": "This dataset contains event data from the Birkeland Cruise, including binary files, locations, and timestamps. It features 2 events with associated binary files, latitude and longitude coordinates, and date/time information.",
+  "keywords": [
+    "Birkeland Cruise",
+    "event data",
+    "binary files",
+    "location",
+    "timestamp",
+    "oceanography",
+    "marine biology"
+  ]
+}

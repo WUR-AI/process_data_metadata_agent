@@ -1,0 +1,15 @@
+{
+  "name": "Marine Benthic Survey",
+  "description": "This dataset contains information about marine benthic surveys, including expedition details, location, sampling date, site, and measurements of M. balthica shell length and frequency.",
+  "keywords": [
+    "marine benthic survey",
+    "M. balthica",
+    "Baltic Sea",
+    "marine protected area",
+    "shell length",
+    "frequency",
+    "expedition",
+    "sampling date",
+    "site"
+  ]
+}

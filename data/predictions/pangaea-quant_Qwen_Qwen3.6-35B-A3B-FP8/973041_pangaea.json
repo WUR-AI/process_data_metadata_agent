@@ -1,0 +1,12 @@
+{
+  "spatialCoverage": {
+    "min_lat": 1.0,
+    "min_lon": 100.0,
+    "max_lat": 7.0,
+    "max_lon": 119.0
+  },
+  "temporalCoverage": {
+    "from": "2024-01-01",
+    "to": "2024-12-31"
+  }
+}

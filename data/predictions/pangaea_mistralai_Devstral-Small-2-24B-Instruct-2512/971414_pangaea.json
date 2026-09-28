@@ -1,0 +1,16 @@
+{
+  "name": "Kiwada Kazusa Chiba Ono River Section Data",
+  "description": "Dataset containing sample information from the Kiwada Kazusa Chiba Ono River section, including sample IDs, section measurements, ages, and spatial coordinates. The data includes references and event details but lacks temporal coverage.",
+  "keywords": [
+    "Kiwada Kazusa Chiba Ono River",
+    "Sample ID",
+    "Section",
+    "Age",
+    "SR",
+    "Latitude",
+    "Longitude",
+    "Geospatial data",
+    "Chiba",
+    "Japan"
+  ]
+}

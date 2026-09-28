@@ -1,0 +1,13 @@
+{
+  "name": "MITAPI Dataset",
+  "description": "A collection of netCDF files containing data related to different sectors, including agriculture, energy, industry, and more, with varying file sizes and URLs for access.",
+  "keywords": [
+    "MITAPI",
+    "netCDF",
+    "climate data",
+    "sectoral data",
+    "agriculture",
+    "energy",
+    "industry"
+  ]
+}

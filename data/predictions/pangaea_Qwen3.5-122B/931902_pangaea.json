@@ -1,0 +1,15 @@
+{
+  "name": "Birkeland Cruise 1-H07 Siphonophore Video Recordings",
+  "description": "Dataset containing metadata for video recordings of fish siphonophores collected during the Birkeland Cruise (Event: Birkeland_Cruise_1-H07) on July 7, 2016. The data includes file names, sizes, cryptographic hashes, and precise geospatial coordinates (latitude and longitude) for each recording event.",
+  "keywords": [
+    "Birkeland Cruise",
+    "Siphonophores",
+    "Fish",
+    "Video recordings",
+    "Marine biology",
+    "2016",
+    "North Atlantic",
+    "Geospatial data",
+    "Event metadata"
+  ]
+}

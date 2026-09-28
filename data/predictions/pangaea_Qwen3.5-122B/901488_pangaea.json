@@ -1,0 +1,16 @@
+{
+  "name": "Elwha River Delta GPS Survey Data",
+  "description": "High-precision GPS survey measurements collected at the Elwha River Delta on March 20, 2011. The dataset includes geographic coordinates (latitude, longitude), elevation, horizontal and vertical root mean square errors (HRMS, VRMS), status indicators, and event descriptions for a short-duration field test.",
+  "keywords": [
+    "Elwha River Delta",
+    "GPS survey",
+    "geospatial data",
+    "elevation",
+    "HRMS",
+    "VRMS",
+    "Washington",
+    "2011",
+    "March 2011",
+    "field test"
+  ]
+}

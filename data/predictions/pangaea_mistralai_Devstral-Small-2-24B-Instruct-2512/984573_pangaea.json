@@ -1,0 +1,18 @@
+{
+  "name": "Marine Sediment Core Sample Data from Expedition 383",
+  "description": "Dataset containing marine sediment core sample data from Expedition 383, including sample labels, sediment depth, age, sea surface temperature (SST), spatial coordinates, and temporal information. The data is linked to specific events and clusters, with each sample having unique measurements for depth, age, SST, and location.",
+  "keywords": [
+    "marine sediment",
+    "core samples",
+    "Expedition 383",
+    "sea surface temperature",
+    "paleoceanography",
+    "sediment depth",
+    "latitude",
+    "longitude",
+    "age",
+    "cluster analysis",
+    "2019",
+    "South Atlantic Ocean"
+  ]
+}

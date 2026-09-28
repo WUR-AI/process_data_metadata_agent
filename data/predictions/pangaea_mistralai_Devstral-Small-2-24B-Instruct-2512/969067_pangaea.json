@@ -1,0 +1,16 @@
+{
+  "name": "Daily Meteorological Data from Puchalski AWS Station",
+  "description": "Daily meteorological observations including temperature, relative humidity, wind speed, solar radiation, and event data from Puchalski AWS station in Antarctica, spanning from 2018 to 2023.",
+  "keywords": [
+    "meteorology",
+    "Antarctica",
+    "daily data",
+    "temperature",
+    "humidity",
+    "wind speed",
+    "solar radiation",
+    "2018-2023",
+    "Puchalski AWS",
+    "climate data"
+  ]
+}

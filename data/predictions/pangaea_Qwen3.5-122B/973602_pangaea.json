@@ -1,0 +1,15 @@
+{
+  "name": "Geochemical Composition of Sediment Sample PS101/186-R1 from the Arctic Ocean",
+  "description": "A dataset containing the major element oxide composition (SiO2, TiO2, Al2O3, Fe2O3, MnO, MgO, CaO, Na2O, K2O, P2O5) of a single sediment sample (PS101/186-R1) collected during the PS101 expedition. The record includes precise geographic coordinates (Latitude 86.961, Longitude 55.68667), elevation (-3254.0 m), and the collection timestamp (2016-10-04). The data represents a specific point in the Arctic Ocean, likely associated with marine geological research.",
+  "keywords": [
+    "Geochemistry",
+    "Sediment",
+    "Major elements",
+    "Oxides",
+    "Arctic Ocean",
+    "PS101",
+    "Marine geology",
+    "2016",
+    "Sample PS101/186-R1"
+  ]
+}

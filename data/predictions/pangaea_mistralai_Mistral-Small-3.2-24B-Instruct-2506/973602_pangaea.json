@@ -1,0 +1,12 @@
+{
+  "name": "Geochemical Analysis Dataset",
+  "description": "This dataset contains geochemical analysis results, including various oxide compositions, latitude, and longitude coordinates. The temporal data is represented by a datetime string column.",
+  "keywords": [
+    "geochemistry",
+    "oxide compositions",
+    "latitude",
+    "longitude",
+    "temporal data",
+    "geochemical analysis"
+  ]
+}

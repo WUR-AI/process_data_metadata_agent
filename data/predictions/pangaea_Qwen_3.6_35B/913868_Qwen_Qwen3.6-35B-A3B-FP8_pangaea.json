@@ -1,0 +1,12 @@
+{
+  "name": "Neumayer Station Aerosol Size Distribution Measurements",
+  "description": "Aerosol number size distribution measurements (dN/dlogDp) from 92.87 nm to 4845.51 nm collected at Neumayer Station, Antarctica, with metadata including date/time, location, and event information.",
+  "keywords": [
+    "aerosol",
+    "size distribution",
+    "Antarctica",
+    "Neumayer Station",
+    "particle number concentration",
+    "atmospheric science"
+  ]
+}

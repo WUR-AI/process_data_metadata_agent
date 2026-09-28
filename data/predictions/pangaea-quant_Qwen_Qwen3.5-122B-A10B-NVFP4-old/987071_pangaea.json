@@ -1,0 +1,12 @@
+{
+  "spatialCoverage": {
+    "min_lat": 0.03,
+    "min_lon": -87.15005,
+    "max_lat": 4.18,
+    "max_lon": -87.15005
+  },
+  "temporalCoverage": {
+    "from": "2012-03-24T21:28:00+00:00",
+    "to": "2012-03-24T21:28:00+00:00"
+  }
+}

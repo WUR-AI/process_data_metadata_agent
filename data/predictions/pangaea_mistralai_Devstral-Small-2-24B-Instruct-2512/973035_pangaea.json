@@ -1,0 +1,16 @@
+{
+  "name": "Soil Sample Radiometric and Geochemical Data",
+  "description": "Dataset containing radiometric (U, Th, K) and geochemical measurements (D soil tot, De) from soil samples, including sample labels, event identifiers, spatial coordinates, and age dating results. The data covers a specific event with temporal and spatial metadata.",
+  "keywords": [
+    "soil samples",
+    "radiometric data",
+    "geochemistry",
+    "Uranium",
+    "Thorium",
+    "Potassium",
+    "age dating",
+    "Germany",
+    "2023",
+    "geospatial data"
+  ]
+}

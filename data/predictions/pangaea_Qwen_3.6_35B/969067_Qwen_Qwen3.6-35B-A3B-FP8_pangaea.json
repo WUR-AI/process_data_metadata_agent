@@ -1,0 +1,14 @@
+{
+  "name": "Puchalski AWS Daily Weather Data",
+  "description": "Daily meteorological observations from Puchalski AWS station in Antarctica, including temperature, humidity, wind speed, and soil water content.",
+  "keywords": [
+    "weather",
+    "Antarctica",
+    "Puchalski",
+    "temperature",
+    "humidity",
+    "wind",
+    "soil water content",
+    "daily observations"
+  ]
+}

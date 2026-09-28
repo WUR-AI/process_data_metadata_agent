@@ -1,0 +1,15 @@
+{
+  "name": "Macapule Lagoon Water Quality",
+  "description": "This dataset contains water quality measurements from Macapule Lagoon, including temperature, salinity, dissolved oxygen, pH, and nutrient levels, collected over a period of 547 days from 2013 to 2015 at a single location with coordinates (25.35, -108.5)",
+  "keywords": [
+    "water quality",
+    "Macapule Lagoon",
+    "temperature",
+    "salinity",
+    "dissolved oxygen",
+    "pH",
+    "nutrient levels",
+    "oceanography",
+    "environmental monitoring"
+  ]
+}

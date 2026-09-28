@@ -1,0 +1,14 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and the products available. It includes customer details, order records, and product catalog data, with relationships linking customers to orders and products to order items.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "customer data",
+    "order management",
+    "product catalog",
+    "2023"
+  ]
+}

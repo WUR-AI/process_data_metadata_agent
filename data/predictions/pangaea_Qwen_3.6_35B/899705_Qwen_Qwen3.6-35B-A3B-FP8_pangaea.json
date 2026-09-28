@@ -1,0 +1,12 @@
+{
+  "name": "PANGAEA Dataset 899705 - NetCDF File Inventory",
+  "description": "Catalog of NetCDF files associated with the Dasadhikari et al. 2019 publication, listing file names, formats, sizes, and download URLs.",
+  "keywords": [
+    "PANGAEA",
+    "NetCDF",
+    "dataset inventory",
+    "Dasadhikari",
+    "2019",
+    "scientific data"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "High-Resolution Meteorological Balloon Tracking Data from 2018-08-18",
+  "description": "A high-temporal-resolution dataset containing meteorological observations from a single balloon event on August 18, 2018. The data includes timestamped records of geographic coordinates, altitude, atmospheric pressure, temperature, relative humidity, wind direction, and wind speed, identified by unique event codes.",
+  "keywords": [
+    "meteorology",
+    "balloon tracking",
+    "atmospheric pressure",
+    "temperature",
+    "relative humidity",
+    "wind speed",
+    "wind direction",
+    "2018",
+    "August 2018",
+    "high-resolution time series",
+    "PPPP",
+    "TTT",
+    "RH",
+    "dd",
+    "ff"
+  ]
+}

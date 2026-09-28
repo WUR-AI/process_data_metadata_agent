@@ -1,0 +1,15 @@
+{
+  "name": "E-commerce Customer and Order Data",
+  "description": "This dataset contains information about customers, their orders, and the products ordered. It includes customer details, order information, product catalog, and order items with quantities and prices.",
+  "keywords": [
+    "e-commerce",
+    "customers",
+    "orders",
+    "products",
+    "sales",
+    "retail",
+    "customer data",
+    "order data",
+    "product catalog"
+  ]
+}

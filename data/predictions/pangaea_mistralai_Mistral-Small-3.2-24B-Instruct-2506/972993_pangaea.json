@@ -1,0 +1,15 @@
+{
+  "name": "Geochemical and Spatial Data of Peru",
+  "description": "This dataset contains geochemical measurements, including δ34S Py, Age, CaCO3, and TOC, along with spatial coordinates (Latitude and Longitude) for various samples collected in Peru. The data is temporally annotated with dates from 1986-11-05.",
+  "keywords": [
+    "geochemistry",
+    "Peru",
+    "δ34S Py",
+    "Age",
+    "CaCO3",
+    "TOC",
+    "Latitude",
+    "Longitude",
+    "1986"
+  ]
+}

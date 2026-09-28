@@ -1,0 +1,15 @@
+{
+  "name": "Sediment Pore Water Geochemistry from Station M186_50-1GC, Mid-Atlantic Ridge",
+  "description": "Geochemical analysis of sediment pore water samples collected at station M186_50-1GC on the Mid-Atlantic Ridge. The dataset includes concentrations of major ions (Cl-, SO4 2-, Na, Mg, K, Ca, Sr, B, Li, Br), nutrients (NO3, NO2, NH4, PO4), and trace metals (Mn, Fe, Si, Ba) measured at specific sediment depths. Data includes spatial coordinates, elevation, and sampling timestamps from December 2022.",
+  "keywords": [
+    "sediment pore water",
+    "geochemistry",
+    "Mid-Atlantic Ridge",
+    "nutrients",
+    "trace metals",
+    "major ions",
+    "M186_50-1GC",
+    "2022",
+    "oceanography"
+  ]
+}

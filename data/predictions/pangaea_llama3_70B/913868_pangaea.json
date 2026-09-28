@@ -1,0 +1,11 @@
+{
+  "name": "Aerosol Particle Size Distribution",
+  "description": "This dataset contains measurements of aerosol particle size distribution, including height, date and time, and various particle size ranges, as well as spatial and temporal information such as latitude, longitude, and elevation.",
+  "keywords": [
+    "aerosol",
+    "particle size distribution",
+    "atmospheric science",
+    "meteorology",
+    "climate research"
+  ]
+}

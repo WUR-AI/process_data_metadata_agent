@@ -1,0 +1,17 @@
+{
+  "name": "Alkane and Diol Peak Areas from Sediment Core C0023A at IODP Site 32.37N 134.97E",
+  "description": "Geochemical measurements of alkane and diol peak areas derived from sediment samples collected from IODP Expedition 370, Hole C0023A. The dataset includes sample identifiers, depth intervals (top, bottom, and sediment depth), geographic coordinates, elevation, sampling date, and chromatographic peak area values for Alk and Diols compounds.",
+  "keywords": [
+    "IODP",
+    "Expedition 370",
+    "Hole C0023A",
+    "Sediment core",
+    "Alkane",
+    "Diol",
+    "Geochemistry",
+    "Peak area",
+    "Chromatography",
+    "Pacific Ocean",
+    "2016"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Pregnancy Diagnoses Interviews Archive",
+  "description": "Dataset containing metadata for interview files related to pregnancy diagnoses, including file names, formats, sizes, and download URLs.",
+  "keywords": [
+    "pregnancy",
+    "diagnoses",
+    "interviews",
+    "archive",
+    "metadata",
+    "XLSX"
+  ]
+}

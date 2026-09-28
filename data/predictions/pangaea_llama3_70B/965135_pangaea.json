@@ -1,0 +1,16 @@
+{
+  "name": "Porites Coral Reef Data",
+  "description": "This dataset contains measurements of coral reef health, including Sr/Ca, Mg/Ca, ¹⁸O, and ¹³C ratios, as well as spatial and temporal information, collected from a single location in 2008.",
+  "keywords": [
+    "coral reef",
+    "Porites sp.",
+    "Sr/Ca ratio",
+    "Mg/Ca ratio",
+    "¹⁸O",
+    "¹³C",
+    "oceanography",
+    "climate science",
+    "Tahiti",
+    "French Polynesia"
+  ]
+}

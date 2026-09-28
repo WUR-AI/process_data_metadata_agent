@@ -1,0 +1,15 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and the products involved. It includes customer details, order information, product catalog, and order items linking orders to products. The data is temporally constrained to a single day in 2020 and spatially centered around a specific latitude and longitude.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "customer data",
+    "order details",
+    "product catalog",
+    "2020",
+    "geospatial data"
+  ]
+}

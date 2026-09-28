@@ -1,0 +1,16 @@
+{
+  "name": "Ice and Snow Sample Data from Antarctic Event NM01_04_S01",
+  "description": "Dataset containing ice and snow sample measurements from a single event in Antarctica, including sample details, depth, density, and associated images.",
+  "keywords": [
+    "Antarctica",
+    "ice samples",
+    "snow samples",
+    "glaciology",
+    "sample density",
+    "sample depth",
+    "2004",
+    "NM01_04_S01",
+    "latitude -70.65491",
+    "longitude -8.25491"
+  ]
+}

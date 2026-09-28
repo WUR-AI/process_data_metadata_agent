@@ -1,0 +1,19 @@
+{
+  "name": "Biochemical composition of Salpa aspera from the Northeast Pacific, May 2021",
+  "description": "Dataset containing biochemical measurements of the salp Salpa aspera collected during the IOS20210060 expedition on the CCGS John P. Tully in the Northeast Pacific. The data includes elemental analysis (Carbon, Nitrogen, Hydrogen), ash content, dry mass, wet mass, and size measurements for individual specimens sampled between May 6 and May 24, 2021, using bongo nets at various depths.",
+  "keywords": [
+    "Salpa aspera",
+    "Tunicata",
+    "Salpida",
+    "Northeast Pacific",
+    "CCGS John P. Tully",
+    "IOS20210060",
+    "Elemental analysis",
+    "C/N ratio",
+    "Dry mass",
+    "Ash free dry mass",
+    "Marine zooplankton",
+    "2021",
+    "Bongo net"
+  ]
+}

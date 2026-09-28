@@ -1,0 +1,22 @@
+{
+  "name": "Arctic Expedition Fluorescence and DOM Measurements 2019",
+  "description": "Dataset containing fluorescence and dissolved organic matter (DOM) measurements from Arctic expeditions in 2019, including event details, spatial coordinates, water depth, and various fluorescence parameters (IFDOM, FDOM, fDOM).",
+  "keywords": [
+    "Arctic",
+    "Expedition",
+    "Fluorescence",
+    "Dissolved Organic Matter",
+    "DOM",
+    "IFDOM",
+    "FDOM",
+    "fDOM",
+    "Water Depth",
+    "Spatial Data",
+    "Temporal Data",
+    "2019",
+    "Latitude",
+    "Longitude",
+    "Hydrography",
+    "Oceanography"
+  ]
+}

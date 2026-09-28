@@ -1,0 +1,13 @@
+{
+  "name": "Elwha River Delta GPS Station Observations",
+  "description": "High-rate GPS station observations from the Elwha River Delta region, including latitude, longitude, elevation, date/time, horizontal and vertical RMS values, status, and event information.",
+  "keywords": [
+    "GPS",
+    "Elwha River Delta",
+    "geodesy",
+    "deformation",
+    "British Columbia",
+    "HRMS",
+    "VRMS"
+  ]
+}

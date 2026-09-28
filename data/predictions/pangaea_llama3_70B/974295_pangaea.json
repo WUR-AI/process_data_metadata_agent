@@ -1,0 +1,13 @@
+{
+  "name": "Radar Profiles and Associated Data",
+  "description": "This dataset contains radar profiles and associated data, including season, instrument, radar product, and file references for netCDF, GIS, and image data.",
+  "keywords": [
+    "radar profiles",
+    "netCDF",
+    "GIS",
+    "image data",
+    "ANT 1997/98",
+    "EMR",
+    "600 ns pulse"
+  ]
+}

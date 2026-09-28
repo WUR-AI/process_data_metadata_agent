@@ -1,0 +1,11 @@
+{
+  "name": "Geochemical Analysis of Sediment Cores",
+  "description": "This dataset contains geochemical analysis of sediment cores, including measurements of various elements and their relative concentrations, as well as spatial and temporal information about the sampling locations and times.",
+  "keywords": [
+    "geochemistry",
+    "sediment cores",
+    "elemental analysis",
+    "spatial analysis",
+    "temporal analysis"
+  ]
+}

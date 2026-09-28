@@ -1,0 +1,20 @@
+{
+  "name": "Sediment Core Geochemical Data from ODP Site 680, Eastern Pacific",
+  "description": "Geochemical and lithological data from a sediment core collected at ODP Site 680 (Event 112-680) in the Eastern Pacific Ocean. The dataset includes sulfur isotope ratios (δ34S Py), methane occurrence, calcium carbonate content, total organic carbon, sediment depth, water depth, distance from shore, and analytical methods, with a sample collected on November 5, 1986.",
+  "keywords": [
+    "sediment core",
+    "ODP Site 680",
+    "Eastern Pacific",
+    "δ34S",
+    "pyrite",
+    "methane",
+    "CH4",
+    "CaCO3",
+    "TOC",
+    "lithology",
+    "geochemistry",
+    "marine sediment",
+    "1986",
+    "Aplin et al. 1992"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Pforzheim Event Data",
+  "description": "Dataset containing information about files related to the Katharinentalerhof Pforzheim event, including file names, formats, sizes, URLs, and geographic coordinates.",
+  "keywords": [
+    "Pforzheim",
+    "Katharinentalerhof",
+    "event data",
+    "file metadata",
+    "geographic coordinates",
+    "WGS84"
+  ]
+}

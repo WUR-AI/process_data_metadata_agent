@@ -1,0 +1,18 @@
+{
+  "name": "Sediment Geochemical and Grain-Size Analysis from Core BH-II at Site 51.41N 12.08E",
+  "description": "A dataset containing geochemical and physical properties of sediment samples from a single core (Event BH-II) collected at a specific location in Germany (Latitude 51.41, Longitude 12.08) on July 22, 2018. The data includes measurements of Total Organic Carbon (TOC), Black Carbon (BC), Calcium Carbonate (CaCO3), pH, grain size distribution, magnetic susceptibility, total phosphorus, heavy metals (Pb, Zn, Cu), sulfur content, lignin phenol ratios (S/V, C/V), and stable isotopes (δ13C, δ15N) across various sediment depths.",
+  "keywords": [
+    "sediment",
+    "geochemistry",
+    "grain size",
+    "TOC",
+    "black carbon",
+    "heavy metals",
+    "stable isotopes",
+    "magnetic susceptibility",
+    "paleoenvironment",
+    "Germany",
+    "2018",
+    "core BH-II"
+  ]
+}

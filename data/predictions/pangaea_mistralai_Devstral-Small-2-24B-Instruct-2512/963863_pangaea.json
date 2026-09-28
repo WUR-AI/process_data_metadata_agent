@@ -1,0 +1,12 @@
+{
+  "name": "Physico-chemical Data Collection",
+  "description": "Dataset containing physico-chemical data including in situ parameters, basic physicochemistry, nutrients, trace elements, and contaminants. The data is stored in binary files with associated metadata.",
+  "keywords": [
+    "physico-chemical data",
+    "in situ parameters",
+    "nutrients",
+    "trace elements",
+    "contaminants",
+    "environmental data"
+  ]
+}

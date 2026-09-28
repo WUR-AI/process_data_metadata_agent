@@ -1,0 +1,16 @@
+{
+  "name": "Geochemical Analysis of Sediments",
+  "description": "This dataset contains geochemical analysis of sediment samples, including various elemental concentrations, spatial coordinates, and temporal data. The samples were collected on August 27, 1976, at a specific latitude and longitude with varying depths and distances.",
+  "keywords": [
+    "geochemistry",
+    "sediment analysis",
+    "elemental concentrations",
+    "spatial data",
+    "temporal data",
+    "1976",
+    "latitude",
+    "longitude",
+    "depth",
+    "distance"
+  ]
+}

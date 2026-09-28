@@ -1,0 +1,18 @@
+{
+  "name": "Sediment Core Mineral Composition and Physical Properties",
+  "description": "Dataset containing sediment core sample labels, depth, physical properties (e.g., transparent, opaque, turbid), and mineral composition percentages (e.g., zircon, rutile, garnet, titanite) from the Lanaittu core collected in 1994. Includes spatial coordinates (latitude, longitude) and temporal information.",
+  "keywords": [
+    "sediment core",
+    "mineral composition",
+    "physical properties",
+    "zircon",
+    "rutile",
+    "garnet",
+    "titanite",
+    "Lanaittu core",
+    "1994",
+    "Mediterranean Sea",
+    "geochemistry",
+    "petrology"
+  ]
+}

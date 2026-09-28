@@ -1,0 +1,15 @@
+{
+  "name": "Ice and Snow Sample Density and Depth Measurements from NM01_04_S01 Event",
+  "description": "Dataset containing physical properties of ice and snow samples collected at a single location in the Southern Hemisphere on December 29, 2004. Records include event identifiers, sample numbers, precise geographic coordinates, depth measurements of ice/snow and descriptive depth, ice density values, and associated image file references.",
+  "keywords": [
+    "ice density",
+    "snow depth",
+    "ice depth",
+    "polar research",
+    "Southern Hemisphere",
+    "2004",
+    "sample analysis",
+    "NM01_04_S01",
+    "physical properties"
+  ]
+}

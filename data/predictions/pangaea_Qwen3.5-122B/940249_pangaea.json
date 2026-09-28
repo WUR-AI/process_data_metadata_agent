@@ -1,0 +1,17 @@
+{
+  "name": "WDC06A Ice Core Gas Age and Isotope Measurements",
+  "description": "Dataset containing depth-resolved measurements from the WDC06A ice core, including gas age, oxygen isotope ratios (δ18O), and clumped isotope values (Δ36). The data includes associated metadata such as core identifier, depth, event classification, and precise geographic coordinates (Latitude, Longitude, Elevation) for a single location in Antarctica, with a specific measurement timestamp from December 2006.",
+  "keywords": [
+    "WDC06A",
+    "ice core",
+    "gas age",
+    "δ18O",
+    "Δ36",
+    "clumped isotopes",
+    "Antarctica",
+    "paleoclimate",
+    "isotope geochemistry",
+    "depth profile",
+    "2006"
+  ]
+}

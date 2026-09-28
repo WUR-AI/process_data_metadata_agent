@@ -1,0 +1,14 @@
+{
+  "name": "Lake Constance Water Quality Measurements",
+  "description": "Water quality dataset containing total phosphorus (TP) concentrations and associated metadata from Lake Constance, including depth, location, and temporal information.",
+  "keywords": [
+    "water quality",
+    "phosphorus",
+    "Lake Constance",
+    "environmental monitoring",
+    "TP",
+    "depth",
+    "latitude",
+    "longitude"
+  ]
+}

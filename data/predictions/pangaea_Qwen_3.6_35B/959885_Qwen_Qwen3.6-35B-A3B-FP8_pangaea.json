@@ -1,0 +1,15 @@
+{
+  "name": "Ocean Core Sample Geochemistry and Nutrient Data",
+  "description": "Geochemical and nutrient concentration measurements from deep-sea sediment core samples collected during oceanographic expedition M186, including major ions, trace elements, and isotopic data with associated geographic and temporal metadata.",
+  "keywords": [
+    "oceanography",
+    "sediment core",
+    "geochemistry",
+    "nutrients",
+    "major ions",
+    "trace elements",
+    "deep sea",
+    "M186",
+    "Atlantic Ocean"
+  ]
+}

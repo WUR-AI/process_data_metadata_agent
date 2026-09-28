@@ -1,0 +1,16 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and products. It includes customer details such as names, addresses, and contact information, as well as order details like order dates, amounts, and statuses. The products table lists product names, categories, prices, and stock quantities. The data spans from September 28, 2018, to March 6, 2021, with a focus on spatial coordinates in the region of latitude 76.0 to 83.2704 and longitude 27.5191 to 33.9857.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "customer data",
+    "order details",
+    "product information",
+    "spatial data",
+    "temporal data",
+    "2018-2021"
+  ]
+}

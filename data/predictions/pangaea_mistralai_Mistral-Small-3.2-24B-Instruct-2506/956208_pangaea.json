@@ -1,0 +1,15 @@
+{
+  "name": "Marine Biological and Environmental Data",
+  "description": "Dataset containing marine biological and environmental measurements, including temporal data with dates and spatial data with latitude and longitude coordinates. The dataset also includes various biological measurements related to B. saida, such as total length, standard length, weight, condition index, and stomach content measurements.",
+  "keywords": [
+    "marine biology",
+    "environmental data",
+    "B. saida",
+    "biological measurements",
+    "latitude",
+    "longitude",
+    "Arctic",
+    "2012",
+    "2014"
+  ]
+}

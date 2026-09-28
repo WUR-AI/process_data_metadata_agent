@@ -1,0 +1,18 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and the products involved. It includes customer details, order information, product catalog, and order items linking orders to products. The data spans from April 20, 2019, to September 8, 2019, and is geographically focused in a region with coordinates ranging from 68.264 to 69.649 in latitude and from -138.13512 to -133.03141 in longitude.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "retail",
+    "customer data",
+    "order details",
+    "product catalog",
+    "2019",
+    "spatial data",
+    "temporal data",
+    "Alaska"
+  ]
+}

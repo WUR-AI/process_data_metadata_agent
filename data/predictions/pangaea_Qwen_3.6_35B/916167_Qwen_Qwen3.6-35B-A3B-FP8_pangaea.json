@@ -1,0 +1,11 @@
+{
+  "name": "Pangaea Event File Metadata",
+  "description": "Metadata describing PANGAEA data files including file names, formats, sizes, URLs, and associated event locations with latitude and longitude.",
+  "keywords": [
+    "PANGAEA",
+    "metadata",
+    "data files",
+    "events",
+    "geolocation"
+  ]
+}

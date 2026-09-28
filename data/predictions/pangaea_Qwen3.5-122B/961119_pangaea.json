@@ -1,0 +1,14 @@
+{
+  "name": "Baltic Sea pCO2 Climatology and Long-Term Trend",
+  "description": "A dataset containing two CSV files related to the Baltic Sea: a primary file with a pCO2 climatology (7.3 MB) and a secondary file detailing the long-term trend of pCO2 (366 KB). The data focuses on partial pressure of carbon dioxide measurements and trends within the Baltic Sea region.",
+  "keywords": [
+    "Baltic Sea",
+    "pCO2",
+    "partial pressure of carbon dioxide",
+    "climatology",
+    "long-term trend",
+    "oceanography",
+    "carbon cycle",
+    "marine science"
+  ]
+}

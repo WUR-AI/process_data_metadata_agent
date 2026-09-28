@@ -1,0 +1,22 @@
+{
+  "name": "Aerosol Chemical Composition and Sampling Metadata from Arctic Expeditions",
+  "description": "Dataset containing aerosol chemical composition measurements, sampling metadata, and spatial-temporal information from Arctic expeditions. Includes ion concentrations (Cl-, NO3-, SO4^2-, etc.), aerosol size ranges, sampling stages, and geographic coordinates with two sets of datetime stamps.",
+  "keywords": [
+    "aerosol chemistry",
+    "Arctic research",
+    "ion concentration",
+    "atmospheric sampling",
+    "marine aerosols",
+    "2017",
+    "latitude",
+    "longitude",
+    "WGS84",
+    "PS106 expedition",
+    "Cl-",
+    "NO3-",
+    "SO4^2-",
+    "NH4+",
+    "MSA",
+    "aerosol size distribution"
+  ]
+}

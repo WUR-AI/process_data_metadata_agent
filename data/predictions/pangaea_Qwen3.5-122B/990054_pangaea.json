@@ -1,0 +1,20 @@
+{
+  "name": "MOSAiC Ice Core Chlorophyll a and Phaeophytin Measurements from PS122/1_5-78",
+  "description": "Dataset containing in-situ measurements of Chlorophyll a (Chl a) and Phaeophytin (Phae) concentrations from ice and snow samples collected during the MOSAiC expedition. Data includes sample metadata such as campaign activity, event ID, device used (Ice Corer Kovacs Mark II), sample depth intervals, and precise geospatial coordinates (Latitude, Longitude) and elevation for a specific sampling event on October 28, 2019, in the Arctic.",
+  "keywords": [
+    "MOSAiC",
+    "PS122",
+    "Arctic",
+    "Sea Ice",
+    "Ice Core",
+    "Chlorophyll a",
+    "Phaeophytin",
+    "Phytoplankton",
+    "Biogeochemistry",
+    "Kovacs Mark II",
+    "2019",
+    "October 2019",
+    "85.551N",
+    "126.3299E"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Macapule Lagoon Environmental Monitoring Data",
+  "description": "Dataset containing environmental measurements from Macapule Lagoon, including temperature, salinity, dissolved oxygen, pH, ammonia, nitrate, and phosphate levels, collected at specific dates and zones.",
+  "keywords": [
+    "environmental monitoring",
+    "water quality",
+    "temperature",
+    "salinity",
+    "dissolved oxygen",
+    "pH",
+    "ammonia",
+    "nitrate",
+    "phosphate",
+    "Macapule Lagoon",
+    "Mexico",
+    "2013-2015"
+  ]
+}

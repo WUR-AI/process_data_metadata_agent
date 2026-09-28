@@ -1,0 +1,14 @@
+{
+  "name": "Pacific Ocean Hydrothermal Vent Data",
+  "description": "Dataset containing hydrothermal vent event data from the Pacific Ocean, including location, elevation, deposit type, sediment depth, and metal concentrations (Mn, Fe, Ni, Co, Cu). The data spans from September 2, 1970, to September 25, 1970, with coordinates ranging from -14.05 to 12.0 latitude and -175.7167 to -149.3 longitude.",
+  "keywords": [
+    "Pacific Ocean",
+    "hydrothermal vents",
+    "geochemistry",
+    "metal concentrations",
+    "1970",
+    "marine geology",
+    "sediment depth",
+    "vent deposits"
+  ]
+}

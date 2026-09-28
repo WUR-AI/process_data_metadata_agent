@@ -1,0 +1,20 @@
+{
+  "name": "Sediment Geochemical and Grain Size Data from Event NPAL04 at 77.91°N, 31.30°E",
+  "description": "A dataset containing sediment core measurements from a single location in the Arctic (Event NPAL04), including depth, age estimates, sedimentation rates, organic and inorganic carbon content (TOC, TIC), total nitrogen, stable isotopes (δ13C, δ15N), and grain size distribution fractions. Data was collected on September 28, 2018, at a water depth of approximately 232 meters.",
+  "keywords": [
+    "Sediment",
+    "Geochemistry",
+    "Grain size",
+    "TOC",
+    "TIC",
+    "TN",
+    "δ13C",
+    "δ15N",
+    "Sedimentation rate",
+    "Arctic",
+    "NPAL04",
+    "77.91N",
+    "31.30E",
+    "2018"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "User Information Dataset",
+  "description": "A dataset containing user records with identification, personal details, and activity status.",
+  "keywords": [
+    "users",
+    "personal data",
+    "contact information"
+  ]
+}

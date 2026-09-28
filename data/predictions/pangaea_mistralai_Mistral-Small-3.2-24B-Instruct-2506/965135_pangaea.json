@@ -1,0 +1,16 @@
+{
+  "name": "Pacific Coral Geochemistry and Climate Data",
+  "description": "This dataset contains geochemical measurements from Porites sp. corals collected in the Pacific Ocean, including Sr/Ca, Mg/Ca, δ18O, and δ13C ratios, along with age, latitude, longitude, and elevation data. The measurements span a specific time period in 2008.",
+  "keywords": [
+    "Pacific Ocean",
+    "coral geochemistry",
+    "Sr/Ca",
+    "Mg/Ca",
+    "δ18O",
+    "δ13C",
+    "climate data",
+    "2008",
+    "geochemical measurements",
+    "Porites sp."
+  ]
+}

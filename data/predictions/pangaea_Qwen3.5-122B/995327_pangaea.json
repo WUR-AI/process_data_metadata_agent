@@ -1,0 +1,28 @@
+{
+  "name": "Lanaittu Core Sediment Mineral Composition and Heavy Mineral Analysis",
+  "description": "Dataset containing mineralogical composition data from sediment samples collected at the Lanaittu core site. Includes quantitative percentages of heavy minerals (HM), transparent, opaque, and turbid fractions, as well as specific mineral abundances such as zircon, tourmaline, rutile, garnet, titanite, epidote, kyanite, andalusite, vesuvianite, antigorite, brucite, monazite, xenotime, corundum, and unidentified minerals. The data is associated with specific sediment depths, sample labels, and comments, with spatial coordinates (Latitude, Longitude) and a collection date of January 1, 1994.",
+  "keywords": [
+    "sedimentology",
+    "mineralogy",
+    "heavy minerals",
+    "Lanaittu core",
+    "Sardinia",
+    "zircon",
+    "tourmaline",
+    "rutile",
+    "garnet",
+    "titanite",
+    "epidote",
+    "kyanite",
+    "andalusite",
+    "vesuvianite",
+    "antigorite",
+    "brucite",
+    "monazite",
+    "xenotime",
+    "corundum",
+    "sediment depth",
+    "1994",
+    "Italy"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Porites sp. Geochemical Time Series from Tiarei-A1, Tahiti (2008)",
+  "description": "This dataset contains high-resolution geochemical measurements from a Porites sp. coral core collected at Tiarei-A1, Tahiti. The data includes elemental ratios (Sr/Ca, Mg/Ca) and stable isotope ratios (δ18O, δ13C) recorded at a daily temporal resolution for July 2008. The dataset provides precise geographic coordinates and elevation for the sampling site, linking the geochemical proxies to specific environmental conditions.",
+  "keywords": [
+    "Porites",
+    "coral",
+    "Sr/Ca",
+    "Mg/Ca",
+    "δ18O",
+    "δ13C",
+    "geochemistry",
+    "paleoclimate",
+    "Tahiti",
+    "Tiarei-A1",
+    "2008",
+    "time series",
+    "ocean temperature",
+    "isotopes"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sediment Core Data from GeoB16310-3",
+  "description": "This dataset contains sediment core data from the GeoB16310-3 event, including measurements of depth, total organic carbon (TOC), total inorganic carbon (TIC), latitude, longitude, elevation, and date/time. The data is collected from a single geographic location and represents a single moment in time.",
+  "keywords": [
+    "sediment core",
+    "GeoB16310-3",
+    "total organic carbon",
+    "total inorganic carbon",
+    "geographic coordinate system",
+    "single point",
+    "single moment in time"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Limacina helicina laboratory experiment data",
+  "description": "Dataset containing laboratory experiment measurements for Limacina helicina, including physical and chemical oceanographic parameters, nutrient concentrations, and carbonate system variables. Data includes species identification, sampling metadata, and quality flags.",
+  "keywords": [
+    "Limacina helicina",
+    "laboratory experiment",
+    "oceanography",
+    "carbonate system",
+    "nutrients",
+    "pH",
+    "DIC",
+    "alkalinity",
+    "oxygen",
+    "temperature",
+    "salinity",
+    "2019",
+    "North Pacific",
+    "48.43N 126.23W"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Physico-chemical and Particulate Matter Data",
+  "description": "The dataset contains physico-chemical data, including in situ parameters, basic physicochemistry, nutrients, trace elements, and contaminants, as well as particulate matter data, including cations, trace elements, and mineralogy obtained via X-Ray Diffraction.",
+  "keywords": [
+    "physico-chemical",
+    "particulate matter",
+    "in situ parameters",
+    "basic physicochemistry",
+    "nutrients",
+    "trace elements",
+    "contaminants",
+    "cations",
+    "mineralogy",
+    "X-Ray Diffraction"
+  ]
+}

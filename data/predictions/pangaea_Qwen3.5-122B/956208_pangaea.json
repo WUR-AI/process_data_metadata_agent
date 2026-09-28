@@ -1,0 +1,17 @@
+{
+  "name": "Boreogadus saida Morphometric and Stomach Content Data from Expedition PS80",
+  "description": "A dataset containing morphometric measurements, sex, condition indices, and stomach content analysis for Boreogadus saida (Polar cod) specimens collected during the PS80 expedition. Data includes total length, standard length, wet mass, stomach mass, and digestion degree, alongside precise collection metadata such as event ID, gear type, water depth, and geographic coordinates (latitude/longitude) in the Arctic region.",
+  "keywords": [
+    "Boreogadus saida",
+    "Polar cod",
+    "PS80",
+    "Arctic",
+    "Morphometrics",
+    "Stomach content",
+    "Fish biology",
+    "Marine ecology",
+    "2012",
+    "Kongsfjorden",
+    "SUIT gear"
+  ]
+}

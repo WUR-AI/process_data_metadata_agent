@@ -1,0 +1,14 @@
+{
+  "name": "Sediment Core Analysis Data",
+  "description": "Dataset containing sediment core analysis with depth measurements, total organic carbon (TOC), total inorganic carbon (TIC), and spatial coordinates (latitude and longitude) from a specific location.",
+  "keywords": [
+    "sediment core",
+    "TOC",
+    "TIC",
+    "depth measurements",
+    "latitude",
+    "longitude",
+    "2012-03-24",
+    "geochemical analysis"
+  ]
+}

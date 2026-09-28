@@ -1,0 +1,12 @@
+{
+  "name": "Sensor Event Data",
+  "description": "This dataset contains sensor event data with binary files, event types, and spatial-temporal information.",
+  "keywords": [
+    "sensor data",
+    "binary files",
+    "event types",
+    "spatial-temporal",
+    "WGS84",
+    "decimal degrees"
+  ]
+}

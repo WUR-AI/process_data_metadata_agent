@@ -1,0 +1,16 @@
+{
+  "name": "PS80 Arctic Fish Sampling Data",
+  "description": "Biological and environmental measurements of Boreogadus saida (Arctic cod) collected during the PS80 expedition in the Arctic Ocean, including length, weight, sex, condition index, and stomach content data.",
+  "keywords": [
+    "Arctic",
+    "fish",
+    "Boreogadus saida",
+    "PS80",
+    "expedition",
+    "biological sampling",
+    "stomach content",
+    "depth",
+    "latitude",
+    "longitude"
+  ]
+}

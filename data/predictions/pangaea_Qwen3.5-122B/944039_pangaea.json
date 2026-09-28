@@ -1,0 +1,21 @@
+{
+  "name": "Sediment Core Geochemical Composition from Belgian Collector Trial Pre-Impact (SO268)",
+  "description": "Geochemical analysis of sediment core samples collected at a single deep-sea location (Elevation: -4518.1m) during the SO268 cruise on March 20, 2019. The dataset includes concentrations and relative errors for major and trace elements (Al, Ba, Ca, Cr, Cu, Fe, K, La, Li, Mg, Mn, Na, Ni, P, Sr, Ti) across specific sediment depths, associated with the 'Belgian collector trial pre-impact' area.",
+  "keywords": [
+    "sediment core",
+    "geochemistry",
+    "trace elements",
+    "major elements",
+    "deep-sea",
+    "SO268",
+    "Belgian collector trial",
+    "pre-impact",
+    "Pacific Ocean",
+    "sediment depth",
+    "Al",
+    "Fe",
+    "Mn",
+    "Ni",
+    "Cu"
+  ]
+}

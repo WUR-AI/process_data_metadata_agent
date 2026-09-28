@@ -1,0 +1,11 @@
+{
+  "name": "Sediment Sample Analysis",
+  "description": "Dataset containing sediment sample analysis data, including depth, peak areas, and spatial-temporal information",
+  "keywords": [
+    "sediment samples",
+    "depth analysis",
+    "peak areas",
+    "geographic location",
+    "2016"
+  ]
+}

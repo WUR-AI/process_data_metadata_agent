@@ -1,0 +1,12 @@
+{
+  "name": "Marine Sediment Geochemistry and Age Data",
+  "description": "Geochemical composition (CLR-transformed elemental concentrations), age estimates, and spatial-temporal metadata for marine sediment samples.",
+  "keywords": [
+    "sediment",
+    "geochemistry",
+    "elemental analysis",
+    "marine geology",
+    "age dating",
+    "CLR"
+  ]
+}

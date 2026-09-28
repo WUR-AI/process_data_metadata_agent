@@ -1,0 +1,17 @@
+{
+  "name": "Sediment Core Data from Kiwada-Kazusa Chiba Ono River Section",
+  "description": "Geological dataset containing sediment core samples from the Kiwada-Kazusa Chiba Ono River section in Japan. The data includes sample identifiers, stratigraphic section depths, calculated ages, sedimentation rates (SR), reference sources, and geographic coordinates (latitude and longitude) for each sample.",
+  "keywords": [
+    "sediment core",
+    "stratigraphy",
+    "sedimentation rate",
+    "geochronology",
+    "Kiwada",
+    "Kazusa",
+    "Chiba",
+    "Ono River",
+    "Japan",
+    "paleoenvironment",
+    "WGS84"
+  ]
+}

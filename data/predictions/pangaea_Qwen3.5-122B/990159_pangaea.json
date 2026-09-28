@@ -1,0 +1,16 @@
+{
+  "name": "Sediment Core 210Pb Activity Measurements from Event LTp22-1",
+  "description": "Dataset containing depth-resolved measurements of Lead-210 (210Pb) activity in sediment cores, including total, supported, and unsupported fractions with associated standard deviations. Data collected at a single point location (Latitude 21.277661, Longitude -104.690167, Elevation 1430m) on April 8, 2022, under event identifier LTp22-1.",
+  "keywords": [
+    "210Pb",
+    "Lead-210",
+    "sediment core",
+    "radioactivity",
+    "supported 210Pb",
+    "unsupported 210Pb",
+    "sediment depth",
+    "event LTp22-1",
+    "Mexico",
+    "2022"
+  ]
+}

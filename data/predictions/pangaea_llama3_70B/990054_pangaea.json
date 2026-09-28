@@ -1,0 +1,14 @@
+{
+  "name": "MOSAiC Campaign Data",
+  "description": "This dataset contains data collected during the MOSAiC campaign, including information about the campaign, activity, event, location, device used, and various measured values such as chlorophyll a, phaeophytin, and elevation.",
+  "keywords": [
+    "MOSAiC",
+    "Arctic",
+    "Oceanography",
+    "Chlorophyll a",
+    "Phaeophytin",
+    "Elevation",
+    "Ice Corer",
+    "Kovacs Mark II"
+  ]
+}

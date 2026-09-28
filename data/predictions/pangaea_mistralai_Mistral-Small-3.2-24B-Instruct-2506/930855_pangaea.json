@@ -1,0 +1,15 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and the products involved. It includes customer details, order information, product catalog, and order items. The data is linked through relationships between customers and orders, orders and order items, and products and order items. The spatial and temporal data indicates a specific location and date in 2016.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "customer data",
+    "order details",
+    "product catalog",
+    "2016",
+    "Japan"
+  ]
+}

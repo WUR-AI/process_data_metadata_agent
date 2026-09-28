@@ -1,0 +1,13 @@
+{
+  "name": "Boulder Diameter Measurements at Mountain Sites",
+  "description": "Dataset containing boulder diameter measurements (up to 25 per site) along with site location, elevation, trunk counts, and event information for flood-related geomorphological studies.",
+  "keywords": [
+    "boulders",
+    "flood",
+    "geomorphology",
+    "site measurements",
+    "elevation",
+    "latitude",
+    "longitude"
+  ]
+}

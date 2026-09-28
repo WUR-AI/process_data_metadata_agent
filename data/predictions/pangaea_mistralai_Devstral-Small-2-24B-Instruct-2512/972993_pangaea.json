@@ -1,0 +1,17 @@
+{
+  "name": "Marine Sediment Core Data from Ocean Drilling Program Sites",
+  "description": "Dataset containing geochemical and lithological data from marine sediment cores collected at various Ocean Drilling Program (ODP) sites. Includes sulfur isotope ratios (δ34S Py), age estimates, sediment composition (TOC, CaCO3), and environmental parameters (water depth, elevation). Temporal coverage spans from 1974 to 2016, with global spatial distribution across latitudes -46.58 to 87.89 and longitudes -178.17 to 174.31.",
+  "keywords": [
+    "marine sediments",
+    "Ocean Drilling Program",
+    "sediment cores",
+    "geochemistry",
+    "sulfur isotopes",
+    "paleoenvironment",
+    "TOC",
+    "CaCO3",
+    "marine lithology",
+    "global oceans",
+    "1974-2016"
+  ]
+}

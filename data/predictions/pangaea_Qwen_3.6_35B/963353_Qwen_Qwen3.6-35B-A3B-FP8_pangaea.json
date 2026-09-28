@@ -1,0 +1,12 @@
+{
+  "name": "Antarctic Ice Core Sample Measurements",
+  "description": "A dataset of 53 ice core sample measurements from Antarctic expeditions, including geographic coordinates, sample identifiers, depth measurements, and ice density values.",
+  "keywords": [
+    "ice core",
+    "Antarctica",
+    "glaciology",
+    "density",
+    "depth",
+    "field measurements"
+  ]
+}

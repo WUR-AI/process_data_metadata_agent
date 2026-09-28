@@ -1,0 +1,14 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and the products involved. It includes customer details, order information, product catalog, and order items linking orders to products. The data is temporally concentrated on a single day in 2008 and geographically focused on a specific coordinate point.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "sales",
+    "2008",
+    "geospatial data",
+    "temporal data"
+  ]
+}

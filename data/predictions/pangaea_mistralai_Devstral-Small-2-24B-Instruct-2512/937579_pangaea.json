@@ -1,0 +1,16 @@
+{
+  "name": "Isotopic Composition of Water Samples from Mackenzie River Expedition 2019",
+  "description": "Dataset containing isotopic measurements (δ18O and δD) of water samples collected during the Mackenzie River Expedition in 2019. Includes spatial (latitude, longitude) and temporal (date/time) information for each sample, along with station and expedition details.",
+  "keywords": [
+    "isotopic composition",
+    "δ18O",
+    "δD",
+    "water samples",
+    "Mackenzie River",
+    "Arctic",
+    "2019",
+    "expedition data",
+    "geographic coordinates",
+    "hydrochemistry"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mean Annual Ground Temperature Data for Antarctica",
+  "description": "Dataset containing metadata for files related to Mean Annual Ground Temperature (MAGTM) in Antarctica, including file names, formats, sizes, and download URLs.",
+  "keywords": [
+    "Mean Annual Ground Temperature",
+    "MAGTM",
+    "Antarctica",
+    "Climate Data",
+    "Geospatial Data",
+    "ZIP files"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sediment Geochemical Measurements from GeoB16310-2 at Gulf of Mexico Site (March 2012)",
+  "description": "A dataset containing sediment geochemical measurements including Total Organic Carbon (TOC) and Total Inorganic Carbon (TIC) recorded at varying sediment depths. The data originates from a single sampling event (GeoB16310-2) conducted on March 22, 2012, at a specific point location in the Gulf of Mexico (Latitude 23.82405, Longitude -87.17028) at an elevation of -565 meters.",
+  "keywords": [
+    "sediment",
+    "geochemistry",
+    "TOC",
+    "TIC",
+    "Total Organic Carbon",
+    "Total Inorganic Carbon",
+    "Gulf of Mexico",
+    "GeoB16310-2",
+    "marine sediment",
+    "2012",
+    "depth profile"
+  ]
+}

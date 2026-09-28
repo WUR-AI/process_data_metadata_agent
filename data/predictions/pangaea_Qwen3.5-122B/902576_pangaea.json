@@ -1,0 +1,15 @@
+{
+  "name": "Mean Annual Ground Temperature in Antarctica (2000–2017)",
+  "description": "This dataset provides Mean Annual Ground Temperature (MAGTM) values in degrees Celsius for the Antarctic region, covering the period from 2000 to 2017. The data is distributed as a compressed ZIP archive containing processed geospatial data derived from the UiO PEX project.",
+  "keywords": [
+    "Mean Annual Ground Temperature",
+    "MAGTM",
+    "Antarctica",
+    "Permafrost",
+    "Ground Temperature",
+    "2000-2017",
+    "Climate Change",
+    "Cryosphere",
+    "UiO PEX"
+  ]
+}

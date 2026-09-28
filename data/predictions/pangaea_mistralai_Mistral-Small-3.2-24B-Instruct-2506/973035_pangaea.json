@@ -1,0 +1,13 @@
+{
+  "name": "E-commerce Customer and Order Data",
+  "description": "This dataset contains information about customers, their orders, and the products involved. It includes customer details, order information, product catalog, and order items with relationships between them. The data is temporally covered in April 2023 and spatially located in a specific area in Germany.",
+  "keywords": [
+    "e-commerce",
+    "customer data",
+    "orders",
+    "products",
+    "Electronics",
+    "Germany",
+    "April 2023"
+  ]
+}

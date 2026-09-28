@@ -1,0 +1,14 @@
+{
+  "name": "Aerosol Composition and Spatial-Temporal Distribution",
+  "description": "This dataset contains measurements of aerosol composition, including various ion concentrations, and spatial-temporal information, covering a period of 49 days in 2017 across a region bounded by 54.932913 to 83.709847 latitude and 3.420486 to 33.015915 longitude.",
+  "keywords": [
+    "aerosol composition",
+    "ion concentrations",
+    "spatial-temporal distribution",
+    "atmospheric chemistry",
+    "geospatial analysis",
+    "2017",
+    "latitude",
+    "longitude"
+  ]
+}

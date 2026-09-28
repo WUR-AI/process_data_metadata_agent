@@ -1,0 +1,16 @@
+{
+  "name": "Meteorological Data from Antarctic Station",
+  "description": "This dataset contains daily meteorological measurements from an Antarctic research station, including temperature, relative humidity, wind speed, and solar radiation. The data spans multiple years and includes spatial coordinates for the station.",
+  "keywords": [
+    "meteorology",
+    "Antarctica",
+    "climate data",
+    "temperature",
+    "humidity",
+    "wind speed",
+    "solar radiation",
+    "research station",
+    "daily measurements",
+    "2018"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Nuna Arctic FDOM Spectroscopy Measurements",
+  "description": "Fluorescence dissolved organic matter (FDOM) spectroscopy data collected during Nuna expeditions in the Mackenzie Delta and Beaufort Sea region, including latitude, longitude, date/time, station identifiers, water depth, and multiple FDOM spectral parameters.",
+  "keywords": [
+    "FDOM",
+    "fluorescence",
+    "dissolved organic matter",
+    "Arctic",
+    "Mackenzie Delta",
+    "Beaufort Sea",
+    "spectroscopy",
+    "Nuna",
+    "oceanography"
+  ]
+}

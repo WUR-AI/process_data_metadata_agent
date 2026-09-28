@@ -1,0 +1,10 @@
+{
+  "name": "GIS and XLSX File References",
+  "description": "A dataset containing references to GIS and XLSX files, including a specific GIS file named Big_Skidder.zip",
+  "keywords": [
+    "GIS",
+    "XLSX",
+    "Big_Skidder",
+    "file_references"
+  ]
+}

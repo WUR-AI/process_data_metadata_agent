@@ -1,0 +1,13 @@
+{
+  "name": "UPC Event Binary Files Metadata",
+  "description": "Dataset containing metadata for binary files associated with a UPC event, including file details, geographic coordinates, and timestamp.",
+  "keywords": [
+    "UPC",
+    "binary files",
+    "metadata",
+    "geospatial data",
+    "2020",
+    "Barcelona",
+    "sensors"
+  ]
+}

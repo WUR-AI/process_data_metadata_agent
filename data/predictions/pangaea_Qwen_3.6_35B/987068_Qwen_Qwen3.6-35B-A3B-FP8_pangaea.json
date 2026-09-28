@@ -1,0 +1,13 @@
+{
+  "name": "Sediment Geochemical Analysis Data from Gulf of Mexico",
+  "description": "Geochemical measurements of total organic carbon (TOC) and total inorganic carbon (TIC) in marine sediment samples, including depth, geographic coordinates, and collection timestamps.",
+  "keywords": [
+    "sediment",
+    "TOC",
+    "TIC",
+    "geochemistry",
+    "marine",
+    "Gulf of Mexico",
+    "carbon analysis"
+  ]
+}

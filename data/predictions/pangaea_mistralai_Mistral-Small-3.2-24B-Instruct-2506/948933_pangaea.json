@@ -1,0 +1,16 @@
+{
+  "name": "Marine Sampling Data from Sylt",
+  "description": "This dataset contains marine sampling data collected from the Sylt region, including sample labels, geographic coordinates, bathymetric depths, dates and times, habitat information, species data (S. scombrus), salinity, temperature, and event details. The data covers temporal and spatial information from June to September 2021 in the North Sea region.",
+  "keywords": [
+    "marine sampling",
+    "Sylt",
+    "North Sea",
+    "benthic habitat",
+    "S. scombrus",
+    "salinity",
+    "temperature",
+    "bathymetry",
+    "2021",
+    "marine ecology"
+  ]
+}

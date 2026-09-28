@@ -1,0 +1,16 @@
+{
+  "name": "Paleomagnetic Data from Sediment Cores",
+  "description": "Dataset containing paleomagnetic measurements from sediment cores, including declination, inclination, kappa values, and virtual geomagnetic pole (VGP) coordinates with associated uncertainties. The data is organized by sediment depth and core identifiers.",
+  "keywords": [
+    "paleomagnetism",
+    "sediment cores",
+    "declination",
+    "inclination",
+    "VGP",
+    "kappa",
+    "geomagnetic field",
+    "paleoenvironment",
+    "depth",
+    "uncertainty"
+  ]
+}

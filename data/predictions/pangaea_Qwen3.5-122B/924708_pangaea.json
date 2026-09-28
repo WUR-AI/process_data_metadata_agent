@@ -1,0 +1,16 @@
+{
+  "name": "Marine Mammal Sightings from PS87 Expedition 2014",
+  "description": "Dataset containing records of marine mammal sightings, specifically dolphins, observed during the PS87 research cruise in August 2014. Each entry includes precise date and time, geographic coordinates (latitude and longitude), species identification, certainty level of the sighting, individual count, and the specific track or event associated with the observation.",
+  "keywords": [
+    "marine mammals",
+    "dolphins",
+    "PS87",
+    "expedition",
+    "2014",
+    "sightings",
+    "Arctic",
+    "cetaceans",
+    "biological observations",
+    "geospatial data"
+  ]
+}

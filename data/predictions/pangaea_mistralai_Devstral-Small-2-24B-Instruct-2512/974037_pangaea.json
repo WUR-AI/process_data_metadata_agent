@@ -1,0 +1,16 @@
+{
+  "name": "Sucha Woda Flood Boulder Diameter Measurements",
+  "description": "Dataset containing measurements of boulder diameters at various sites affected by the Sucha Woda Flood on 2018-07-24. Includes site location (latitude, longitude, elevation), number of trunks, and diameters of up to 25 boulders per site.",
+  "keywords": [
+    "Sucha Woda Flood",
+    "boulder diameter",
+    "flood event",
+    "geomorphology",
+    "Poland",
+    "2018",
+    "latitude",
+    "longitude",
+    "elevation",
+    "geospatial data"
+  ]
+}

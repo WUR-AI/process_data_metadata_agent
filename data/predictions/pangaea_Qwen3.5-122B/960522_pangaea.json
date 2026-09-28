@@ -1,0 +1,22 @@
+{
+  "name": "Laboratory experiments on Limacina helicina: carbonate chemistry, nutrients, and respiration in 2019",
+  "description": "Laboratory experimental data for the pteropod Limacina helicina collected on September 1, 2019, at a single station. The dataset includes measurements of carbonate system parameters (pH, pCO2, DIC, AT, Omega aragonite/calcite), dissolved oxygen, nutrients (nitrate/nitrite, silicate, phosphate), temperature, salinity, and respiration rates under supersaturated treatment conditions. Quality flags and standard errors are provided for key variables.",
+  "keywords": [
+    "Limacina helicina",
+    "pteropod",
+    "laboratory experiment",
+    "carbonate chemistry",
+    "ocean acidification",
+    "pCO2",
+    "DIC",
+    "AT",
+    "Omega aragonite",
+    "Omega calcite",
+    "nutrients",
+    "dissolved oxygen",
+    "respiration",
+    "British Columbia",
+    "2019",
+    "September"
+  ]
+}

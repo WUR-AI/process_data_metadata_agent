@@ -1,0 +1,23 @@
+{
+  "name": "Geochemical Analysis of Polar Ice Core Samples",
+  "description": "Dataset containing geochemical composition of ice core samples, including major oxide concentrations (SiO2, TiO2, Al2O3, etc.), spatial coordinates, elevation, and sampling event details from a polar research expedition.",
+  "keywords": [
+    "geochemistry",
+    "ice cores",
+    "polar research",
+    "oxide concentrations",
+    "SiO2",
+    "TiO2",
+    "Al2O3",
+    "Fe2O3",
+    "MnO",
+    "MgO",
+    "CaO",
+    "Na2O",
+    "K2O",
+    "P2O5",
+    "Arctic",
+    "2016",
+    "PS101"
+  ]
+}

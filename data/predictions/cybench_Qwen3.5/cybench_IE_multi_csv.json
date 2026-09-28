@@ -1,0 +1,470 @@
+{
+  "name": "Maize Agricultural and Environmental Data for Ireland",
+  "description": "A comprehensive dataset containing maize crop calendar, area, meteorological, vegetation index, soil, and yield data for administrative regions in Ireland, covering the period 2000-2004.",
+  "keywords": [
+    "maize",
+    "agriculture",
+    "Ireland",
+    "crop",
+    "meteorology",
+    "soil",
+    "yield",
+    "NDVI",
+    "FPAR"
+  ],
+  "filesets": {
+    "includes": [
+      "crop_calendar_maize_IE.csv",
+      "crop_mask_maize_IE.csv",
+      "fpar_maize_IE.csv",
+      "location_maize_IE.csv",
+      "meteo_maize_IE.csv",
+      "ndvi_maize_IE.csv",
+      "soil_maize_IE.csv",
+      "soil_moisture_maize_IE.csv",
+      "yield_maize_IE.csv"
+    ],
+    "excludes": []
+  },
+  "recordsets": [
+    {
+      "source": "crop_calendar_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "sos",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "eos",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, sos: 107.312, eos: 314.479"
+      ]
+    },
+    {
+      "source": "crop_mask_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "crop_area",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "crop_area_percentage",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, crop_area: 3.2, crop_area_percentage: 0.012"
+      ]
+    },
+    {
+      "source": "fpar_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "date",
+          "dataType": "Date",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "fpar",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, date: 2001-01-01, fpar: 57.702"
+      ]
+    },
+    {
+      "source": "location_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "latitude",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "longitude",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "region_area",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, latitude: 54.36326, longitude: -7.69801, region_area: 25740"
+      ]
+    },
+    {
+      "source": "meteo_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "date",
+          "dataType": "Date",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "tmin",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "tmax",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "prec",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "rad",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "tavg",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "et0",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "vpd",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "cwb",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, date: 2001-01-01, tmin: 5.014, tmax: 8.647, prec: 3.448, rad: 1361240.75, tavg: 7.005, et0: 0.409, vpd: 2.306, cwb: 3.039"
+      ]
+    },
+    {
+      "source": "ndvi_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "date",
+          "dataType": "Date",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "ndvi",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, date: 2001-01-01, ndvi: 0.667"
+      ]
+    },
+    {
+      "source": "soil_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "awc",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "bulk_density",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "drainage_class",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, awc: 21.102, bulk_density: 1.103, drainage_class: 5"
+      ]
+    },
+    {
+      "source": "soil_moisture_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "date",
+          "dataType": "Date",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "ssm",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "rsm",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, adm_id: IE04, date: 2003-02-01, ssm: 7.574, rsm: 400.237"
+      ]
+    },
+    {
+      "source": "yield_maize_IE.csv",
+      "fields": [
+        {
+          "source": "crop_name",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "country_code",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "adm_id",
+          "dataType": "Text",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "harvest_year",
+          "dataType": "Integer",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "yield",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "harvest_area",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        },
+        {
+          "source": "production",
+          "dataType": "Number",
+          "isArray": false,
+          "arrayShape": null,
+          "references": null
+        }
+      ],
+      "key": "adm_id",
+      "examples": [
+        "crop_name: maize, country_code: IE, adm_id: IE04, harvest_year: 2000, yield: 0.0, harvest_area: 0.0, production: 0.0"
+      ]
+    }
+  ],
+  "inLanguage": [
+    "en"
+  ],
+  "spatialCoverage": {
+    "min_lat": 52.33045,
+    "min_lon": -7.75902,
+    "max_lat": 54.36326,
+    "max_lon": -6.7799
+  },
+  "temporalCoverage": {
+    "from": "2000-01-01",
+    "to": "2004-12-31"
+  },
+  "spatial": "Administrative regions",
+  "temporal": "Daily and Annual"
+}

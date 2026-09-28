@@ -1,0 +1,15 @@
+{
+  "name": "Sediment Geochemical Profile from LTp22-1 Event",
+  "description": "Dataset containing sediment depth profiles with geochemical element concentrations (Si, K, Ca, Ti, V, Cr, Mn, Fe, Ni, Cu, Zn, Ge, Sr, Zr, Cd, Ce, Ta), age estimates, and spatial-temporal metadata from a single event (LTp22-1) on 2022-04-08 at 21.277661°N, 104.690167°W, 1430m elevation.",
+  "keywords": [
+    "sediment geochemistry",
+    "element concentration",
+    "depth profile",
+    "paleoenvironment",
+    "geochemical analysis",
+    "Mexico",
+    "2022",
+    "LTp22-1",
+    "Si K Ca Ti V Cr Mn Fe Ni Cu Zn Ge Sr Zr Cd Ce Ta"
+  ]
+}

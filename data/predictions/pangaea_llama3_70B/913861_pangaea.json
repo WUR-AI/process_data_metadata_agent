@@ -1,0 +1,13 @@
+{
+  "name": "Aerosol Particle Size Distribution",
+  "description": "This dataset contains aerosol particle size distribution data, including height, date/time, and various particle size measurements, collected at a constant location (-70.65 latitude, -8.25 longitude) with an elevation of 42.0 meters, over the course of 2018.",
+  "keywords": [
+    "aerosol",
+    "particle size distribution",
+    "atmospheric science",
+    "meteorology",
+    "climate",
+    "Antarctica",
+    "Neumayer Station"
+  ]
+}

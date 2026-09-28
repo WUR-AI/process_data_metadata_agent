@@ -1,0 +1,25 @@
+{
+  "name": "Radionuclide and Geochemical Analysis of Cryoconite Samples from Flade Isblink Ice Cap, Greenland (August 2022)",
+  "description": "This dataset contains geochemical and radionuclide measurements of cryoconite samples collected from the Flade Isblink ice cap in Greenland. The data includes sample metadata such as location (latitude, longitude, elevation), collection time, and sample characteristics (type, material, comment). Analytical results cover loss on ignition (LOI), carbonate content, and concentrations of various radionuclides including 137Cs, 210Pb (total and excess), 214Pb, 241Am, 207Bi, 228Ac, 7Be, 40K, 238Pu, 239+240Pu, and plutonium isotopic ratios (238/(239+240)Pu, 240Pu/239Pu). Each record corresponds to a unique sample ID with associated measurement uncertainties.",
+  "keywords": [
+    "cryoconite",
+    "radionuclides",
+    "210Pb",
+    "137Cs",
+    "plutonium",
+    "239+240Pu",
+    "241Am",
+    "7Be",
+    "40K",
+    "Flade Isblink",
+    "Greenland",
+    "ice cap",
+    "Arctic",
+    "geochemistry",
+    "radiometric dating",
+    "LOI",
+    "carbonate",
+    "sample analysis",
+    "August 2022"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PS122 Survey Data",
+  "description": "This dataset contains survey data from the PS122 event, including date and time, survey ID, binary file references, event names, latitude, longitude, and elevation measurements.",
+  "keywords": [
+    "PS122",
+    "survey data",
+    "geographic coordinates",
+    "elevation",
+    "oceanography",
+    "2020"
+  ]
+}

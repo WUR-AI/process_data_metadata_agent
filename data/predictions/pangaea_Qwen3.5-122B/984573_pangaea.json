@@ -1,0 +1,16 @@
+{
+  "name": "Sea Surface Temperature and Sediment Core Data from IODP Site U1539",
+  "description": "Dataset containing paleoceanographic measurements from sediment core samples at IODP Site U1539, including Sea Surface Temperature (SST) estimates, standard deviations, sample depths, ages, and cluster classifications, collected during the 2019 expedition.",
+  "keywords": [
+    "IODP",
+    "Site U1539",
+    "Sea Surface Temperature",
+    "SST",
+    "Sediment Core",
+    "Paleoceanography",
+    "Southern Ocean",
+    "Age Model",
+    "Cluster Analysis",
+    "2019"
+  ]
+}

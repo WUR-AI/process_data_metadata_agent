@@ -1,0 +1,16 @@
+{
+  "name": "Pangaea Sediment Core Data",
+  "description": "This dataset contains sediment core data from the Pangaea region, including measurements of latitude, longitude, depth, age, and various chemical properties, collected over a period of approximately 889 days from 2018 to 2021.",
+  "keywords": [
+    "sediment core",
+    "Pangaea",
+    "latitude",
+    "longitude",
+    "depth",
+    "age",
+    "chemical properties",
+    "geology",
+    "oceanography",
+    "climate science"
+  ]
+}

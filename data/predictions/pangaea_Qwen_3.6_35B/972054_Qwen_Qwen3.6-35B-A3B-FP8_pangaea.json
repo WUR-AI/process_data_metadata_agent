@@ -1,0 +1,13 @@
+{
+  "name": "ESIS Uelzen Remote Sensing Observations",
+  "description": "Catalog of remote sensing observations for the Uelzen, Germany site (ESIS project), including GeoTIFF filenames, observation periods, coordinates, and event metadata.",
+  "keywords": [
+    "remote sensing",
+    "ESIS",
+    "Uelzen",
+    "GeoTIFF",
+    "satellite imagery",
+    "Germany",
+    "geospatial"
+  ]
+}

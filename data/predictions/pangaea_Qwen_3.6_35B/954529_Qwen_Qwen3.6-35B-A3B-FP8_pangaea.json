@@ -1,0 +1,10 @@
+{
+  "name": "GIS and XLSX File References",
+  "description": "A dataset containing references to GIS files (e.g., shapefiles, zipped GIS data) and their corresponding XLSX files, likely used for geospatial data management and documentation.",
+  "keywords": [
+    "GIS",
+    "XLSX",
+    "geospatial",
+    "file references"
+  ]
+}

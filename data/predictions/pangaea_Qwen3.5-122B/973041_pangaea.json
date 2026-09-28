@@ -1,0 +1,16 @@
+{
+  "name": "Radiocarbon Dating Data from Sabah, Malaysia",
+  "description": "A dataset containing radiocarbon dating results from archaeological sites in Sabah, Malaysia. The data includes site names, laboratory labels, dating methods, uncalibrated and calibrated age ranges in thousands of years, standard deviations, and associated references.",
+  "keywords": [
+    "radiocarbon dating",
+    "archaeology",
+    "Sabah",
+    "Malaysia",
+    "calibrated age",
+    "uncalibrated age",
+    "prehistoric",
+    "Harrisson",
+    "14C",
+    "chronology"
+  ]
+}

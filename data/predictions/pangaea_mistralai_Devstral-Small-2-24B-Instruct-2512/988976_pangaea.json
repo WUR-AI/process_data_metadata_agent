@@ -1,0 +1,16 @@
+{
+  "name": "Diatom Species Composition and Environmental Data from Marine Sediments",
+  "description": "Dataset containing diatom species composition, environmental measurements, and spatial-temporal data from marine sediment samples. Includes counts and percentages of various diatom species, sediment depth, and geographic coordinates.",
+  "keywords": [
+    "diatoms",
+    "marine sediments",
+    "paleoceanography",
+    "Arctic",
+    "microfossils",
+    "sediment depth",
+    "latitude",
+    "longitude",
+    "environmental data",
+    "species composition"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Sediment Core Geophysical Properties from MSM44 Cruise at 75.98N 66.05W",
+  "description": "Geophysical and sedimentological measurements from a single sediment core collected during the MSM44 cruise on July 12, 2015. The dataset includes P-wave travel time, P-wave velocity (Vp-a), acoustic grain size (AGR), core diameter deviation, and depth measurements (sediment and section) for a specific location in the Arctic Ocean.",
+  "keywords": [
+    "sediment core",
+    "P-wave travel time",
+    "P-wave velocity",
+    "Vp-a",
+    "AGR",
+    "core diameter deviation",
+    "MSM44",
+    "Arctic Ocean",
+    "geophysical properties",
+    "2015",
+    "75.97917 N",
+    "66.04717 W"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Birkeland Cruise Video Event Catalog",
+  "description": "Catalog of video event files collected during the Birkeland Cruise, including geographic coordinates, timestamps, file hashes, and sizes for each recorded marine biological observation.",
+  "keywords": [
+    "Birkeland Cruise",
+    "marine biology",
+    "video events",
+    "siphonophores",
+    "oceanography",
+    "Norwegian Sea"
+  ]
+}

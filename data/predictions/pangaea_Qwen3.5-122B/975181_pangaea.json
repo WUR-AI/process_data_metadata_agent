@@ -1,0 +1,18 @@
+{
+  "name": "Uvigerina spp. Stable Isotope Data from Gulf of Mexico Sediment Core M78/1_181-3",
+  "description": "A dataset containing sediment depth, age, and stable isotope ratios (δ13C and δ18O) of the benthic foraminifera Uvigerina spp. from a sediment core collected at coordinates 29.0°N, 88.33°W in the Gulf of Mexico. The data includes 219 samples with associated event identifiers, elevation, and collection timestamps, supporting paleoceanographic and paleoclimatic reconstructions.",
+  "keywords": [
+    "Uvigerina",
+    "stable isotopes",
+    "δ13C",
+    "δ18O",
+    "benthic foraminifera",
+    "sediment core",
+    "Gulf of Mexico",
+    "paleoceanography",
+    "paleoclimate",
+    "M78/1_181-3",
+    "sediment depth",
+    "geochronology"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Geochemical Composition of Deep-Sea Sediment Core SO268_043MUC from the Eastern Pacific",
+  "description": "Geochemical data from a deep-sea sediment core (SO268_043MUC, Core 20) collected at a single location in the Eastern Pacific (11.93°N, 117.02°W) at a depth of 4087.8 meters. The dataset includes concentrations of major and trace elements (Al, Ba, Ca, Cr, Cu, Fe, K, La, Li, Mg, Mn, Na, Ni, P, Sr, Ti) measured at various sediment depths, along with relative and absolute error estimates. Data was acquired during the SO268 cruise on March 10, 2019, specifically from the 'German collector trial pre-impact' area.",
+  "keywords": [
+    "sediment geochemistry",
+    "trace elements",
+    "major elements",
+    "deep-sea sediment",
+    "Eastern Pacific",
+    "SO268",
+    "polymetallic nodules",
+    "collector trial",
+    "Al",
+    "Fe",
+    "Mn",
+    "Cu",
+    "Ni",
+    "sediment depth",
+    "error analysis"
+  ]
+}

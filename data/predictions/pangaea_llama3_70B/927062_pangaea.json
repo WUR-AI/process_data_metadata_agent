@@ -1,0 +1,16 @@
+{
+  "name": "Atmospheric Conditions During Balloon Flight 20180818",
+  "description": "This dataset contains atmospheric conditions such as temperature, humidity, wind direction, and speed, recorded during a balloon flight on August 18, 2018, between 11:09:00 and 11:39:00, over a geographic area with latitude ranging from 89.5537 to 89.5601 and longitude ranging from 36.54034 to 37.14087.",
+  "keywords": [
+    "atmospheric conditions",
+    "balloon flight",
+    "temperature",
+    "humidity",
+    "wind direction",
+    "wind speed",
+    "latitude",
+    "longitude",
+    "2018",
+    "August"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "E. fimbriata Oocyte and Environmental Data from Foundiougne",
+  "description": "Dataset containing environmental parameters (temperature, salinity), oocyte measurements (dry mass, volume, lipid/protein content), elemental ratios (Ba/Ca, Sr/Ca, Zn/Ca), and spawning batch energy content for E. fimbriata samples collected in Foundiougne, Senegal, in January 2014.",
+  "keywords": [
+    "E. fimbriata",
+    "oocyte",
+    "dry mass",
+    "lipid content",
+    "protein content",
+    "Ba/Ca ratio",
+    "Sr/Ca ratio",
+    "Zn/Ca ratio",
+    "spawning",
+    "environmental data",
+    "temperature",
+    "salinity",
+    "Foundiougne",
+    "Senegal",
+    "2014"
+  ]
+}

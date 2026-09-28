@@ -1,0 +1,20 @@
+{
+  "name": "Marine Sampling Data from Sylt Region",
+  "description": "Dataset containing marine sampling information including location coordinates, bathymetric depth, environmental parameters (salinity and temperature), and biological observations of Scomber scombrus (Atlantic mackerel) from trawling events in the Sylt region during summer 2021.",
+  "keywords": [
+    "marine sampling",
+    "Sylt",
+    "Atlantic mackerel",
+    "Scomber scombrus",
+    "benthic habitat",
+    "salinity",
+    "temperature",
+    "trawling",
+    "2021",
+    "North Sea",
+    "latitude",
+    "longitude",
+    "bathymetry",
+    "environmental monitoring"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Sediment Core Data from GeoB16320-2",
+  "description": "This dataset contains sediment core data, including depth, total organic carbon (TOC), total inorganic carbon (TIC), and event information, collected at a specific geographic location (23.838416666667, -87.15005) on March 24, 2012.",
+  "keywords": [
+    "sediment core",
+    "GeoB16320-2",
+    "TOC",
+    "TIC",
+    "geographic location",
+    "latitude",
+    "longitude",
+    "elevation",
+    "date/time"
+  ]
+}

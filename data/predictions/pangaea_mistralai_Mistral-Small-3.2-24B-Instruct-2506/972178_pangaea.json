@@ -1,0 +1,13 @@
+{
+  "name": "Aalen Vegetation Phenology Time Series",
+  "description": "This dataset contains vegetation phenology observations from Aalen, Germany, spanning from 1984 to 2023. It includes temporal data with start and end dates for each observation period, as well as spatial data with latitude and longitude coordinates. The dataset also references GeoTIFF files for each observation period.",
+  "keywords": [
+    "vegetation phenology",
+    "Aalen",
+    "Germany",
+    "time series",
+    "remote sensing",
+    "GeoTIFF",
+    "1984-2023"
+  ]
+}

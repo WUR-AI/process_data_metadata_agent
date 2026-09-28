@@ -1,0 +1,12 @@
+{
+  "name": "Stordalen Sediment Core Data",
+  "description": "This dataset contains sediment core data from Stordalen, including depth, age, and spatial information.",
+  "keywords": [
+    "sediment core",
+    "Stordalen",
+    "age dated",
+    "latitude",
+    "longitude",
+    "elevation"
+  ]
+}

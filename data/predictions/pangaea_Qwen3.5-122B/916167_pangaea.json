@@ -1,0 +1,14 @@
+{
+  "name": "Eddy Covariance Data from Katharinentalerhof Pforzheim",
+  "description": "Dataset containing eddy covariance (EC) measurements recorded at the Katharinentalerhof site in Pforzheim, Germany. The resource includes metadata such as file format, size, and direct URL, along with geospatial coordinates (Latitude 48.92, Longitude 8.7) identifying the measurement location. The dataset is associated with the publication by Böhm et al. (2020).",
+  "keywords": [
+    "Eddy Covariance",
+    "EC",
+    "Katharinentalerhof",
+    "Pforzheim",
+    "Germany",
+    "Flux measurements",
+    "Bohm-etal 2020",
+    "Micrometeorology"
+  ]
+}

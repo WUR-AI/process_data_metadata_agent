@@ -1,0 +1,14 @@
+{
+  "name": "E-commerce Customer and Order Data",
+  "description": "Dataset containing customer information, orders, products, and order items for an e-commerce platform. Includes customer details, order dates, product categories, and spatial-temporal data for a specific location and date.",
+  "keywords": [
+    "e-commerce",
+    "customer data",
+    "orders",
+    "products",
+    "Electronics",
+    "USA",
+    "2022-04-08",
+    "geographic coordinates"
+  ]
+}

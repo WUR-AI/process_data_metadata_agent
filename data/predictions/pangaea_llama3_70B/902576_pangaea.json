@@ -1,0 +1,13 @@
+{
+  "name": "Permafrost Data Collection",
+  "description": "A collection of files containing permafrost-related data, including mean annual ground temperature, standard deviation, and permafrost probability fraction, along with a thumbnail image.",
+  "keywords": [
+    "permafrost",
+    "ground temperature",
+    "standard deviation",
+    "probability fraction",
+    "thumbnail image",
+    "ZIP files",
+    "JPG files"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Diatom Assemblage and Abundance Data from Sediment Core AMK75-6150",
+  "description": "This dataset contains diatom abundance and percentage data from a sediment core sample (Event: AMK75-6150) located at 74.78°N, 8.44°E with an elevation of -3013m. The data includes total diatom counts, categorized percentages for warm, cold, ice-neritic, sea ice, sublittoral, freshwater, and fossil diatoms, as well as specific abundances for 35 identified diatom species. Sediment depth and age are provided for the sample, though specific temporal ranges are not defined in the available records.",
+  "keywords": [
+    "diatoms",
+    "paleoceanography",
+    "sediment core",
+    "marine microfossils",
+    "Arctic",
+    "species abundance",
+    "paleoclimate",
+    "diatom assemblage",
+    "sea ice indicators",
+    "benthic diatoms",
+    "planktonic diatoms"
+  ]
+}

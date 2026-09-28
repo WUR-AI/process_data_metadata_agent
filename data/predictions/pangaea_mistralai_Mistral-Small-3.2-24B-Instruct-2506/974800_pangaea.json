@@ -1,0 +1,14 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and the products available. The customers table includes personal details such as names, emails, and addresses. The orders table records order details including order IDs, customer IDs, order dates, total amounts, and statuses. The products table lists product IDs, names, categories, prices, and stock quantities. Relationships exist between customers and orders, and between products and orders.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "customer data",
+    "order details",
+    "product information",
+    "Electronics"
+  ]
+}

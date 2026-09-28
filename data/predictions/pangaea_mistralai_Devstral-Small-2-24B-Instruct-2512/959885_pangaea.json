@@ -1,0 +1,16 @@
+{
+  "name": "Marine Sediment Geochemical Analysis",
+  "description": "Dataset containing geochemical measurements from marine sediment samples collected at a single station (M186_54-1GC) during event M186_54-1 on 2022-12-16. Includes nutrient concentrations, trace metals, and sediment depth profiles.",
+  "keywords": [
+    "marine sediment",
+    "geochemistry",
+    "nutrients",
+    "trace metals",
+    "sediment depth",
+    "ocean chemistry",
+    "North Atlantic",
+    "2022",
+    "M186_54-1GC",
+    "M186_54-1"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sulfur Isotope and Geochemical Data from Ocean Drilling Sites",
+  "description": "Geochemical dataset containing sulfur isotope (δ34S pyrite) measurements, lithological properties, and environmental parameters from Ocean Drilling Program sediment cores.",
+  "keywords": [
+    "sulfur isotopes",
+    "δ34S",
+    "ocean drilling",
+    "sediment cores",
+    "geochemistry",
+    "lithology",
+    "TOC",
+    "CaCO3"
+  ]
+}

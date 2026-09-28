@@ -1,0 +1,14 @@
+{
+  "name": "Physico-chemical Data File Metadata Record",
+  "description": "Metadata record describing a binary file containing in situ physico-chemical parameters, basic physicochemistry, nutrients, trace elements, and contaminants. The record includes file attributes such as size, charset, type, and hash, but does not contain the actual data values or spatial-temporal coordinates.",
+  "keywords": [
+    "physico-chemical",
+    "in situ parameters",
+    "nutrients",
+    "trace elements",
+    "contaminants",
+    "metadata",
+    "binary file",
+    "data catalog"
+  ]
+}

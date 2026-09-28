@@ -1,0 +1,15 @@
+{
+  "name": "Antarctic Ice Core Measurements",
+  "description": "Dataset containing ice core measurements from Antarctica, including latitude, longitude, depth of ice/snow, density of ice, and depth of descent. The data is collected on a single day in December 2004.",
+  "keywords": [
+    "Antarctica",
+    "ice core",
+    "climate data",
+    "glaciology",
+    "December 2004",
+    "latitude",
+    "longitude",
+    "depth",
+    "density"
+  ]
+}

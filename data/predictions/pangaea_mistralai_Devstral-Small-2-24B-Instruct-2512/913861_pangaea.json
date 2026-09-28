@@ -1,0 +1,17 @@
+{
+  "name": "Aerosol Particle Size Distribution Measurements at Neumayer Station",
+  "description": "Dataset containing aerosol particle size distribution measurements (dN/dlogDp) across various particle diameters, collected at Neumayer Station, Antarctica, from January to December 2018. Includes temporal data, geographic coordinates, and measurement parameters such as height and event identifiers.",
+  "keywords": [
+    "aerosol particles",
+    "particle size distribution",
+    "Neumayer Station",
+    "Antarctica",
+    "atmospheric measurements",
+    "2018",
+    "dN/dlogDp",
+    "latitude -70.65",
+    "longitude -8.25",
+    "elevation 42.0",
+    "SPUSO"
+  ]
+}

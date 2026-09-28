@@ -1,0 +1,13 @@
+{
+  "name": "Customer Orders and Products Dataset",
+  "description": "This dataset contains information about customers, their orders, and products. The customers resource includes personal details such as name, email, and address. The orders resource details order information linked to customers via customer_id, including order date, total amount, and status. The products resource lists product details like name, category, price, and stock quantity.",
+  "keywords": [
+    "customers",
+    "orders",
+    "products",
+    "e-commerce",
+    "customer data",
+    "order details",
+    "product inventory"
+  ]
+}

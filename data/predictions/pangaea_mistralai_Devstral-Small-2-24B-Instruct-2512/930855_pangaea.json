@@ -1,0 +1,19 @@
+{
+  "name": "Marine Sediment Geochemical Analysis Data",
+  "description": "Dataset containing geochemical analysis results of marine sediment samples, including peak areas for alkane and diol compounds, depth measurements, and spatial-temporal metadata from a single sampling event in 2016.",
+  "keywords": [
+    "marine sediment",
+    "geochemistry",
+    "alkane",
+    "diol",
+    "peak area",
+    "depth measurement",
+    "latitude",
+    "longitude",
+    "elevation",
+    "2016",
+    "WGS84",
+    "32.366667",
+    "134.966333"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "PS122/5_61-35 ADCP Current and Backscatter Data",
+  "description": "Dataset containing ADCP current and backscatter measurements from a survey event PS122/5_61-35, including timestamp, survey ID, binary data reference, geographic coordinates (latitude, longitude, elevation), and event details.",
+  "keywords": [
+    "ADCP",
+    "Current",
+    "Backscatter",
+    "PS122/5_61-35",
+    "Survey",
+    "Latitude",
+    "Longitude",
+    "Elevation",
+    "2020-09-08",
+    "Arctic",
+    "Oceanography",
+    "ROV",
+    "Quicklook"
+  ]
+}

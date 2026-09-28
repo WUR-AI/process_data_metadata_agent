@@ -1,0 +1,19 @@
+{
+  "name": "Sediment Core Geochemical and Chronological Data from Event LTp22-1",
+  "description": "Geochemical and chronological dataset from a sediment core collected at coordinates 21.277661 N, -104.690167 W (Elevation 1430m) during the 2022 event LTp22-1. The dataset includes sediment depth, age models (Age, Age_2), and Centered Log-Ratio (CLR) transformed concentrations of major and trace elements (Si, K, Ca, Ti, V, Cr, Mn, Fe, Ni, Cu, Zn, Ge, Sr, Zr, Cd, Ce, Ta) along with scattering data (icoh/coh scat) and sampling timestamps.",
+  "keywords": [
+    "sediment core",
+    "geochemistry",
+    "trace elements",
+    "major elements",
+    "CLR transformation",
+    "chronology",
+    "paleoenvironment",
+    "Lake Tepalcatepec",
+    "Mexico",
+    "2022",
+    "LTp22-1",
+    "sediment depth",
+    "elemental composition"
+  ]
+}

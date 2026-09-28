@@ -1,0 +1,16 @@
+{
+  "name": "Elwha River Delta GNSS Positioning Data",
+  "description": "High-precision GNSS positioning measurements collected at the Elwha River Delta on February 3, 2012. The dataset includes geographic coordinates (latitude, longitude), elevation, and horizontal and vertical root mean square (HRMS, VRMS) error estimates for fixed status points, recorded between 12:45 and 13:08 UTC.",
+  "keywords": [
+    "Elwha River Delta",
+    "GNSS",
+    "GPS",
+    "Geodesy",
+    "Positioning",
+    "Elevation",
+    "HRMS",
+    "VRMS",
+    "Pacific Northwest",
+    "2012"
+  ]
+}

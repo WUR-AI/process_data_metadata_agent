@@ -1,0 +1,12 @@
+{
+  "name": "UPC Event Binary File Metadata",
+  "description": "Metadata for binary files associated with UPC seismic events, including file name, type, size, geographic coordinates, elevation, and event date.",
+  "keywords": [
+    "UPC",
+    "seismic",
+    "event",
+    "binary files",
+    "metadata",
+    "Catalonia"
+  ]
+}

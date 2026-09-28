@@ -1,0 +1,13 @@
+{
+  "name": "Aerosol Particle Size Distribution Data",
+  "description": "This dataset contains measurements of aerosol particle size distribution, including temporal and spatial data. It features columns with temporal information such as 'Date/Time' and 'Date/time end', as well as spatial data like 'Latitude', 'Longitude', and various 'dN/dlogDp' columns that suggest particle size distribution measurements.",
+  "keywords": [
+    "aerosol",
+    "particle size distribution",
+    "atmospheric measurements",
+    "temporal data",
+    "spatial data",
+    "2019",
+    "Antarctica"
+  ]
+}

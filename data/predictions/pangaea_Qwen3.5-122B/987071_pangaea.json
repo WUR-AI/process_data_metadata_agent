@@ -1,0 +1,16 @@
+{
+  "name": "Sediment Geochemical Data from Cruise GeoB16320-2 in the Gulf of Mexico",
+  "description": "This dataset contains sediment core measurements including Total Organic Carbon (TOC) and Total Inorganic Carbon (TIC) concentrations at specific depths, collected during the GeoB16320-2 cruise event. The data includes precise spatial coordinates (latitude, longitude, elevation) and a timestamp for the sampling event, representing a single static point in the Gulf of Mexico.",
+  "keywords": [
+    "sediment",
+    "TOC",
+    "TIC",
+    "Total Organic Carbon",
+    "Total Inorganic Carbon",
+    "GeoB16320-2",
+    "Gulf of Mexico",
+    "marine geology",
+    "sediment depth",
+    "GeoB16320"
+  ]
+}

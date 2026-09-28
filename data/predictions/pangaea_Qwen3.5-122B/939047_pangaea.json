@@ -1,0 +1,16 @@
+{
+  "name": "Water Vapor Isotope and Mixing Ratio Observations at GVN Site, 2017",
+  "description": "Time-series dataset of atmospheric water vapor measurements collected at the GVN site (Latitude: -70.65, Longitude: -8.25, Elevation: 42m) on February 17, 2017. The data includes hourly records of water vapor mixing ratio, stable isotope ratios (δ18O and δD), excess deuterium (d xs), and associated standard deviations and observation counts (NOBS).",
+  "keywords": [
+    "water vapor",
+    "isotopes",
+    "δ18O",
+    "δD",
+    "mixing ratio",
+    "atmospheric science",
+    "GVN",
+    "Antarctica",
+    "2017",
+    "time-series"
+  ]
+}

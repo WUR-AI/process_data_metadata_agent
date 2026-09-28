@@ -1,0 +1,13 @@
+{
+  "name": "MOSAiC Sea Ice Chlorophyll and Phaeophytin Measurements",
+  "description": "Sea ice core samples from the MOSAiC expedition containing chlorophyll a and phaeophytin concentrations, depth measurements, and metadata for each sample.",
+  "keywords": [
+    "MOSAiC",
+    "sea ice",
+    "chlorophyll a",
+    "phaeophytin",
+    "Arctic",
+    "ice core",
+    "biogeochemistry"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Stable Isotope Measurements of Water from Mackenzie River Expedition 2019",
+  "description": "Dataset containing stable isotope ratios (δ18O, δD) and excess deuterium (d xs) of water samples collected during the Mackenzie River expedition in April 2019. The data includes precise geographic coordinates (latitude, longitude), water depth, and timestamps for each sampling event, covering a region in the Canadian Arctic.",
+  "keywords": [
+    "stable isotopes",
+    "δ18O",
+    "δD",
+    "d xs",
+    "water isotopes",
+    "Mackenzie River",
+    "Canadian Arctic",
+    "hydrology",
+    "2019",
+    "NunaWP4Mackenzie19",
+    "isotopic composition",
+    "freshwater"
+  ]
+}

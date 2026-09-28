@@ -1,0 +1,13 @@
+{
+  "name": "ESIS Aalen Remote Sensing Imagery Catalog",
+  "description": "Catalog of multi-band color composite GeoTIFF imagery for the Aalen, Germany site (c7126), including acquisition date ranges, geographic coordinates, and associated file references spanning 1984–2024.",
+  "keywords": [
+    "remote sensing",
+    "GeoTIFF",
+    "Aalen",
+    "ESIS",
+    "multispectral",
+    "Germany",
+    "c7126"
+  ]
+}

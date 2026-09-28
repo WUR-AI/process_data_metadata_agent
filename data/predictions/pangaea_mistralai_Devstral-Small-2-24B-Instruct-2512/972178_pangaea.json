@@ -1,0 +1,16 @@
+{
+  "name": "Aalen, Germany Remote Sensing Data 1984-2023",
+  "description": "Dataset containing multi-temporal remote sensing observations for Aalen, Germany, including GeoTIFF files, site information, and event metadata spanning from 1984 to 2023.",
+  "keywords": [
+    "remote sensing",
+    "GeoTIFF",
+    "Aalen",
+    "Germany",
+    "1984-2023",
+    "multispectral imagery",
+    "latitude",
+    "longitude",
+    "temporal analysis",
+    "spatial data"
+  ]
+}

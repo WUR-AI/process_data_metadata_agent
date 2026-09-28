@@ -1,0 +1,19 @@
+{
+  "name": "Marine Mollusk Physicochemical Data from Zhanjiang",
+  "description": "Dataset containing laboratory measurements of physicochemical parameters for Magallana hongkongensis (mollusk) under controlled treatment conditions. Includes pH, temperature, salinity, carbonate system variables, and shell material properties. Data collected at a single location in Zhanjiang, China, in June 2016.",
+  "keywords": [
+    "Marine mollusk",
+    "Magallana hongkongensis",
+    "Physicochemical parameters",
+    "pH",
+    "Temperature",
+    "Salinity",
+    "Carbonate chemistry",
+    "Shell properties",
+    "Zhanjiang",
+    "China",
+    "2016",
+    "Ocean acidification",
+    "Laboratory experiment"
+  ]
+}

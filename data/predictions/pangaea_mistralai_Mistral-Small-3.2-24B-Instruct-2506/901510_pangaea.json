@@ -1,0 +1,14 @@
+{
+  "name": "Oceanographic Measurements in the Northeast Pacific",
+  "description": "This dataset contains oceanographic measurements including latitude, longitude, elevation, HRMS, and VRMS recorded in the Northeast Pacific. The data is temporally indexed with date and time information.",
+  "keywords": [
+    "oceanography",
+    "Northeast Pacific",
+    "latitude",
+    "longitude",
+    "elevation",
+    "HRMS",
+    "VRMS",
+    "2012"
+  ]
+}

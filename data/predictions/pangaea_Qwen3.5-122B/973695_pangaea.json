@@ -1,0 +1,24 @@
+{
+  "name": "Geochemical and Isotopic Composition of Sediment Core 112-680A from the Eastern Equatorial Pacific",
+  "description": "A dataset containing geochemical, elemental, and isotopic measurements from sediment core 112-680A recovered during ODP Leg 112 at Site 680 in the Eastern Equatorial Pacific. The data includes major and trace element concentrations (Al, Ca, Fe, Mn, Mo, U, etc.), organic carbon and nitrogen content, iron speciation, enrichment factors, and stable isotope ratios (δ15N, δ13C, δ98Mo) across various sediment depths. The samples are dated to the Pleistocene epoch, with sampling conducted on November 5, 1986.",
+  "keywords": [
+    "Sediment core",
+    "ODP Leg 112",
+    "Site 680",
+    "Eastern Equatorial Pacific",
+    "Geochemistry",
+    "Trace elements",
+    "Molybdenum",
+    "Uranium",
+    "Iron speciation",
+    "Stable isotopes",
+    "δ15N",
+    "δ13C",
+    "δ98Mo",
+    "TOC",
+    "Pleistocene",
+    "Paleoceanography",
+    "Anoxia",
+    "Marine sediments"
+  ]
+}

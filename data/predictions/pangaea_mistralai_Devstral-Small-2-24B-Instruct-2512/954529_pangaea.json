@@ -1,0 +1,10 @@
+{
+  "name": "Big Skidder GIS Data",
+  "description": "Dataset containing GIS-related file references, including a filename in the GIS column and null values in the XLSX column.",
+  "keywords": [
+    "GIS",
+    "Big Skidder",
+    "file references",
+    "data management"
+  ]
+}

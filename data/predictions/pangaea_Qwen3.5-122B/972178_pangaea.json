@@ -1,0 +1,19 @@
+{
+  "name": "Aalen Germany 1984-1986 6-Band Color Composite GeoTIFFs",
+  "description": "A dataset containing metadata for 6-band color composite GeoTIFF files covering the Aalen, Germany area. The records include observation periods ranging from 1984 to 1986, with specific start and end dates, geographic coordinates, and links to external raster files. The data is associated with the ESIS_Aalen event and includes site identifiers and file type information.",
+  "keywords": [
+    "Aalen",
+    "Germany",
+    "1984",
+    "1985",
+    "1986",
+    "GeoTIFF",
+    "6-band color composite",
+    "remote sensing",
+    "satellite imagery",
+    "ESIS",
+    "land cover",
+    "temporal observation",
+    "spatial metadata"
+  ]
+}

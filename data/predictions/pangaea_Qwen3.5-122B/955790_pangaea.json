@@ -1,0 +1,18 @@
+{
+  "name": "Manganese Nodule Geochemistry from CHMAII-9 Cruise, Pacific Ocean (1970)",
+  "description": "Geochemical composition data of manganese nodules collected during the CHMAII-9 cruise in the Pacific Ocean in September 1970. The dataset includes elemental concentrations of Manganese (Mn), Iron (Fe), Nickel (Ni), Cobalt (Co), and Copper (Cu) for whole nodule samples, along with sample location coordinates, sediment depth, nodule descriptions, and collection timestamps.",
+  "keywords": [
+    "Manganese nodules",
+    "Geochemistry",
+    "Pacific Ocean",
+    "CHMAII-9",
+    "Trace metals",
+    "Marine sediments",
+    "1970",
+    "Fe",
+    "Ni",
+    "Co",
+    "Cu",
+    "Mn"
+  ]
+}

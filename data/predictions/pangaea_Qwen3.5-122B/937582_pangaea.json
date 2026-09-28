@@ -1,0 +1,17 @@
+{
+  "name": "Fluorescent Dissolved Organic Matter (FDOM) and IFDOM Components from Mackenzie River Expedition 2019",
+  "description": "Dataset containing measurements of Fluorescent Dissolved Organic Matter (FDOM) peaks (A, C, M, T), Fluorescence Indices (FI, HI, BI), and IFDOM components (C1, C2, C3) collected during the NunaWP4Mackenzie19 expedition in the Canadian Arctic. Data includes spatial coordinates, water depth, station identifiers, and timestamps for samples collected between April 20 and April 22, 2019.",
+  "keywords": [
+    "FDOM",
+    "IFDOM",
+    "Dissolved Organic Matter",
+    "Fluorescence Indices",
+    "Mackenzie River",
+    "Arctic",
+    "Canada",
+    "NunaWP4Mackenzie19",
+    "2019",
+    "Water Quality",
+    "Optical Properties"
+  ]
+}

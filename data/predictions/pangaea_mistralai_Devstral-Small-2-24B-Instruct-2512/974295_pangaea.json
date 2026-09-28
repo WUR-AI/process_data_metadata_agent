@@ -1,0 +1,16 @@
+{
+  "name": "Antarctic Radar Data Inventory 1997/98",
+  "description": "Dataset containing Antarctic radar data profiles from the 1997/98 season, including associated netCDF files, GIS data, and images. Each profile is uniquely identified and linked to specific instrument measurements and radar products.",
+  "keywords": [
+    "Antarctica",
+    "radar data",
+    "EMR",
+    "netCDF",
+    "GIS",
+    "1997/98",
+    "glaciology",
+    "polar research",
+    "ice sheet",
+    "geophysical data"
+  ]
+}

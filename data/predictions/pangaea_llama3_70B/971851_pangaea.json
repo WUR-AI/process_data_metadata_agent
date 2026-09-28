@@ -1,0 +1,13 @@
+{
+  "name": "Paleomagnetic Data",
+  "description": "This dataset contains paleomagnetic data, including declination, inclination, and virtual geomagnetic pole (VGP) coordinates, as well as associated uncertainties and ages, likely collected from sediment cores.",
+  "keywords": [
+    "paleomagnetism",
+    "sediment cores",
+    "geomagnetic field",
+    "VGP",
+    "declination",
+    "inclination",
+    "age dating"
+  ]
+}

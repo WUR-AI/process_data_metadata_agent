@@ -1,0 +1,27 @@
+{
+  "name": "Sediment Chemical Composition Data",
+  "description": "This dataset contains chemical composition measurements of sediment samples, including various ions and elements. The data includes sample numbers, depth measurements, and concentrations of substances like nitrate, nitrite, ammonium, phosphate, sulfate, boron, manganese, calcium, iron, magnesium, strontium, silicon, lithium, and potassium. The samples are georeferenced with latitude and longitude coordinates.",
+  "keywords": [
+    "sediment",
+    "chemical composition",
+    "ions",
+    "elements",
+    "nitrate",
+    "nitrite",
+    "ammonium",
+    "phosphate",
+    "sulfate",
+    "boron",
+    "manganese",
+    "calcium",
+    "iron",
+    "magnesium",
+    "strontium",
+    "silicon",
+    "lithium",
+    "potassium",
+    "georeferenced",
+    "latitude",
+    "longitude"
+  ]
+}

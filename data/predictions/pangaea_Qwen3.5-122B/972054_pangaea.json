@@ -1,0 +1,19 @@
+{
+  "name": "Uelzen Germany Multi-Spectral Satellite Imagery Catalog 1984-1986",
+  "description": "A catalog of multi-spectral satellite imagery and associated metadata for the Uelzen region in Germany, covering the period from May 1984 to October 1986. The dataset includes references to 6-band color composite GeoTIFF files, observation dates, and precise geographic coordinates (latitude and longitude) for the study site, linked to the ESIS_Uelzen event.",
+  "keywords": [
+    "Uelzen",
+    "Germany",
+    "Satellite imagery",
+    "GeoTIFF",
+    "Multi-spectral",
+    "6-band color composite",
+    "Remote sensing",
+    "ESIS",
+    "1984",
+    "1985",
+    "1986",
+    "Land cover",
+    "Environmental monitoring"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sediment Core Analysis",
+  "description": "This dataset contains sediment core analysis data, including physical and chemical properties of sediment samples, such as depth, pH, and elemental composition, collected from a specific geographic location between 2018 and 2019.",
+  "keywords": [
+    "sediment core",
+    "geochemistry",
+    "physical properties",
+    "WGS84",
+    "Germany",
+    "2018",
+    "2019"
+  ]
+}

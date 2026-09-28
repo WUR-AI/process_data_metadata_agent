@@ -1,0 +1,17 @@
+{
+  "name": "Sediment Core Chronology and Sampling Data from Stordalen_2",
+  "description": "A dataset containing sediment sampling parameters and chronological data from a single location at Stordalen_2. The data includes sediment depth, sample thickness, and age estimates (Age, Age dated, Age unc) alongside material descriptions and laboratory labels. Spatial coordinates indicate a specific point in the Northern Hemisphere (Latitude 68.35, Longitude 19.05) at an elevation of 350 meters. The dataset includes a record for the sediment surface (0 cm) dated to 2003, though other temporal fields contain null values or lack valid date formats in the provided sample.",
+  "keywords": [
+    "sediment",
+    "chronology",
+    "dating",
+    "Stordalen",
+    "permafrost",
+    "sediment core",
+    "Age",
+    "Depth",
+    "Sweden",
+    "Arctic",
+    "geochronology"
+  ]
+}

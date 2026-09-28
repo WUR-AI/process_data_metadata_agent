@@ -1,0 +1,20 @@
+{
+  "name": "Sediment Core Paleomagnetic Data with Virtual Geomagnetic Pole and Relative Paleointensity",
+  "description": "A dataset containing paleomagnetic measurements from sediment cores, including depth, declination, inclination, concentration parameters (Kappa), and relative paleointensity (RPI) values. The data includes associated uncertainties, rotated declination values, alternative age models, and calculated Virtual Geomagnetic Pole (VGP) coordinates (latitude and longitude) with their respective uncertainties.",
+  "keywords": [
+    "paleomagnetism",
+    "sediment core",
+    "declination",
+    "inclination",
+    "relative paleointensity",
+    "RPI",
+    "VGP",
+    "Virtual Geomagnetic Pole",
+    "magnetic inclination",
+    "magnetic declination",
+    "Kappa",
+    "age model",
+    "uncertainty",
+    "geophysics"
+  ]
+}

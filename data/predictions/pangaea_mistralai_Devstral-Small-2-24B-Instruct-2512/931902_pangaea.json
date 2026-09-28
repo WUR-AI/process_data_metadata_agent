@@ -1,0 +1,15 @@
+{
+  "name": "Birkeland Cruise 1 Marine Observations",
+  "description": "Dataset containing marine event observations, including binary media files, their metadata, and geospatial-temporal coordinates from the Birkeland Cruise 1 in July 2016.",
+  "keywords": [
+    "marine observations",
+    "Birkeland Cruise",
+    "siphonophores",
+    "geospatial data",
+    "2016",
+    "latitude",
+    "longitude",
+    "media files",
+    "oceanography"
+  ]
+}

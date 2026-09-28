@@ -1,0 +1,21 @@
+{
+  "name": "Radiometric and Chemical Measurements from Cryoconite Samples, Flade Isblink Ice Cap, Greenland",
+  "description": "Dataset containing radiometric (e.g., 137Cs, 210Pb, 241Am, Pu isotopes) and chemical (e.g., LOI, Carb, 40K) measurements from cryoconite samples collected at the Flade Isblink ice cap in Greenland. Includes sample metadata such as location, depth, type, and collection date/time.",
+  "keywords": [
+    "cryoconite",
+    "radiometric measurements",
+    "Greenland",
+    "Flade Isblink ice cap",
+    "210Pb dating",
+    "Pu isotopes",
+    "241Am",
+    "137Cs",
+    "glaciology",
+    "environmental radioactivity",
+    "2022",
+    "Arctic",
+    "ice cap",
+    "LOI",
+    "40K"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Antarctic EMR Radar Profile Index",
+  "description": "Index of Antarctic radar profile data from the 1997/98 season, listing associated netCDF, GIS, and image files for each profile.",
+  "keywords": [
+    "Antarctica",
+    "radar",
+    "ice profiling",
+    "EMR",
+    "netCDF",
+    "geospatial"
+  ]
+}

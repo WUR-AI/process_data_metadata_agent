@@ -1,0 +1,21 @@
+{
+  "name": "Marine Sediment Chemical Composition at Station M186_50-1GC",
+  "description": "Dataset containing chemical analysis of marine sediment samples collected at a single station (M186_50-1GC) on 2022-12-15. Includes measurements of various ions (e.g., nitrate, phosphate, sulfate), metals (e.g., iron, manganese, calcium), and other elements, along with geospatial and sampling metadata.",
+  "keywords": [
+    "marine sediment",
+    "chemical composition",
+    "ion concentration",
+    "metal analysis",
+    "geochemical data",
+    "North Atlantic",
+    "2022",
+    "M186_50-1GC",
+    "nitrate",
+    "phosphate",
+    "sulfate",
+    "iron",
+    "manganese",
+    "calcium",
+    "sediment depth"
+  ]
+}

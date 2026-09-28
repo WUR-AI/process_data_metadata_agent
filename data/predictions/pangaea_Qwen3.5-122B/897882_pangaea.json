@@ -1,0 +1,23 @@
+{
+  "name": "Physicochemical and Biochemical Properties of Echinometra fimbriata Oocytes in Senegal (2014)",
+  "description": "Dataset containing environmental parameters (temperature, salinity) and biochemical measurements (dry mass, volume, lipids, protein, calorific content, elemental ratios Ba/Ca, Sr/Ca, Zn/Ca) of Echinometra fimbriata oocytes. Data includes sample IDs, event locations (Foundiougne), and precise geographic coordinates (Latitude, Longitude) collected in January 2014.",
+  "keywords": [
+    "Echinometra fimbriata",
+    "oocyte",
+    "biochemistry",
+    "lipids",
+    "protein",
+    "calorific content",
+    "trace elements",
+    "Ba/Ca",
+    "Sr/Ca",
+    "Zn/Ca",
+    "temperature",
+    "salinity",
+    "Senegal",
+    "Foundiougne",
+    "2014",
+    "marine biology",
+    "reproductive biology"
+  ]
+}

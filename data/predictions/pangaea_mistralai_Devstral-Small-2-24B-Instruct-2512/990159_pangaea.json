@@ -1,0 +1,16 @@
+{
+  "name": "Lead-210 Sediment Core Data from LTp22-1",
+  "description": "Dataset containing sediment depth measurements, Lead-210 (210Pb) activity, and associated uncertainties from a sediment core sample (LTp22-1) collected at 21.277661°N, -104.690167°E on 2022-04-08. Includes supported and unsupported 210Pb measurements with standard deviations.",
+  "keywords": [
+    "sediment core",
+    "Lead-210",
+    "210Pb",
+    "radiometric dating",
+    "paleoenvironment",
+    "geochemistry",
+    "Mexico",
+    "2022",
+    "depth profile",
+    "environmental science"
+  ]
+}

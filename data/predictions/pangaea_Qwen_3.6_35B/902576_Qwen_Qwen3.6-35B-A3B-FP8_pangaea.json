@@ -1,0 +1,12 @@
+{
+  "name": "Permafrost Dataset File Manifest",
+  "description": "Catalog of data files associated with the Permafrost-PEX dataset, including Mean Annual Ground Temperature, its standard deviation, permafrost probability fraction, and a thumbnail image, with download URLs and file metadata.",
+  "keywords": [
+    "permafrost",
+    "ground temperature",
+    "MAGT",
+    "PANGAEA",
+    "Antarctica",
+    "file manifest"
+  ]
+}

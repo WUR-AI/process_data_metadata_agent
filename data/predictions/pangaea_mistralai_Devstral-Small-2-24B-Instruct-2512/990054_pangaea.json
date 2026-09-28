@@ -1,0 +1,18 @@
+{
+  "name": "MOSAiC Ice Core Biogeochemical Measurements",
+  "description": "Dataset containing biogeochemical measurements from ice cores collected during the MOSAiC expedition, including chlorophyll a, phaeopigments, depth, and spatial-temporal metadata.",
+  "keywords": [
+    "MOSAiC",
+    "Arctic",
+    "ice core",
+    "biogeochemistry",
+    "chlorophyll a",
+    "phaeopigments",
+    "2019-2020",
+    "latitude",
+    "longitude",
+    "depth",
+    "oceanography",
+    "polar research"
+  ]
+}

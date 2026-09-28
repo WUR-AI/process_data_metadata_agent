@@ -1,0 +1,18 @@
+{
+  "name": "Sediment Core 210Pb and 137Cs Dating Data from LSMo22-1, Mexico",
+  "description": "This dataset contains sediment core analysis results from event LSMo22-1, including depth intervals (top, bottom, and total depth) and radioisotope concentrations of Lead-210 (210Pb) and Cesium-137 (137Cs). The data includes supported and unsupported 210Pb fractions with their respective standard deviations, collected at a specific elevation in Mexico on April 8, 2022, to facilitate sedimentation rate calculations and geochronology.",
+  "keywords": [
+    "Sediment core",
+    "210Pb",
+    "137Cs",
+    "Lead-210",
+    "Cesium-137",
+    "Geochronology",
+    "Sedimentation rate",
+    "Mexico",
+    "LSMo22-1",
+    "Depth profile",
+    "Radioisotopes",
+    "2022"
+  ]
+}

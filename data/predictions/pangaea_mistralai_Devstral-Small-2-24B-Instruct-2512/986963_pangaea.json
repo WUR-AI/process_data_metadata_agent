@@ -1,0 +1,19 @@
+{
+  "name": "Sediment Core Geochemical and Grain Size Data from Arctic Region",
+  "description": "Dataset containing geochemical and grain size measurements from sediment cores collected during field events in the Arctic region. Includes parameters such as total organic carbon (TOC), total inorganic carbon (TIC), total nitrogen (TN), stable isotopes (δ13C, δ15N), grain size fractions, and sediment depth. Spatial coverage spans latitudes 76.0 to 83.27 and longitudes 27.52 to 33.99, with temporal coverage from September 2018 to March 2021.",
+  "keywords": [
+    "Arctic sediment cores",
+    "geochemistry",
+    "grain size analysis",
+    "TOC",
+    "TIC",
+    "TN",
+    "stable isotopes",
+    "δ13C",
+    "δ15N",
+    "sediment depth",
+    "paleoenvironment",
+    "Arctic Ocean",
+    "2018-2021"
+  ]
+}

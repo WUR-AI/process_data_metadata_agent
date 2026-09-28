@@ -1,0 +1,17 @@
+{
+  "name": "Porites Coral Geochemical Data from TIAREI-3B",
+  "description": "Dataset containing geochemical measurements (Sr/Ca, Mg/Ca, δ18O, δ13C) from Porites coral samples collected at TIAREI-3B site in French Polynesia, with spatial and temporal metadata.",
+  "keywords": [
+    "Porites coral",
+    "geochemistry",
+    "Sr/Ca",
+    "Mg/Ca",
+    "δ18O",
+    "δ13C",
+    "French Polynesia",
+    "TIAREI-3B",
+    "2008",
+    "paleoclimate",
+    "coral proxy"
+  ]
+}

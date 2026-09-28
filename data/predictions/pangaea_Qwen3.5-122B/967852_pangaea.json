@@ -1,0 +1,18 @@
+{
+  "name": "Sedimentological and Mineralogical Composition of the Santiurde Section",
+  "description": "A dataset containing geochemical and mineralogical analysis results for sediment samples from the Santiurde section. The data includes sample identifiers, stratigraphic heights, layer thickness, and quantitative mineral composition percentages for Quartz (Qz), Clay, Calcite (Cal), Gypsum (Gp), Dolomite (Dol), and Pyrite (Py). Spatial coordinates (Latitude, Longitude, Elevation) are provided for the sampling location, though temporal data is currently absent.",
+  "keywords": [
+    "Sedimentology",
+    "Mineralogy",
+    "Santiurde",
+    "Spain",
+    "Quartz",
+    "Clay",
+    "Calcite",
+    "Gypsum",
+    "Dolomite",
+    "Pyrite",
+    "Stratigraphy",
+    "Geochemistry"
+  ]
+}

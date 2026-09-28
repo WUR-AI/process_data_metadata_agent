@@ -1,0 +1,14 @@
+{
+  "name": "IODP Expedition 386 Sample Mineralogy Data",
+  "description": "Mineralogical composition data for sediment samples collected during IODP Expedition 386 at Site C0095 (386-M0095B), including quantitative estimates of quartz, feldspars, clay minerals, micas, and other rock-forming minerals, along with geographic and depth metadata.",
+  "keywords": [
+    "IODP",
+    "Expedition 386",
+    "mineralogy",
+    "sediment",
+    "XRD",
+    "clay minerals",
+    "Japan Trench",
+    "Site C0095"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aerosol Ion Composition and Transport Data",
+  "description": "Measurements of aerosol ion concentrations (Cl-, NO3-, SO42-, etc.) and meteorological parameters across different stages and aerosol size ranges, with associated sample IDs and temporal-spatial coordinates.",
+  "keywords": [
+    "aerosol",
+    "ions",
+    "chemical composition",
+    "atmospheric science",
+    "transport",
+    "size fraction"
+  ]
+}

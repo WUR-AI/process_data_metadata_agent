@@ -1,0 +1,15 @@
+{
+  "name": "Sediment Geochemical Data from GeoB16310-2",
+  "description": "Dataset containing sediment depth profiles with Total Organic Carbon (TOC), Total Inorganic Carbon (TIC), and geographic coordinates for a single event (GeoB16310-2) observed on 2012-03-22 at 23:07:00 UTC in the Gulf of Mexico region.",
+  "keywords": [
+    "sediment geochemistry",
+    "TOC",
+    "TIC",
+    "Gulf of Mexico",
+    "depth profile",
+    "marine sediments",
+    "carbon analysis",
+    "2012",
+    "geospatial data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "SO268 Marine Sediment Geochemistry Data",
+  "description": "Geochemical analysis of marine sediment cores from the SO268 cruise, including elemental concentrations (Al, Ba, Ca, Cr, Cu, Fe, K, La, Li, Mg, Mn, Na, Ni, P, Sr, Ti) and their relative values across multiple analytical runs, with spatial and temporal metadata.",
+  "keywords": [
+    "marine geology",
+    "sediment geochemistry",
+    "elemental analysis",
+    "SO268 cruise",
+    "pacific ocean",
+    "core sampling"
+  ]
+}

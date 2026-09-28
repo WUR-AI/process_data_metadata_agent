@@ -1,0 +1,7 @@
+{
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1970-01-01T00:00:00+00:00",
+    "to": "1970-01-01T00:00:00.000001800+00:00"
+  }
+}

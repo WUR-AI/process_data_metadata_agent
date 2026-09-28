@@ -1,0 +1,19 @@
+{
+  "name": "Aerosol Chemical Composition and Size Distribution from PS106/1 Cruise (May 2017)",
+  "description": "Dataset containing measurements of aerosol chemical composition and size distribution collected during the PS106/1 cruise in May 2017. The data includes concentrations of major ions (Cl-, NO3-, SO4 2-, C2O4 2-, NO2-, Br-, F-, MSA, PO4 3-, Na+, NH4+, K+, Mg2+) across specific aerosol size ranges (0.05-0.14 µm), along with associated metadata such as sample IDs, stage, height, and precise spatial-temporal coordinates (latitude, longitude, date/time) for sampling locations.",
+  "keywords": [
+    "Aerosol",
+    "Chemical composition",
+    "Ion analysis",
+    "Size distribution",
+    "PS106/1",
+    "Atlantic Ocean",
+    "Marine aerosols",
+    "Sulfate",
+    "Nitrate",
+    "Chloride",
+    "Methanesulfonic acid",
+    "2017",
+    "May 2017"
+  ]
+}

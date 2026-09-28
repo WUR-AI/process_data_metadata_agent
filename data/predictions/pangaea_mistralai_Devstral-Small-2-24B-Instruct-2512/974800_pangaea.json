@@ -1,0 +1,12 @@
+{
+  "name": "Laboratory Experiment Data on X. umbellata Pulsation",
+  "description": "Dataset from a laboratory experiment measuring X. umbellata pulsation across different tanks and treatments. Includes study type, tank number, treatment type, and possible spatial indicators (DOE, X. umbellata pulsation).",
+  "keywords": [
+    "laboratory experiment",
+    "X. umbellata",
+    "pulsation",
+    "zooplankton",
+    "tank experiment",
+    "spatial data"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Arctic Marine Specimen Data from Polar Expeditions",
+  "description": "Dataset containing specimen records from Arctic marine expeditions, including biological measurements, location data, and expedition details. Features include specimen IDs, subsample IDs, biological metrics (e.g., length, weight, sex), and spatial-temporal metadata from multiple expeditions.",
+  "keywords": [
+    "Arctic marine biology",
+    "Polar expeditions",
+    "Specimen data",
+    "Biological measurements",
+    "Latitude/Longitude",
+    "Expedition PS80",
+    "Marine specimens",
+    "2012-2021",
+    "Arctic region",
+    "B. saida"
+  ]
+}

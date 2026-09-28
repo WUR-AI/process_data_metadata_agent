@@ -1,0 +1,17 @@
+{
+  "name": "Mineralogical Composition of Sediment Samples from IODP Expedition 386 Site M0095B",
+  "description": "Dataset containing quantitative mineralogical analysis of sediment core samples collected during IODP Expedition 386 at Site M0095B. The data includes percentages of various minerals such as quartz, feldspars, carbonates, clay minerals, and heavy minerals, alongside sample identifiers, sediment depth, geographic coordinates, and collection date.",
+  "keywords": [
+    "Mineralogy",
+    "Sediment",
+    "IODP Expedition 386",
+    "Site M0095B",
+    "X-ray diffraction",
+    "Clay minerals",
+    "Quartz",
+    "Feldspar",
+    "Carbonate",
+    "Northwest Pacific Ocean",
+    "2021"
+  ]
+}

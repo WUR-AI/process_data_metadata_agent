@@ -1,0 +1,14 @@
+{
+  "name": "Laboratory Experiment on X. umbellata Pulsation under Zooplankton Treatment",
+  "description": "A laboratory experiment dataset containing 60 records measuring X. umbellata pulsation rates across different tanks and treatments, specifically focusing on zooplankton interactions. The data includes study type, tank identification, treatment conditions, days of experiment (DOE), and corresponding pulsation values.",
+  "keywords": [
+    "Laboratory experiment",
+    "X. umbellata",
+    "Pulsation",
+    "Zooplankton",
+    "Tank experiment",
+    "Aquatic biology",
+    "DOE",
+    "Treatment effect"
+  ]
+}

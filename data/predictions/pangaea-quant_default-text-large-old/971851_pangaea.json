@@ -1,0 +1,9 @@
+{
+  "spatialCoverage": {
+    "min_lat": 0.28,
+    "min_lon": -178.9145776,
+    "max_lat": 3.7,
+    "max_lon": 179.7489502
+  },
+  "temporalCoverage": null
+}

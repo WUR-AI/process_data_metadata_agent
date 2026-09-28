@@ -1,0 +1,16 @@
+{
+  "name": "Aerosol Particle Size Distribution Measurements at Neumayer Station",
+  "description": "Dataset containing hourly aerosol particle size distribution measurements (dN/dlogDp) across a range of particle diameters (92.87 nm to 4845.51 nm) collected at Neumayer Station, Antarctica (latitude -70.65, longitude -8.25, elevation 42.0 m) throughout 2019. Includes temporal metadata (start/end times, duration) and geographic coordinates.",
+  "keywords": [
+    "aerosol particles",
+    "particle size distribution",
+    "dN/dlogDp",
+    "Neumayer Station",
+    "Antarctica",
+    "atmospheric measurements",
+    "2019",
+    "hourly data",
+    "nanoparticles",
+    "air quality"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Soil Radionuclide Concentrations and OSL Dating Data from NEP_1 Event, Bavaria, Germany",
+  "description": "Dataset containing soil sample measurements from the NEP_1 event location in Bavaria, Germany. Includes geographic coordinates, soil depth, elevation, and timestamps. Analytical results cover concentrations of natural radionuclides (Uranium, Thorium, Potassium) with associated errors, total soil dose rates, equivalent dose (De) values, and calculated OSL ages with multiple age estimates and their uncertainties.",
+  "keywords": [
+    "OSL dating",
+    "Optically Stimulated Luminescence",
+    "Uranium",
+    "Thorium",
+    "Potassium",
+    "Radionuclides",
+    "Soil radiation",
+    "Dose rate",
+    "Equivalent dose",
+    "Geochronology",
+    "Bavaria",
+    "Germany",
+    "NEP_1",
+    "Soil depth",
+    "Elevation"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Elwha River Delta Observations",
+  "description": "Dataset containing spatial-temporal observations of the Elwha River Delta, including latitude, longitude, elevation, and measurements such as HRMS and VRMS over a 26-minute period in February 2012.",
+  "keywords": [
+    "Elwha River Delta",
+    "spatial-temporal data",
+    "HRMS",
+    "VRMS",
+    "elevation",
+    "geolocation",
+    "2012",
+    "environmental monitoring"
+  ]
+}
