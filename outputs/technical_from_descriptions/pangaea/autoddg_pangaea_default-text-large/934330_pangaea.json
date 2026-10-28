@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records peat core measurements from Stordalen_2 (68.35 °N, 19.05 °E, 350 m elevation). Sediment depth ranges from 0 to 2.225 m and sample thickness up to 1.0 m, both geological measurements. Radiocarbon ages for 14 years span 0 to 2003, with uncertainties of 0.03–0.09 yr. Material types (moss, sphagnum, Carex/Betula) are linked to laboratory labels, and all records share the Event “Stordalen_2”. These data enable reconstruction of peat accumulation, past climate and vegetation, and calibration of geochronological models.",
+  "spatialCoverage": {
+    "min_lat": 68.35,
+    "min_lon": 19.05,
+    "max_lat": 68.35,
+    "max_lon": 19.05
+  },
+  "temporalCoverage": {
+    "from": "0000-01-01T00:00:00",
+    "to": "2003-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

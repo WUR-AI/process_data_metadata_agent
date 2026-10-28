@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 occurrences of marine gastropod Struthiolaria papulosa from New Zealand. Records provide a GBIF identifier (gbifID), occurrenceID, catalogNumber and the taxonomic hierarchy from kingdom to species. Geographic fields include decimal latitude and longitude with coordinate uncertainty from 0 to 300 m, covering latitudes –46.9° to –36° and longitudes 0° to 175°. Event dates span 2018‑2026 and timestamps record identification and last interpretation. Licenses are CC‑BY or CC‑BY‑NC, and each entry links to image media with an issue. The semantic profile highlights identifiers, taxonomic labels, spatial coordinates, temporal stamps and attribution, making data useful for biogeographic mapping, phenology research and visual documentation of Struthiolaria papulosa.",
+  "spatialCoverage": {
+    "min_lat": -46.9,
+    "min_lon": 0.0,
+    "max_lat": -36.0,
+    "max_lon": 175.0
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

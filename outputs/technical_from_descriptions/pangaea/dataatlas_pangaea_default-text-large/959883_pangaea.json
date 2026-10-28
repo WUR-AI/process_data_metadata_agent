@@ -1,0 +1,10 @@
+{
+  "description": "18 Earth‑environmental sediment samples from station M18650-1GC, depth, temperature, ion concentrations, coordinates, 2022‑12‑15.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-12-15T00:00:00",
+    "to": "2022-12-15T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

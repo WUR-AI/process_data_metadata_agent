@@ -1,0 +1,7 @@
+{
+  "description": "This dataset captures marine life events, specifically focusing on observations of fish and siphonophores during scientific research cruises. It includes metadata about the events, such as the event identifier, associated media files, and their sizes and hash values. The dataset also provides spatial information with latitude and longitude coordinates, covering locations in the southern hemisphere, and temporal data with dates of the observations. Semantically, the dataset is structured to aggregate and interact with data based on events and media, while also measuring and recording spatial and temporal information. This dataset can be used for studying marine life distributions, tracking specific species, and analyzing the temporal and spatial patterns of marine events. Researchers can leverage this information for ecological studies, conservation efforts, and understanding the dynamics of marine ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Sediment core data with depth, age, elemental concentrations, and location from April 2022.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-04-01T00:00:00",
+    "to": "2022-04-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

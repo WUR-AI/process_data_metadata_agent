@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Oenothera coronopifolia*, a plant species in the Onagraceae family. It includes taxonomic classifications, spatial coordinates, and temporal data from human observations recorded between 2012 and 2025. The records are primarily sourced from iNaturalist, covering locations in the United States, specifically Colorado, Utah, Wyoming, and New Mexico. Each entry provides identifiers, observer details, and media types, alongside quality control issues like coordinate rounding. Researchers can use this data for ecological studies, species distribution modeling, and temporal analysis of plant occurrences in western North America.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

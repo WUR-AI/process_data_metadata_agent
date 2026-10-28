@@ -1,0 +1,7 @@
+{
+  "description": "Eleven flood event measurements per site: location, elevation, trunk counts, 25 boulder diameters, date.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

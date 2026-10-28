@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 occurrence records of the African sharptooth catfish *Clarias gariepinus*, each identified by a unique GBIF ID and occurrence URL. The records span twelve countries and fifteen provinces, with latitude ranging from ‑34.04 to 33.07 degrees and longitude from 0 to 121.46 degrees, and include coordinate uncertainties up to 1 822 metres. Semantic fields capture biodiversity identifiers (gbifID, taxonKey, speciesKey), taxonomic hierarchy (kingdom to species), spatial references (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters), and temporal details (eventDate, day, month, year, dateIdentified). Media are primarily still images, and data quality flags note rounded coordinates and missing taxon IDs. Researchers can use these records for distribution mapping, habitat suitability modelling, and conservation assessments of *Clarias gariepinus* across its African and Asian range.",
+  "spatialCoverage": {
+    "min_lat": -34.04,
+    "min_lon": 0.0,
+    "max_lat": 33.07,
+    "max_lon": 121.46
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

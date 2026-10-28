@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents sediment geochemistry data from two distinct events, capturing environmental parameters across varying depths. It includes measurements of total organic carbon, black carbon, calcium carbonate, pH, and magnetic susceptibility. Grain size distribution is detailed across four specific particle size fractions. The collection also records total phosphorus and heavy metal concentrations, specifically lead, zinc, and copper, alongside sulfur content and isotopic ratios of carbon and nitrogen. Spatial context is provided by latitude, longitude, and elevation coordinates, while temporal data indicates sampling dates in 2018 and 2019. This comprehensive dataset supports research in environmental science and geology, facilitating studies on sediment composition, pollution history, and paleoenvironmental reconstruction.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

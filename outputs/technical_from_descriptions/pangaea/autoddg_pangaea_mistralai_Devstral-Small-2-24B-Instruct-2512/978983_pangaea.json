@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed information on marine sediment composition, including mineralogical and chemical measurements from sediment samples collected at a specific location in the Pacific Ocean. The data includes identifiers for events and samples, sediment depth, and various mineral and compound concentrations such as quartz (Qz), plagioclase (Pl), and sodium chloride (NaCl). The semantic profile indicates that the dataset is structured around geological measurements, with columns representing numeric entities like mineral percentages and spatial references including latitude, longitude, and elevation. Additionally, temporal data is provided through the date and time of sample collection. This dataset can be used for analyzing sedimentary processes, studying mineral distribution in marine environments, and supporting research in geology, oceanography, and environmental science.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

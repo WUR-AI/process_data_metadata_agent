@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of *Lomatium orientale*, a plant species in the carrot family (Apiaceae), recorded primarily in Colorado and South Dakota, USA. The records include taxonomic details, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic classifications, spatial filters (e.g., latitude/longitude), temporal data (e.g., event dates), and attribution fields (e.g., recorded by, identified by). The dataset is useful for ecological studies, species distribution modeling, conservation efforts, and research on plant phenology or habitat preferences. It also supports citizen science initiatives and biodiversity monitoring by providing open-access observations with associated media and quality control notes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

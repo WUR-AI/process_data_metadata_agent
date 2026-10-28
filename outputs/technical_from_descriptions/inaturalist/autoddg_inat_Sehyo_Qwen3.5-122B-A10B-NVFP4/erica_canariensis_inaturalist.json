@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Erica canariensis, primarily recorded in the Canary Islands and Madeira. The records include detailed taxonomic classifications, precise geographic coordinates, and observation dates ranging from 2018 to 2025. Each entry links to external iNaturalist records and provides metadata on the observers and data licenses, mostly under CC BY-NC 4.0. Researchers can utilize this collection to study the species distribution, analyze temporal occurrence patterns, and assess data quality through associated uncertainty metrics. The dataset serves as a valuable resource for biodiversity monitoring and ecological research focused on this specific Ericaceae family member.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

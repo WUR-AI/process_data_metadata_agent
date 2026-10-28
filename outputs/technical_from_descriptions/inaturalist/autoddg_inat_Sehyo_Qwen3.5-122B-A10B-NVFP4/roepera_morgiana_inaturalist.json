@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species Roepera morgiana, primarily recorded in the Western Cape province of South Africa. The records span from 2016 to 2026 and include precise geospatial coordinates, observation dates, and associated media such as still images. Each entry provides detailed taxonomic classification, identification details, and data quality flags to support rigorous analysis. Researchers can utilize this collection for geospatial mapping, temporal trend analysis, and ecological studies focused on this specific species. The data is openly licensed, facilitating its use in biodiversity research and conservation planning efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

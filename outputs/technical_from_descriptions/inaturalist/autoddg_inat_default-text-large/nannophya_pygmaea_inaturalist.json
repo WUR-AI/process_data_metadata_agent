@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 occurrence records of the dragonfly Nannophya pygmaea, each identified by a unique gbifID (primary key) and an external occurrenceID. All records share the same taxonomic hierarchy (kingdom Animalia through species Nannophya pygmaea) and are classified as HUMAN_OBSERVATION with still‑image media. Geographic coordinates span latitudes ‑2.55 to 24.77 and longitudes 0 to 131.39, covering Taiwan, Vietnam, Indonesia, Malaysia, Singapore and the Philippines, with coordinate uncertainty ranging from 0 to 472 metres. Temporal coverage runs from 2006 to 2026, with day, month and year fields extracted for analysis. Licensing is primarily CC BY‑NC 4.0, and records note issues such as rounded coordinates. The semantic profile links biodiversity identifiers (taxonKey, speciesKey), spatial attributes (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters), and temporal attributes (eventDate, day, month, year), enabling precise filtering and integration. Researchers can use these data to map the species’ distribution, study seasonal phenology, assess habitat preferences, or support conservation planning for dragonflies in Southeast Asia.",
+  "spatialCoverage": {
+    "min_lat": -2.55,
+    "min_lon": 0.0,
+    "max_lat": 24.77,
+    "max_lon": 131.39
+  },
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

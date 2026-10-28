@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records soil radiochemical measurements from two events (NEP_1 and NEP_3) collected at coordinates near 48.86 ° N, 10.51 ° E in Austria, at an elevation of about 420 m. It includes seven samples, each with a sample label and a laboratory label, and soil depth values up to 0.85 m. Chemical concentrations of uranium, thorium, potassium, total deuterium and related elements are provided together with their measurement uncertainties. Radiometric age determinations (up to ~9.9 Ma) and a second age estimate are also included. These data support geochemical, geochronological and environmental analyses such as mapping spatial variation of radiogenic elements, assessing soil contamination, and studying landscape evolution. All records share the same survey timestamp of 2023‑04‑03 09:00:00.",
+  "spatialCoverage": {
+    "min_lat": 48.86,
+    "min_lon": 10.51,
+    "max_lat": 48.86,
+    "max_lon": 10.51
+  },
+  "temporalCoverage": {
+    "from": "2023-04-03T09:00:00",
+    "to": "2023-04-03T09:00:00"
+  },
+  "spatial": null,
+  "temporal": null
+}

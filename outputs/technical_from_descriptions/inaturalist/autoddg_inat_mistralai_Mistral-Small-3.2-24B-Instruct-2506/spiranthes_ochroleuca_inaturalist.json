@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Spiranthes ochroleuca, a species of orchid, across various locations in the United States and Canada. The data includes taxonomic details such as kingdom, phylum, class, order, family, genus, and species, as well as location information including country code, state or province, and precise coordinates. Additionally, the dataset contains temporal data such as the date of observation, day, month, and year. The semantic profile of the dataset indicates that it is well-suited for biodiversity studies, with columns representing identifiers, taxonomic classifications, locations, statuses, measurements, and temporal data. This dataset can be used for research on the geographical distribution, habitat preferences, and conservation status of Spiranthes ochroleuca, as well as for broader studies on orchid ecology and biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

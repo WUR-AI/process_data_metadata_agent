@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the beetle species Anaspis maculata, collected from various locations across Europe. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as details on the observation date, location coordinates, and the observer's identity. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with columns representing identifiers, taxonomic classifications, locations, temporal data, and status information. This dataset can be used for studying the distribution and habitat preferences of Anaspis maculata, tracking changes in its population over time, and understanding its ecological role. The observations are licensed under various Creative Commons licenses, ensuring open access for research and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the ant species Formica cunicularia, collected from various locations across Europe. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country codes, state/province, and coordinates. The dataset also provides temporal information, including event dates, days, months, and years, along with attribution details for those who recorded and identified the observations. Additionally, it includes metadata such as media types and data quality issues. The semantic profile of the dataset highlights its focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution markers. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Formica cunicularia, as well as for biodiversity research and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

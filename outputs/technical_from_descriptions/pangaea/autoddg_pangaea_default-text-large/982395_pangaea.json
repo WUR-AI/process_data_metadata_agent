@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records sediment‑geochemistry measurements from two field events (BH‑II and BH‑rec) collected on two dates (July 2018 and August 2019) at a single site in the Bavarian Alps (≈51.41 ° N, 12.08 ° E, elevation up to 113 m). Each record includes a depth of sediment (0–1.05 m), total organic carbon (TOC 0–1.5 %), black carbon (BC 0–28.6 %), calcium carbonate (CaCO₃ 0–15.4 %), pH (0–7.7), grain‑size fractions (2000‑63 µm 0–74.5 µm, 63‑2 µm 0–31.7 µm, <2 µm 0–30.3 µm, <0.2 µm 0–20.4 µm), CPA (0–97.5), and trace‑element concentrations (TP up to 1499.5, Pb 0–23.7, Zn 0–52.1, Cu 0–23.6, S 0–359.1) together with S/V and C/V ratios. Isotopic signatures (δ¹³C ‑26.67 to 0, δ¹⁵N 0–8.34) are also provided. The columns are semantically typed as geological, geochemical, sedimentological, environmental, and geographic measurements, making the data suitable for investigating sediment composition, contaminant distribution, isotopic tracing of sources, and broader environmental monitoring in alpine catchments.",
+  "spatialCoverage": {
+    "min_lat": 51.41,
+    "min_lon": 12.08,
+    "max_lat": 51.41,
+    "max_lon": 12.08
+  },
+  "temporalCoverage": {
+    "from": "2018-07-01T00:00:00",
+    "to": "2019-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

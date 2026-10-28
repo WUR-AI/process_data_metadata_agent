@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Chorizanthe pungens*, including its varieties, recorded primarily in California, USA. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused fields, enabling filtering by taxonomic rank, location, and temporal data. Users can explore spatial distributions, temporal trends, and species variations. The dataset is useful for ecological studies, conservation efforts, and research on plant biodiversity in the region. It supports analyses of species occurrence, habitat preferences, and changes over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

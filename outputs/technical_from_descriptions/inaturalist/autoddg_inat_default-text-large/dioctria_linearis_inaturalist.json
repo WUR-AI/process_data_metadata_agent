@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 occurrence records of the robber fly Dioctria linearis, collected via iNaturalist human observations. It includes a full taxonomic hierarchy from kingdom to species and a single scientific name. Geographic coverage spans eight European countries, with latitude from 45.1 to 55.8 degrees and longitude from ‑4.1 to 40.2 degrees, and coordinate uncertainty up to 61 m. Temporal data cover 2020‑2026, providing day, month and year fields. Each record supplies biodiversity identifiers such as gbifID, occurrenceID and catalogNumber, along with attribution fields (recordedBy, identifiedBy). The semantic profile captures taxonomic, spatial (with uncertainty) and temporal information, and media are still images flagged for coordinate rounding. This dataset can be used to map the species’ distribution, study its phenology and support broader biodiversity monitoring.",
+  "spatialCoverage": {
+    "min_lat": 45.1,
+    "min_lon": -4.1,
+    "max_lat": 55.8,
+    "max_lon": 40.2
+  },
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records Porites coral chemistry from TIAREI‑3B (lat ‑17.506944, lon ‑149.4225, elev ‑15 m) on 1 July 2008. Ages run from –0.057 to 0 years, with a year column (Age_2) from 2001.375 to 2007.375. Sr/Ca values are 8.95–9.125, Mg/Ca 4.09–4.508, δ¹⁸O –4.94 to –4.39, and δ¹³C –3.24 to –1.96. All rows share the same event “TIAREI‑3B” and date, giving a single snapshot for analysis. These climate measurements and precise coordinates support reconstructions of past sea‑surface temperature, salinity, and broader climate variability in coral studies. The columns are semantically labeled as climate variables (age, Sr/Ca, Mg/Ca, isotopic ratios) and geographic references (latitude, longitude, elevation).",
+  "spatialCoverage": {
+    "min_lat": -17.506944,
+    "min_lon": -149.4225,
+    "max_lat": -17.506944,
+    "max_lon": -149.4225
+  },
+  "temporalCoverage": {
+    "from": "2001-04-15T00:00:00",
+    "to": "2007-04-15T00:00:00"
+  },
+  "spatial": null,
+  "temporal": null
+}

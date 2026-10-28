@@ -1,0 +1,7 @@
+{
+  "description": "Table records whale and dolphin sightings with location, time, and certainty from August to October",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

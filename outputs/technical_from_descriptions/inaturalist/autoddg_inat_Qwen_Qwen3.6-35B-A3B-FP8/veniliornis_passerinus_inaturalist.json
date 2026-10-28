@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the species Veniliornis passerinus, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning multiple years. Users can filter records by country, state, or specific dates to analyze spatial and temporal distribution patterns. The data supports research on species ecology and habitat preferences across South America. Each record provides metadata on observers, identification dates, and media types, facilitating detailed ecological studies. Quality control issues are noted for data validation. This resource is ideal for researchers studying avian biodiversity, migration patterns, and conservation efforts in the region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

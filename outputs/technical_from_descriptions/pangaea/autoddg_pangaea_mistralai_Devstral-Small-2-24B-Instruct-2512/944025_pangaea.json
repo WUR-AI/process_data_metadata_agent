@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides detailed sediment chemistry measurements from a single station in the German collector trial pre-impact area, collected in March 2019. It includes concentrations of various chemical elements such as aluminum, barium, calcium, chromium, copper, iron, potassium, lanthanum, lithium, magnesium, manganese, sodium, nickel, phosphorus, strontium, and titanium, along with their relative errors. The data is organized by sediment depth, with measurements taken at different intervals. The dataset also includes spatial references such as latitude, longitude, and elevation, as well as temporal information. This dataset can be used for analyzing sediment composition, studying the distribution of chemical elements in marine sediments, and understanding the environmental conditions at the sampling location. The semantic profile indicates that the data is domain-specific to geological studies, with columns serving as aggregation keys, spatial references, temporal references, and measurement values.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-03-01T00:00:00",
+    "to": "2019-03-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

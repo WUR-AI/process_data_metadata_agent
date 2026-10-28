@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed information on sediment composition from the Santiurde section, including measurements of quartz (Qz), clay, calcite (Cal), gypsum (Gp), dolomite (Dol), and pyrite (Py) content. Each sample is uniquely identified and labeled, with additional metadata such as thickness, ratio, and stratigraphic height. The dataset also includes spatial references with latitude, longitude, and elevation, allowing for geographic analysis. While temporal data is missing, the measurements cover a range of geological properties, making it useful for studying sedimentary processes, mineral distribution, and stratigraphic correlations. Researchers can use this data to analyze sedimentary patterns, assess environmental conditions, or compare with other geological datasets for broader insights.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

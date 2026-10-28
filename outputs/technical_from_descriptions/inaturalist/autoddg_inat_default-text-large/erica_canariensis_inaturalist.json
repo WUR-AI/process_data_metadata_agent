@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 records of Erica canariensis from iNaturalist, all under GBIF dataset key. Each record provides a gbifID and occurrenceID, hierarchy (kingdom to species) and scientific name with authorship, and country (ES or PT) with region for Canary Islands or Madeira. Coordinates span 27.7°–32.8° latitude and –17.99°––15.60° longitude, with uncertainty up to 29 607 m. Event dates include day, month and year, and media are images under CC‑BY‑NC‑4.0/CC‑BY‑4.0 licenses. Profile shows latitude, longitude and uncertainty support mapping, eventDate enables temporal analysis, identifiedBy, recordedBy, rightsHolder give attribution. Data can be used to map species’ distribution, examine phenology, model habitat preferences, or inform conservation decisions.",
+  "spatialCoverage": {
+    "min_lat": 27.7,
+    "min_lon": -17.99,
+    "max_lat": 32.8,
+    "max_lon": -15.6
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

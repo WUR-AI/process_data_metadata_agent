@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the orchid species Spiranthes ochroleuca, primarily sourced from iNaturalist. The records span multiple years, with observations concentrated in the United States and Canada across various states and provinces. Each entry includes precise taxonomic classification, geographic coordinates, and event dates, allowing researchers to analyze the species' distribution and seasonal presence. While elevation and depth data are largely missing, the dataset provides robust spatial and temporal metadata, including coordinate uncertainty and media types like still images. Users can leverage this information for biodiversity monitoring, conservation planning, and studying the phenology of this specific orchid in North American habitats.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

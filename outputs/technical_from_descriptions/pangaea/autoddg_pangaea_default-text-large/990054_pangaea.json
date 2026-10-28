@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 ice‑core samples from the MOSAiC campaign, collected across 13 events between November 2019 and July 2020. Latitude ranges from 0 to 87.45° N and longitude from –0.485 to 120.85° E; depths reach 1.8 m and elevations span –4420 m to sea level. Columns record geographic coordinates, the Ice Corer Kovacs Mark II instrument, section labels, depth ranges, and concentrations of chlorophyll‑a and phaeophytin. Semantic metadata classifies these fields as climate‑research identifiers, glaciological measurements, and oceanographic chemical data. The data support analyses of Arctic ice‑core chemistry, snow‑ice stratigraphy, and reconstruction of past climate conditions.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -0.485,
+    "max_lat": 87.45,
+    "max_lon": 120.85
+  },
+  "temporalCoverage": {
+    "from": "2019-11-01T00:00:00",
+    "to": "2020-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

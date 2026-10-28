@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Wisteriopsis reticulata, a plant species in the Fabaceae family, collected from various locations in Taiwan. The records include taxonomic information such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like decimal latitude and longitude, and temporal data such as event date, day, month, and year. Each observation is attributed to a recorder and identified by a taxonomist, with additional metadata including license information and media types. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and occurrence of Wisteriopsis reticulata in Taiwan. It provides valuable insights into the species' habitat, temporal patterns, and spatial distribution, aiding in conservation efforts and scientific analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

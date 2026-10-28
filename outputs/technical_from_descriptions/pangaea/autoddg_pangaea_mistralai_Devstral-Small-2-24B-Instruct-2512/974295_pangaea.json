@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Antarctic radar data collected during the 1997/98 season, featuring measurements from the EMR instrument with two radar product types (60 ns and 600 ns pulse). Each of the 20 profiles includes a unique identifier, file paths for netCDF data (ranging from 7.9 to 227.5 MB), GIS spatial data in KML format, and corresponding radar images. The semantic profile highlights temporal (season), identification (profile ID), equipment (instrument), and product specification (radar type) as key categorization fields, while file paths and sizes serve as data references. This dataset is valuable for climate research, particularly for analyzing Antarctic ice sheet characteristics, radar signal processing, and spatial-temporal variations in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1997-01-01T00:00:00",
+    "to": "1998-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

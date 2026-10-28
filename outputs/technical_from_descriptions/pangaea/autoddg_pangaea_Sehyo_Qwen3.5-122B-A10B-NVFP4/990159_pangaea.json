@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains sediment core measurements from a single geological event collected on April 8, 2022, at an elevation of 1,430 meters. The records include precise depth intervals ranging from 0 to 0.24 meters, alongside detailed isotopic analysis of Lead-210 (210Pb). Specifically, the data provides values for total, supported, and unsupported 210Pb concentrations, complete with their respective standard deviations. All samples originate from a specific location near latitude 21.28 and longitude -104.69. Researchers can utilize this sediment isotope data to reconstruct environmental histories, determine sedimentation rates, and analyze geochronological patterns within the studied region.",
+  "spatialCoverage": {
+    "min_lat": 21.28,
+    "min_lon": -104.69,
+    "max_lat": 21.28,
+    "max_lon": -104.69
+  },
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

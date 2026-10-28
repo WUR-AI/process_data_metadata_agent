@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Roepera morgiana*, collected from the Western Cape region of South Africa. The records include taxonomic details such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, country code, and state/province. Temporal information includes event dates, days, months, and years, allowing for temporal filtering. Each observation is attributed to a recorder and identifier, with associated metadata such as license and media type. The dataset also includes identifiers like GBIF ID, dataset key, and occurrence ID, which serve as aggregation keys for biodiversity data. Observations are classified under the basis of record as human observations, and issues such as coordinate rounding and taxon ID mismatches are noted. This dataset can be used for biodiversity research, ecological studies, and conservation efforts focused on *Roepera morgiana*, enabling analysis of its distribution, temporal trends, and environmental interactions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

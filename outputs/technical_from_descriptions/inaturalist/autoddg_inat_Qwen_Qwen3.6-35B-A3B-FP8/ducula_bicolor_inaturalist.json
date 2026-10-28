@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the species Ducula bicolor, sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom through species, alongside precise spatial data with decimal latitude and longitude coordinates. The records span various countries and states, covering event dates from 2019 to 2026. Users can leverage this data for biodiversity research, species distribution mapping, and temporal trend analysis. The inclusion of observer details, media types, and quality control issues supports robust ecological studies and validation of species presence across its geographic range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

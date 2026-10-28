@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Crasilogia gressitti, recorded primarily in Queensland and New South Wales, Australia. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates and observation dates. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with columns representing identifiers, taxonomic classifications, locations, and temporal data. This dataset can be used for studying the distribution and habitat of Crasilogia gressitti, tracking changes in moth populations over time, and supporting conservation efforts. The observations are licensed under CC_BY_NC_4_0, ensuring that the data can be used for non-commercial research and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

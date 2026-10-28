@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the species Luridiblatta trivittata, a cockroach found primarily in California, United States. Each record includes detailed taxonomic classification, precise geolocation coordinates, and observation dates ranging from 2013 to 2025. The data is sourced from iNaturalist and includes associated media such as still images, along with information on the observers and identification dates. Semantic fields cover standard biodiversity attributes like taxon keys, occurrence status, and coordinate uncertainty, ensuring high data quality for analysis. Researchers can utilize this dataset to study the distribution patterns, seasonal activity, and ecological presence of this specific insect species within its native habitat.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

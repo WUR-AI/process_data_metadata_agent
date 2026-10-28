@@ -1,0 +1,10 @@
+{
+  "description": "Environmental aerosol data with ion concentrations, locations, and timestamps from May to July 2017.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-05-01T00:00:00",
+    "to": "2017-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

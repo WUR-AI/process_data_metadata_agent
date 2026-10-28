@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents sediment geochemistry measurements collected from a single station during a 2022 environmental event at a depth of approximately 1,227 meters. It includes 18 sediment samples analyzed for various chemical compounds and elements, such as nitrate, ammonium, phosphate, and major ions like chloride and sulfate, alongside trace metals including iron, manganese, and barium. The data provides precise spatial coordinates and temporal references, allowing researchers to investigate vertical chemical gradients within the sediment column. This resource is particularly valuable for studying biogeochemical cycling, nutrient dynamics, and contaminant distribution in deep-sea marine environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

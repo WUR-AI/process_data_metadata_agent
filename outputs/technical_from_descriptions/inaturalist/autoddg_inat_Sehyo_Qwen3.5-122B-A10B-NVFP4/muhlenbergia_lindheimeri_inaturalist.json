@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of Lindheimer Muhly Grass (Muhlenbergia lindheimeri) recorded primarily in Texas and one instance in California. The records span from 2019 to 2026 and include precise geospatial coordinates, elevation data, and observation dates. Each entry provides full taxonomic classification from kingdom to species, along with identifiers linking to the iNaturalist platform. The data is suitable for analyzing the species' distribution patterns, seasonal occurrence, and habitat preferences across different elevations. Researchers can utilize the provided media links and provenance information to verify sightings and study the ecological context of this native grass species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

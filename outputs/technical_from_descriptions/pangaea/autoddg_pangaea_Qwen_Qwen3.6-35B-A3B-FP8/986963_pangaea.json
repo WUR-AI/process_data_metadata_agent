@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents Arctic sediment geochemistry, featuring samples from eight distinct events across the Arctic region. It includes geospatial coordinates, sediment depth, and elevation, alongside temporal data ranging from 1879 to 2019. Key geochemical measurements encompass Total Organic Carbon, Total Inorganic Carbon, and Total Nitrogen, as well as stable isotope ratios for carbon and nitrogen. Sedimentological analysis provides grain size distribution across three fractions. The data supports research into historical environmental changes, sediment accumulation rates, and biogeochemical cycling in high-latitude marine environments, offering valuable insights into past climate conditions and ecosystem dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1879-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "The dataset contains 20 iNaturalist occurrence records of Roepera morgiana from South Africa’s Western Cape. Each entry provides GBIF and occurrence identifiers, the complete taxonomic hierarchy, precise latitude/longitude with uncertainty, event dates from 2016 to 2026, and StillImage media. Semantic columns encode biodiversity identifiers, categorical taxon attributes, spatial measurements, timestamps, and observer attribution, with CC BY‑NC 4.0 or CC BY 4.0 licenses. Researchers can use the data for distribution mapping, phenology analysis, and conservation planning of this species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

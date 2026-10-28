@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the sponge species Hymeniacidon perlevis, collected from various locations around the world. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic details like country code, state or province, and precise coordinates. Each observation is recorded with a unique identifier, and additional metadata includes the date of the observation, the person who recorded it, and the license under which the data is shared. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classification and aggregation keys. This dataset can be used for studying the distribution and habitat of Hymeniacidon perlevis, as well as for broader research on sponge ecology and marine biodiversity. The observations span multiple years and locations, providing a comprehensive overview of this species' presence in different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

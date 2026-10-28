@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains Arctic ice core samples collected during the MOSAiC campaign using an Ice Corer Kovacs Mark II. It includes spatial coordinates, precise timestamps, and detailed depth measurements ranging from the surface to over 180 centimeters. The records feature key biological metrics such as chlorophyll a and phaeophytin concentrations, alongside elevation data. These measurements support climate research by enabling the analysis of seasonal variations in sea ice properties and biological productivity. Researchers can utilize this data to aggregate findings by specific events or activities, facilitating comprehensive studies on Arctic environmental changes and ice dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

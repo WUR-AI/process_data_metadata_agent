@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the fly species Physiphora alceae, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning from 2017 to 2026. The records capture human observations across multiple countries, providing insights into the species' global distribution. Users can leverage this data for spatial filtering, temporal analysis, and ecological studies. The dataset supports research on species range expansion and habitat preferences, offering valuable metadata on identification, licensing, and data quality issues for comprehensive biodiversity assessments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

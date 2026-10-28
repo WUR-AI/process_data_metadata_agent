@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains high-precision geospatial measurements collected during a river delta survey at the Elwha River Delta in March 2011. It includes latitude, longitude, and elevation coordinates recorded alongside specific timestamps, providing a detailed spatial and temporal record of the area. The data features horizontal and vertical root mean square error values to indicate measurement accuracy, with all entries showing a fixed status. Each record is linked to specific survey profiles and device identifiers, allowing for granular analysis of the delta's topography. Researchers can use this information to model sediment changes, monitor coastal erosion, or validate remote sensing data for environmental management and restoration projects.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2011-03-01T00:00:00",
+    "to": "2011-03-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

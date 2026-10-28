@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental science data on B. saida specimens, expeditions, and locations (2012-2021).",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2021-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

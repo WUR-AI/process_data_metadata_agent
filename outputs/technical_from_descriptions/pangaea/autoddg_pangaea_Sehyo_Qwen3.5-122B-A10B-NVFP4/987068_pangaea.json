@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains sediment geochemistry measurements collected from a single oceanographic event, identified as GeoB16310-3, at a specific location in the Gulf of Mexico. The records include depth intervals ranging from 0 to 10.38 meters, alongside corresponding Total Organic Carbon (TOC) and Total Inorganic Carbon (TIC) concentrations. All samples were taken at a consistent elevation of -573 meters on March 23, 2012. The data provides high-resolution spatial and temporal context, making it ideal for analyzing vertical sediment profiles and understanding carbon cycling processes in marine environments. Researchers can utilize these measurements to investigate geochemical variations within the sediment column at this specific site.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-23T00:00:00",
+    "to": "2012-03-23T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

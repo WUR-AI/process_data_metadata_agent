@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises 20 iNaturalist occurrence records of the butterfly *Telicota colon* (Fabricius, 1775) from Australia, Singapore, India, Thailand and Malaysia. Each record is uniquely identified by a GBIF ID (primary key) and an external occurrence URL, and includes the full taxonomic hierarchy (kingdom to species) as well as the scientific name in both canonical and verbatim forms. Geographic coordinates span latitudes ‑28.12 to 21.32 and longitudes 0 to 153.54, with coordinate uncertainty values ranging from 4 to 572 metres. Event dates cover 2012 through 2025, and fields such as day, month and year enable temporal aggregation. The semantic profile highlights biodiversity‑specific identifiers (gbifID, taxonKey, speciesKey), spatial data (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters), temporal data (eventDate, dateIdentified), media type (still images) and data‑quality flags (issues). Researchers can use the data to map the species’ distribution, analyse seasonal phenology, assess habitat use across regions, and support conservation monitoring of this butterfly.",
+  "spatialCoverage": {
+    "min_lat": -28.12,
+    "min_lon": 0.0,
+    "max_lat": 21.32,
+    "max_lon": 153.54
+  },
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

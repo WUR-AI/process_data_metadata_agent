@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains twenty human‑observation records of the plant Tiedemannia filiformis, all drawn from a single iNaturalist dataset (datasetKey 50c9509d‑22c7‑4a22‑a47d‑8c48425ef4a7). Each occurrence is uniquely identified by a gbifID and an external occurrenceID, and is classified taxonomically from kingdom down to species, with the scientific name recorded in both canonical and verbatim forms. Geographic information includes precise decimal latitude and longitude (ranging from 25.38 to 30.51 degrees north and ‑82.66 to ‑80.66 degrees west) and a coordinate‑uncertainty field measured in metres. Temporal fields capture the event date and derived day, month and year components, while provenance is documented through publishingOrgKey, institutionCode, collectionCode, catalogNumber and the identifiers of the observers and identifiers. MediaType indicates that still images accompany each record, and the issue field flags coordinate rounding and taxon‑ID problems. Because the data provide fine‑scale distribution, phenology and attribution details, they are valuable for mapping the range of Tiedemannia filiformis, studying its habitat preferences, monitoring seasonal patterns, and supporting taxonomic or conservation analyses.",
+  "spatialCoverage": {
+    "min_lat": 25.38,
+    "min_lon": -82.66,
+    "max_lat": 30.51,
+    "max_lon": -80.66
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the fungus *Mycena renati*, sourced from iNaturalist. It includes detailed taxonomic classifications, spatial coordinates, and temporal data for occurrences across multiple European countries. The records are primarily human observations, featuring media attachments and identification metadata. Users can leverage this data for ecological studies, species distribution mapping, and biodiversity monitoring. The dataset supports research into fungal habitats and phenology, offering valuable insights into the presence and abundance of *Mycena renati* in various regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

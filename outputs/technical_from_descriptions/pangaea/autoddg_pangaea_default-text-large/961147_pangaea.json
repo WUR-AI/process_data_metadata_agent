@@ -1,0 +1,10 @@
+{
+  "description": "The dataset includes twenty salp samples from three expeditions between 2006 and 2021. Each entry lists an event code, sample ID, expedition name, date‑time stamp and sampling year. Samples were collected on three research vessels using gear at depths to 406 m. Measured variables include size, tissue type, life stage, specimen count, mass, dry mass, ash‑free dry mass and biochemical ratios such as C/N, C/H and H/C. Metadata label columns as sampling events, taxonomic identifiers, depth and biochemical attributes, supporting marine biodiversity and biogeochemistry analyses. Researchers can use the data to examine spatial and temporal variation in salp composition, nutrient ratios and carbon flux in pelagic ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2021-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

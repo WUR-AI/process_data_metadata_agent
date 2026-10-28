@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides a comprehensive catalog of scientific resources focused on Baltic Sea pCO2, including both a climatology and a long-term trend analysis. The collection consists of two text-based CSV files, with the climatology file being significantly larger at 7.3 megabytes compared to the 366 kilobyte trend file. Each entry includes a unique file hash to ensure data integrity and verify the specific version of the dataset. Researchers can utilize these files to access aggregated regional climate data, facilitating detailed studies on carbon dioxide levels and their temporal changes within the Baltic Sea ecosystem. The provided metadata supports effective data management and reliable integration into broader environmental monitoring systems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

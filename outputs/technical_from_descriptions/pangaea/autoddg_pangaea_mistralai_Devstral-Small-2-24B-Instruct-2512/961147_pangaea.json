@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on the biochemistry of Salpida, a group of pelagic tunicates, providing detailed measurements of carbon, nitrogen, and hydrogen content, as well as ash mass and water content in various tissue samples. The data includes samples collected from multiple expeditions across the Southern Ocean, Chatham Rise, and the Northeast Pacific, with precise geographic coordinates and sampling depths. Key variables include species identification, size, life stage, and biochemical composition, enabling analysis of elemental ratios and tissue properties. The dataset is structured with semantic annotations, linking species identifiers to taxonomic databases and categorizing measurements by biological and oceanographic contexts. Researchers can use this data to study the biochemical adaptations of Salpida in different marine environments, compare tissue composition across species and life stages, and explore the ecological implications of their biogeochemical roles in ocean ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains Noah-MP land cover simulation data from the Katharinentalerhof Pforzheim event. It includes twelve files in CSV and DAT formats, ranging from 6 to 9240 bytes. The data is geospatially located at latitude 48.92 and longitude 8.7. File names serve as unique identifiers, while file formats and sizes provide metadata. The URL file column offers direct references to the data sources. Although the event acts as an aggregation key, the date and time fields are currently missing. This collection supports research into land cover variations, specifically testing different mixed pixel scenarios like ECC and LCC combinations. Researchers can use these files to analyze model performance and environmental impacts associated with specific land cover classifications in this region.",
+  "spatialCoverage": {
+    "min_lat": 48.92,
+    "min_lon": 8.7,
+    "max_lat": 48.92,
+    "max_lon": 8.7
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

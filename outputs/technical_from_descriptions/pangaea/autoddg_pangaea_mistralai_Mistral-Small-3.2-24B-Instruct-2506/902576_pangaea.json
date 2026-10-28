@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Antarctic Permafrost, providing valuable information for climate research and environmental studies. It includes measurements of Mean Annual Ground Temperature (MAGT), MAGT Standard Deviation (MAGTSTD), and Permafrost Probability Fraction (PERPROB), all of which are crucial for understanding permafrost dynamics. The dataset consists of four files, each with a unique name and format, primarily in ZIP format. File sizes range from approximately 716.7 to 1908.86 units, and each file is accessible via a unique URL. Semantically, the dataset columns represent measurements, files, numeric entities, and URLs, with specific functions such as identification and access. This dataset can be used to analyze permafrost conditions, assess climate change impacts, and support environmental monitoring and modeling efforts in Antarctic regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

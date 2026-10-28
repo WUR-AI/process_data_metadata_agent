@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species Chorizanthe pungens, commonly known as spineflower, primarily within California, United States. The records include detailed taxonomic classifications ranging from family to variety, alongside precise geospatial coordinates and observation timestamps spanning from 2013 to 2026. Each entry links to external iNaturalist observations and provides provenance information regarding the observers and data licenses. Researchers can utilize this collection for geospatial analysis of species distribution, studying phenological patterns over time, and assessing data quality through associated uncertainty metrics. The inclusion of media types and identification details further supports ecological monitoring and biodiversity research efforts focused on this specific taxon.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

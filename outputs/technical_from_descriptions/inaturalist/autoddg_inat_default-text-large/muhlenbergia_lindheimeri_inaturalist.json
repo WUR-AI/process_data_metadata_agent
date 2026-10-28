@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 iNaturalist observations of the grass Muhlenbergia lindheimeri, each with a unique GBIF occurrence ID and a URL link to the original record. Full taxonomic classification from kingdom to species and the scientific name are provided, along with decimal latitude and longitude (≈30.0‑30.87 N, –99.56‑0 W) and coordinate uncertainty up to 435 m. Observation dates range from 2019 to 2026 and each record includes still‑image media, flagged for issues such as rounded coordinates. Licenses are CC‑BY‑NC 4.0 or CC0, allowing reuse for distribution modelling, phenology analysis, or educational projects on this Texas‑native species.",
+  "spatialCoverage": {
+    "min_lat": 30.0,
+    "min_lon": -99.56,
+    "max_lat": 30.87,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

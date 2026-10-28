@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records measurements from a single ice‑core sample (Core = WDC06A) collected at a fixed site in Antarctica (latitude ‑79.46763°, longitude ‑112.08648°, elevation 1766 m) on 9 December 2006. It contains 20 observations spanning depths from 0 to 2 532.56 cm of ice/snow and gas‑age values from 0 to 20.56 years. For each depth the isotopic ratios δ¹⁸O, δ¹⁸O₂, Δ³⁶ and Δ³⁶₂ are provided, with values ranging respectively from 0 to 1.91, 0 to 1.74, and 0 to 2.22. All columns are typed appropriately (floats for measurements, integers for elevation, text for identifiers). The semantic profile shows that the core, depth, gas age and isotopic columns are glaciological measurements, while latitude, longitude, elevation and date/time give precise spatial‑temporal context. Researchers can use these data to reconstruct past climate conditions, analyze isotopic variations, and investigate the age of trapped atmospheric gases in ice‑core records.",
+  "spatialCoverage": {
+    "min_lat": -79.46763,
+    "min_lon": -112.08648,
+    "max_lat": -79.46763,
+    "max_lon": -112.08648
+  },
+  "temporalCoverage": {
+    "from": "2006-12-09T00:00:00",
+    "to": "2006-12-09T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

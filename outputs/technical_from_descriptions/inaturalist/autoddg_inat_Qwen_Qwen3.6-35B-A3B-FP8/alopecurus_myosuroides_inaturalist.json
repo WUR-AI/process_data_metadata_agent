@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Alopecurus myosuroides, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning multiple years and European countries. The records are primarily human observations, providing spatial and temporal insights into the species' distribution. Users can leverage this data for ecological studies, species distribution modeling, and biodiversity monitoring. The dataset supports research on plant ecology and conservation by offering detailed occurrence records with associated metadata, including observer information and media attachments, facilitating comprehensive analysis of this grass species across its range.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

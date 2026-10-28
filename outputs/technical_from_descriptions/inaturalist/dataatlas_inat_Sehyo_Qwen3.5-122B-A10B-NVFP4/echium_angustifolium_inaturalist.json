@@ -1,0 +1,10 @@
+{
+  "description": "This table contains 1,002 records of Echium angustifolium species occurrences from 2000 to 2026.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2000-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Arctic FDOM data collected during four expeditions in 2019, featuring 20 unique measurement events across various stations. The records include precise spatial coordinates and timestamps, alongside water depth measurements ranging from 0.3 to 1.0 meters. Key variables consist of three IFDOM fluorescence components and four FDOM fluorescence peaks, which characterize dissolved organic matter. Additionally, the dataset provides three fluorescence indices (FI, HI, and BI) essential for water quality assessment. Researchers can utilize this information to analyze the spatial and temporal distribution of fluorescent dissolved organic matter in Arctic waters, supporting studies on hydrology and environmental changes in the region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

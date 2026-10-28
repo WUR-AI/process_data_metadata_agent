@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of Cassin's Auklet, scientifically known as Ptychoramphus aleuticus, sourced primarily from iNaturalist. The records span multiple years and cover locations across the United States, including California, Oregon, and Mexico, as well as British Columbia in Canada. Each entry includes precise geolocation coordinates, observation dates, and taxonomic classifications from kingdom to species level. The data is enriched with provenance details such as observer names, identification dates, and associated media like still images. Researchers can utilize this collection for temporal and spatial analysis of the species' distribution, population trends, and habitat preferences along the Pacific coast.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

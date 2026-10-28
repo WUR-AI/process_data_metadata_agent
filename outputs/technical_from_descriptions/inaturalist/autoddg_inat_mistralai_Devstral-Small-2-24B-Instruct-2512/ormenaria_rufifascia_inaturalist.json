@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Florida Flatidae, specifically the species *Ormenaria rufifascia*, a type of planthopper. The data includes taxonomic classifications, geographic locations in Florida and South Carolina, and observation details such as dates, identifiers, and contributors. Key fields provide spatial (latitude/longitude), temporal (event dates), and taxonomic information, enabling filtering and analysis. The dataset is sourced from iNaturalist and includes metadata like licenses, rights holders, and media types. It can be used for biodiversity studies, species distribution mapping, and ecological research, particularly in understanding the presence and behavior of *Ormenaria rufifascia* in the southeastern United States. The semantic profile highlights its utility for aggregation, spatial, and temporal filtering, making it valuable for researchers and conservationists.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

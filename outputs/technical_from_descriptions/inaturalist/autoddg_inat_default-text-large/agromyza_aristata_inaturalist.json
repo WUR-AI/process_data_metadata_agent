@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises 20 occurrence records of the leaf‑miner fly Agromyza aristata, each identified by a unique gbifID and catalogNumber and linked to a persistent occurrenceID URL. All records share the same taxonomic hierarchy (kingdom Animalia through species Agromyza aristata) and are classified as HUMAN_OBSERVATION records from the iNaturalist platform, with media limited to still images under CC‑BY‑NC or CC0 licences. Geographically, the observations cover twelve US states and two Canadian provinces, with decimal latitudes ranging from 30.79 to 49.88 and longitudes from ‑97.12 to 0, and coordinate uncertainties from 3 to 28 090 meters. Temporally, the events span 2020‑2025, providing day, month and year components for each sighting. The semantic profile highlights identifiers for biodiversity entities, precise geospatial coordinates, and temporal metadata, enabling robust filtering by location, date or contributor. Researchers can use these data to map the distribution, assess seasonal activity, or model habitat preferences of Agromyza aristata across North America.",
+  "spatialCoverage": {
+    "min_lat": 30.79,
+    "min_lon": -97.12,
+    "max_lat": 49.88,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

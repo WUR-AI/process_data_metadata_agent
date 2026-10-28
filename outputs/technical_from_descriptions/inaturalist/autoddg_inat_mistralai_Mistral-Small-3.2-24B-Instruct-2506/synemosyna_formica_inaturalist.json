@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the spider species Synemosyna formica, collected from various locations in the United States and Canada. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location data with coordinates and uncertainty measurements. Temporal data includes the date of observation, broken down into day, month, and year. The dataset also includes identifiers for the observations, datasets, and taxa, as well as information about the observers and the licensing of the data. The semantic profile indicates that the dataset is focused on biodiversity, with a strong emphasis on taxonomic classification and spatial data. This dataset can be used for studying the distribution and habitat of Synemosyna formica, as well as for broader research on spider ecology and behavior. The data can also be used to analyze the temporal patterns of spider observations and to study the impact of environmental factors on spider populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

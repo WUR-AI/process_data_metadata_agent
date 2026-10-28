@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Lychnosea intermicata* (Walker, 1862) from the United States, primarily in Texas, with additional records from Louisiana, Missouri, Oklahoma, Arkansas, and Alabama. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. Semantically, the dataset is structured around biodiversity, with columns representing taxonomic ranks, spatial and temporal filters, and attribution details. It can be used for ecological studies, species distribution modeling, and citizen science research, particularly in tracking moth populations and their habitats. The observations are sourced from iNaturalist and include human-verified records with associated images.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "21 sediment samples with geochemical, isotopic, and spatial measurements across July‑2018‑2019.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-07-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

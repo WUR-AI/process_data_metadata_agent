@@ -1,0 +1,7 @@
+{
+  "description": "This dataset documents a laboratory experiment investigating zooplankton and phytoplankton dynamics. It contains 20 records tracking the pulsation rates of X. umbellata across 11 distinct tanks. The study compares four treatment groups, including control, DOC, zooplankton, and phytoplankton conditions, over a period ranging from 0 to 28 days. The primary measurement, X. umbellata pulsation, is recorded as a float value between 0 and 40.0. Researchers can use this data to analyze how different biological treatments and time intervals affect organism behavior. The structured format allows for easy aggregation by tank and classification by treatment type, facilitating statistical analysis of experimental outcomes in biological science contexts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

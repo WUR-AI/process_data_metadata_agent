@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles radiocarbon dating results from archaeological sites across Borneo, covering locations in Indonesia and Malaysia. It includes 20 unique entries from 13 sites, providing detailed information on laboratory labels, dating methods, and both uncalibrated and calibrated age ranges in millennia. The data serves as a critical resource for researchers studying the chronology of human occupation, pottery development, and cultural transitions in the region. Users can leverage this collection to aggregate findings by country or province, analyze temporal trends, and cite specific references for further archaeological investigation into the prehistory of Island Southeast Asia.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

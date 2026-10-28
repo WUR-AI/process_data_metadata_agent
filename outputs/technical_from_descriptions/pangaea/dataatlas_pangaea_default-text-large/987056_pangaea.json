@@ -1,0 +1,10 @@
+{
+  "description": "Fifteen sediment observations on 2012‑03‑22 with depth, TOC, TIC, event, location, elevation, timestamp.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-22T00:00:00",
+    "to": "2012-03-22T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

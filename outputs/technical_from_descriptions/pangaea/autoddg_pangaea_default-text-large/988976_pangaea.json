@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records a paleoecological event (Event = AMK75‑6150) from a sediment core collected at 74.78 °N, 8.44 °E and an elevation of –3013 m. For each of 20 depth intervals (Depth sed 0–0.295 m) it provides the estimated age in million years (0–2.75 Ma) and quantitative diatom measurements, including total diatom concentration (0–661 444 units) and groups such as warm, cold, ice‑neritic, sea‑ice, sublittoral and freshwater diatoms. Individual species abundances (e.g., A. septentrionalis, F. oceanica, C. radiatus) are given as floats. All taxonomic columns are paleoecological indicators. The data can be used to reconstruct past marine and glacial environments, infer climate change, and calibrate diatom‑based transfer functions for paleo‑temperature and sea‑ice reconstructions.",
+  "spatialCoverage": {
+    "min_lat": 74.78,
+    "min_lon": 8.44,
+    "max_lat": 74.78,
+    "max_lon": 8.44
+  },
+  "temporalCoverage": {
+    "from": "2.75-01-01T00:00:00",
+    "to": "0-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

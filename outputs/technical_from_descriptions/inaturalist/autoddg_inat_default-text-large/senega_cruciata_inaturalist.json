@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 occurrence records of the plant Senega cruciata collected across the United States, mainly in Florida, Louisiana, Mississippi and Tennessee. Each record is uniquely identified by a gbifID and occurrenceID and includes the full taxonomic hierarchy from kingdom to species, with the scientific name recorded verbatim. Geographic coordinates are given as decimal latitude (0 to 30.64) and longitude (‑89.97 to 0) together with an uncertainty ranging from 4 to 29 407 meters. Event dates and derived day, month and year fields provide temporal context, while attribution fields list the observer, identifier and licensing (CC‑BY‑NC‑4.0, CC‑BY‑4.0, CC0‑1.0). Media are still images and issues such as coordinate rounding are flagged. The data support biodiversity research, species‑distribution modelling and conservation planning for Senega cruciata.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -89.97,
+    "max_lat": 30.64,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

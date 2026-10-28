@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Tiedemannia filiformis, primarily recorded in Florida, with additional records from Texas and Louisiana. The data includes detailed taxonomic classifications, precise geographic coordinates, and event dates ranging from 2017 to 2026. Most records are accompanied by still images and are attributed to various citizen scientists via the iNaturalist platform. Researchers can utilize this collection to study the species distribution, phenology, and habitat preferences across the southeastern United States. The dataset adheres to biodiversity standards, offering structured fields for location, time, and identification, making it suitable for ecological modeling and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

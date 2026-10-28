@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Hibbertia hypericoides, primarily recorded in Western Australia. The records include detailed taxonomic classifications ranging from kingdom to subspecies, alongside precise geospatial coordinates and temporal data spanning from 2001 to 2026. Each entry is linked to specific observers and often includes associated media such as still images. The data is structured with unique identifiers for both occurrences and taxa, facilitating integration with broader biodiversity networks. Researchers can utilize this collection to analyze the distribution patterns, seasonal occurrence, and habitat preferences of this species, while the included quality flags help assess the reliability of specific coordinate and taxonomic entries.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2001-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

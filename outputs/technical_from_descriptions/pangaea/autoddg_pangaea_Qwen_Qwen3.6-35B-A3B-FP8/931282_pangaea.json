@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides metadata for zip file aggregations, specifically focusing on binary data associated with the UPC event. It contains file names, types, and sizes, alongside precise geospatial coordinates including latitude, longitude, and elevation. The data is centered around a specific location with an elevation of 115 meters. Temporal information is recorded by day, with entries dated March 11, 2020. This collection serves as a resource for analyzing file distribution and storage metrics within a defined geographic context. Researchers can utilize this information to study data aggregation patterns, classify file formats, and measure spatial distributions of digital assets for archival or logistical purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-03-11T00:00:00",
+    "to": "2020-03-11T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "day"
+}

@@ -1,0 +1,10 @@
+{
+  "description": "The dataset records measurements of Macoma balthica shells collected during expedition EMB320 in Rönnebank, Baltic Sea, in June 2023. It includes two site categories: reference area and marine protected area. Shell‑length values range from 1 to 18 mm, and frequency counts range from 1 to 107 individuals. The data are organized by expedition, location, sampling month, and site, serving as aggregation keys for spatial and temporal analysis. Researchers can use the dataset to compare abundance and size distribution of M. balthica between protected and reference habitats, assess seasonal patterns, or support marine biodiversity monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-06-01T00:00:00",
+    "to": "2023-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

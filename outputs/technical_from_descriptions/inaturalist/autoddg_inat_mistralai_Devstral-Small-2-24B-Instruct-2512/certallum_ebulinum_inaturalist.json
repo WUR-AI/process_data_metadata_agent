@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the longhorn beetle species *Certallum ebulinum*, a member of the Cerambycidae family. The records include taxonomic classifications, geographic locations across multiple countries, and temporal data spanning from 2019 to 2026. Each observation is enriched with metadata such as observer details, identification dates, and licensing information, ensuring proper attribution and usage rights. The dataset also highlights potential data quality issues, such as coordinate rounding and taxon identification challenges. Researchers and biodiversity enthusiasts can use this data to study the distribution, habitat preferences, and seasonal activity patterns of *Certallum ebulinum*, supporting conservation efforts and ecological research. The semantic profile emphasizes taxonomic, spatial, and temporal filtering capabilities, making it valuable for targeted analyses in biodiversity studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

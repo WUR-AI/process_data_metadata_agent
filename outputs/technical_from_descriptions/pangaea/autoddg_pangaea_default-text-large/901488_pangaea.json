@@ -1,0 +1,12 @@
+{
+  "description": "This dataset records geospatial measurements taken along the Elwha River, with latitude values ranging from 0 to 49.570179 degrees and longitude from ‑125.9387874 to 0 degrees, and elevations between 0 and 4.66 meters. Each observation includes a timestamp (to the second) and engineering‑type readings of horizontal and vertical RMS values (HRMS 0–0.029, VRMS 0–0.045). All rows share a fixed status flag and belong to a single event, while the description field identifies four profile types (e.g., PROF132, PROF164). The data are ideal for spatial‑temporal analysis of river‑bed conditions, engineering assessments of flow‑related vibrations, and environmental monitoring of the Elwha River watershed.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -125.9387874,
+    "max_lat": 49.570179,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

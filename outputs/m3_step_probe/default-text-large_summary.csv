@@ -1,0 +1,11 @@
+corpus,csv,model,success,plan_steps,steps_completed,tool_loop_iterations,tool_calls,unique_tools,tools,error,runtime_seconds
+pangaea,897882.csv,default-text-large,True,4,4,13,10,7,"get_unique_values x4, get_columns_with_first_row x1, get_resource_info x1, detect_temporal_columns x1, get_temporal_extent x1, detect_spatial_columns x1, get_spatial_extent x1",,49.603
+pangaea,899705.csv,default-text-large,True,4,4,10,7,5,"get_unique_values x2, detect_spatial_columns x2, get_columns_with_first_row x1, get_context_overview x1, detect_temporal_columns x1",,30.311
+pangaea,901488.csv,default-text-large,True,4,4,18,15,7,"get_unique_values x9, get_columns_with_first_row x1, get_resource_info x1, detect_temporal_columns x1, detect_spatial_columns x1, get_temporal_extent x1, get_spatial_extent x1",,52.187
+pangaea,901510.csv,default-text-large,True,4,4,13,10,7,"get_unique_values x4, get_columns_with_first_row x1, get_context_overview x1, detect_temporal_columns x1, detect_spatial_columns x1, get_temporal_extent x1, get_spatial_extent x1",,48.873
+pangaea,902576.csv,default-text-large,True,4,4,9,6,4,"get_unique_values x2, detect_spatial_columns x2, get_columns_with_first_row x1, detect_temporal_columns x1",,29.088
+inaturalist,acianthus_fornicatus.csv,default-text-large,True,2,2,7,6,4,"get_temporal_extent x3, detect_temporal_columns x1, detect_spatial_columns x1, get_spatial_extent x1",,28.434
+inaturalist,acontia_cretata.csv,default-text-large,True,2,2,7,6,4,"get_temporal_extent x3, detect_temporal_columns x1, detect_spatial_columns x1, get_spatial_extent x1",,30.439
+inaturalist,acrothamnus_colensoi.csv,default-text-large,True,2,2,7,6,4,"get_temporal_extent x3, detect_temporal_columns x1, detect_spatial_columns x1, get_spatial_extent x1",,29.943
+inaturalist,agromyza_aristata.csv,default-text-large,True,2,2,7,6,4,"get_temporal_extent x3, detect_temporal_columns x1, detect_spatial_columns x1, get_spatial_extent x1",,27.256
+inaturalist,alopecurus_myosuroides.csv,default-text-large,True,2,2,7,6,4,"get_temporal_extent x3, detect_temporal_columns x1, detect_spatial_columns x1, get_spatial_extent x1",,25.11

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the jumping spider *Synemosyna formica*, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates across the US and Canada, and temporal data from 2017 to 2026. Key semantic fields provide identifiers, spatial filters, and quality flags like coordinate rounding. Researchers can use this data to study the species' distribution, phenology, and habitat preferences. The records, primarily human observations with associated images, support ecological modeling and conservation efforts by offering detailed insights into the presence and abundance of this specific arachnid species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

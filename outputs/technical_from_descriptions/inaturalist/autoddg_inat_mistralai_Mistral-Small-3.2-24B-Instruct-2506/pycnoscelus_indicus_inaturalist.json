@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the insect species Pycnoscelus indicus, also known as the Indian cockroach. It includes records from various locations across Asia and the United States, specifically Hawaii. The data covers taxonomic details such as kingdom, phylum, class, order, family, genus, and species, along with geographic information including country codes, state/province, and precise coordinates. Additionally, the dataset contains temporal data such as event dates, days, months, and years, as well as details about the observers and identifiers. This dataset can be used for studying the geographic distribution and habitat preferences of Pycnoscelus indicus, as well as for ecological research and conservation efforts. The semantic profile indicates that the data is well-structured for biodiversity studies, with clear classifications and measurements that facilitate aggregation and analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

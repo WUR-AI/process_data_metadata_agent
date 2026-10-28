@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Genista germanica, sourced from iNaturalist. It includes detailed taxonomic classification, spatial coordinates, and temporal data for each occurrence. The records span multiple European countries, providing insights into the species' distribution. Users can filter data by location, date, or observer. The dataset supports ecological research, species distribution modeling, and conservation planning. It includes metadata on data quality issues and licensing, ensuring transparency. Researchers can utilize this information to study habitat preferences, phenology, and population dynamics of Genista germanica across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

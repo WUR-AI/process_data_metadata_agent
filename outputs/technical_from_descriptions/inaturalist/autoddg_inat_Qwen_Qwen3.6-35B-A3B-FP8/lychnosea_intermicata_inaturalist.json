@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Lychnosea intermicata, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences across US states like Texas and Louisiana. The records are primarily human observations, providing precise event dates and geographic locations. Users can leverage this data for spatial filtering and temporal analysis of species distribution. The dataset supports research into the ecology and range of this specific geometrid moth, offering valuable metadata on identification and licensing for scientific study.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

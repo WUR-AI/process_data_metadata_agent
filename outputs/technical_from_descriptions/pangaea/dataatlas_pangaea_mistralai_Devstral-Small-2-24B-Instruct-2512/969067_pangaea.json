@@ -1,0 +1,7 @@
+{
+  "description": "Daily Earth science measurements: datetime, heights, solar radiation, temperatures, humidity, wind speeds, location, elevation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "Daily"
+}

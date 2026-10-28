@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains information on polar water isotopes, collected during various expeditions. It includes data on events, expeditions, locations (with latitude and longitude coordinates), dates and times, station identifiers, water depth, and measurements of δ18O, δD, and d xs. The data spans multiple expeditions and events, with measurements taken at different stations and times. The dataset's semantic profile indicates that it is domain-specific to climate data, with columns serving as aggregation keys, spatial and temporal measurements, and various climate measurements. This dataset can be used for studying polar water isotopes, understanding climate patterns, and conducting spatial and temporal analyses of climate data. The measurements cover a range of values, providing a comprehensive view of the isotopic composition of water in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

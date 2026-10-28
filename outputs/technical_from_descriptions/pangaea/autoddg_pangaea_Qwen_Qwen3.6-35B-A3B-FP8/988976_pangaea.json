@@ -1,0 +1,12 @@
+{
+  "description": "This dataset records diatom abundance from sediment core AMK75-6150, located at 74.78°N, 8.44°E, at a depth of 3013 meters. It contains 20 samples spanning the last 2.75 years, with sediment depths ranging from 0 to 0.3 meters. The data includes total diatom counts and percentages for various ecological groups, such as warm-water, cold-water, and sea-ice species. Specific measurements for individual taxa like *F. oceanica* and *T. gravida* are also provided. This resource supports geological and ecological research into past climate conditions and marine ecosystem dynamics in polar regions.",
+  "spatialCoverage": {
+    "min_lat": 74.78,
+    "min_lon": 8.44,
+    "max_lat": 74.78,
+    "max_lon": 8.44
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

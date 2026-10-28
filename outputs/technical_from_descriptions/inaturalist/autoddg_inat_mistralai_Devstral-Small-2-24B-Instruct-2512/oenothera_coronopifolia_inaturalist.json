@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Oenothera coronopifolia* (Torr. & A.Gray), a member of the Onagraceae family, collected from various locations in the United States, primarily in Colorado, Utah, New Mexico, and Wyoming. The records include taxonomic details such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like decimal latitude and longitude, and temporal information including event dates and observation times. Each observation is linked to a unique identifier, and metadata such as the observer's name, identification date, and license details are provided. The dataset also includes notes on coordinate uncertainty and potential issues with the records. This information can be used for biodiversity research, ecological studies, and monitoring the distribution and status of *Oenothera coronopifolia* across different regions. The semantic profile highlights the dataset's focus on taxonomic classification, spatial filtering, and temporal analysis, making it valuable for researchers studying plant distributions and environmental changes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

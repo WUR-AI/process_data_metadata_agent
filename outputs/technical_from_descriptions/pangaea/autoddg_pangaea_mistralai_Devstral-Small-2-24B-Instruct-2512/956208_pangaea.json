@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains Antarctic krill (B. saida) measurements collected during various scientific expeditions. It includes biological data such as total length (TL), standard length (SL), weight (wm), sex classification, and stomach content measurements (stom m, stom con m), along with environmental data like water depth, latitude, longitude, and elevation. The dataset also tracks sampling metadata, including expedition identifiers, specimen IDs, and collection dates. Semantically, the columns serve as aggregation keys (e.g., Event, Expedition) or measurements (e.g., biological traits, spatial coordinates). Researchers can use this data to analyze krill population dynamics, growth patterns, and environmental influences in Antarctic waters, supporting studies on marine ecology and climate impact.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

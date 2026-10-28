@@ -1,0 +1,7 @@
+{
+  "description": "This dataset records whale sightings, including the date and time of each observation, along with the geographic coordinates where the sightings occurred. It categorizes the type of whale, with five distinct species or groups identified, and indicates the certainty of each sighting. The dataset also includes an identifier for individual sightings and an event aggregation key. Semantically, the data encompasses temporal and spatial entities, biological classifications of marine species, qualitative certainty assessments, and numeric identifiers. This information can be used for marine biology research, conservation efforts, and studying migration patterns. The dataset provides valuable insights into whale populations and their distribution over time and space.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains MITAPI emissions data covering the period from 2010 to 2015, organized into twelve distinct NetCDF files. Each file represents a specific sector, such as agriculture, energy, industry, or shipping, with individual file sizes ranging from 287 to 30,650 bytes. The dataset provides direct access links for downloading these climate-related data files, which are essential for aggregating and analyzing emission trends. Researchers can utilize this collection to study temporal variations in emissions across different economic sectors. The structured format and comprehensive coverage make it a valuable resource for data management tasks and environmental impact assessments focused on global climate change.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

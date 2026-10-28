@@ -1,0 +1,10 @@
+{
+  "description": "Earth science measurements from 2018 to 2019, including height, time, and particle data.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

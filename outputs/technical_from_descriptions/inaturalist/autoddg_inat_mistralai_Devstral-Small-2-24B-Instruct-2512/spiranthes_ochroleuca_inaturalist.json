@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the orchid species *Spiranthes ochroleuca*, collected from various locations in the United States and Canada. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like coordinates, country, and state/province. Temporal data, including the date of observation, day, month, and year, is also provided. Each observation is linked to a unique identifier, and metadata such as the observer's name, identification date, and license information are included. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and population trends of *Spiranthes ochroleuca*. It is particularly useful for researchers interested in plant taxonomy, conservation biology, and the impact of environmental changes on orchid populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

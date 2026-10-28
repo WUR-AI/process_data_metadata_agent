@@ -1,0 +1,10 @@
+{
+  "description": "Five 1994 sediment samples with depth, mineral abundances, optical properties, coordinates, and timestamps.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1994-01-01T00:00:00",
+    "to": "1994-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

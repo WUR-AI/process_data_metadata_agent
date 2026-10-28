@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains paleoceanographic measurements from sediment cores, including depth, age, and stable isotope ratios (δ13C and δ18O) of the foraminifer *Uvigerina* spp. The data spans a sediment depth range of 0 to 11.83 units and an age range of 0 to 40.923 years, with spatial coordinates fixed at 29.0°N latitude and -88.333° longitude at an elevation of -803.5 meters. All samples were collected during the same event (M78/1_181-3) on March 4, 2009.\n\nSemantically, the dataset combines measurement-based climate data (depth, age, and isotope ratios) with spatial and temporal references (latitude, longitude, elevation, and date/time). The *Event* field serves as an aggregation key, linking all records to a single sampling event.\n\nThis dataset is valuable for paleoceanographic research, particularly for reconstructing past climate conditions, studying carbon and oxygen cycles, and analyzing sedimentary records of environmental changes. Researchers can use it to explore correlations between isotope ratios and historical climate variability.",
+  "spatialCoverage": {
+    "min_lat": 29.0,
+    "min_lon": -88.333,
+    "max_lat": 29.0,
+    "max_lon": -88.333
+  },
+  "temporalCoverage": {
+    "from": "2009-03-04T00:00:00",
+    "to": "2009-03-04T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the marbled scorpionfish, *Gymnapistes marmoratus*, sourced from iNaturalist. It records taxonomic details, including kingdom through species, alongside precise spatial coordinates in South Australia and Victoria, Australia. Temporal data spans from 2022 to 2025, capturing event dates and identification timestamps. The records include observer information, media types, and quality flags such as coordinate rounding issues. Licensed under CC BY-NC 4.0, this biodiversity data supports ecological studies, species distribution mapping, and conservation efforts by providing verified occurrence records with associated metadata for scientific analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

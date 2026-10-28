@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on environmental monitoring, providing a comprehensive collection of data related to various aspects of the environment. It includes physico-chemical data, particulate matter data, continuous temperature data, and hydrological data, each accompanied by detailed column descriptions. The dataset consists of eight text files, each with unique identifiers and metadata, including file size, character set, and type. The semantic profile indicates that the dataset uses file entities as aggregation keys, numeric entities for measurements, and text entities for metadata and descriptions. This dataset can be used for environmental analysis, research, and monitoring, enabling users to study trends, patterns, and changes in environmental parameters over time. It serves as a valuable resource for scientists, researchers, and policymakers working in the field of environmental monitoring and management.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

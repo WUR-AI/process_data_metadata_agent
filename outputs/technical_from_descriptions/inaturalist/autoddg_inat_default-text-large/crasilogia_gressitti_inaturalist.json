@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides 20 occurrence records of the Australian moth Crasilogia gressitti. Each record has a unique gbifID and an occurrenceID URL, and is linked to a single datasetKey. The taxonomic hierarchy is complete from kingdom Animalia to species Crasilogia gressitti, with scientific and verbatim names supplied. Geographic fields include country code AU, state or province (Queensland or New South Wales), and precise latitude‑longitude coordinates with uncertainty up to 1,111 m. Temporal information records the event date, day, month and year of each observation. All records are human observations with still‑image media, and the issue field notes coordinate rounding. Researchers can map its distribution and assess seasonal trends.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

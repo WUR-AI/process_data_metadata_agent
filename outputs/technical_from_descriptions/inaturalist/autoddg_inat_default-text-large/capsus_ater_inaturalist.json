@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 occurrence records of Capsus ater, classified under Animalia > Arthropoda > Insecta > Hemiptera > Miridae. Each record has a unique gbifID, an external occurrenceID and shares a common datasetKey. Observations span seven countries (US, FR, DK, AT, DE, GB, RU) and twelve regions, with latitudes 0°–55.49° and longitudes –1.40°–16.02°. Coordinate uncertainty is given in meters (14 values, up to 244 m); records also include timestamps, still‑image media and a rounded‑coordinate quality flag. Researchers can use these records to study Capsus ater’s distribution, phenology and habitat across Europe and North America, or to model range shifts under climate change.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -1.4,
+    "max_lat": 55.49,
+    "max_lon": 16.02
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

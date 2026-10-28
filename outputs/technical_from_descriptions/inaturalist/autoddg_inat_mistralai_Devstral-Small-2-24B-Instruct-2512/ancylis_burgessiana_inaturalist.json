@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Ancylis burgessiana*, collected from various locations in the United States and Canada. The records include taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country, state/province, and coordinates. Temporal data includes the date of observation, day, month, and year. Each record is attributed to an observer and includes metadata such as license, rights holder, and media type. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and abundance of *Ancylis burgessiana*. It provides valuable insights into the species' habitat preferences, temporal patterns, and geographic range.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

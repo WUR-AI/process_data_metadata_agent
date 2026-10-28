@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of Oenothera coronopifolia, a species of flowering plant. It includes records from various locations in the United States, primarily in Colorado, with some observations in Utah, New Mexico, and Wyoming. The data covers a range of years, with observations dating from 2012 to 2025. Each record includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates and observation dates. The dataset also includes metadata such as the identifier of the observer, the date of identification, and the license under which the data is shared. This information can be used for studying the distribution patterns, habitat preferences, and temporal trends of Oenothera coronopifolia. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classification and aggregation keys for various taxonomic and geographic levels. Researchers can utilize this dataset to analyze the ecological factors influencing the distribution of this species and to inform conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

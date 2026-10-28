@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of plants in California, focusing on the species Chorizanthe pungens and its varieties. The data includes various taxonomic ranks, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, providing a detailed classification of the observed plants. Each observation is geotagged with decimal latitude and longitude, and includes metadata such as the observation date, the observer's name, and the license under which the data is shared. The dataset can be used for biodiversity studies, ecological research, and conservation efforts, particularly in understanding the distribution and status of Chorizanthe pungens in California. The semantic profile indicates that the data is well-structured for aggregation and classification, making it suitable for detailed analysis and mapping of plant observations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

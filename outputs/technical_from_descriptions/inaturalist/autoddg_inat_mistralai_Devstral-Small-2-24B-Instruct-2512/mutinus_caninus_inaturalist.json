@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Mutinus caninus, a type of fungus, collected from various locations across Europe and Turkey. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country code, state/province, decimal latitude, and decimal longitude. Temporal data includes event dates, days, months, and years. The dataset also provides details on the observers, identifiers, and licenses for the observations. The semantic profile indicates that the data is structured for biodiversity research, with columns serving as aggregation keys, spatial filters, temporal filters, and data quality indicators. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Mutinus caninus across different regions. It is also useful for biodiversity research, ecological studies, and monitoring the presence and spread of this species.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

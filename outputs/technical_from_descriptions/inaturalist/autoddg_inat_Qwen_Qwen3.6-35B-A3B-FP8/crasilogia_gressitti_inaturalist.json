@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Crasilogia gressitti, recorded as human observations primarily in Australia. It includes taxonomic classifications, spatial coordinates, and temporal data ranging from 2018 to 2025. The records are sourced from iNaturalist and feature identifiers for aggregation, along with details on recording and identification personnel. Users can utilize this data for ecological studies, species distribution mapping, and conservation planning. The dataset provides essential metadata such as license information and quality flags, supporting research into the species' habitat preferences and population dynamics across Queensland and New South Wales.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

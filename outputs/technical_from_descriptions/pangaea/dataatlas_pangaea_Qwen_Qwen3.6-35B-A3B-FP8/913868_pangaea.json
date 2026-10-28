@@ -1,0 +1,10 @@
+{
+  "description": "Aerosol size distribution measurements at Neumayer Station from May to December 2019.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-05-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

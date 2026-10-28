@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains coral isotope data, specifically from the Porites species, collected at a single event and location. It includes measurements of strontium/calcium (Sr/Ca), magnesium/calcium (Mg/Ca), oxygen isotopes (δ18O), and carbon isotopes (δ13C), which are crucial for understanding past climate conditions. The data spans a range of ages and dates, with spatial references provided by latitude, longitude, and elevation. The semantic profile indicates that the dataset is rich in climate-related measurements and temporal references, making it valuable for climate research. This dataset can be used for studying past climate variability, understanding coral growth and health, and contributing to broader climate change research. The consistent spatial and temporal references allow for precise data aggregation and comparison.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

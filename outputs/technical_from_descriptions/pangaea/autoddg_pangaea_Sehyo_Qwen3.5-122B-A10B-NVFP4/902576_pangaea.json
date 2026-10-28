@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides comprehensive Antarctic permafrost data, including mean annual ground temperature, standard deviation, and permafrost probability fractions. The collection consists of four text-based files available in ZIP and JPG formats, with sizes ranging up to approximately 1.9 MB. Each file is uniquely identified by a name containing temporal and regional metadata, serving as a key for data aggregation. Users can access these climate measurement resources directly via the provided URLs. This dataset is ideal for researchers studying permafrost distribution and stability in Antarctica, supporting applications in climate modeling, environmental monitoring, and understanding the impacts of climate change on frozen ground.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

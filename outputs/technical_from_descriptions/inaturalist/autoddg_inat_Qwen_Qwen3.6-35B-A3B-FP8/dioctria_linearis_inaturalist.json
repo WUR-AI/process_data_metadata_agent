@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the robber fly species *Dioctria linearis*. It includes taxonomic details, geographic coordinates, and event dates for records sourced from iNaturalist. The data spans multiple countries across Europe and Russia, with observations recorded between 2020 and 2026. Users can utilize this information for spatial analysis of species distribution, temporal studies of occurrence patterns, and ecological research. The dataset provides essential metadata such as coordinate uncertainty, identification dates, and media types, supporting comprehensive biodiversity assessments and conservation planning efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

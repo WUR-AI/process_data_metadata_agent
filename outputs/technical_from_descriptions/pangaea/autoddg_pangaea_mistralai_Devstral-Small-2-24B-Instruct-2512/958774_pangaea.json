@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides measurements of phosphorus concentrations (TP) in Lake Constance at Fischbach-Uttwil, spanning observations from 1951 to 2009. It includes data for both winter mixing periods (whole water column) and summer months (upper 20 meters), with depth, location, and temporal information. The dataset is structured with columns for year, depth, phosphorus concentration, and descriptive metadata, making it useful for analyzing long-term trends in lake water quality. Semantically, it combines temporal (year, date/time), spatial (latitude, longitude, elevation), and numeric (depth, phosphorus) entities, all within a climate domain context. Researchers can use this data to study phosphorus dynamics, assess environmental changes over time, or evaluate the impact of seasonal variations on lake ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1951-01-01T00:00:00",
+    "to": "2009-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

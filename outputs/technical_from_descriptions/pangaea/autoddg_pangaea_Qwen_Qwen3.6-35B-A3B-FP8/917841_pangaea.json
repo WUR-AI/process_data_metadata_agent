@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents water quality parameters for Macapule Lagoon, focusing on climate-related environmental metrics. It contains monthly measurements from 2013 to 2015, tracking temperature, salinity, dissolved oxygen, pH, and nutrient levels including ammonia, nitrate, and phosphate. Data is organized by three distinct zones within the lagoon, providing a spatial resolution of local conditions. The records are georeferenced with specific latitude and longitude coordinates, enabling precise spatial analysis. Researchers can utilize this information to monitor seasonal variations in water chemistry and assess the ecological health of the lagoon. The dataset serves as a valuable resource for understanding temporal trends and spatial distribution of key water quality indicators in this specific coastal ecosystem.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "monthly"
+}

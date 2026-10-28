@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Capsus ater, a type of insect belonging to the family Miridae. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state/province, and coordinates. Each observation is recorded with a unique identifier, event date, and details about the observer and rights holder. The dataset also includes information on the basis of record, media type, and any issues with the data. The semantic profile indicates that the data is structured for biodiversity research, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution information. This dataset can be used for studying the distribution, habitat, and temporal patterns of Capsus ater, as well as for biodiversity monitoring and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

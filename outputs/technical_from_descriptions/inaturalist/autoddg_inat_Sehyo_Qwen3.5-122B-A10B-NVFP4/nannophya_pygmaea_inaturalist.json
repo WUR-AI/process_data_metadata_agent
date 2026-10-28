@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles 20 human observations of the pygmy dragonfly, Nannophya pygmaea, recorded across Southeast Asia, including Taiwan, Vietnam, Indonesia, Malaysia, and Singapore. Each entry provides detailed taxonomic classification, precise geographic coordinates, and temporal data ranging from 2006 to 2026. The records are primarily sourced from iNaturalist and include associated media such as still images. Users can leverage this data for geospatial analysis of species distribution, temporal trend studies, and ecological research. The dataset includes quality flags for coordinate uncertainty and taxonomic issues, ensuring transparency for researchers studying biodiversity patterns in the region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

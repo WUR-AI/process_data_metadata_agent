@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains paleomagnetic measurements from sediment cores, covering depths from 0 to 3.66 meters and ages up to 6.28 million years. It includes declination, inclination, and their uncertainties, alongside statistical parameters like Kappa and alpha95. The data features rotated declinations and Virtual Geomagnetic Pole (VGP) coordinates with associated errors. With three unique core identifiers, the records aggregate directional data essential for geological analysis. Researchers can use this information to reconstruct past geomagnetic field variations, study tectonic movements, and correlate stratigraphic layers across different sites based on temporal and spatial magnetic signatures.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

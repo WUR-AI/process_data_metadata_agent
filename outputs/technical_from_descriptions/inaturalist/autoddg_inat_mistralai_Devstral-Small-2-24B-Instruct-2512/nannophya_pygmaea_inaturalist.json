@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the Pygmy Dragonlet (Nannophya pygmaea), a small dragonfly species, recorded across various locations in Southeast Asia. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic details like country, state/province, and coordinates. Observations span from 2006 to 2026, with each record including the date, observer, and license information. The dataset also provides metadata such as media type and issues related to the observations. This information can be used for biodiversity studies, ecological research, and conservation efforts focused on the Pygmy Dragonlet. The semantic profile highlights the dataset's focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution details.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

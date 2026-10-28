@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species *Phebalium squamulosum* and its subspecies, primarily recorded in New South Wales and the Jervis Bay Territory of Australia. The records span from 2014 to 2026 and include detailed taxonomic classifications, precise geolocation coordinates, and observation dates. Each entry is linked to a specific identifier and often includes associated media such as still images. The data is structured to support biodiversity research, allowing users to analyze species distribution patterns, track phenological changes over time, and assess habitat preferences. Researchers can utilize these georeferenced records for ecological modeling, conservation planning, and verifying the presence of this species across different environmental conditions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

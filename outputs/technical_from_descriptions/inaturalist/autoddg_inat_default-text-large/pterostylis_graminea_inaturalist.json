@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises twenty verified observations of the orchid *Pterostylis graminea* across New Zealand, recorded by iNaturalist users between 2018 and 2025. All records share the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Liliopsida, order Asparagales, family Orchidaceae, genus Pterostylis) and are flagged as present occurrences with a single species‑level scientific name. Geographic coverage spans latitudes from –46.06 to –36.49 and longitudes from 0 to 175.21, with coordinate uncertainties ranging from 0 to 10 183 m. Each entry includes rich semantic fields: occurrence identifiers (gbifID, occurrenceID), taxonomic metadata (taxonRank, scientificName, taxonKey), spatial data (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters), temporal data (eventDate, day, month, year, dateIdentified), attribution (identifiedBy, recordedBy, rightsHolder), licensing (CC BY 4.0, CC BY‑NC 4.0, CC0 1.0), media type (still images), and data‑quality issues. Researchers can use these records to map the species’ distribution, analyse phenology and seasonal patterns, support conservation status assessments, and train image‑recognition models for orchid identification.",
+  "spatialCoverage": {
+    "min_lat": -46.06,
+    "min_lon": 0.0,
+    "max_lat": -36.49,
+    "max_lon": 175.21
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the African sharptooth catfish, *Clarias gariepinus*, sourced from iNaturalist and aggregated via GBIF. It contains 20 records spanning multiple countries, including South Africa, Israel, and Singapore, with observations dating from 2011 to 2025. Each entry provides precise taxonomic classification, geographic coordinates, and observation dates, enabling detailed geospatial and temporal analyses of this species' distribution. The data includes identifiers for observers and rights holders under various Creative Commons licenses, supporting research into invasive species spread, ecological monitoring, and biodiversity conservation efforts globally.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

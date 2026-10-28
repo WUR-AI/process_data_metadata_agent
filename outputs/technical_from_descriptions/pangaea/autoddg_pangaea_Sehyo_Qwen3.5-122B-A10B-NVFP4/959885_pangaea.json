@@ -1,0 +1,7 @@
+{
+  "description": "This dataset presents sediment porewater chemistry measurements collected from a single station during a 2022 environmental science event. The records include 19 samples taken at sediment depths ranging from 0.28 to 3.81 meters, capturing concentrations of key nutrients like nitrate, nitrite, and ammonium, alongside major ions and trace elements such as boron, manganese, and strontium. Each entry is georeferenced with precise latitude, longitude, and elevation data, allowing for spatial analysis of the sampling site. Researchers can utilize this data to investigate diagenetic processes, nutrient cycling, and the chemical evolution of porewaters in deep-sea sediments, providing valuable insights into benthic biogeochemical conditions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

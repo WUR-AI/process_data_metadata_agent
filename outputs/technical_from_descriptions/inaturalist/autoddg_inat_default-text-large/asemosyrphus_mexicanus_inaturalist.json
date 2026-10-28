@@ -1,0 +1,15 @@
+{
+  "description": "The dataset holds 20 iNaturalist observations of hoverfly Asemosyrphus mexicanus with GBIF IDs and full taxonomy. It lists country codes (MX, CO, GT), state/province, and coordinates from –0.37 to 20.76 ° lat and –105.48 to 0 ° lon, with up to 243 m uncertainty. Dates span 2017‑2026; metadata records publishing organization, catalog numbers, observers, identifiers, a CC‑BY‑NC‑4.0 license, and notes still‑image media with coordinate‑rounding and missing taxon‑ID issues. Researchers can map hoverfly distribution, study seasonal trends, and aid biodiversity monitoring and conservation.",
+  "spatialCoverage": {
+    "min_lat": -0.37,
+    "min_lon": -105.48,
+    "max_lat": 20.76,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

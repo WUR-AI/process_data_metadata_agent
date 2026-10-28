@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Muhlenbergia lindheimeri*, a plant species within the Poaceae family. It includes taxonomic classifications, spatial coordinates, and temporal data from human observations recorded in Texas and California. The records feature identifiers, event dates, and media types, supporting spatial and temporal filtering for ecological research. Users can analyze species distribution, track observation trends, and assess data quality through issue flags. This resource is valuable for studying the habitat preferences and phenology of *Muhlenbergia lindheimeri* using standardized biodiversity metadata.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

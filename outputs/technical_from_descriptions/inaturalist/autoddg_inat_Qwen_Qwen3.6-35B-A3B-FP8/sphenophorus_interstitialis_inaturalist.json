@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the beetle species Sphenophorus interstitialis, recorded as human observations via iNaturalist. It includes detailed taxonomic classifications, such as kingdom Animalia and family Dryophthoridae, alongside precise spatial data with decimal latitude and longitude coordinates across various US states and Canadian provinces. Temporal information is provided through event dates ranging from 2021 to 2025. The records feature media types like still images and are licensed under CC BY or CC BY-NC 4.0. Researchers can use this data to study the geographic distribution, phenology, and habitat preferences of this specific weevil species in North America.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

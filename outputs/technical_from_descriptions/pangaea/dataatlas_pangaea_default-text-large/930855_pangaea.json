@@ -1,0 +1,10 @@
+{
+  "description": "Earth environmental measurements from 20 samples on 2016‑09‑17, including depths, peak areas, and coordinates.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-09-17T00:00:00",
+    "to": "2016-09-17T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

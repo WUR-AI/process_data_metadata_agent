@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the fern species Pityrogramma calomelanos, sourced primarily from iNaturalist. It includes 20 records spanning multiple countries such as the United States, Taiwan, and Indonesia, with observations dating from 2019 to 2026. Each entry provides precise taxonomic classification, geographic coordinates, and event dates, alongside contributor attribution and media links. The data is structured with standard biodiversity fields like gbifID and occurrenceID, facilitating integration into larger ecological studies. Researchers can utilize this collection to analyze the species' global distribution patterns, track recent sightings, or assess its presence in specific regions like Florida and Hawaii.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

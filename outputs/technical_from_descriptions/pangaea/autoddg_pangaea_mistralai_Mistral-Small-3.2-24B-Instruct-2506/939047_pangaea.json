@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains measurements of water vapor isotopes, specifically δ18O and δD, along with their standard deviations, and water vapor mixing ratios at a height of 24 meters. The data is collected at specific dates and times, with each entry also including the number of observations (NOBS) for each measurement. The dataset is geographically referenced with latitude, longitude, and elevation data, and it is aggregated by event and time. The semantic profile indicates that the dataset is focused on climate measurements, with temporal and spatial references for contextualizing the data. This dataset can be used for studying atmospheric processes, understanding water cycle dynamics, and validating climate models. The measurements span from 2017 to 2018, providing a temporal snapshot of water vapor isotope variations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2018-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

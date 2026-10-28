@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Echium angustifolium, a plant species belonging to the Boraginaceae family. It includes records from various locations such as Israel, Greece, Cyprus, and Libya, with detailed taxonomic classifications ranging from kingdom to species. The dataset contains spatial data with coordinates and uncertainty measurements, as well as temporal data including observation dates. It also includes identifiers for aggregating data, such as gbifID, datasetKey, and occurrenceID. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and measurements. This dataset can be used for studying the geographical distribution, habitat preferences, and temporal patterns of Echium angustifolium, aiding in conservation efforts and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

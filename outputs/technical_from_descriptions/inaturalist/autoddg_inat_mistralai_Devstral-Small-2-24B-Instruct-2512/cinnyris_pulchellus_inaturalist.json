@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of African sunbirds, specifically the species *Cinnyris pulchellus* and *Cinnyris melanogastrus*, recorded across multiple countries including Senegal, Ghana, Tanzania, and Uganda. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, with columns representing taxonomic classifications, spatial and temporal filters, and attribution details. This dataset can be used for ecological studies, species distribution modeling, and conservation efforts, providing valuable insights into the presence and behavior of these sunbird species across their habitats.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

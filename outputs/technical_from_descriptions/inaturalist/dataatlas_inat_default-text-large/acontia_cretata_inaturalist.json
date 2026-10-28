@@ -1,0 +1,10 @@
+{
+  "description": "Occurrence records of Acontia cretata (2010‑2026) with taxonomy, coordinates, dates, observers, and media.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains high-resolution coral geochemistry measurements from Porites sp. samples collected at a single site in French Polynesia, identified as TIAREI-A1. The records span recent years, with data points corresponding to specific calendar years and precise daily timestamps. Key variables include elemental ratios such as Strontium-to-Calcium and Magnesium-to-Calcium, alongside stable isotope ratios of Oxygen-18 and Carbon-13. These measurements serve as critical proxies for reconstructing past sea surface temperatures and oceanic conditions. Researchers can utilize this dataset to analyze climate variability, validate climate models, and study environmental changes affecting coral reef ecosystems in the South Pacific region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

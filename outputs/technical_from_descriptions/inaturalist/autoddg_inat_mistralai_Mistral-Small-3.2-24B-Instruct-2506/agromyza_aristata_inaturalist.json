@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the insect species Agromyza aristata, with observations recorded across various states in the United States and provinces in Canada. The data includes taxonomic details such as kingdom, phylum, class, order, family, genus, and species, as well as location information including country code, state or province, and precise coordinates. Additionally, the dataset contains temporal data such as the date of observation, day, month, and year. The semantic profile indicates that the dataset is rich in biodiversity information, with columns representing identifiers, taxonomic classifications, location data, and temporal information. This dataset can be used for studying the geographical distribution and habitat preferences of Agromyza aristata, as well as for ecological research and conservation efforts focused on insect species. The observations are accompanied by media types and issues related to the data quality, providing a comprehensive view of the species' presence and distribution.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

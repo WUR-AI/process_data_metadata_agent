@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records sediment‑depth and radioisotope measurements from a single sampling event (LSMo22-1) taken at latitude 21.365278 N, longitude ‑104.568333 W, elevation 750 m on 2022‑04‑08. It contains 20 rows, with depth values ranging from 0 to 0.275 m and 210Pb concentrations from 0 to 147.1 units, including standard deviations and supported/unsupported fractions. 137Cs activity and its uncertainty are also provided. All columns represent geological and geochemical measurements, while latitude, longitude, and elevation give geographic context and the date column provides a temporal stamp. This sediment‑radioisotope data can be used to estimate recent sediment accumulation rates, date depositional layers, and analyze spatial patterns of radioisotope distribution in lake or reservoir sediments.",
+  "spatialCoverage": {
+    "min_lat": 21.365278,
+    "min_lon": -104.568333,
+    "max_lat": 21.365278,
+    "max_lon": -104.568333
+  },
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

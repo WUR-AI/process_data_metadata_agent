@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains weather measurements collected at a specific location identified as \"Puchalski_AWS\" with coordinates -62.1641 latitude, -58.4701 longitude, and an elevation of 55.0 meters. The data spans various dates and includes daily measurements of height, solar radiation (SWD daily sum), temperature (minimum, mean, and maximum), relative humidity (minimum, mean, and maximum), and wind speed (minimum, mean, and maximum). The dataset's semantic profile indicates that it is structured around temporal and spatial data, with a focus on climate measurements. This weather data can be used for climate analysis, weather pattern studies, and environmental research, providing valuable insights into daily weather conditions and trends over time.",
+  "spatialCoverage": {
+    "min_lat": -62.1641,
+    "min_lon": -58.4701,
+    "max_lat": -62.1641,
+    "max_lon": -58.4701
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

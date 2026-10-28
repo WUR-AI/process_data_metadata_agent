@@ -1,0 +1,10 @@
+{
+  "description": "Ice core WDC06A data from December 9, 2006, with depth, age, and isotopic measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-12-09T00:00:00",
+    "to": "2006-12-09T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

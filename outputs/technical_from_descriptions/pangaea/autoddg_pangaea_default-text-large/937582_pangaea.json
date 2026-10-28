@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 oceanographic observations from four 2019 Mackenzie expeditions. Each record provides latitude (up to 69.649° N), longitude (down to –137.8048°), a minute‑resolution timestamp, and a station ID. Water depth ranges from 0 to 1 m, and fluorescence variables—IFDOM C1‑C3, FDOM A‑peak, C‑peak, M‑peak, T‑peak, and fDOM FI, HI, BI—span their measured ranges (e.g., IFDOM C1 up to 1.30, fDOM HI up to 10.72). Columns act as quantitative measurements and identifiers for events, expeditions, and stations. The data can be used to examine spatial and temporal patterns of dissolved organic matter fluorescence, compare fluorescence intensity across depths, and support biogeochemical modeling in Arctic marine waters.",
+  "spatialCoverage": {
+    "min_lat": null,
+    "min_lon": -137.8048,
+    "max_lat": 69.649,
+    "max_lon": null
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "minute"
+}

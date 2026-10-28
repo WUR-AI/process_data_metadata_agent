@@ -1,0 +1,12 @@
+{
+  "description": "The dataset records sediment geochemical measurements from eight distinct field events across the Caspian region. Each record includes geographic coordinates (latitude 0‑83.27°, longitude 0‑33.99°) and sediment depth (0‑0.265 m). Radiocarbon ages range from 0 to 2019 yr with associated standard deviations up to 11 yr, and derived age offsets (‑0.069 to 0.071). Additional geoscientific variables comprise sedimentation rate, accumulation rate, and elevation (‑3896.31 to 0 m). Geochemical analyses provide total organic carbon, total inorganic carbon, total nitrogen, and isotopic ratios δ¹³C (‑23.40 to 0) and δ¹⁵N (0‑6.60). Sediment size fractions (>63 µm, 63‑2 µm, <2 µm) are also reported. Timestamped observations enable temporal and spatial trend studies, making the data suitable for investigating sediment provenance, diagenesis, and paleoenvironmental reconstructions.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": 0.0,
+    "max_lat": 83.27,
+    "max_lon": 33.99
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

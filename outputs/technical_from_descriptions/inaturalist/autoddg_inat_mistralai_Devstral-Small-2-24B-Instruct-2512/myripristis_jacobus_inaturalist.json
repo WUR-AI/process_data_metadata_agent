@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the coral reef fish species *Myripristis jacobus*, commonly known as the Jacob's squirrelfish, collected from various locations across the Caribbean and Atlantic regions. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with geographic coordinates, observation dates, and metadata about the observers and licenses. The semantic profile highlights the dataset's focus on biodiversity, with columns representing taxonomic ranks, spatial data (including coordinates and uncertainty), temporal data (event dates and identification dates), and attribution details. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of *Myripristis jacobus*, as well as for conservation efforts and ecological research in coral reef ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

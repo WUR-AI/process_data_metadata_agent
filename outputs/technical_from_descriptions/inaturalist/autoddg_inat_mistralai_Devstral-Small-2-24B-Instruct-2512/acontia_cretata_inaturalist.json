@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Acontia cretata*, collected from various locations in the United States, primarily in Texas, with additional records from Arizona, California, and Nevada. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic hierarchies, spatial and temporal filters, and attribution details, making it suitable for ecological and conservation research. Researchers can use this dataset to study the distribution, habitat preferences, and seasonal activity patterns of *Acontia cretata*, as well as to analyze trends in citizen science contributions to biodiversity monitoring. The observations are sourced from iNaturalist and include images, ensuring a rich resource for both scientific and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 verified iNaturalist observations of giant eucalyptus (Eucalyptus regnans) published through GBIF. Each entry has a unique gbifID primary key, an external occurrenceID, and taxonomic classification from kingdom to species. Geographic fields give decimal latitude (‑42.98 to ‑37.46 ° S) and longitude (145.35 to 146.74 ° E) with coordinate uncertainty in meters. EventDate and day, month, year columns record observation time. Attribution columns list observers, rights holders and licenses (CC‑BY 4.0 or CC‑BY‑NC 4.0). The semantic profile maps each column to its biodiversity role, such as location, taxon, or media type, and flags quality issues. Researchers can use the data to map distribution, study phenology, or model habitat suitability for E. regnans in Victoria and Tasmania.",
+  "spatialCoverage": {
+    "min_lat": -42.98,
+    "min_lon": 145.35,
+    "max_lat": -37.46,
+    "max_lon": 146.74
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains bird observations, specifically focusing on the species Euplectes progne. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, which allows for comprehensive classification and aggregation. The observations are geotagged with decimal latitude and longitude, providing precise location data, and include temporal information such as the day, month, and year of the observation. Additionally, the dataset includes identifiers like gbifID, datasetKey, and occurrenceID, which facilitate data aggregation and cross-referencing. The semantic profile indicates that the data is well-structured for biodiversity studies, with clear classifications and measurements. This dataset can be used for ecological research, conservation efforts, and studying the distribution and behavior of the Euplectes progne species across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

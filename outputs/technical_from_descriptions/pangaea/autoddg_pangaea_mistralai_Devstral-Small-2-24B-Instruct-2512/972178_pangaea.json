@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides vegetation-related observations for Aalen, Germany, spanning from 1984 to 2023. It includes various file types such as GeoTIFFs and Shapefiles, with content ranging from vegetation indices to color composites. The data is structured with temporal and spatial attributes, allowing for analysis over time and location. The semantic profile indicates that the dataset is rich in descriptive and file reference entities, making it suitable for remote sensing and spatial analysis. Researchers and analysts can use this dataset to study vegetation changes, monitor environmental trends, and conduct spatial analyses over the specified period.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

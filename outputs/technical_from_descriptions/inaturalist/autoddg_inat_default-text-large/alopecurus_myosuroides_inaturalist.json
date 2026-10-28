@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of the grass Alopecurus myosuroides collected from iNaturalist. Each record is uniquely identified by gbifID and catalogNumber and is linked to a single datasetKey. Observations span 11 countries and 15 states/provinces, with latitude ranging from 0 to 51.7° N and longitude from –7.99° to 38.57° E, and coordinate uncertainty up to 477 m. The semantic profile shows biodiversity fields (kingdom to species, taxonKey), geospatial fields (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters), temporal fields (eventDate, day, month, year, dateIdentified), legal fields (license, rightsHolder) and media/quality flags. Researchers can use these data for mapping the species’ European distribution, studying habitat preferences, phenology, or validating citizen‑science records.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -7.99,
+    "max_lat": 51.7,
+    "max_lon": 38.57
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

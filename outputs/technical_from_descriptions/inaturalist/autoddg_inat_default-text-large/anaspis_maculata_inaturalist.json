@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises twenty citizen‑science observations of the beetle Anaspis maculata from the iNaturalist platform, recorded between 2016 and 2026 in eight European countries (NL, AT, DE, GB, FR, DK, BE, PT). Each record includes a unique GBIF identifier, an external occurrence URL, and a full taxonomic hierarchy (kingdom to species) with the scientific name as the label. Geographic coordinates span latitudes 0 to 55.29 °N and longitudes ‑9.18 to 16.44 °E, with coordinate uncertainty ranging up to 125 m. Temporal fields capture the event date, day, month and year, while media fields note image types and licensing. The semantic profile shows identifiers (gbifID, datasetKey, taxonKey) serving as lookup keys, spatial fields (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters) providing measured location data, and attribution fields (identifiedBy, recordedBy, rightsHolder) recording contributors. Researchers can use these data to map the species’ distribution, explore phenology, assess citizen‑science data quality, or integrate into broader biodiversity informatics analyses.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -9.18,
+    "max_lat": 55.29,
+    "max_lon": 16.44
+  },
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

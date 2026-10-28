@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains marine isotope data, specifically measurements of Uvigerina spp. δ13C and δ18O, which are important indicators of past climate changes. The data is collected from a single event at a specific location with a latitude of 29.0 and a longitude of -88.33333333, at an elevation of -803.5 meters. The dataset includes measurements of sediment depth and age, with values ranging from 0 to 11.83 for depth and 0 to 40.923 for age. The semantic profile of the dataset indicates that it contains numeric entities related to climate measurements, as well as spatial and temporal references for the data collection event. This dataset can be used for research on paleoceanography, paleoclimatology, and other studies related to marine isotope data and climate change.",
+  "spatialCoverage": {
+    "min_lat": 29.0,
+    "min_lon": -88.33333333,
+    "max_lat": 29.0,
+    "max_lon": -88.33333333
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

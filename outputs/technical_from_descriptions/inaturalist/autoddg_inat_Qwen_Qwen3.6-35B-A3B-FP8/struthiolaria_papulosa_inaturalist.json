@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the marine gastropod *Struthiolaria papulosa* from New Zealand, sourced from iNaturalist. It includes precise spatial coordinates, temporal event dates ranging from 2018 to 2026, and taxonomic classifications. The records are primarily human observations with associated media images and quality flags. Users can leverage this data for biodiversity monitoring, species distribution mapping, and ecological studies within specific New Zealand regions. The inclusion of observer details and licensing information supports research into citizen science contributions and data provenance for marine mollusk populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

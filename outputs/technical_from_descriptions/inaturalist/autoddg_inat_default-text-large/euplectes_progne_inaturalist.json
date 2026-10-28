@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of Euplectes progne and its subspecies, all classified as Animalia > Chordata > Aves > Passeriformes > Ploceidae. Each record is uniquely identified by gbifID and catalogNumber and links to the original iNaturalist observation via occurrenceID. Geographic coverage includes South Africa, Kenya and Lesotho, with latitudes from –33.5 to 0° and longitudes from 0 to 37°; coordinate uncertainty ranges from 0 to 1 438 m. Records provide still images under CC‑BY or CC‑BY‑NC licenses. The semantic columns capture taxonomic hierarchy, precise coordinates, event dates and authorship, enabling filtering by country, province or date. Researchers can map distribution, examine seasonal trends, or assess observer effort for Euplectes progne.",
+  "spatialCoverage": {
+    "min_lat": -33.5,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 37.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

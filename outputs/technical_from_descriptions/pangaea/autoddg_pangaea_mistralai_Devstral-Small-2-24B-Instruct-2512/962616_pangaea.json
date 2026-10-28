@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains geospatial data collected for Arctic permafrost mapping, specifically from a project conducted on June 25, 2021, near Cape Blossom, Alaska. It includes various file types such as preview images (RGB, CIR, DSM), cloud-optimized GeoTIFFs (Ortho, DSM, hillshade), point clouds, tile footprints, and processing information. The dataset is structured with columns representing project details, content descriptions, file references, file sizes, event identifiers, geographic coordinates (latitude and longitude), and timestamps. Semantically, the columns serve as aggregation keys (e.g., Project, Event, Date/Time) or metadata (e.g., Content) and include measurements like file sizes and spatial coordinates. This dataset can be used for analyzing permafrost conditions, monitoring environmental changes, and supporting research in Arctic geospatial studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-06-25T00:00:00",
+    "to": "2021-06-25T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains ROV survey data collected on September 8, 2020, during a single marine research event identified as PS122/5_61-35. The records link twenty unique binary files, such as depth profiles and spectrums, to specific geospatial measurements. Each entry corresponds to a location at latitude 88.675993 and longitude 112.324519, with an elevation of -4291.4 meters, indicating deep-sea operations. The temporal resolution is daily, serving as a key for aggregating data across the survey. Researchers can utilize this dataset to analyze underwater environmental conditions, validate sensor telemetry, and study sea ice draft distributions in polar regions.",
+  "spatialCoverage": {
+    "min_lat": 88.675993,
+    "min_lon": 112.324519,
+    "max_lat": 88.675993,
+    "max_lon": 112.324519
+  },
+  "temporalCoverage": {
+    "from": "2020-09-08T00:00:00",
+    "to": "2020-09-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily"
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the moth species Hellula rogatalis, primarily sourced from iNaturalist. The collection includes 20 unique occurrence entries spanning from 2014 to 2025, with observations concentrated in California, alongside records from Alabama, Texas, and Jalisco, Mexico. Each record provides detailed taxonomic classification, precise geographic coordinates, and event dates, though elevation data is frequently missing. The observations are attributed to various citizen scientists and are licensed under CC BY-NC 4.0. Researchers can utilize this dataset to analyze the seasonal activity patterns and geographic distribution of this specific moth species across North America and parts of Mexico.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Acrothamnus colensoi* in New Zealand, collected from various regions including Canterbury, Otago, Nelson, and Marlborough. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, state/province, and country code. Temporal data such as event date, day, month, and year are also provided, allowing for temporal analysis. Each observation is attributed to a recorder and identifier, with associated metadata like license and media type. The dataset can be used for biodiversity research, ecological studies, and conservation efforts, particularly in understanding the distribution and occurrence of *Acrothamnus colensoi* across New Zealand. The semantic profile highlights the dataset's focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and quality control indicators.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Sediment depth profiles with 210Pb, 137Cs, coordinates and elevation for 29 samples on 2022‑04‑08.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

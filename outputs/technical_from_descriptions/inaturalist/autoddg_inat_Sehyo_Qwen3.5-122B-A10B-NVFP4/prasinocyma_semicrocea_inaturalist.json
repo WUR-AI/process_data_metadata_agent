@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the moth species Prasinocyma semicrocea across Australia, sourced primarily from iNaturalist. It includes 20 records spanning multiple states such as Western Australia, Victoria, and New South Wales, with observation dates ranging from 2015 to 2025. Each entry provides precise taxonomic classification, geographic coordinates, and temporal details, alongside metadata regarding the observers and data licenses. The semantic profile highlights the data's utility for biodiversity monitoring, offering structured keys for taxonomic and spatial aggregation. Researchers can utilize this collection to analyze species distribution patterns, assess habitat preferences, and track temporal trends in the presence of this specific geometrid moth.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

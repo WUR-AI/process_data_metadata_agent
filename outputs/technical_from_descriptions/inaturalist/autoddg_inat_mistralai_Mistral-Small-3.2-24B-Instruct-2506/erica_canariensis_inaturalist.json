@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on the distribution of the Canary Heath (Erica canariensis), a plant species native to the Canary Islands and Madeira. It includes observations recorded between 2018 and 2025, with detailed taxonomic information such as kingdom, phylum, class, order, family, genus, and species. The dataset also provides geographic data, including country codes, state/province information, and precise coordinates for each observation. Additionally, it contains metadata about the observers, identification dates, and licensing information. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and aggregation keys for various taxonomic and geographic levels. This dataset can be used for studying the distribution patterns, habitat preferences, and conservation status of the Canary Heath, as well as for broader ecological and environmental research in the regions where it is found.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

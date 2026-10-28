@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides 20 occurrence records of ant Formica cunicularia. Records have a gbifID, occurrenceID and share a datasetKey. Fields from kingdom to species are populated. Observations cover ten country codes and eighteen states or provinces in Europe and Asia, with latitudes from 37.1 to 51.2 °N and longitudes from –5.8 to 20.2 °E. Coordinate uncertainty ranges between 4 and 1360 m. Event dates span 2013‑2026 with day, month and year. Semantic profile shows identifiers act as keys, coordinates enable mapping, mediaType records images, while issue flags note COORDINATE_ROUNDED. Researchers can use data to map distribution, study seasonal activity, or explore habitat preferences of Formica cunicularia.",
+  "spatialCoverage": {
+    "min_lat": 37.1,
+    "min_lon": -5.8,
+    "max_lat": 51.2,
+    "max_lon": 20.2
+  },
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

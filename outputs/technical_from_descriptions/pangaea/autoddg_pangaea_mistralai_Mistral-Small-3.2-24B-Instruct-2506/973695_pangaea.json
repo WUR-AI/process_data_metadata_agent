@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on sediment geochemistry, providing a comprehensive collection of geochemical measurements from sediment samples. The data includes various chemical elements and compounds such as aluminum (Al), calcium (Ca), iron (Fe), potassium (K), manganese (Mn), sodium (Na), phosphorus (P), molybdenum (Mo), uranium (U), nitrogen (N), sulfur (S), total organic carbon (TOC), and total carbon (TC). The samples are categorized by geological epochs, with each entry including detailed sample labels and spatial references such as latitude, longitude, and elevation. The dataset also contains temporal data, allowing for the analysis of geochemical variations over time. This information can be used to study environmental changes, sediment composition, and the impact of geological processes on sedimentary deposits. The semantic profile indicates that the data is well-structured for aggregation and measurement, making it valuable for researchers in geological and environmental sciences.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

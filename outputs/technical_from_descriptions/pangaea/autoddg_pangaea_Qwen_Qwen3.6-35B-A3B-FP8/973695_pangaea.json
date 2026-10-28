@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains marine sediment geochemistry data from Leg 112, Site 680, collected in 1986. It features sediment depth, epoch classification, and precise geographic coordinates. The core measurements include elemental concentrations of aluminum, calcium, iron, potassium, manganese, sodium, phosphorus, molybdenum, uranium, nitrogen, and sulfur. Additionally, it provides total organic and total carbon content, along with derived ratios and isotopic signatures for nitrogen, carbon, and molybdenum. Researchers can use this data to analyze paleoenvironmental conditions, trace metal enrichment, and biogeochemical cycling in marine sediments during the Pliocene and Pleistocene epochs.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1986-01-01T00:00:00",
+    "to": "1986-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

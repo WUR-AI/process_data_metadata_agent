@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Chorizanthe pungens*, a plant species in the Polygonaceae family. It includes detailed taxonomic classifications, such as genus and species, alongside precise spatial data with decimal latitude and longitude coordinates. The records, primarily sourced from iNaturalist, cover occurrences in California, USA, spanning event dates from 2013 to 2026. Users can leverage this data for temporal filtering based on observation dates or spatial analysis of the species' distribution. The dataset supports research in ecology and conservation by providing verified presence records, identified by various contributors, and includes metadata on licensing and coordinate uncertainty for quality assessment.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

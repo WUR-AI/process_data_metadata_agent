@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains sediment‑geochemistry measurements collected at a single site (Event GeoB16310‑3) on 23 March 2012. It includes 20 records with depth values ranging from 0 to 10.38 cm and corresponding total organic carbon (TOC) and total inorganic carbon (TIC) measurements. TOC values span 0 to 0.76 % and TIC values span 0 to 10.61 %. All observations share the same latitude (23.8242 °N), longitude (‑87.1703 °W), and elevation (‑573 m). The timestamp is recorded to the second. Each column represents a geological measurement or spatial attribute, supporting spatial indexing and temporal analysis. Researchers can use the data to assess carbon distribution with depth, compare organic versus inorganic carbon content, and model sedimentary processes in marine or lacustrine environments.",
+  "spatialCoverage": {
+    "min_lat": 23.8242,
+    "min_lon": -87.1703,
+    "max_lat": 23.8242,
+    "max_lon": -87.1703
+  },
+  "temporalCoverage": {
+    "from": "2012-03-23T00:00:00",
+    "to": "2012-03-23T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

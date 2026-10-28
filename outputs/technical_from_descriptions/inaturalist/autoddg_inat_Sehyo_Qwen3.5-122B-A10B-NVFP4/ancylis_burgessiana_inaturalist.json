@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the moth species Ancylis burgessiana, primarily sourced from iNaturalist. It includes 20 records spanning from 2015 to 2026 across the United States and Canada, with specific locations in states like Maryland, Massachusetts, and Ontario. Each entry provides detailed taxonomic classification, precise geographic coordinates, and observation dates, though some fields such as elevation and individual counts are missing. The data is licensed under Creative Commons, allowing for open research use. Researchers can utilize this collection to analyze the species' distribution patterns, seasonal activity, and habitat preferences within North America.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

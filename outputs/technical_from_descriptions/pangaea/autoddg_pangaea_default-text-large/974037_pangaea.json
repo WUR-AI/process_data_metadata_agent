@@ -1,0 +1,15 @@
+{
+  "description": "This dataset captures field observations from eleven sites (Site 1‑11) recorded on 24 July 2018 during the Sucha Woda flood event. Each record includes the site name, geographic coordinates (latitude 49.2725‑49.2855 °N, longitude 20.0336‑20.0466 °E) and elevation (up to 1 180 m), providing a geospatial context. Environmental counts of tree trunks (N trunks, N trunks_2) and up to twenty‑five boulder diameter measurements (ranging from 51 mm to 199 mm) are reported, reflecting geological debris. The event column categorises the disaster and the date field timestamps the observation. Researchers can use these data to assess flood‑driven boulder transport, model sediment hazards, and support flood risk mitigation planning. The comprehensive set of boulder size variables enables detailed statistical analysis of debris distribution across the watershed.",
+  "spatialCoverage": {
+    "min_lat": 49.2725,
+    "min_lon": 20.0336,
+    "max_lat": 49.2855,
+    "max_lon": 20.0466
+  },
+  "temporalCoverage": {
+    "from": "2018-07-24T00:00:00",
+    "to": "2018-07-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

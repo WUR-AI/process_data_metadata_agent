@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Wisteriopsis reticulata, a species of plant in the Fabaceae family. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the species' taxonomic hierarchy. Additionally, the dataset includes location data with coordinates, country codes, and state/province information, allowing for spatial analysis and mapping of the observations. Temporal data such as event dates, days, months, and years are also included, enabling temporal analysis of the observations. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Wisteriopsis reticulata. It provides valuable information for understanding the distribution, habitat, and temporal patterns of this species. The semantic profile of the dataset indicates that it is well-structured for aggregation and classification purposes, making it a useful resource for researchers and conservationists.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

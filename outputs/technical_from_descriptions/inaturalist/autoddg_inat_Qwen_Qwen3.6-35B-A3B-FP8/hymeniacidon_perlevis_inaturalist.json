@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the sponge species *Hymeniacidon perlevis*. It includes taxonomic classifications, precise geographic coordinates, and temporal data for each record. The semantic profile highlights fields for spatial filtering, such as country and state, alongside temporal attributes like event dates. Users can leverage this data for ecological studies, species distribution modeling, and conservation planning. The records, sourced from iNaturalist, provide valuable insights into the habitat preferences and global range of this marine organism, supporting research in marine biology and environmental monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

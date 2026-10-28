@@ -1,0 +1,10 @@
+{
+  "description": "Species occurrence data with taxonomic, geographic, and observation details from 1986 to 2026.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1986-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

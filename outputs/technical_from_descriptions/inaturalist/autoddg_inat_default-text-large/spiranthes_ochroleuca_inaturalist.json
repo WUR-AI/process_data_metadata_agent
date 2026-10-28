@@ -1,0 +1,10 @@
+{
+  "description": "The dataset contains 20 occurrence records of the orchid Spiranthes ochroleuca, collected via iNaturalist human observations. Each record includes a unique GBIF identifier, occurrence URL, taxonomic classification from kingdom to species, and precise latitude/longitude with coordinate uncertainty ranging from 4 to 28,151 meters. Spatial coverage spans 13 U.S. states and two Canadian provinces, with dates from 2018 to 2025. Semantic fields capture biodiversity identifiers, geographic coordinates, temporal metadata, media type (still images), and licensing (CC BY‑NC 4.0 or CC BY 4.0). Researchers can use it for distribution mapping, phenology studies, and assessing data‑quality of citizen‑science orchid observations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

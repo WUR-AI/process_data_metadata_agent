@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Banksia robur, a species of plant in the family Proteaceae. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the plant's taxonomic hierarchy. Additionally, the dataset includes location data with coordinates, country codes, and state/province information, allowing for spatial analysis and mapping of the observations. Temporal data such as event dates, days, months, and years are also included, enabling temporal analysis of the observations. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Banksia robur. It provides valuable information for understanding the distribution, habitat, and temporal patterns of this species. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classifications and measurements that facilitate aggregation and analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

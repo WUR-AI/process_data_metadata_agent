@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Costa Rican grasshoppers, specifically the species Romalea reticulata, collected from various locations across the country. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like decimal latitude and longitude, and temporal data including day, month, and year of observation. The dataset also provides information on the observers, identifiers, and the licenses under which the data is shared. The semantic profile of the dataset columns indicates that the data is well-structured for biodiversity research, with clear classifications and aggregations. This dataset can be used for studying the distribution, behavior, and conservation status of Romalea reticulata in Costa Rica, as well as for broader research on grasshopper species in the region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

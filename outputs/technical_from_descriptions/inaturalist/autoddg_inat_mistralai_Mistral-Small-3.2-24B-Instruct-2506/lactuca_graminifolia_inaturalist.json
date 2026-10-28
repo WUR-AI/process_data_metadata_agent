@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Lactuca graminifolia, also known as grass-leaved lettuce. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the species' biological hierarchy. The dataset also includes location data with coordinates, country codes, and state/province information, allowing for spatial analysis and mapping of the species' distribution. Temporal data such as event dates, days, months, and years are also provided, enabling temporal analysis of the observations. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Lactuca graminifolia. It includes identifiers for aggregation and classification, as well as information on the observers and the licensing of the data, ensuring proper attribution and usage. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and measurements. This dataset is valuable for researchers and conservationists interested in the distribution and ecology of Lactuca graminifolia.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

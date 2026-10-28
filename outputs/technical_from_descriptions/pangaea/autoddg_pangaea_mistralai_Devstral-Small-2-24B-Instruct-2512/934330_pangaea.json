@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides a detailed chronology of a peatland core from Stordalen, Sweden, with measurements of sediment depth, sample thickness, and radiocarbon-dated ages. It includes temporal data such as calibrated ages and uncertainties, along with spatial references like latitude, longitude, and elevation. The dataset also categorizes dated materials (e.g., moss, sphagnum) and lab labels for aggregation. Semantically, it combines geological measurements (depth, age) with spatial and temporal references, making it useful for paleoenvironmental reconstructions. Researchers can use this data to analyze peatland development, carbon accumulation rates, and past climate conditions over time. The dataset spans from modern surface sediments to depths representing several thousand years, offering insights into long-term ecological changes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

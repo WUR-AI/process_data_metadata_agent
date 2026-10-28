@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains aerial imagery data collected during a specific event on June 25, 2021, at a location with coordinates approximately 66.891836 latitude and -162.596512 longitude. The dataset includes various types of files such as preview images, cloud-optimized GeoTIFFs, point clouds, and processing information, with sizes ranging from a few kilobytes to several gigabytes. The data is organized by project and content type, with each entry having a unique file identifier. Semantically, the dataset is rich in geospatial information, with columns representing projects, events, and locations, all of which can serve as aggregation keys. The temporal resolution varies from day to second, providing detailed temporal references. This dataset can be used for applications such as environmental monitoring, land use planning, and disaster management, offering valuable insights through high-resolution aerial imagery.",
+  "spatialCoverage": {
+    "min_lat": 66.891836,
+    "min_lon": -162.596512,
+    "max_lat": 66.891836,
+    "max_lon": -162.596512
+  },
+  "temporalCoverage": {
+    "from": "2021-06-25T00:00:00",
+    "to": "2021-06-25T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "day to second"
+}

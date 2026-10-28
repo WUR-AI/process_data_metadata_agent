@@ -1,0 +1,10 @@
+{
+  "description": "Sediment mineralogy, geochemistry, and location data for 14 samples collected on May 30, 2021.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-05-30T00:00:00",
+    "to": "2021-05-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

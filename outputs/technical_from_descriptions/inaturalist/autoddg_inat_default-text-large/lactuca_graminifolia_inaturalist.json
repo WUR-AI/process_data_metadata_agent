@@ -1,0 +1,15 @@
+{
+  "description": "The dataset comprises 20 human‑observation records of the plant Lactuca graminifolia collected through iNaturalist. Each entry contains a unique GBIF occurrence ID, dataset key, catalog number and the full taxonomic hierarchy from kingdom to species. Geographic coordinates are given as decimal latitude (0‑35.12 °N) and longitude (‑110.53‑0 °E) with uncertainty 0‑728 m. Event dates range from 2018 to 2026 and include separate day, month and year fields. Media are still images and quality flags indicate rounded coordinates, continent‑derived locations and missing taxon IDs. These records can support mapping the distribution and seasonal patterns of L. graminifolia across the southern United States and northern Mexico.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -110.53,
+    "max_lat": 35.12,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

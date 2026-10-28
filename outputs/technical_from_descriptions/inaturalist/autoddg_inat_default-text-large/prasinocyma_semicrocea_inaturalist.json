@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of the moth Prasinocyma semicrocea from Australia, captured via iNaturalist human observations. Each record includes GBIF and dataset identifiers, a full taxonomic hierarchy from kingdom to species, precise latitude/longitude with uncertainty, event dates, and attribution to observers and rights holders. Semantic fields cover biodiversity identifiers, classification, geolocation, temporal stamps, media types and quality‑flag issues. Licenses vary (CC BY 4.0, CC BY‑NC 4.0, CC0). Coordinates span –38.42 to –26.44 ° latitude and 144.17 to 153.18 ° longitude, with uncertainty up to 29 km. Media are primarily still images, and records are flagged for rounded coordinates or missing taxon IDs. Researchers can use the data to analyse distribution, phenology and citizen‑science data quality for Geometridae moths across five Australian states.",
+  "spatialCoverage": {
+    "min_lat": -38.42,
+    "min_lon": 144.17,
+    "max_lat": -26.44,
+    "max_lon": 153.18
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on fish physiology, providing detailed measurements of various biological and biochemical parameters. It includes temporal data such as date and season, spatial coordinates for location, and individual identifiers for aggregation. Key measurements include body mass, organ weights (gut, liver, stomach, heart), eviscerated mass, and health indicators like HSI, K, GRI, TPRT, TG, cholesterol, and glucose levels. The data is categorized by season and interval, allowing for seasonal and temporal analyses. This dataset can be used to study fish health, growth patterns, seasonal variations in physiology, and the impact of environmental factors on fish populations. Researchers can leverage this information for ecological studies, fisheries management, and health assessments in aquatic ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

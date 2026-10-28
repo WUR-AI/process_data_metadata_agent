@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of New Zealand Mollusks, specifically the species Struthiolaria papulosa. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which allows for comprehensive classification and aggregation. The dataset also provides spatial data, including coordinates and location information at the country and state/province levels, enabling geographical analysis. Temporal data, such as event dates and specific day, month, and year information, allows for tracking observations over time. Additionally, the dataset includes identifiers for various aggregation keys, making it suitable for linking and integrating with other biodiversity datasets. This dataset can be used for studying the distribution, habitat, and temporal patterns of Struthiolaria papulosa in New Zealand, as well as for broader biodiversity research and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the beetle species Nemognatha piazata and its subspecies, primarily recorded in the United States. It includes detailed taxonomic classifications, spatial coordinates, and temporal data ranging from 1933 to 2026. The records are sourced from iNaturalist human observations, featuring media attachments and quality flags. Users can analyze species distribution across states like Florida, Texas, and Oklahoma, study phenological trends over time, or conduct ecological research on Meloidae family dynamics. The data supports studies on species range expansion and local biodiversity monitoring through standardized occurrence records.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1933-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

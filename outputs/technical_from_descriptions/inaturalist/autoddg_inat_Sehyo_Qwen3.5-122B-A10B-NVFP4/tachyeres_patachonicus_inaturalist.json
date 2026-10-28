@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles occurrence records for the Steamer Duck (Tachyeres patachonicus), primarily sourced from human observations in Argentina and Chile. The records span from 2009 to 2025, covering multiple provinces including Tierra del Fuego, Chubut, and Magallanes. Each entry includes precise taxonomic classification, geographic coordinates, and observation dates, facilitating detailed spatial and temporal analyses. The data is enriched with contributor information and media types, such as still images, supporting biodiversity monitoring and ecological research. Researchers can utilize this collection to study population distribution, habitat preferences, and seasonal patterns of this species across its native range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

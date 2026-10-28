@@ -1,0 +1,7 @@
+{
+  "description": "This dataset documents archaeological dating results from Borneo, covering sites in Indonesia and Malaysia. It contains 20 unique records with radiocarbon and U-Th dating methods. Key columns include site location, country, province, and lab labels. The data features uncalibrated and calibrated ages, with temporal measurements ranging from 0 to 44.816 thousand years. Standard deviations provide error margins for these dates. References link each entry to specific academic studies. This resource supports research into the prehistoric chronology of Island Southeast Asia, enabling analysis of human occupation timelines and cultural developments across the region's diverse archaeological contexts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

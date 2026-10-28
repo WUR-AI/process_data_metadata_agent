@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of sunbirds (family Nectariniidae) from iNaturalist, identified to species level (Cinnyris pulchellus and Cinnyris melanogastrus). It includes GBIF identifiers (gbifID, occurrenceID, datasetKey) and taxonomic classification from kingdom to species. Geographic coordinates span latitudes ‑7.34 to 14.66 and longitudes ‑17.43 to 37.14, covering six African countries and 15 provinces, with coordinate uncertainty values up to 488 m. Each record provides timestamps, media type (still images), licensing information, observer details and data‑quality flags. The semantic fields support biodiversity research, spatial analysis, and temporal trends of sunbird distribution and can be used for ecological modeling, conservation planning, and citizen‑science studies.",
+  "spatialCoverage": {
+    "min_lat": -7.34,
+    "min_lon": -17.43,
+    "max_lat": 14.66,
+    "max_lon": 37.14
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

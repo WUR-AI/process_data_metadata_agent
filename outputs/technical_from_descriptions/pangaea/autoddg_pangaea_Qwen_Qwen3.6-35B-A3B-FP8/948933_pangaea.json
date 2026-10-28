@@ -1,0 +1,7 @@
+{
+  "description": "This dataset documents Scomber scombrus trawl surveys, featuring spatial coordinates, bathymetric depths, and environmental conditions like salinity and temperature. It includes specific measurements for Atlantic mackerel total length and abundance counts. The records are categorized by benthic habitat and grouped under distinct sampling events. With temporal resolution down to the second, the data supports detailed marine biology research. Users can analyze fish distribution patterns, assess habitat preferences, and correlate biological metrics with environmental variables. This resource is ideal for studying mackerel population dynamics and ecosystem interactions in the surveyed regions, facilitating comprehensive ecological assessments and fisheries management strategies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "seconds"
+}

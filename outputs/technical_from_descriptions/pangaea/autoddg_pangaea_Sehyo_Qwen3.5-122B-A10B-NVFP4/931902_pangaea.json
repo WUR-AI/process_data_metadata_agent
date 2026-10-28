@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains marine science observations from the Birkeland Cruise, specifically focusing on siphonophore events recorded in July 2016. Each entry links a unique event identifier to a corresponding video file, providing essential metadata such as file size and cryptographic hash for data integrity verification. The records include precise geographic coordinates, with latitudes reaching up to 46.55 and longitudes extending to -26.26667, enabling detailed spatial indexing of these marine organisms. Additionally, the temporal data allows for chronological analysis of the observations. Researchers can utilize this collection to study siphonophore distribution patterns, validate media assets, and conduct spatial-temporal analyses within the field of marine biology.",
+  "spatialCoverage": {
+    "min_lat": -90.0,
+    "min_lon": -180.0,
+    "max_lat": 46.55,
+    "max_lon": -26.26667
+  },
+  "temporalCoverage": {
+    "from": "2016-07-01T00:00:00",
+    "to": "2016-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

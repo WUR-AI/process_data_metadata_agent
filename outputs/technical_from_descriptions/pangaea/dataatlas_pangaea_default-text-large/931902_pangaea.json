@@ -1,0 +1,10 @@
+{
+  "description": "Two July 7 2016 Earth observations with event IDs, video files (size, hash), and coordinates.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-07-07T00:00:00",
+    "to": "2016-07-07T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

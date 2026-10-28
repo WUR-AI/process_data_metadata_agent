@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains marine trawl data collected from various locations, with coordinates ranging from 0 to 55.056917 for latitude and 0 to 8.51045 for longitude. It includes measurements such as bathymetric depth, salinity, temperature, and species counts, specifically for Atlantic mackerel (S. scombrus). The data is temporally resolved to the second and focuses on benthic habitats. Semantically, the dataset is rich in marine biology context, with columns representing spatial coordinates, temporal references, environmental features, and various measurements. This dataset can be used for marine research, ecological studies, and fisheries management, providing valuable insights into species distribution, habitat characteristics, and environmental conditions. The data is organized by sample identifiers and events, facilitating aggregation and analysis.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": 0.0,
+    "max_lat": 55.056917,
+    "max_lon": 8.51045
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "second"
+}

@@ -1,0 +1,10 @@
+{
+  "description": "1005 Romalea reticulata occurrence records from Costa Rica, spanning 2006 to 2026.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

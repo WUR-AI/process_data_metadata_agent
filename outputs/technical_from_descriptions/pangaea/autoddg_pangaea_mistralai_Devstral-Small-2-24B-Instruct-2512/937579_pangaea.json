@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains measurements of Arctic water isotopes, including δ18O, δD, and d xs, collected during multiple expeditions. The data spans from April to September 2019, with samples taken at various stations across the Arctic region, primarily around the Mackenzie River area. Key variables include latitude, longitude, water depth, and isotopic compositions, which are essential for climate research. The dataset can be used to analyze spatial and temporal variations in water isotopes, study climate patterns, and support research on Arctic hydrology and environmental changes. The semantic profile indicates that the data is structured for climate-related measurements and aggregation, with columns serving as aggregation keys or measurement values. This makes it valuable for researchers focusing on Arctic climate dynamics and isotopic studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-04-01T00:00:00",
+    "to": "2019-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of *Lomatium orientale*, a plant species in the Apiaceae family, recorded primarily in Colorado and South Dakota. Sourced from iNaturalist, the records include precise geographic coordinates, event dates ranging from 2019 to 2026, and taxonomic classifications. Users can leverage this data for spatial and temporal filtering to study the species' distribution and phenology. The inclusion of media types and quality control issues supports biodiversity research, while the varied licenses facilitate diverse academic and conservation applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

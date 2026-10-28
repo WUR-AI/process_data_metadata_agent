@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains sediment core measurements from a single sampling event at a specific location in Mexico, recorded on April 8, 2022. The data includes precise depth intervals ranging from the surface down to 0.28 meters, alongside concentrations of Lead-210 and Cesium-137 isotopes. Each measurement is accompanied by standard deviation values to indicate data quality, with Lead-210 levels varying between 37.8 and 147.1 units. The records also specify supported and unsupported Lead-210 fractions, which are critical for geochronology. Researchers can utilize these sediment isotope profiles to reconstruct historical environmental changes, determine sedimentation rates, and analyze past climate conditions at the sampled elevation of 750 meters.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

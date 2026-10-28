@@ -1,0 +1,10 @@
+{
+  "description": "Species occurrence data with 1003 records, 1995-2026, including taxonomic, geographic, and observational details.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1995-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

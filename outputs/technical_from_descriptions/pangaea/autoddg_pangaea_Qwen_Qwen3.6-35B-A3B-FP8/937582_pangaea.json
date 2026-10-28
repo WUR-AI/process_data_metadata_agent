@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains optical measurements of fluorescent dissolved organic matter (FDOM) from the Mackenzie River region. It includes data from four expeditions conducted in 2019, covering specific stations with precise geographic coordinates and timestamps. Key variables include intrinsic and fluorescent DOM peaks, as well as fluorescence indices. The data supports oceanographic research by characterizing DOM composition and sources in Arctic waters. Researchers can use this information to study biogeochemical cycles, track terrestrial organic matter inputs, and analyze spatial and temporal variations in riverine DOM properties. The dataset provides a valuable resource for understanding the role of the Mackenzie River in the global carbon cycle and coastal ecosystem dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

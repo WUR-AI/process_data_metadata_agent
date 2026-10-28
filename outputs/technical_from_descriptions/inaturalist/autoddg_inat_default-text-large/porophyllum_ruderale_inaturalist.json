@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 human‑observation records of the plant Porophyllum ruderale, each identified by a unique GBIF ID, occurrence ID and catalog number. All records belong to the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Magnoliopsida, order Asterales, family Asteraceae, genus Porophyllum) and are classified at the species level, with a single infraspecific variety represented. Geographic coverage spans eight countries across the Americas and Asia, with precise latitude‑longitude coordinates (‑32.48 to 24.85 ° lat, ‑107.42 to 103.77 ° lon) and uncertainty values ranging from 0 to 922 m. Temporal fields record event dates from 2019 to 2026, and each record includes media (still images) and quality‑issue flags such as “COORDINATE_ROUNDED”. The semantic profile highlights identifiers for occurrences, taxa, and institutions, classification terms for taxonomy, spatial measurements for location, and timestamps for observation and identification. Researchers can use this collection to map the species’ distribution, study its phenology across diverse climates, assess habitat preferences, and support conservation planning for Porophyllum ruderale.",
+  "spatialCoverage": {
+    "min_lat": -32.48,
+    "min_lon": -107.42,
+    "max_lat": 24.85,
+    "max_lon": 103.77
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

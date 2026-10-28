@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains balloon weather measurements collected on August 18, 2018, with 20 records documenting atmospheric conditions at various altitudes. Key variables include longitude, latitude, height, pressure (PPPP), temperature (TTT), relative humidity (RH), wind direction (dd), and wind speed (ff). The data spans heights from ground level to 701 meters, with temperatures ranging from -2.34°C to 0°C and humidity between 86.7% and 95.3%. Semantically, the dataset combines temporal (Date/Time), spatial (Longitude/Latitude), and numeric measurements (Height, PPPP, TTT, etc.), with Event serving as an aggregation key. This balloon weather data is valuable for atmospheric research, weather modeling, and educational purposes, particularly for studying vertical temperature and humidity profiles in the lower atmosphere.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-08-18T00:00:00",
+    "to": "2018-08-18T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

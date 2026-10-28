@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the bird species *Cinnyris pulchellus*, primarily sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates across multiple countries, and temporal data from 2016 to 2026. The records are human observations, providing precise location and date information for ecological studies. Users can utilize this data for spatial filtering, temporal analysis, and taxonomic identification. The dataset supports research on species distribution and behavior, offering valuable insights into the presence and movement of *Cinnyris pulchellus* populations in various regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

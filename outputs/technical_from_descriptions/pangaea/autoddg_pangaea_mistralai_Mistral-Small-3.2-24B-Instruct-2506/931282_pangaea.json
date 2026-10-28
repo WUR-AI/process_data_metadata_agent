@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains sensor event data, specifically related to UPC events. It includes information about files, such as their names, types, and sizes, along with spatial and temporal data. The files are of type text and vary in size, with the largest being 446.5 MBytes. The spatial data includes latitude, longitude, and elevation, all of which are consistent across the dataset, indicating a single location at an elevation of 115.0 meters. The temporal data is recorded with a resolution of day, with all events occurring on the same date, March 11, 2020. Semantically, the dataset is designed for interaction data and spatial measurements, with the event and date/time columns serving as aggregation keys. This dataset can be used for analyzing sensor events, monitoring spatial data, and understanding the interaction between different sensor files. It provides a comprehensive view of sensor activities at a specific location and time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-03-11T00:00:00",
+    "to": "2020-03-11T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "day"
+}

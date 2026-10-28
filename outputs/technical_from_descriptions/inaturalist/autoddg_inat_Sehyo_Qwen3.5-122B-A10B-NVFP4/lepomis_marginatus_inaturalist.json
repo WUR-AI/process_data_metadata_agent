@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains occurrence records for the Bluegill (*Lepomis marginatus*), a freshwater fish species, sourced primarily from human observations on iNaturalist. The records span multiple US states, including Florida, Texas, and North Carolina, with observations dating from 2018 to 2026. Each entry provides detailed taxonomic classification, precise geographic coordinates, and temporal data down to the hour. The dataset includes metadata such as observer names, identification dates, and media types, alongside data quality flags indicating issues like coordinate rounding. Researchers can utilize this collection to analyze the species' distribution patterns, monitor population trends over time, and assess habitat usage across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

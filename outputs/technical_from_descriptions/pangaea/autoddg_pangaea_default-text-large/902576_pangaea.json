@@ -1,0 +1,10 @@
+{
+  "description": "The dataset contains four files: mean annual ground temperature, its standard deviation, permafrost probability fraction, and a thumbnail image. The files are provided as ZIP archives (three) and a JPG, with sizes ranging from 716.7 to 1908.86 kilobytes. Each file name encodes the product version, creation date (2018‑12‑05) and the period 2000‑2017, serving as an aggregation key with day‑level temporal resolution. The content variables represent climate‑related scientific measurements, while the file format and URL fields serve as metadata and access links. Researchers can use these data to map permafrost extent, assess thermal conditions, and support climate impact studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2000-01-01T00:00:00",
+    "to": "2017-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "day-level"
+}

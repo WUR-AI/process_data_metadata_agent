@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides 20 iNaturalist observations of the plant Pectocarya recurvata, all tied to a single GBIF dataset key. Each record includes taxonomic classification, a scientific name, and coordinates (latitude 32.09–36.77 °N, longitude –116.82 to –108.97 °W) with up to 14 m uncertainty and state data for California, Arizona, Nevada and New Mexico. Event dates span 2014–2026 with day, month and year fields. The semantic profile shows gbifID, occurrenceID and catalogNumber as primary identifiers, while latitude, longitude, coordinateUncertaintyInMeters and eventDate capture details. Licenses (CC‑BY‑NC‑4.0, CC‑BY‑4.0, CC0) and rights‑holder metadata allow reuse. Researchers can use the data for distribution mapping, phenology studies and conservation planning of Pectocarya recurvata in the southwestern United States.",
+  "spatialCoverage": {
+    "min_lat": 32.09,
+    "min_lon": -116.82,
+    "max_lat": 36.77,
+    "max_lon": -108.97
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

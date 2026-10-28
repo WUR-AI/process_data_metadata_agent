@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains measurements of the bivalve species Macoma balthica collected during the EMB320 expedition in the Baltic Sea in June 2023. It includes shell length and frequency data from two types of sites: a reference area and a marine protected area. The dataset comprises 20 unique shell length measurements ranging from 0 to 18 mm, with corresponding frequency counts spanning from 0 to 107. The semantic profile indicates that the data is structured around scientific research, environmental context, and biological measurements, with columns serving as aggregation keys, contextual data, and categorization. This dataset can be used for ecological studies, conservation assessments, and comparisons between protected and unprotected marine areas to understand the impact of conservation efforts on bivalve populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-06-01T00:00:00",
+    "to": "2023-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

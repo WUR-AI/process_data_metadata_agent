@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the butterfly species Telicota colon, collected from various locations around the world. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as geographic details like country code, state or province, and precise coordinates. Each observation is recorded with a unique identifier, date, and details about the observer. The dataset spans multiple years and includes observations from countries like Australia, Singapore, India, Malaysia, and Thailand. The semantic profile indicates that the data is well-structured for biodiversity studies, with clear classifications and measurements. This dataset can be used for research on butterfly distribution, habitat preferences, and conservation efforts. It is particularly useful for studying the geographic range and temporal patterns of Telicota colon observations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises 20 human‑observation records of the reef fish Myripristis jacobus, all sharing the same kingdom, phylum, class, order, family, genus and species values. The occurrences span 13 country codes and ten state‑province regions, with decimal latitudes ranging from 0 to 26.47 degrees and longitudes from ‑81.38 to 0 degrees, and coordinate‑uncertainty values between 0 and 14 235 metres. Event dates cover 2008‑2025, and each record includes timestamps for identification and last interpretation, as well as licensing information (CC BY 4.0, CC BY‑NC 4.0, CC0 1.0).  \n\nSemantically, identifiers such as gbifID, datasetKey and occurrenceID serve as aggregation keys, while taxonomic columns (kingdom to species, taxonRank, scientificName) enable filtering and display. Geographic fields (countryCode, stateProvince, decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters) support mapping and spatial‑quality assessment, and temporal fields (eventDate, day, month, year, dateIdentified) allow chronological analyses. MediaType and issue flags describe available images and data‑quality concerns.  \n\nResearchers can use these records for species‑distribution modelling, habitat‑use studies, temporal trend analysis, and conservation planning of Myripristis jacobus across the Caribbean region.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -81.38,
+    "max_lat": 26.47,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2008-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

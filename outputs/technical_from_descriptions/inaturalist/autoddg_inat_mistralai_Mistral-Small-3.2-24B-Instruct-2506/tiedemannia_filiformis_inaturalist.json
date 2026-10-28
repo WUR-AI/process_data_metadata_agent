@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Tiedemannia filiformis, primarily located in Florida, with a few observations in Texas and Louisiana. The data includes various taxonomic classifications, such as kingdom, phylum, class, order, family, genus, and species, providing a detailed classification hierarchy. Additionally, the dataset offers spatial information, including coordinates and country codes, as well as temporal data like event dates and identification dates. The semantic profile indicates that the dataset is well-suited for biodiversity studies, with columns representing identifiers, taxonomic classifications, locations, temporal data, and media types. This dataset can be used for studying the distribution and occurrence of Tiedemannia filiformis in the specified regions, aiding in ecological research, conservation efforts, and understanding the plant's habitat and range. The inclusion of identifiers and aggregation keys facilitates data integration and analysis across different studies and datasets.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

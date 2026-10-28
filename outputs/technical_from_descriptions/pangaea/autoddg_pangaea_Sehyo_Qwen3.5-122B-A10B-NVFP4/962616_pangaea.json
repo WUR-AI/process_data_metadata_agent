@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains aerial imagery and derived geospatial products from the WA Cape Blossom project, captured on June 25, 2021. It includes cloud-optimized GeoTIFFs for orthophotos, digital surface models, and hillshades, alongside point clouds and tile footprints. All data corresponds to a single event located at latitude 66.89 and longitude -162.60. The collection features various file formats, including previews and large binary archives, with sizes ranging from kilobytes to gigabytes. Researchers can utilize this high-resolution aerial data for environmental monitoring, terrain analysis, and land cover classification in remote Arctic regions. The dataset serves as a comprehensive resource for geospatial aggregation and temporal indexing of site-specific survey events.",
+  "spatialCoverage": {
+    "min_lat": 66.89,
+    "min_lon": -162.6,
+    "max_lat": 66.89,
+    "max_lon": -162.6
+  },
+  "temporalCoverage": {
+    "from": "2021-06-25T00:00:00",
+    "to": "2021-06-25T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

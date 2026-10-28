@@ -1,0 +1,7 @@
+{
+  "description": "The collection comprises eight text files that together provide comprehensive water‑quality information. Each file is identified by a unique name (Binary) and stored in UTF‑16LE encoding with a MIME type of text/plain; the file size and SHA‑256 hash are recorded for measurement and verification purposes. The content field offers concise documentation of the data, covering physico‑chemical parameters, particulate‑matter composition, temperature series, and hydrological discharge for fourteen sampling sites. These files can be used to assess contaminant levels, model nutrient dynamics, support environmental monitoring, and inform water‑resource management and research in the water‑quality domain.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Environmental data with sediment depth, carbon content, location, and time from March 24, 2012.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-24T00:00:00",
+    "to": "2012-03-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

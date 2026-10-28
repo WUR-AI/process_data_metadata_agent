@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 atmospheric balloon‑sounding records collected on 18 August 2018, each stamped with a second‑resolution date‑time. Every entry provides geographic coordinates (longitude 0 to 37.12°, latitude 0 to 89.56°) and a height ranging from near the surface up to 701.6 m. Atmospheric measurements include pressure (PPPP) from 919 to 1003.75 hPa, temperature (TTT) between –2.34 °C and 0 °C, relative humidity (RH) up to 95.3 %, wind direction (dd) spanning 0 to 277°, and wind speed (ff) up to 12.39 m s⁻¹. All rows share the same event identifier “Balloon_20180818_1109_1139”. This collection can be used to analyse vertical profiles of pressure, temperature, humidity and wind for a single balloon launch, to validate atmospheric models, or to study boundary‑layer dynamics.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": 0.0,
+    "max_lat": 89.56,
+    "max_lon": 37.12
+  },
+  "temporalCoverage": {
+    "from": "2018-08-18T00:00:00",
+    "to": "2018-08-18T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "second-resolution"
+}

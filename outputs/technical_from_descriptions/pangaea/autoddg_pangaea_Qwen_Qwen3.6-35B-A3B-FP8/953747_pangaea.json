@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains Arctic Ocean data collected on September 8, 2020, at a specific location in the high Arctic. It links survey identifiers and event codes to various scientific binary files, including depth profiles, telemetry timeseries, and optical measurements. The spatial context is defined by coordinates near 88.68 degrees North latitude and 112.32 degrees East longitude, with depths reaching approximately 4,291 meters. Users can utilize this resource to analyze oceanographic conditions, such as transmittance and current backscatter, associated with specific research events. The structured format facilitates the aggregation of temporal and spatial data for comprehensive environmental studies in polar regions.",
+  "spatialCoverage": {
+    "min_lat": 88.68,
+    "min_lon": 112.32,
+    "max_lat": 88.68,
+    "max_lon": 112.32
+  },
+  "temporalCoverage": {
+    "from": "2020-09-08T00:00:00",
+    "to": "2020-09-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

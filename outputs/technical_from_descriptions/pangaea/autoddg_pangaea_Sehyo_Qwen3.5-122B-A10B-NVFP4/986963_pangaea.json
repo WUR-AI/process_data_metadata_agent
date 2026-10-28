@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles high-resolution sediment core measurements from various locations across the Arctic, identified by unique event codes. It includes precise geographic coordinates, sediment depth, and age estimates alongside key geochemical indicators such as total organic carbon, inorganic carbon, and nitrogen concentrations. The data also features stable isotope ratios for carbon and nitrogen, which are essential for reconstructing past environmental conditions. Additionally, the dataset provides sediment grain size distributions and accumulation rates, offering insights into depositional processes. Researchers can utilize this comprehensive collection to analyze paleoclimate trends, assess carbon cycling dynamics, and study sedimentation patterns in the rapidly changing Arctic marine environment.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

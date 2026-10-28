@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the beetle species Anaspis maculata, sourced from iNaturalist. It includes taxonomic classifications, precise spatial coordinates across European countries, and temporal data from 2016 to 2026. The records are primarily human observations, featuring media attachments and quality flags for coordinate accuracy. Researchers can utilize this data to study the species' geographic distribution, phenology, and habitat preferences. The inclusion of observer details and licensing information supports collaborative ecological research and conservation planning efforts focused on this specific insect.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

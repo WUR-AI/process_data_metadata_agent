@@ -1,0 +1,15 @@
+{
+  "description": "This dataset compiles 20 occurrence records of the ant‑mimicking jumping spider Synemosyna formica, each identified by a unique gbifID (primary key) and linked to a single datasetKey (foreign key). All records share the same taxonomic hierarchy (kingdom Animalia through species Synemosyna formica) and are classified as HUMAN_OBSERVATION records from iNaturalist. Geographic information includes decimal latitude (0 to 45.19) and longitude (‑86.47 to 0) with coordinate uncertainty ranging from 4 to 28 151 m, covering eight US states and two Canadian provinces. Temporal coverage spans 2017‑2026, with event dates, day, month and year fields. Media types are still images, licensed under CC0 1.0, CC‑BY, or CC‑BY‑NC 4.0, and rights holders are recorded for each observation. The semantic profile clarifies each column’s role—e.g., occurrenceID as an external identifier, decimalLatitude/Longitude as geolocation measurements, and identifiedBy or recordedBy as contributor metadata. Researchers can use this curated set to study the species’ distribution, phenology, and habitat preferences, or to model spatial accuracy and media documentation practices for citizen‑science spider observations.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -86.47,
+    "max_lat": 45.19,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

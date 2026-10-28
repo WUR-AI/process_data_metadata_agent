@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the plant species Lactuca viminea, sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom through species levels, alongside precise spatial data with decimal latitude and longitude coordinates across multiple countries. Temporal information is available via event dates ranging from 2019 to 2026. The records include observer details, identification dates, and media types, primarily still images. Users can leverage this data for biodiversity research, species distribution mapping, and temporal trend analysis. Quality flags indicate potential coordinate rounding issues, ensuring transparent data usage for ecological studies and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

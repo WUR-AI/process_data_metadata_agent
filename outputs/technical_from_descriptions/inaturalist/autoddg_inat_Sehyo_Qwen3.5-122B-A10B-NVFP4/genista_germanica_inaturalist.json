@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human-observed occurrences of the plant species Genista germanica, primarily recorded through the iNaturalist platform. The records span multiple European countries, including the Czech Republic, Austria, Italy, Slovenia, Poland, and Croatia, with observations documented between 2021 and 2026. Each entry provides detailed taxonomic classification, precise geolocation coordinates, and temporal data down to the hour. The dataset includes attribution to individual observers and is released under Creative Commons licenses, making it suitable for biodiversity monitoring, distribution mapping, and ecological research focused on this specific species. Users can filter results by country, date, or observation quality flags found in the metadata.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

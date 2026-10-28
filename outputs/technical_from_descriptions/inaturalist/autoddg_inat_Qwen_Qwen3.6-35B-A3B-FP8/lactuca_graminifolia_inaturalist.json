@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Lactuca graminifolia*, a species within the Asteraceae family. It includes taxonomic classifications, spatial coordinates, and temporal data from human observations recorded between 2018 and 2026. The records cover locations in the United States and Mexico, with fields for latitude, longitude, and state. Users can filter data by date, location, or observer. The dataset supports ecological research, species distribution mapping, and conservation efforts. It provides essential metadata such as licenses, identification dates, and quality control issues, enabling robust analysis of this plant's presence and habitat preferences across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

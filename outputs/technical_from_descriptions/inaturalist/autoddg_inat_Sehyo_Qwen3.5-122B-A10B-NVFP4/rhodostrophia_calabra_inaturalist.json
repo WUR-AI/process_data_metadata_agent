@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the moth species Rhodostrophia calabra, sourced primarily from iNaturalist. It contains twenty records spanning multiple European countries, including Spain, France, Italy, Croatia, Switzerland, and Portugal, with observations recorded between 2011 and 2026. Each entry provides detailed taxonomic classification, precise geographic coordinates, and temporal data down to the hour. The records are supported by media such as still images and include provenance information like observer names and identification dates. Researchers can utilize this collection to analyze the species' distribution patterns, seasonal activity, and habitat preferences across its range, while noting that coordinate precision varies and some elevation data is missing.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

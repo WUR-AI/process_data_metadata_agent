@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Keckiella breviflora, primarily recorded in California and Nevada, United States. The records span from 2014 to 2026 and include precise geographic coordinates, observation dates, and associated media such as still images. Each entry provides detailed taxonomic classification, observer attribution, and data quality flags regarding coordinate precision. Researchers can utilize this collection for spatial distribution analysis, phenological studies, and monitoring the population status of this species across its native range. The data is sourced from iNaturalist and is available under various Creative Commons licenses, facilitating broad scientific use while respecting contributor rights.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

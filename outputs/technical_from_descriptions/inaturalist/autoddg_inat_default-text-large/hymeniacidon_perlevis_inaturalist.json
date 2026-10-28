@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 human‑observation records of the marine sponge *Hymeniacidon perlevis* collected through iNaturalist and unified under a single GBIF dataset key. Each entry includes a unique gbifID and occurrenceID that serve as aggregation and reference links, while the full taxonomic hierarchy—from kingdom down to species—provides a complete classification for the organism. Precise geolocation is supplied by decimal latitude and longitude (ranging from ‑34.42 to 54.67 degrees latitude and ‑122.89 to 26.88 degrees longitude) together with a coordinate‑uncertainty metric in metres. Temporal information is captured by event dates, day, month and year fields, and each record is accompanied by media type descriptors (still images) and quality‑issue flags. The semantic profile highlights that the columns represent biodiversity entities such as taxa, locations, observations, media and licensing metadata. Researchers can use these data to map the global distribution of *H. perlevis*, explore its seasonal occurrence patterns, assess citizen‑science reporting quality, and support ecological or conservation analyses of this sponge species.",
+  "spatialCoverage": {
+    "min_lat": -34.42,
+    "min_lon": -122.89,
+    "max_lat": 54.67,
+    "max_lon": 26.88
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

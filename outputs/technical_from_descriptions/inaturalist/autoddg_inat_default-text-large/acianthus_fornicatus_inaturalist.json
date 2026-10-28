@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises 20 occurrence records of Acianthus orchids (family Orchidaceae) from Australia, primarily New South Wales and the Jervis Bay Territory. Each record includes a unique GBIF identifier (gbifID) as the primary key, an external occurrence URL, and full taxonomic classification from kingdom down to species, together with the scientific and verbatim names. Precise geographic coordinates (latitude – ‑36.16 to 0, longitude 0 to 153.34) are provided, along with coordinate‑uncertainty values ranging from 4 m to 29 039 m, enabling spatial quality assessment. Temporal fields capture the event date, day, month and year, while mediaType indicates still images. The semantic profile clarifies each column’s role—e.g., taxonKey for linking, identifiedBy for attribution, and license for usage rights. Researchers can use these data to map Acianthus distribution, analyse phenology, support conservation planning, or explore biodiversity patterns in Australian orchid communities.",
+  "spatialCoverage": {
+    "min_lat": -36.16,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 153.34
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

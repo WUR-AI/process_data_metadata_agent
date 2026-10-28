@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the bird species *Cinnyris pulchellus*, primarily sourced from iNaturalist. The records span multiple countries in West and East Africa, including Senegal, Gambia, Tanzania, and Uganda, with observations documented between 2016 and 2026. Each entry includes precise taxonomic classification, geographic coordinates, and event dates, alongside metadata regarding the observers and data quality issues. Researchers can utilize this collection to analyze the species' distribution patterns, seasonal presence, and habitat preferences across different regions. The data supports biodiversity monitoring and ecological studies, offering verified sightings accompanied by media such as still images for further validation.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

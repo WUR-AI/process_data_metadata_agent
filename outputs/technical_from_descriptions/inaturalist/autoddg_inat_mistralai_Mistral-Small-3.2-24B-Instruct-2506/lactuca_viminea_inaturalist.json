@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of Lactuca viminea, a plant species belonging to the Asteraceae family. It includes records from various countries, with details on the taxonomic classification, location, and observation dates. The dataset contains 20 unique observations, each with a specific identifier, and covers a range of years from 2019 to 2026. The semantic profile indicates that the data includes identifiers, taxonomic classifications, location information, and temporal data, which can be used for aggregation and analysis. This dataset can be used for studying the geographical distribution, habitat preferences, and temporal patterns of Lactuca viminea, aiding in conservation efforts and ecological research. The records also include information on the observers and the licensing terms, ensuring proper attribution and usage.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

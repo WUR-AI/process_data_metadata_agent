@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles 20 human-verified occurrence records of the cockroach species Pycnoscelus indicus, sourced from global citizen science observations. The data spans multiple countries, including the United States, Singapore, and various Asian nations, with precise geospatial coordinates and temporal details ranging from 2020 to 2026. Each entry includes comprehensive taxonomic classification, observer information, and media links, though some fields like elevation and individual counts are missing. Researchers can utilize this collection for studying the invasive spread and distribution patterns of this species, conducting geospatial analyses, or validating biodiversity models using high-quality, license-compliant occurrence data.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

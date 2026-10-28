@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of Leptospermum lanigerum, a species of plant in the Myrtaceae family. It includes records from various locations in Australia, specifically Victoria, Tasmania, and South Australia. The data covers a range of temporal and spatial information, with observations spanning from 2021 to 2026. Each record includes details such as the scientific name, location coordinates, and the date of observation. The dataset is enriched with taxonomic classifications, including kingdom, phylum, class, order, family, genus, and species. Additionally, it contains information about the observers, the licensing of the data, and the media type associated with each observation. This dataset can be used for studying the geographical distribution, temporal patterns, and ecological characteristics of Leptospermum lanigerum. The semantic profile of the dataset includes various entities such as taxonomic, location, temporal, and organizational data, which can be utilized for aggregation, classification, and measurement purposes. The dataset is particularly useful for researchers and conservationists interested in the biodiversity and habitat of Leptospermum lanigerum.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

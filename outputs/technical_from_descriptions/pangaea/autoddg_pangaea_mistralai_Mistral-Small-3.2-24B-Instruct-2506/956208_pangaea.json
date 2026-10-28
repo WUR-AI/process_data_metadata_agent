@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains information on polar plankton, specifically focusing on the species B. saida. It includes data collected from various scientific research expeditions, with details on specimen identification, location, and time of collection. The dataset provides measurements such as total length, standard length, weight, and other biological metrics of the plankton specimens. The semantic profile indicates that the data is well-structured for scientific research, with clear aggregation keys for events, expeditions, specimens, and locations. Temporal and spatial references are well-defined, allowing for temporal and spatial analysis. This dataset can be used for studying the distribution, abundance, and biological characteristics of polar plankton, contributing to our understanding of polar ecosystems and the impacts of environmental changes. The measurements and classifications provided can support research on plankton biology, ecology, and the broader marine food web.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

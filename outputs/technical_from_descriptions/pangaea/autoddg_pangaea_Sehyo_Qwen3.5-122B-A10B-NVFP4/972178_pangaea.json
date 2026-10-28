@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides a comprehensive collection of remote sensing data for Aalen, Germany, spanning observations from 1984 to 2023. It includes diverse content types such as vegetation indices, metabolism indices, and six-band color composites, available in both GeoTIFF and Shapefile formats. The records are geospatially anchored to a specific site with precise latitude and longitude coordinates, allowing for detailed location-based analysis. Users can leverage the temporal data, ranging from specific daily intervals to annual summaries, to track environmental changes over time. This resource is ideal for researchers studying urban ecology, land use dynamics, and long-term vegetation health monitoring within the Aalen region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

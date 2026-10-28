@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records sediment‑chemistry measurements from a single monitoring station (M186_50‑1) at 38.74047 ° S, ‑28.58108 ° E and an elevation of –1 227 m, collected during one event on 15 December 2022. It comprises 18 samples (Sample no 1‑18) taken at depths from 0 to 3.64 cm, with water‑temperature (AT) values between 1.64 °C and 2.97 °C. Chemical analyses include nitrate, nitrite, ammonium, phosphate and a suite of major ions (Cl⁻, SO₄²⁻, Br⁻, B, Mn, Ca, Fe, Na, Mg, Sr, Si, Ba, Li, K), whose concentrations span the full ranges shown in the profile (e.g., NH₄⁺ up to 172 mg L⁻¹, Ba up to 303 mg L⁻¹). Each record is timestamped to the second. The semantic metadata identifies the columns as environmental‑monitoring identifiers, geological depth, temperature, water‑quality chemical concentrations, and geographic coordinates. Researchers can use this data to assess spatial and depth‑related variations in sediment chemistry, evaluate nutrient and ion fluxes, and support environmental impact or climate‑change studies in polar or high‑elevation settings.",
+  "spatialCoverage": {
+    "min_lat": -38.74047,
+    "min_lon": -28.58108,
+    "max_lat": -38.74047,
+    "max_lon": -28.58108
+  },
+  "temporalCoverage": {
+    "from": "2022-12-15T00:00:00",
+    "to": "2022-12-15T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

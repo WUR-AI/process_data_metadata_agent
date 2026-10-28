@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 observation records of the fungus Clavulinopsis aurantiocinnabarina, all classified under Kingdom Fungi, Phylum Basidiomycota, Class Agaricomycetes, Order Agaricales and Family Clavariaceae. Each occurrence is uniquely identified by gbifID, datasetKey and occurrenceID and linked to an iNaturalist still‑image. Geographic coverage includes ten US states and Québec, with latitudes 33.6–45.3 and longitudes –84.8 to –71.5; coordinate uncertainty ranges from 4 m to 28 706 m. Event dates span 2014–2025. The semantic profile highlights taxonomic, spatial, temporal and attribution fields and flags issues such as rounded coordinates. Researchers can use the data to map the distribution, explore habitat preferences and study phenology of Clavulinopsis aurantiocinnabarina.",
+  "spatialCoverage": {
+    "min_lat": 33.6,
+    "min_lon": -84.8,
+    "max_lat": 45.3,
+    "max_lon": -71.5
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

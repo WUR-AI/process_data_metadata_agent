@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents Arctic ice chemistry from the MOSAiC campaign, featuring chlorophyll-a and phaeophytin measurements. Collected between late 2019 and mid-2020, the data spans latitudes up to 87.45 and longitudes across the Arctic. Samples were gathered using the Kovacs Mark II ice corer, recording depths from the surface to over 180 centimeters. The dataset includes precise spatial coordinates and elevation data, ranging from sea level to deep ice layers. Researchers can utilize this information to analyze vertical chemical distribution in sea ice, supporting climate studies on Arctic ecosystem dynamics and biogeochemical processes within the polar environment.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-10-01T00:00:00",
+    "to": "2020-07-01T00:00:00"
+  },
+  "spatial": null,
+  "temporal": null
+}

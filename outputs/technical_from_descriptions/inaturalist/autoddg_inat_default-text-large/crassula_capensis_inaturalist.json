@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 occurrence records of the succulent Crassula capensis, all sourced from iNaturalist and identified by distinct observers. Each record is uniquely keyed by gbifID and occurrenceID, and includes full taxonomic classification from kingdom down to species, with three infraspecific epithets and two taxonomic ranks (species and variety). Geographic information is provided as decimal latitude (‑34.48 to 0) and longitude (0 to 20.07) in the Western Cape of South Africa, together with coordinate uncertainty values ranging from 1 to 87 metres. The semantic profile maps columns to biodiversity concepts such as primary keys, taxon identifiers, spatial coordinates, temporal event dates, media types and data‑quality issues. Researchers can use these data to map the distribution of C. capensis, analyse its phenology and habitat preferences, or support conservation assessments and ecological niche modelling.",
+  "spatialCoverage": {
+    "min_lat": -34.48,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 20.07
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

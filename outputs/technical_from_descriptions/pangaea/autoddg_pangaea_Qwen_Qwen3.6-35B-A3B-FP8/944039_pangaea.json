@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine sediment geochemistry data from the Belgian collector trial pre-impact event. It records elemental concentrations and relative errors for major ions and trace elements, including Aluminum, Iron, Copper, and Nickel, across sediment depths up to 0.225 meters. The samples were collected at a specific location in the Pacific Ocean at a depth of approximately 4518 meters. Researchers can use this data to analyze geochemical profiles, assess elemental distribution in deep-sea sediments, and study environmental changes. The dataset provides essential measurements for understanding sediment composition and geochemical processes in marine environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains high-precision GPS measurements collected at the Elwha River Delta, capturing detailed geospatial coordinates and elevation data. Each record includes latitude, longitude, and elevation values alongside precise timestamps, allowing for temporal analysis of the delta's topography. The data also features quality metrics such as horizontal and vertical root mean square errors, ensuring reliability for scientific applications. All entries share a fixed status and are labeled under a single event identifier, making them ideal for focused studies on river delta dynamics. Researchers can utilize this information to monitor sediment movement, assess coastal changes, or validate geospatial models in this specific environmental region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

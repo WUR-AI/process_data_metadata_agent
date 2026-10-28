@@ -1,0 +1,7 @@
+{
+  "description": "The collection contains two CSV files that provide Baltic Sea pCO₂ information: a climatology dataset and a long‑term trend dataset. Each file is listed with its size—7.3 megabytes for the climatology file and 366 kilobytes for the trend file—and a unique hash value that can be used to verify data integrity. The “Description” column serves as metadata describing the overall dataset, while the “CSV” column identifies each file; both columns reference spatial data at sea resolution and belong to the climate domain. The “CSV (Size)” field records the numeric file size, and the “CSV (Hash)” field records a checksum for verification. Researchers can use these data to study carbon dioxide concentrations in the Baltic Sea, assess seasonal and long‑term patterns, support climate‑change modeling, and inform marine‑environment management decisions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": "sea resolution",
+  "temporal": null
+}

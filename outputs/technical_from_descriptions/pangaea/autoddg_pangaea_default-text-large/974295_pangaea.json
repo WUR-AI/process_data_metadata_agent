@@ -1,0 +1,10 @@
+{
+  "description": "The dataset comprises 20 radar profiles collected during the 1997/98 Antarctic season using the EMR instrument. Each profile is identified by a unique Profile ID and includes a radar product (either 60‑nanosecond or 600‑nanosecond pulse) stored as a netCDF file, with sizes ranging from 7.9 to 227.5 MB. Corresponding GIS files (KML) and daily‑resolution JPEG images provide geospatial visualizations. The netCDF and GIS files serve as primary data access for climate and geospatial analysis, while the images support remote‑sensing visualization. Researchers can use these data for Antarctic climate studies, ice‑sheet monitoring, and radar‑based environmental assessments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1997-01-01T00:00:00",
+    "to": "1998-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily"
+}

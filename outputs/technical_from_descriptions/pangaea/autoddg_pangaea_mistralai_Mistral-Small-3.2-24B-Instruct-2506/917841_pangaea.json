@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains water quality measurements from Macapule Lagoon, collected at different dates and times. It includes data on temperature, salinity, dissolved oxygen, pH, ammonia, nitrate, and phosphate levels across three zones. The dataset spans from December 2013 to June 2015, with values ranging from 20.4 to 32.5 degrees Celsius for temperature, and 0 to 41.2 for salinity. Semantically, the dataset is rich in environmental measurements, with temporal and spatial data that can be used for aggregation and location analysis. This dataset can be used for studying water quality trends, environmental impact assessments, and understanding the spatial and temporal variations in water quality parameters. Researchers and policymakers can utilize this data to monitor and manage water resources effectively.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-12-01T00:00:00",
+    "to": "2015-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Seven 1970 measurements of manganese nodules, including location, depth, and elemental concentrations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1970-01-01T00:00:00",
+    "to": "1970-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

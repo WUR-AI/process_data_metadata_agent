@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed chemical measurements of marine sediment samples collected from a single station at a depth of 1234 meters. It includes 19 samples with varying sediment depths, each analyzed for a wide range of chemical parameters such as nitrate, nitrite, ammonium, phosphate, and various ions like chloride, sulfate, and bromide. The dataset also records concentrations of trace elements like boron, manganese, iron, and others, along with spatial and temporal information including latitude, longitude, and sampling time. Semantically, the dataset is structured around environmental measurements, with columns serving as aggregation keys for location, sample identification, and event tracking. This dataset can be used for studying sediment chemistry, assessing environmental pollution, or analyzing the distribution of chemical elements in marine sediments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

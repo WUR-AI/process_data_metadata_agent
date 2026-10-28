@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Leptosiphon chrysanthus*, a plant species within the family Polemoniaceae. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences recorded in the United States, primarily in California, Nevada, and Arizona. The records are sourced from iNaturalist, featuring human observations with associated media images. Users can leverage this data for spatial and temporal filtering, taxonomic analysis, and ecological studies. The dataset provides essential metadata such as identification dates, license information, and quality control issues, supporting research into species distribution and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides detailed sediment mineralogy records from a specific geological event, identified by the code 386-M0095B. It contains quantitative measurements of mineral abundances, including quartz, plagioclase, muscovite, and various clay minerals, collected at sediment depths ranging from 0.21 to 26.81 meters. Each sample is linked to a unique identifier and precise spatial coordinates at a depth of approximately 7,697 meters below sea level. The data, recorded on May 30, 2021, serves as a valuable resource for researchers studying deep-sea sediment composition, mineral distribution patterns, and geological processes in the sampled region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-05-30T00:00:00",
+    "to": "2021-05-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

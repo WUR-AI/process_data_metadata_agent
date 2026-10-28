@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles occurrence records for the plant bug species Capsus ater, sourced primarily from iNaturalist observations. It includes 20 unique entries spanning multiple countries such as the United States, France, Germany, and Austria, with precise geographic coordinates and observation dates ranging from 2006 to 2025. The data provides comprehensive taxonomic classification from kingdom to species level, alongside details on observers and identification dates. Users can leverage this information to study the species' distribution patterns, seasonal activity, and habitat preferences across Europe and North America. The records are accompanied by media files and adhere to various open licenses, facilitating diverse research applications in biodiversity monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

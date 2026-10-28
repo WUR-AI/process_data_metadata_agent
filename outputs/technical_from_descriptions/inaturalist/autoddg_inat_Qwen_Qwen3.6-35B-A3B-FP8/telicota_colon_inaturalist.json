@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the butterfly species Telicota colon. It includes taxonomic classification, geographic coordinates, and temporal data for occurrences recorded between 2012 and 2025. The records are primarily human observations from iNaturalist, covering locations in Australia, Singapore, India, Malaysia, and Thailand. Key fields include decimal latitude and longitude for spatial filtering, event dates for temporal analysis, and media types such as still images. Users can leverage this data for species distribution studies, ecological monitoring, and biodiversity research, utilizing the provided identifiers and quality control issues to ensure data integrity.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Sediment Carbon Analysis, providing measurements of Total Organic Carbon (TOC) and Total Inorganic Carbon (TIC) in sediment samples. The data includes sediment depth, geographic coordinates (latitude and longitude), elevation, and the event associated with each measurement. The dataset is collected from a single event, GeoB16320-2, at a specific location and time. The numeric data types represent geological measurements, with depth, TOC, and TIC values indicating the sediment's carbon content at various depths. The spatial data provides the precise location of the samples, while the temporal data marks the time of collection. This dataset can be used for analyzing carbon distribution in sediments, studying sediment composition, and understanding the geological context of the sampling site. Researchers can utilize this information to explore patterns in sediment carbon content and its implications for environmental and geological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

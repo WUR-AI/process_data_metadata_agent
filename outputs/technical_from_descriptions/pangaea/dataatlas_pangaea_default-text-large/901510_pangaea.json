@@ -1,0 +1,7 @@
+{
+  "description": "Atmospheric observations (HRMS, VRMS) with location, elevation, timestamp, status, description, and event.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

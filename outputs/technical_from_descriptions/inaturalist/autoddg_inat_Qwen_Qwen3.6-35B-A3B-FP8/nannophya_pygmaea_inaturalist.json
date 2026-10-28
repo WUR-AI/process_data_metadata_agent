@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the dragonfly species Nannophya pygmaea, sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom through species levels, alongside precise spatial data with decimal latitude and longitude coordinates across five countries. Temporal information is available via event dates ranging from 2006 to 2026. The records include metadata such as the observer, identification date, and associated media types. Users can leverage this data for biodiversity research, species distribution mapping, and temporal trend analysis. The dataset supports spatial and temporal filtering, making it valuable for ecological studies focusing on this specific odonate species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

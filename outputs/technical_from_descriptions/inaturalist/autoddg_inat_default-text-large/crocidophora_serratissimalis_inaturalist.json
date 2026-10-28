@@ -1,0 +1,12 @@
+{
+  "description": "This dataset compiles 20 verified sightings of the moth Crocidophora serratissimalis, recorded by iNaturalist users across ten U.S. states and Ontario, Canada. Each record includes a unique GBIF occurrence identifier, a persistent URL, and taxonomic classification that is constant for kingdom, phylum, class, order, family, genus and species. Geographic coordinates span latitudes 0 to 43.47 degrees and longitudes ‑97.27 to 0 degrees, with coordinate‑uncertainty values ranging from 0 to 200 metres. Temporal fields capture the exact event date and the date of identification, while licensing is limited to CC‑BY‑NC‑4.0 and CC‑BY‑4.0. The semantic profile links identifiers, taxonomic ranks, spatial coordinates, timestamps, media types and data‑quality flags to their biodiversity‑specific meanings, enabling reliable filtering, mapping and aggregation. Researchers can use these data to map the species’ distribution, study seasonal activity patterns, assess habitat preferences, or support conservation‑status assessments.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -97.27,
+    "max_lat": 43.47,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

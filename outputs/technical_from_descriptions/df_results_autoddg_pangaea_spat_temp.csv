@@ -1,0 +1,7 @@
+Model,Spatial coverage,Spatial coverage,Spatial coverage,Temporal coverage,Temporal coverage,Temporal coverage
+,TP accuracy [%],Precision [%],Recall [%],TP accuracy [%],Precision [%],Recall [%]
+Llama3 70B,38.2,100.0,88.2,28.5,90.7,72.1
+Mistral Devstral 2 24B,11.2,100.0,17.6,12.5,93.5,47.5
+Mistral Small 3.2 24B,8.0,100.0,13.8,8.0,87.2,29.3
+Qwen 3.5 122B,7.2,100.0,14.7,14.5,92.9,63.9
+Qwen 3.6 35B,10.0,100.0,29.4,16.5,95.3,67.2

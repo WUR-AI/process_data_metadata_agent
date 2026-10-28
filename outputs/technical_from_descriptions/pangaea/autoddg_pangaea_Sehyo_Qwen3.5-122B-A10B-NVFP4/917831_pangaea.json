@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains detailed biological and biochemical measurements of fish collected from Macapule Lagoon between 2013 and 2015. Records include temporal data such as collection dates and seasons, alongside morphological metrics like length, mass, and organ weights for the gut, liver, stomach, and heart. The data also features derived biological indices, including HSI, K, and GRI, as well as key biochemical parameters such as triglycerides, cholesterol, and glucose levels. Each entry is linked to a specific individual code and geographic coordinates, allowing researchers to analyze seasonal variations in fish health, metabolic conditions, and environmental impacts on aquatic populations within this specific lagoon ecosystem.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

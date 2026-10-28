@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the hoverfly species Asemosyrphus mexicanus, primarily sourced from iNaturalist. The records span multiple countries, including Mexico, Colombia, Guatemala, and Ecuador, with specific locality data covering thirteen different states and provinces. Each entry includes precise geospatial coordinates, observation dates ranging from 2017 to 2026, and taxonomic classifications verified by various identifiers. The data is rich in provenance, detailing the observers, identification dates, and associated media such as still images. Researchers can utilize this collection to analyze the species distribution patterns, monitor population trends across Central and South America, and study habitat preferences based on elevation and geographic location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the butterfly species Telicota colon, collected from various locations across multiple countries including Australia, Singapore, India, Malaysia, and Thailand. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like country code, state/province, decimal latitude, and decimal longitude. Temporal data such as event date, day, month, and year are also provided, allowing for temporal analysis. The dataset includes identifiers like GBIF ID, dataset key, and occurrence ID, which serve as aggregation keys for biodiversity data. Additionally, it contains information on the basis of record, license, rights holder, and recorded by, providing attribution and usage rights details. The semantic profile indicates that the data is structured for biodiversity research, with columns serving specific functions such as classification, spatial filtering, temporal filtering, and data quality assessment. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Telicota colon, as well as for biodiversity conservation and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

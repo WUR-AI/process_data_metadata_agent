@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Acrothamnus colensoi, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal event dates for records primarily from New Zealand. The data supports spatial filtering and temporal analysis of species presence. Key fields such as gbifID and occurrenceID serve as unique aggregation keys, while media types and quality issues provide metadata context. Researchers can use this dataset to study the distribution, phenology, and identification accuracy of Acrothamnus colensoi across different regions and time periods, facilitating ecological and conservation studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

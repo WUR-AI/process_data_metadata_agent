@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains measurements of radioactivity in cryoconite samples collected from the Flade Isblink ice cap in Greenland. The data includes spatial information such as latitude, longitude, and elevation, as well as temporal data with hour-resolution timestamps. Each sample is categorized by type, material, and condition, with detailed measurements of various radioactive isotopes like 137Cs, 210Pb, 241Am, and plutonium isotopes. The dataset also provides loss on ignition (LOI) and carbon content, along with their uncertainties. Semantically, the data is structured to support climate-related research, with columns serving as aggregation keys, categorizations, or measurements. This dataset can be used to study the distribution and behavior of radioactive isotopes in glacial environments, assess environmental contamination, and analyze the impact of cryoconite on ice melt and climate dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "hour-resolution"
+}

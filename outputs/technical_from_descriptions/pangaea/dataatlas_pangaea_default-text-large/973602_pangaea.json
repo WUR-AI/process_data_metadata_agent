@@ -1,0 +1,10 @@
+{
+  "description": "Two rock sample analyses with oxide percentages, location, elevation, and timestamp for a 2016 event.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2016-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains paleomagnetic core data featuring measurements of sediment depth, magnetic declination, and inclination alongside their associated uncertainties. It includes statistical parameters such as kappa and alpha95, as well as relative paleointensity values and age estimates in millions of years. The records also provide Virtual Geomagnetic Pole coordinates with corresponding uncertainties, offering detailed spatial and temporal resolution for geophysical analysis. Researchers can utilize this collection to reconstruct past geomagnetic field variations, analyze sedimentation rates, and study paleoclimate indicators derived from magnetic properties. The data supports investigations into Earth's magnetic history and core dynamics through precise angular and temporal measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

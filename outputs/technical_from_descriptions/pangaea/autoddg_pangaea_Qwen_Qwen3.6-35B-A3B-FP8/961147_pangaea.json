@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents the elemental composition of salps, specifically analyzing carbon, nitrogen, and hydrogen ratios across various marine expeditions. It includes samples from the Southern Ocean, Chatham Rise, and Northeast Pacific, collected between 2006 and 2021. The data features biological metrics such as mass, size, and life stage, alongside precise spatial coordinates and depth measurements. Researchers can utilize this information to study biogeochemical cycles, assess the nutritional value of salps in different ecosystems, and understand their role in marine food webs. The dataset supports comparative analyses of salp physiology and elemental stoichiometry across diverse oceanic regions and species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2021-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

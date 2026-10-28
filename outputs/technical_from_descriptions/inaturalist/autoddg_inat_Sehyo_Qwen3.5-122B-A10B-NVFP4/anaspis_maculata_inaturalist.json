@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the beetle species Anaspis maculata, sourced from iNaturalist and aggregated via GBIF. The records span multiple European countries, including the Netherlands, Germany, the United Kingdom, and France, with observations recorded between 2016 and 2026. Each entry provides precise taxonomic classification, geographic coordinates, and event dates, along with media such as still images. The data is primarily used for tracking the distribution and seasonal activity of this species. While some records include elevation and coordinate uncertainty metrics, others lack specific locality details. Researchers can utilize this collection for biodiversity monitoring, ecological studies, and verifying species presence across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

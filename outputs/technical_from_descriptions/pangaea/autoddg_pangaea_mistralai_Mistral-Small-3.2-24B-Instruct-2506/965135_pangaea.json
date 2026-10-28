@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on Coral Reef Chemistry, specifically the geochemical analysis of Porites coral species. It includes measurements of Sr/Ca, Mg/Ca, δ18O, and δ13C ratios, which are crucial indicators of sea surface temperature, salinity, and other environmental factors. The data spans from the year 2000 to 2007, with precise temporal and spatial resolutions, including latitude, longitude, and elevation. The semantic profile reveals that the dataset is rich in temporal and spatial entities, making it suitable for time-series analysis and spatial mapping. Researchers can use this dataset to study the impact of climate change on coral reefs, monitor environmental changes, and assess the health of coral ecosystems. The unique event and date/time data serve as aggregation keys, facilitating comprehensive data analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2000-01-01T00:00:00",
+    "to": "2007-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

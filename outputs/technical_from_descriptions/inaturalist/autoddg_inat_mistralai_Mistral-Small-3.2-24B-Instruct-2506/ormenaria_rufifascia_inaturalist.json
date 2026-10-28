@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the insect species Ormenaria rufifascia, primarily located in Florida, with one observation in South Carolina. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state/province, and coordinates. Each observation is recorded with a unique identifier, date, and details about the observer. The dataset spans from the year 2019 to 2026, with observations recorded in various months and days. The semantic profile indicates that the dataset is well-structured for biodiversity studies, with clear classification and aggregation keys for taxonomic and location data. This dataset can be used for studying the distribution, habitat, and temporal patterns of Ormenaria rufifascia, contributing to insect conservation and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

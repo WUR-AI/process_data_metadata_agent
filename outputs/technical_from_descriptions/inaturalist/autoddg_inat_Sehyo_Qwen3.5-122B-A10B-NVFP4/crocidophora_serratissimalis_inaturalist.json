@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the moth species Crocidophora serratissimalis, primarily sourced from iNaturalist. It includes 20 unique occurrence entries spanning multiple US states and Ontario, Canada, with observation dates ranging from 2014 to 2025. Each record provides detailed taxonomic classification, precise geographic coordinates, and temporal data down to the second. The dataset is enriched with provenance information, including identifiers for observers and rights holders, alongside data quality flags such as coordinate uncertainty. Researchers can utilize this collection for geospatial analysis, tracking seasonal activity patterns, and studying the distribution of this specific Lepidoptera species across its known range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

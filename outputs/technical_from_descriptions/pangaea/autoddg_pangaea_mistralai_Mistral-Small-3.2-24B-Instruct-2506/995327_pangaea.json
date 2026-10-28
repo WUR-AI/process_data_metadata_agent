@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on mineral composition analysis, providing detailed measurements of various minerals and rock fragments in sediment samples. The data includes sample identifiers, sediment depth, and a range of mineral content measurements such as transparent, opaque, and turbid minerals, as well as specific minerals like zircon, tourmaline, rutile, garnet, and others. The dataset is geologically annotated with sample comments and event information, and it includes spatial and temporal references with latitude, longitude, and date/time data. The semantic profile indicates that the dataset is structured for aggregation and measurement purposes, with a strong focus on geological context. This dataset can be used for studying mineral distributions, sediment composition, and geological formations, aiding in research and analysis of earth materials and processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

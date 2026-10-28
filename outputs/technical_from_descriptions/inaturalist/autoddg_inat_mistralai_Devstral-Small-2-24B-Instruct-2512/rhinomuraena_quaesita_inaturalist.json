@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the moray eel species *Rhinomuraena quaesita*, collected from various locations across the Indo-Pacific region, including Indonesia, the Philippines, Australia, and other areas. The records span from 1989 to 2026 and include details such as taxonomic classification, geographic coordinates, observation dates, and identifiers for the recording individuals and organizations. The dataset is sourced from iNaturalist and includes metadata like licenses, media types, and potential data quality issues. It is particularly useful for biodiversity research, ecological studies, and conservation efforts focused on moray eels, as well as for analyzing spatial and temporal distribution patterns of this species. The semantic profile highlights its role in taxonomic classification, spatial filtering, temporal analysis, and attribution, making it a valuable resource for researchers and conservationists.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1989-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

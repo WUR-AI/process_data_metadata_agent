@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains paleomagnetic measurements from sediment cores, including depth, declination, inclination, and associated uncertainties. It also provides temporal data (Age, Age_2) and spatial coordinates (VGP latitude and longitude) with their uncertainties. The dataset includes parameters like Kappa, Cores, α95, RPI, and Kappa_2, which are essential for paleomagnetic analysis. The semantic profile indicates that all columns represent geological measurements, with temporal and spatial data embedded in Age and VGP coordinates, respectively. This dataset can be used for reconstructing past geomagnetic field variations, studying tectonic plate movements, and analyzing sedimentary records for paleoenvironmental research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

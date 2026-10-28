@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 occurrence records of the Australian shrub Hibbertia hypericoides, all reported from Western Australia (country code AU). Each record includes a unique gbifID and catalogNumber, and is linked to the same datasetKey and publishing organization. Taxonomic fields (kingdom, phylum, class, order, family, genus, species, infraspecificEpithet, taxonRank, scientificName) enable precise filtering and classification, while decimalLatitude and decimalLongitude provide point‑location data ranging from ‑33.84 to ‑30.07 latitude and 0 to 116.44 longitude with uncertainty values up to 31 metres. Temporal information (eventDate, day, month, year, dateIdentified, lastInterpreted) records when observations were made and identified. Media types are listed (e.g., StillImage) and licensing is CC BY‑NC 4.0. The semantic profile clarifies that identifiers such as occurrenceID, taxonKey, and speciesKey serve as linkage keys, and attribution fields (identifiedBy, recordedBy, rightsHolder) capture contributor information. Researchers can use this curated set to study the distribution, phenology, and infraspecific variation of Hibbertia hypericoides, assess data quality through the issue flags, or model habitat preferences across the recorded coordinates.",
+  "spatialCoverage": {
+    "min_lat": -33.84,
+    "min_lon": 0.0,
+    "max_lat": -30.07,
+    "max_lon": 116.44
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

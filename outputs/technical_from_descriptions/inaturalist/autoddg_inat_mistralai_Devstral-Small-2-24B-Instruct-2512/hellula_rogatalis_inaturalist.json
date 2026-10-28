@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Hellula rogatalis*, collected from various locations in the United States and Mexico. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, country, and state/province. The dataset also provides temporal details, including observation dates and identification dates, as well as metadata about the observers, identifiers, and licensing information. The semantic profile highlights the biodiversity focus, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution markers. This dataset can be used for biodiversity research, species distribution modeling, ecological studies, and monitoring the presence and behavior of *Hellula rogatalis* across different regions and time periods.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Crassula capensis, also known as the Cape Stonecrop. The data includes various taxonomic classifications, such as kingdom, phylum, class, order, family, genus, and species, providing a detailed hierarchy of the species' biological classification. The dataset also includes geographic information, such as country code, state/province, and coordinates, allowing for spatial analysis and mapping of the species' distribution. Temporal data, including the day, month, and year of each observation, enables the study of temporal patterns and trends. The dataset can be used for biodiversity research, conservation efforts, and ecological studies focused on Crassula capensis. It provides valuable information for understanding the species' habitat, distribution, and potential threats. The semantic profile of the dataset indicates that it is well-structured and suitable for aggregation and classification tasks, making it a useful resource for researchers and conservationists.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

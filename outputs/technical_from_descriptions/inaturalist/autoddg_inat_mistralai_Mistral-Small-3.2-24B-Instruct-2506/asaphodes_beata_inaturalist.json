@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Asaphodes beata, collected from various locations in New Zealand. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as details on the observation date, location coordinates, and the observer. The dataset is structured with unique identifiers for each observation, allowing for aggregation and classification based on various keys. It also includes metadata such as the publishing organization, license, and rights holder. The semantic profile of the dataset indicates that it is well-suited for biodiversity studies, with columns representing taxonomic ranks, locations, temporal entities, and statuses. This dataset can be used for research on moth distributions, habitat preferences, and temporal patterns, contributing to our understanding of biodiversity and ecological dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

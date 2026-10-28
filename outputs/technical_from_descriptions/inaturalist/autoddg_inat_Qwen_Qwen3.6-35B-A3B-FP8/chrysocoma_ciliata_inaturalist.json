@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Chrysocoma ciliata, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences recorded between 2014 and 2024. The records are primarily from South Africa, covering provinces such as Western Cape, Eastern Cape, and Free State. Each entry provides detailed metadata, including observer information, identification dates, and associated media types like still images. The data supports ecological research and species distribution analysis, offering insights into the presence and habitat of this specific plant across various regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2024-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

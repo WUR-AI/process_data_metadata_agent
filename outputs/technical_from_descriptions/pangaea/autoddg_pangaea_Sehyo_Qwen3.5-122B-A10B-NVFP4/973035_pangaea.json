@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains soil geochemistry measurements collected from specific environmental events, featuring precise geospatial coordinates and elevation data. It includes physical measurements of soil depth alongside concentrations of Uranium, Thorium, and Potassium, each accompanied by their respective error values. The records also provide total soil density and derived age estimates with associated uncertainties. Structured with unique event, sample, and laboratory identifiers, the data supports detailed spatial and temporal analysis. Researchers can utilize this information to study radionuclide distribution, assess soil characteristics, and investigate geological dating methods within the context of environmental science and geospatial research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

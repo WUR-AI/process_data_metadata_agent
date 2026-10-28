@@ -1,0 +1,7 @@
+{
+  "description": "This dataset presents measurements from a sediment core analysis, specifically from the event GeoB16310-3. It includes data on sediment depth, total organic carbon (TOC), and total inorganic carbon (TIC) content, with values ranging from 0 to 10.38 cm for depth, 0 to 0.76% for TOC, and 0 to 10.609% for TIC. The dataset also provides spatial information with a single latitude and longitude coordinate, and a constant elevation of -573.0 meters. Temporally, all data points are aggregated under a single timestamp. The numeric entities related to climate measurements and spatial data can be used for analyzing sediment composition and its variations. This dataset can be useful for researchers studying sediment core analysis, climate change, and environmental science, providing insights into the carbon content and spatial distribution of sediments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

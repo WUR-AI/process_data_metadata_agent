@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises twenty human‑observation records of the Australian shrub Phebalium squamulosum, all sourced from iNaturalist and identified by a range of contributors. Each entry is uniquely keyed by a GBIF identifier (gbifID) and an occurrenceID, and is linked to a single datasetKey representing the underlying biodiversity dataset. The records are confined to New South Wales (countryCode AU) with decimal latitudes from –36.26 to –30.66 and longitudes from 148.37 to 152.19, and include coordinate uncertainty values between 4 m and 61 m. Taxonomic fields (kingdom, phylum, class, order, family, genus, species, infraspecificEpithet, taxonRank, scientificName) provide a full classification, while mediaType indicates still‑image photographs. The semantic profile clarifies that geographic columns capture precise coordinates, temporal columns record event dates and identification timestamps, and attribution fields (identifiedBy, recordedBy, rightsHolder) document provenance and licensing (CC‑BY‑NC 4.0, CC0 1.0). Researchers can use these data for mapping the species’ distribution, analysing habitat preferences, monitoring phenology, or supporting conservation assessments of Phebalium squamulosum.",
+  "spatialCoverage": {
+    "min_lat": -36.26,
+    "min_lon": 148.37,
+    "max_lat": -30.66,
+    "max_lon": 152.19
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

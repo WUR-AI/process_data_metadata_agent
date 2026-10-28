@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of Sesamum indicum, commonly known as sesame. It includes detailed taxonomic classifications, such as kingdom, phylum, and species, alongside precise spatial data like decimal latitude and longitude. Users can filter records by country, state, or specific event dates ranging from 2009 to 2025. The data supports spatial and temporal analysis of sesame distribution across regions including India, China, and the United States. Additionally, it provides metadata on recorders, licenses, and data quality issues, making it suitable for ecological studies, agricultural research, and conservation planning focused on this crop species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

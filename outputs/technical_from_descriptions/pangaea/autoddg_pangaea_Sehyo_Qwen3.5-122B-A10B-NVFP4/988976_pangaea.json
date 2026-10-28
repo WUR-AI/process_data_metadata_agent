@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains paleoclimatology records from sediment core AMK75-6150, detailing diatom assemblages at various depths up to 0.295 meters. Each entry includes sediment age, total diatom counts, and specific abundances for warm, cold, sea ice, and freshwater species, alongside numerous identified taxa such as *A. septentrionalis* and *T. nitzschioides*. The data is geolocated at latitude 74.78 and longitude 8.44 with an elevation of -3013 meters. Researchers can utilize these measurements to reconstruct past oceanic conditions, analyze historical sea ice extent, and study climate variability in the subarctic region over the recorded time span.",
+  "spatialCoverage": {
+    "min_lat": 74.78,
+    "min_lon": 8.44,
+    "max_lat": 74.78,
+    "max_lon": 8.44
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

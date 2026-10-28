@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises 20 citizen‑science observations of the plant Echium angustifolium, all recorded under a single GBIF dataset key. Every record shares the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Magnoliopsida, order Boraginales, family Boraginaceae, genus Echium, species E. angustifolium) and is identified by a unique gbifID primary key and an external occurrenceID URI. Geographic coordinates span latitudes 32.0 to 37.9 °N and longitudes 20.1 to 34.9 °E, with coordinate‑uncertainty values ranging from 0 to 1 816 m. The records include event dates from 2013 to 2026, media types such as still images, and are licensed under CC‑BY or CC‑BY‑NC, with rights holders listed for each observation. Semantic columns capture taxonomic identification, spatial location, temporal reference, attribution, and data‑quality flags (e.g., COORDINATE_ROUNDED). Researchers can use this collection to map the species’ distribution across the Eastern Mediterranean, analyse phenological patterns, assess citizen‑science data quality, or support ecological niche modelling and conservation planning for Echium angustifolium.",
+  "spatialCoverage": {
+    "min_lat": 32.0,
+    "min_lon": 20.1,
+    "max_lat": 37.9,
+    "max_lon": 34.9
+  },
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

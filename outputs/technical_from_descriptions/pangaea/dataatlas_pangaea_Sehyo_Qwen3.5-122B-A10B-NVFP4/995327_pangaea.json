@@ -1,0 +1,10 @@
+{
+  "description": "Five sediment samples from January 1, 1994, with mineral composition and location data.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1994-01-01T00:00:00",
+    "to": "1994-01-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

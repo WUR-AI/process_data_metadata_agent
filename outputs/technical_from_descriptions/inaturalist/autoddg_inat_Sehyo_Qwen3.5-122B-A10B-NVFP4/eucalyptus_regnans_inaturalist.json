@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains human observations of the tree species Eucalyptus regnans recorded in Australia, specifically within the states of Victoria and Tasmania. The records include precise geographic coordinates, observation dates ranging from 2020 to 2026, and taxonomic details verified by various contributors. Each entry links to an iNaturalist observation and is accompanied by media such as still images. Researchers can utilize this data to study the distribution patterns, phenology, and habitat preferences of this species across different regions. The dataset supports biodiversity monitoring and ecological research by providing structured occurrence records with associated metadata regarding identification and licensing.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

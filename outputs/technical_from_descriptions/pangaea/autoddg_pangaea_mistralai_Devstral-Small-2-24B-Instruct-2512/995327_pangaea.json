@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed mineral composition analysis of geological samples, including measurements of various minerals such as zircon (Zrn), garnet (Grt), and others, along with their transparency, opacity, and turbidity levels. The data is organized by sample labels and sediment depth, with additional metadata such as sample comments, event identifiers, and spatial-temporal references including latitude, longitude, and date. The semantic profile indicates that the dataset is structured for geological analysis, with columns serving as aggregation keys, measurements, and spatial-temporal references. This dataset can be used for studying mineral distributions, geological formations, and temporal changes in mineral composition, making it valuable for researchers in geology and related fields.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

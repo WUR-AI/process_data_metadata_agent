@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Antarctic Radar Survey data from the 1997/98 season, featuring 20 unique profile records. Each entry includes a specific Profile ID and instrument details, primarily using EMR technology with varying radar pulse products. The collection provides essential climate-related temporal and categorical attributes for aggregation. Users can access various data assets, including netCDF files, GIS shapefiles, and image previews, with file sizes ranging significantly. This resource supports climate research by offering structured radar survey measurements. It enables scientists to analyze spatial and temporal patterns in Antarctic environments, facilitating studies on ice sheet dynamics and environmental changes through comprehensive, multi-format data availability.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1997-01-01T00:00:00",
+    "to": "1998-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

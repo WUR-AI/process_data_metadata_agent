@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species *Hellula rogatalis*, sourced from iNaturalist. It includes detailed taxonomic classifications, spatial coordinates, and temporal data for occurrences across the United States and Mexico. The records feature media types and quality control issues, such as coordinate rounding. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic studies. With a CC BY-NC 4.0 license, the dataset supports research into species distribution and ecological patterns, offering valuable insights for biodiversity monitoring and conservation efforts through its comprehensive occurrence records.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

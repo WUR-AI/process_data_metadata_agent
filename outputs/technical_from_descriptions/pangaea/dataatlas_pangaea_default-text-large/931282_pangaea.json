@@ -1,0 +1,10 @@
+{
+  "description": "Two Earth environmental measurement records from 2020‑03‑11 with file metadata and location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-03-11T00:00:00",
+    "to": "2020-03-11T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

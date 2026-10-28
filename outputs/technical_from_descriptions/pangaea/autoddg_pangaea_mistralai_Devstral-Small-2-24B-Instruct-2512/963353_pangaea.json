@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains ice core measurements collected during a single event on December 29, 2004, at a specific Antarctic location (-70.65491 latitude, -8.25491 longitude). It includes 20 unique ice core samples with detailed measurements such as depth (ranging from 0 to 1.87 meters), ice density (0 to 0.542 g/cm³), and descriptive depth values. Each sample is linked to an image for visual reference. The dataset is structured with semantic profiles that categorize columns into aggregation keys (e.g., Event, Sample no) and measurements (e.g., Depth ice/snow, Density ice), making it useful for environmental and climate research. Researchers can use this data to analyze ice core properties, study past climate conditions, or validate ice density models. The spatial and temporal resolution allows for precise geospatial and chronological analysis.",
+  "spatialCoverage": {
+    "min_lat": -70.65491,
+    "min_lon": -8.25491,
+    "max_lat": -70.65491,
+    "max_lon": -8.25491
+  },
+  "temporalCoverage": {
+    "from": "2004-12-29T00:00:00",
+    "to": "2004-12-29T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

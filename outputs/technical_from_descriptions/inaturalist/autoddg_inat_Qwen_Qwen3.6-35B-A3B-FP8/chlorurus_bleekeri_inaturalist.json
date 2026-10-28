@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the fish species Chlorurus bleekeri, sourced from iNaturalist. It includes comprehensive taxonomic classifications, spatial coordinates, and temporal data for each record. The semantic profile highlights fields for identification, spatial filtering, and quality control, such as coordinate uncertainty and taxonomic issues. Users can leverage this data for ecological studies, species distribution mapping, and temporal trend analysis. With records spanning multiple countries and states, the dataset supports research on marine biodiversity, habitat preferences, and conservation efforts for this specific parrotfish species across its geographic range.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the butterfly species Telicota colon, primarily sourced from iNaturalist. It contains 20 records documenting occurrences across five countries, including Australia, Singapore, India, Malaysia, and Thailand, with detailed geographic coordinates and state-level locality information. The data spans from 2012 to 2025, capturing seasonal patterns and specific event times for each sighting. Each record includes taxonomic classification, observer details, and media types, often accompanied by still images. While elevation and depth data are generally missing, the dataset provides coordinate uncertainty metrics to assess spatial quality. Researchers can utilize this collection to study the distribution, phenology, and habitat preferences of Telicota colon across its range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset documents Antarctic ice density measurements collected on December 29, 2004. It contains twenty unique samples identified by specific sample numbers, recorded at a single location near latitude -70.65 and longitude -8.25. The data includes precise measurements of ice and snow depth, ice density, and descriptive depth metrics. Each entry is linked to a reference image for visual verification. This resource is valuable for climate research, enabling scientists to analyze spatial and temporal variations in ice properties. Researchers can utilize these metrics to study environmental changes, assess ice stability, and support broader studies on polar climate dynamics and glaciology.",
+  "spatialCoverage": {
+    "min_lat": -70.65,
+    "min_lon": -8.25,
+    "max_lat": -70.65,
+    "max_lon": -8.25
+  },
+  "temporalCoverage": {
+    "from": "2004-12-29T00:00:00",
+    "to": "2004-12-29T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

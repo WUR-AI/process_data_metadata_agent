@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Haritalodes derogata, primarily sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning from 2016 to 2025. The records document occurrences across multiple countries, including New Zealand, Australia, and India, with associated media types and identification details. Users can leverage this data for spatial analysis of species distribution, temporal trend studies, and ecological research. The inclusion of quality flags and coordinate uncertainty metrics supports robust data filtering and validation for scientific inquiries into the species' range and habitat preferences.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides detailed mineralogical analysis of sediment samples collected from the Lanaittu core in Sardinia, Italy, in 1994. It includes quantitative measurements of various mineral components such as opaque, transparent, and turbid grains, alongside specific heavy minerals like garnet, tourmaline, and glaucophane. Each entry is linked to a specific sediment depth, geographic coordinates, and a unique sample identifier. Researchers can utilize this data to study sediment provenance, depositional environments, and metamorphic histories. The structured format allows for spatial and temporal analysis of mineral distribution, making it valuable for geological modeling and regional stratigraphic correlation studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1994-01-01T00:00:00",
+    "to": "1994-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

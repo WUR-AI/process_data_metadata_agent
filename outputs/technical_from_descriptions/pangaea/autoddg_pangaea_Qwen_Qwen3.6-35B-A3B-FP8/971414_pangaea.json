@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains river sediment age measurements from the Kiwada Kazusa Chiba region, specifically focusing on the Ono and Yuki River sections. It includes 19 unique samples identified by distinct Sample IDs, with spatial coordinates provided via Latitude and Longitude fields. The data records Section depth, Age in years ranging from 0 to 1310, and SR values up to 242. References cite both this study and Kuwano et al. (2021). Designed for environmental science research, this collection supports the analysis of sediment deposition rates and historical river dynamics. Although Date/Time data is missing, the spatial and temporal metrics enable robust geospatial and chronological studies of sediment accumulation in these specific Japanese river systems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

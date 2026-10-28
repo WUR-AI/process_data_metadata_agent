@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine biology records from trawl events conducted in the Sylt region, capturing detailed spatial and temporal measurements. Each entry includes precise start and end coordinates, bathymetric depths, and environmental conditions such as salinity and temperature. The data specifically documents observations of Atlantic mackerel (Scomber scombrus), recording both individual counts and total lengths alongside habitat classifications. All measurements are linked to specific sampling events, making this resource ideal for analyzing fish distribution patterns, assessing benthic habitat characteristics, and studying the relationship between environmental variables and mackerel abundance in coastal waters.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

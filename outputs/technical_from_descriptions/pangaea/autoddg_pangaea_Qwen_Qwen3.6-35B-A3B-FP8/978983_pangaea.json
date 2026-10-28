@@ -1,0 +1,7 @@
+{
+  "description": "This dataset documents sediment mineralogy from a deep-sea drilling event, featuring 14 unique samples collected at a single location. It records depth profiles ranging from 0 to 26.81 meters, alongside precise geographic coordinates and elevation data. The core content consists of quantitative measurements for various mineral components, including quartz, plagioclase, mica, and clay minerals like illite and chlorite. These values represent the relative abundance of each mineral phase within the sediment layers. Researchers can utilize this data to analyze stratigraphic changes, assess diagenetic processes, and understand the geological composition of the sampled marine environment over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

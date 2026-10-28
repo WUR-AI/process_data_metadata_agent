@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the beetle species *Anaspis maculata*, collected from various locations across Europe. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like country, state/province, and precise coordinates. Temporal data such as event date, day, month, and year are also provided, allowing for temporal analysis. Each observation is linked to a unique identifier, and metadata such as the observer's name, identification date, and license details are included. The dataset can be used for biodiversity research, species distribution modeling, and ecological studies. It is particularly useful for researchers studying the distribution and habitat preferences of *Anaspis maculata* across different regions and time periods.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

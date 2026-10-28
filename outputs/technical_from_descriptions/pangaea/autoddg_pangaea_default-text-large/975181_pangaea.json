@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains twenty sediment‑core observations recorded at a single site (latitude 29° N, longitude ‑88.33° W, elevation ‑803.5 m) on 4 March 2009. Depths range from 1.38 m to 11.83 m and ages span 10.48 to 40.92 kyr, providing a high‑resolution vertical profile. For each sample the carbon (δ13C) and oxygen (δ18O) isotopic ratios of the foraminiferal species Uvigerina spp. are measured, with values between ‑1.04 ‰ and 0.04 ‰ for δ13C and 0 ‰ to 4.36 ‰ for δ18O. The “Event” field identifies the stratigraphic interval (M78/1_181‑3), and the timestamp records the exact collection time. These geochemical and geological measurements support paleo‑environmental reconstructions, climate change studies, and biostratigraphic correlation using foraminifera isotopes.",
+  "spatialCoverage": {
+    "min_lat": 29.0,
+    "min_lon": -88.33,
+    "max_lat": 29.0,
+    "max_lon": -88.33
+  },
+  "temporalCoverage": {
+    "from": "2009-03-04T00:00:00",
+    "to": "2009-03-04T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

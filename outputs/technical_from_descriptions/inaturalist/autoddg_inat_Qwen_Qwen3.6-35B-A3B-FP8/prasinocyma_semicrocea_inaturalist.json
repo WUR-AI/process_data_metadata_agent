@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species *Prasinocyma semicrocea*, recorded across various Australian states including Western Australia, Victoria, and Queensland. It provides detailed taxonomic classifications, precise geographic coordinates, and temporal data ranging from 2015 to 2025. Each record includes identifiers, observer information, and media types, facilitating ecological studies and species distribution mapping. The data supports research on insect populations and habitat preferences, offering valuable insights into the spatial and temporal dynamics of this specific geometrid moth within its native range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

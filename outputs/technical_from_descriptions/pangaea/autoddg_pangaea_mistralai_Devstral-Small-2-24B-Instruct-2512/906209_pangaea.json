@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains three files related to pregnancy and hunting records, each stored in XLSX format. The files include interviews about pregnancy diagnoses, hunting records for immature animals, and catch-per-unit-effort (CPUE) records. The dataset provides metadata such as file names, sizes, and download links, with file sizes ranging from 24.848 KB to 254.888 KB. Semantically, the columns represent document types, file identifiers, metadata, measurements, and reference links, making it useful for aggregating and analyzing pregnancy and hunting data. Researchers can use this dataset to study reproductive patterns, hunting impacts, and ecological relationships in wildlife populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

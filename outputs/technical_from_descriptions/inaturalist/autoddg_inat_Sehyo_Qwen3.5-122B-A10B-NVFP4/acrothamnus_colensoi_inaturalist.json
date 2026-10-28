@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species *Acrothamnus colensoi* across New Zealand, sourced from the iNaturalist platform. It includes 20 records spanning multiple regions such as Canterbury, Otago, Nelson, and Marlborough, with observation dates ranging from 2019 to 2026. Each entry provides precise taxonomic classification, geographic coordinates, and temporal details, alongside metadata on data quality and licensing. The semantic structure supports biodiversity research by linking unique identifiers to specific taxonomic hierarchies and spatial contexts. Researchers can utilize this data for ecological distribution analysis, conservation planning, and studying the phenology of this native Ericaceae species in its natural habitat.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

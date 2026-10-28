@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Lachnagrostis billardierei, collected from various locations primarily in New Zealand and Australia. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which can be used for classification and aggregation purposes. Additionally, the dataset provides spatial data, including country codes, state/province information, and precise coordinates, allowing for geographic analysis. Temporal data, such as event dates, days, months, and years, are also included, enabling temporal analysis. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Lachnagrostis billardierei. It includes identifiers for aggregation, measurement data for analysis, and classification data for understanding the status and context of each observation. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear functions and usage contexts for each data field.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

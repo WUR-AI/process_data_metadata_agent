@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine oocyte data collected from three locations: Djifer, Joal, and Foundiougne. It includes measurements of temperature, salinity, and various biological parameters such as oocyte diameter, volume, lipid and protein content, and elemental ratios (Ba/Ca, Sr/Ca, Zn/Ca). The data spans multiple months, with temporal resolution at the day level, and includes spatial coordinates for precise location tracking. The semantic profile highlights the dataset's focus on biological and climate measurements, with aggregation keys for spatial and temporal analysis. This dataset can be used for studying marine reproductive biology, environmental impacts on oocyte development, and spatial-temporal trends in marine ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "day"
+}

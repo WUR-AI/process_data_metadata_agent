@@ -1,0 +1,15 @@
+{
+  "description": "This laboratory dataset contains twenty samples of the pteropod Limacina helicina collected on 1 September 2019 at a single station (ID 9) in the North Pacific (48.43 ° N, ‑126.23 ° W) at depths of 500 m and 2 993 m. Each record provides a full suite of marine‑science measurements, including temperature, salinity, sigma‑theta, dissolved oxygen, DIC, total alkalinity, nitrate + nitrite, silicate, phosphate, pH, pCO₂, and saturation states for aragonite and calcite, together with quality‑flag indicators. Sample types and treatments (supersaturated versus undersaturated) are noted, as are incubation durations and derived metrics such as change values and respiration rates. The semantic profile confirms that all columns serve as quantitative observations, categorical identifiers, or quality flags relevant to ocean‑acidification research. Researchers can use these data to assess how carbonate‑chemistry conditions affect physiological responses of L. helicina, evaluate calcification under varying pCO₂ regimes, and model biogeochemical impacts of ocean acidification.",
+  "spatialCoverage": {
+    "min_lat": 48.43,
+    "min_lon": -126.23,
+    "max_lat": 48.43,
+    "max_lon": -126.23
+  },
+  "temporalCoverage": {
+    "from": "2019-09-01T00:00:00",
+    "to": "2019-09-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

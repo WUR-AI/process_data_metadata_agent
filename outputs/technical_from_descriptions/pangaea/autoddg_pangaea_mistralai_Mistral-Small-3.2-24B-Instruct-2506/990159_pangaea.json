@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Sediment Lead-210 measurements, providing a comprehensive profile of sediment samples collected at a specific location. The data includes various measurements such as sediment depth, Lead-210 concentrations, and their standard deviations, both supported and unsupported. The dataset is spatially referenced with latitude, longitude, and elevation data, and temporally tagged with the date of collection. Semantically, the dataset is rich in measurement data related to climate, with event, location, and time serving as key contextual factors. This dataset can be used for environmental research, sediment dating, and studying the impact of Lead-210 on ecosystems. The measurements span a range of values, offering a detailed view of the sediment profile at the given location.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

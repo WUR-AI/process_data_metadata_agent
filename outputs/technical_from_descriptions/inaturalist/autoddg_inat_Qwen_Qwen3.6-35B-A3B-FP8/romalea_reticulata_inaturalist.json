@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the species Romalea reticulata, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning multiple years. The records are primarily human observations from Costa Rica, specifically in the Limón, Heredia, and Alajuela provinces. Users can utilize this data for ecological studies, species distribution mapping, and conservation planning. The dataset provides essential identifiers, licensing information, and quality flags to support rigorous scientific analysis and biodiversity research applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

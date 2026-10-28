@@ -1,0 +1,15 @@
+{
+  "description": "This dataset holds 20 observations of the moth Rhodostrophia calabra. Each record is uniquely identified by gbifID, datasetKey and occurrenceID, serving as keys. Taxonomic fields assign the specimens to Animalia, Arthropoda, Insecta, Lepidoptera, Geometridae, Rhodostrophia calabra. Geographic data give latitude (0‑46.26) and longitude (‑7.69‑16.54) across six European countries and 17 provinces, with coordinate uncertainty from 0 to 27 285 m. Temporal coverage spans 2011‑2026, with day, month and year fields for filtering. All entries are observations linked to media and are licensed under CC BY‑NC 4.0 or CC0. The semantic profile maps identifiers to biodiversity records, coordinates to locations, and dates to events, enabling analysis. Researchers can map distribution, examine phenology, or explore habitat use of the species in Europe.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -7.69,
+    "max_lat": 46.26,
+    "max_lon": 16.54
+  },
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

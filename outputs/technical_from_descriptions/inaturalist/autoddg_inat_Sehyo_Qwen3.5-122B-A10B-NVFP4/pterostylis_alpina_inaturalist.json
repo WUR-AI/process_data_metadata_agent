@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the orchid species Pterostylis alpina, primarily located in Victoria, Australia. The data includes detailed taxonomic classifications, precise geographic coordinates, and observation dates ranging from 2013 to 2025. Each entry is linked to specific observers and media files, such as still images, facilitating verification and ecological study. Researchers can utilize this collection for geospatial analysis of species distribution, monitoring population trends over time, and assessing habitat preferences. The dataset also provides metadata on data quality, including coordinate uncertainty and licensing information, ensuring transparency for scientific applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

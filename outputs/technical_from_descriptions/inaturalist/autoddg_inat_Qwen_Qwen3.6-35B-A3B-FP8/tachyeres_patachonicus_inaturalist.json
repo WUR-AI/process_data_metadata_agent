@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the flightless steamer duck, *Tachyeres patachonicus*, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates across Argentina and Chile, and temporal data spanning from 2009 to 2025. Each record features observer details, media types, and quality flags to ensure data integrity. Researchers can utilize this information for spatial distribution analysis, temporal trend monitoring, and ecological studies of this species in southern South America. The data supports filtering by location, date, and identification status, facilitating comprehensive biodiversity assessments and conservation planning efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

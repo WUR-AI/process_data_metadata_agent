@@ -1,0 +1,15 @@
+{
+  "description": "The dataset provides sediment chemistry measurements from a single sampling event (GeoB16320‑2) on 24 Mar 2012 at latitude 23.8384 °N, longitude –87.1501 °E, and elevation –626 m. It includes 20 observations with sediment depth ranging from 0 to 4.18 cm, total organic carbon (TOC) from 0 to 0.444 % and total inorganic carbon (TIC) from 0 to 11.123 %. Depth, TOC, and TIC are stored as floats, elevation as an integer, while Event, Date/Time, Latitude and Longitude are stored as text. These geological and geochemical measurements, tied to precise geospatial coordinates and a second‑resolution timestamp, support studies of carbon distribution, paleo‑environmental reconstruction, and sediment carbon‑cycle modeling.",
+  "spatialCoverage": {
+    "min_lat": 23.8384,
+    "min_lon": -87.1501,
+    "max_lat": 23.8384,
+    "max_lon": -87.1501
+  },
+  "temporalCoverage": {
+    "from": "2012-03-24T00:00:00",
+    "to": "2012-03-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

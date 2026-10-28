@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains environmental data related to the Baltic Sea pCO2, focusing on climate information with a spatial resolution at the sea level. It includes two CSV files, one providing a climatology of pCO2 levels and the other depicting the long-term trend. The files serve as data sources for climate analysis, with their sizes and unique hash values provided for identification and measurement purposes. This dataset can be used for studying the changes in pCO2 levels in the Baltic Sea over time, analyzing climate trends, and supporting research in marine environmental science. The included metadata ensures data integrity and facilitates easy access to the information.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Erica canariensis*, a plant species in the Ericaceae family. It includes taxonomic classifications, spatial coordinates for locations in Spain and Portugal, and temporal data from 2018 to 2025. The records are primarily human observations linked to iNaturalist, featuring media types like still images. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic identification. The dataset supports research on species distribution and ecology, offering detailed metadata on identification, licensing, and data quality issues for comprehensive biodiversity studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

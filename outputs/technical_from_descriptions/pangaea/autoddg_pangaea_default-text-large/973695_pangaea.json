@@ -1,0 +1,15 @@
+{
+  "description": "The dataset comprises 20 sediment core samples collected from a single site (Leg 112, Site 680) at latitude –11.065° and longitude –78.0778°, all recorded on 5 Nov 1986. Depths range from 3.85 m to 67.15 m and the samples span the Pliocene and Pleistocene epochs. Each sample includes a full suite of geochemical measurements: major elements (Al, Ca, Fe, K, Mn, Na, P), trace metals (Mo, U), total organic carbon (TOC) and total carbon (TC), and derived ratios such as Fe/Al and Mn/Al. Isotopic data (δ¹⁵N, δ¹³C, δ⁹⁸Mo) and magnetic parameters (Femag, Fe Py) are also provided. These data support reconstruction of past depositional environments, redox conditions, and biogeochemical cycles in marine sediments, and can be used for paleo‑environmental modelling, geochemical fingerprinting, and testing sedimentary provenance hypotheses.",
+  "spatialCoverage": {
+    "min_lat": -11.065,
+    "min_lon": -78.0778,
+    "max_lat": -11.065,
+    "max_lon": -78.0778
+  },
+  "temporalCoverage": {
+    "from": "1986-11-05T00:00:00",
+    "to": "1986-11-05T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

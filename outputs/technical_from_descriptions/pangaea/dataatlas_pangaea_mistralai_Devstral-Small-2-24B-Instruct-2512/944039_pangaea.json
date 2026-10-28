@@ -1,0 +1,10 @@
+{
+  "description": "Earth/environmental science data from 2019-03-20, 9 rows, 50 columns, sediment analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-03-20T00:00:00",
+    "to": "2019-03-20T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

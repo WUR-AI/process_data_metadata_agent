@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 occurrence records of the beetle Sphenophorus interstitialis from the United States and Canada. Each entry provides a unique GBIF ID, occurrence ID, the full taxonomic hierarchy, and precise coordinates (0 to 46.8 °N, –119.85 to 0 °E) with uncertainty from 0 to 28 090 m. Event dates span 2021‑2025, offering day, month and year for seasonal analysis. Semantic fields include identifiers for the dataset and publishing organization, media type (still images), licensing, and issue flags such as rounded coordinates. The data can be used to map beetle distribution, examine habitat preferences, and support biodiversity monitoring or niche‑modeling studies.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -119.85,
+    "max_lat": 46.8,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

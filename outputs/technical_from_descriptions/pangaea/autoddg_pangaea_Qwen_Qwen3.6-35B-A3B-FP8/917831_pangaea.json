@@ -1,0 +1,7 @@
+{
+  "description": "This dataset captures fish biochemistry data from Macapule Lagoon, featuring biological measurements such as mass, organ weights, and biochemical markers including triglycerides, cholesterol, and glucose. It includes temporal variables like date and season, alongside spatial coordinates for precise location tracking. The data supports research into fish physiology and health by analyzing derived metrics like the Hepatosomatic Index and Gonadosomatic Index. With unique individual codes and event identifiers, this collection facilitates detailed studies on seasonal variations in fish biochemistry and metabolic health within specific marine environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

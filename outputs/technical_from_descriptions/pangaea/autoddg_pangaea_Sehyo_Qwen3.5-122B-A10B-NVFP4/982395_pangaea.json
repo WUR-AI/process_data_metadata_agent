@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains sediment geochemistry measurements collected from two distinct events in 2018 and 2019, identified by sample codes BH-II and BH-rec. The records include physical properties such as sediment depth, pH, and particle size distribution, alongside chemical analyses of total organic carbon, black carbon, calcium carbonate, and various heavy metals like lead, zinc, and copper. Stable isotope ratios for carbon and nitrogen are also provided. Each entry is georeferenced with precise latitude, longitude, and elevation data, allowing for spatial analysis. Researchers can utilize this comprehensive collection to investigate environmental pollution trends, sediment transport mechanisms, and paleoenvironmental reconstructions within the studied region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

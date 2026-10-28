@@ -1,0 +1,10 @@
+{
+  "description": "Banksia robur occurrence records (1989‑2026) with taxonomy, location, date, observer, and media metadata.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1989-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

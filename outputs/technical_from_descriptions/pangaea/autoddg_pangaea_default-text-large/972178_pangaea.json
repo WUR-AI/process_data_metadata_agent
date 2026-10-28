@@ -1,0 +1,15 @@
+{
+  "description": "The Aalen Remote Sensing dataset records geospatial observations for Aalen, Germany, with a numeric index ranging from 0 to 272 across 20 distinct values. It covers 15 observation years between 1990 and 2023, each linked to start and end dates that define the temporal window of the remote‑sensing product. Files are provided as GeoTIFF images and shapefiles in four formats (tif, prj, shx, dbf), identified by descriptive names such as vegetation index, metabolism index, and six‑band color composites. Latitude 48.79899472 and longitude 9.998824433 locate every record precisely. Researchers can use this collection to monitor land‑cover change, assess vegetation health, and support urban‑environmental planning in the Aalen region.",
+  "spatialCoverage": {
+    "min_lat": 48.79899472,
+    "min_lon": 9.998824433,
+    "max_lat": 48.79899472,
+    "max_lon": 9.998824433
+  },
+  "temporalCoverage": {
+    "from": "1990-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

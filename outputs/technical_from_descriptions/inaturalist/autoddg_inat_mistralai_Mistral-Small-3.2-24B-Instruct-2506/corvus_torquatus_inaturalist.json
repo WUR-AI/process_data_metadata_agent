@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Corvus torquatus, also known as the Collared Crow. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the species' biological hierarchy. The observations are geotagged with decimal latitude and longitude, and include metadata such as the date of observation, the observer's name, and the licensing information. The dataset spans multiple countries, primarily focusing on Hong Kong, Taiwan, and various provinces in China. This information can be used for biodiversity studies, ecological research, and conservation efforts. The semantic profile indicates that the dataset is well-structured for aggregation and classification purposes, making it suitable for detailed taxonomic and geographic analyses. Researchers can utilize this data to track the distribution and habitat preferences of the Collared Crow, contributing to our understanding of its ecological role and conservation status.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

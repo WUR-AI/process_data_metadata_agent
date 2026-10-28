@@ -1,0 +1,10 @@
+{
+  "description": "Sediment depth, organic and inorganic carbon, location, and elevation data from March 22, 2012.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-22T00:00:00",
+    "to": "2012-03-22T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

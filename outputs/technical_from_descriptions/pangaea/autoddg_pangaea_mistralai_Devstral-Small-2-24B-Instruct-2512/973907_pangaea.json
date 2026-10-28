@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains seismic measurements collected from a single event (MSM44_362-1) at a fixed location (75.97917°N, 66.04717°W, -705m elevation) on July 12, 2015. It includes 20 records with various geological measurements such as sediment depth, section depth, core diameter deviation, P-wave travel time, and acoustic impedance (AGR). The data is categorized by section type (1, 2, or 3) and includes both raw measurements and derived values like Vp-a (P-wave velocity). The semantic profile indicates that the dataset is structured for geological analysis, with spatial and temporal references for precise location and timing. This dataset can be used for seismic interpretation, rock property analysis, and geological modeling, particularly in studies of sedimentary layers and subsurface structures.",
+  "spatialCoverage": {
+    "min_lat": 75.97917,
+    "min_lon": -66.04717,
+    "max_lat": 75.97917,
+    "max_lon": -66.04717
+  },
+  "temporalCoverage": {
+    "from": "2015-07-12T00:00:00",
+    "to": "2015-07-12T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

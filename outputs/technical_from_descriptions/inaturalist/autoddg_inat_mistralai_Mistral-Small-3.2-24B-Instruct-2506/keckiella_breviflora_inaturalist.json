@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Keckiella breviflora, a species of flowering plant in the family Plantaginaceae. The data includes various taxonomic ranks such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive classification of the observed plants. Each observation is geotagged with decimal latitude and longitude, and includes metadata such as the date of observation, the observer's name, and the licensing information. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Keckiella breviflora. It also includes identifiers like gbifID, datasetKey, and occurrenceID, which facilitate data aggregation and integration with other biodiversity datasets. The observations are primarily from California, with a few from Nevada, and span various years, offering a temporal perspective on the species' distribution and presence.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

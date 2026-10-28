@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains detailed geochemical measurements from sediment cores collected at ODP Site 680 during Leg 112. The records span the Pliocene and Pleistocene epochs, providing depth-specific data for various chemical elements, including major and trace metals like Iron, Manganese, and Molybdenum. Researchers can utilize these values to calculate derived metrics such as enrichment factors and elemental ratios, which are essential for reconstructing past oceanic redox conditions. Additionally, the inclusion of stable isotope ratios for nitrogen, carbon, and molybdenum allows for the analysis of paleo-productivity and nutrient cycling. The dataset also features precise spatial coordinates and sample identifiers, making it ideal for high-resolution paleoenvironmental studies in marine geology.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

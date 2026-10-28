@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains siphonophore video data collected during oceanographic expeditions. It includes event identifiers, binary file names, sizes, and hashes for each recording. Spatial coordinates are provided via latitude and longitude, covering a range from 0 to 46.55 degrees north and -26.26667 to 0 degrees east. Temporal data is recorded at daily resolution, with entries from July 7, 2016. The files serve as primary data assets for scientific analysis. Researchers can use this collection to study siphonophore behavior and distribution in specific marine environments. The structured metadata facilitates easy aggregation and retrieval of video assets based on location, time, and event context for further oceanographic research.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -26.26667,
+    "max_lat": 46.55,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2016-07-07T00:00:00",
+    "to": "2016-07-07T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily"
+}

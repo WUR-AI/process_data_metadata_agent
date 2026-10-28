@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains seismic core data from the MSM44_362-1 event, recorded in July 2015 at a specific geographic location. It includes geophysical measurements such as sediment depth, section depth, core diameter deviation, P-wave travel time, and acoustic grain resistance. The data is organized by section and event, providing a detailed profile of subsurface properties. With coordinates and elevation, it serves as a spatial reference for geological analysis. Researchers can use this information to study seismic wave propagation and sediment characteristics. The dataset supports geophysical investigations, helping to interpret subsurface structures and material properties through precise temporal and spatial context.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-07-01T00:00:00",
+    "to": "2015-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

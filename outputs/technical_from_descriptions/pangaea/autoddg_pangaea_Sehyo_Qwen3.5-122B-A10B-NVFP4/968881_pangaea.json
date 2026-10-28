@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains detailed snow and ice measurements collected during the 2021-2022 field season in a polar region, identified by unique event codes. Each record includes precise geospatial coordinates, specific timestamps, and various depth metrics for snow and ice layers, ranging from surface to bottom measurements. Additionally, the data captures snow density values, which are crucial for understanding snowpack properties. Geared towards climate and environmental research, this collection supports the analysis of snow accumulation patterns and density variations over time. Researchers can utilize these georeferenced observations to model snow dynamics, assess ice sheet stability, and study regional climate change impacts in high-latitude environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

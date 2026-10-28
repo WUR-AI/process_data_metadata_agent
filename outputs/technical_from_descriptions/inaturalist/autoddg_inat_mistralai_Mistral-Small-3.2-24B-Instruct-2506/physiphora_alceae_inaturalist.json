@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on the distribution of the insect species Physiphora alceae, providing detailed occurrence records from various locations around the world. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which allows for comprehensive classification and aggregation. Geographical data, including country codes, state/province names, and precise coordinates, enables spatial analysis and mapping of the species' distribution. Temporal data, such as event dates, days, months, and years, facilitates the study of temporal patterns and trends. The dataset also includes information about the observers, identifiers, and rights holders, ensuring proper attribution and validation. This dataset can be used for research on insect distribution, biodiversity studies, ecological modeling, and conservation efforts. The semantic profile indicates that the data is well-structured for aggregation, classification, and measurement, making it a valuable resource for scientists and researchers in the field of biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

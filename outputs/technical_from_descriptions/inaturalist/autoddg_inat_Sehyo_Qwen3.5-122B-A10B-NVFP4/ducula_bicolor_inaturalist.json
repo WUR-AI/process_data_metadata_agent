@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the White-bellied Imperial Pigeon (Ducula bicolor) sourced from iNaturalist, featuring 20 records with complete taxonomic classification from kingdom to species. The data includes precise geospatial coordinates, event dates ranging from 2019 to 2026, and associated media such as still images. Records span multiple countries including Singapore, the Bahamas, Indonesia, and Myanmar, with detailed locality and state-level information. Each entry provides attribution to the observer and identifier, along with data quality flags regarding coordinate rounding and taxonomic mismatches. Researchers can utilize this collection for analyzing the species' distribution patterns, temporal occurrence trends, and habitat preferences across its geographic range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Daily coral geochemical data with location and event information.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

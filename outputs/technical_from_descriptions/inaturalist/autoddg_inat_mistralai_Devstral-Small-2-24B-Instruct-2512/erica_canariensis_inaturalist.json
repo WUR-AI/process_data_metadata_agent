@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Canary Island heath (Erica canariensis), a plant species native to the Canary Islands and Madeira. The records include taxonomic information, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic classification, spatial and temporal filtering, and attribution details. This dataset can be used for ecological studies, conservation efforts, and research on plant distribution and habitat preferences in the Canary Islands and Madeira. It also supports analyses of observation trends, species monitoring, and biodiversity assessments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

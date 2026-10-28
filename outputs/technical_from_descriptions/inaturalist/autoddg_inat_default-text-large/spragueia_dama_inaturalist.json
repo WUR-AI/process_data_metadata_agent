@@ -1,0 +1,12 @@
+{
+  "description": "This collection comprises 20 Spragueia dama sightings, each assigned a unique GBIF identifier and a persistent occurrence URL. Full taxonomic hierarchy from kingdom to species, together with taxon and species keys, enables precise biodiversity indexing and linkage to external resources. Geographic fields provide latitude (0 – 38.95°), longitude (‑104.90 – 0°), state‑province locations in the United States and Mexico, and coordinate uncertainties of 4‑110 m. Attribution lists observers, identification dates, CC‑BY or CC‑BY‑NC licenses, still‑image media and issue flags, supporting distribution mapping, phenology analysis, and habitat studies of Spragueia dama in North America.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -104.9,
+    "max_lat": 38.95,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

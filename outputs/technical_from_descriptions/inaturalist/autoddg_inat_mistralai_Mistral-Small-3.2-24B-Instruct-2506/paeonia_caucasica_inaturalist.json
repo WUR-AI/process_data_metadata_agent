@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on the Caucasian Peony (Paeonia caucasica), a plant species native to the Caucasus region. It contains observations recorded between 2019 and 2026, primarily in the Krasnodar region of Russia, with one observation in Adygey. The dataset includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which can be used for classification and biodiversity studies. Each record is accompanied by geographic coordinates, allowing for spatial analysis and mapping of the species' distribution. Additionally, the dataset provides temporal data, including the day, month, and year of each observation, enabling temporal trend analysis. The semantic profile indicates that the data can be used for aggregation, measurement, and classification purposes, making it valuable for ecological research, conservation efforts, and understanding the habitat and distribution of the Caucasian Peony.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

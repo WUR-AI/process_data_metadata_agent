@@ -1,0 +1,15 @@
+{
+  "description": "This dataset gathers twenty iNaturalist observations of the fish Rhinomuraena quaesita. Each entry provides a complete taxonomic classification from kingdom to species, a unique GBIF occurrence ID, and the scientific name as recorded. Geographic fields give decimal latitude (‑24.11 to 18.22) and longitude (0 to 167.21) with coordinate uncertainties up to 22 287 m. Event dates span 1989‑2026, and all records include still‑image media under a CC‑BY‑NC‑4.0 license. Semantic columns capture identifiers, classification, geolocation, timestamps, and attribution of observers and rights holders. The data are ideal for mapping the species’ distribution, assessing temporal trends, and supporting biodiversity research on Rhinomuraena quaesita.",
+  "spatialCoverage": {
+    "min_lat": -24.11,
+    "min_lon": 0.0,
+    "max_lat": 18.22,
+    "max_lon": 167.21
+  },
+  "temporalCoverage": {
+    "from": "1989-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

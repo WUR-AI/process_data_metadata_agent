@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental science data from 2022-08-02 to 2022-08-04, 48 rows, 28 columns.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-08-02T00:00:00",
+    "to": "2022-08-04T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

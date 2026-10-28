@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine biological data collected from various locations, including Joal, Djifer, and Foundiougne, with samples taken at different times throughout the year. It includes measurements of temperature, salinity, and various biological metrics related to E. fimbriata, such as oocyte dry mass, volume, lipid and protein content, and elemental composition (Ba/Ca, Sr/Ca, Zn/Ca). The data is structured with spatial and temporal keys, allowing for aggregation and analysis based on location and time. This dataset can be used for studying the biological and environmental factors affecting marine life, particularly E. fimbriata, and for understanding the spatial and temporal variations in these factors. The semantic profile indicates that the data is suitable for detailed biological and climate research, with measurements that can be aggregated by location and time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

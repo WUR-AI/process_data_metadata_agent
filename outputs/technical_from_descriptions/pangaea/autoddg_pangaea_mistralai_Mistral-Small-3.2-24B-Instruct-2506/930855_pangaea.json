@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains information related to marine sediment analysis, with a focus on various measurements and sample details. It includes data on sample IDs, labels, and depth measurements, both top and bottom, for different sediment layers. The dataset also provides peak area measurements for alkane and diol compounds, which are crucial for chemical analysis. The samples were collected during the event 370-C0023A at a specific location with a latitude of 32.366667 and a longitude of 134.966333, at an elevation of -4776.0 meters, on September 17, 2016. The semantic profile indicates that the dataset includes scientific and geological measurements, as well as spatial and temporal references. This dataset can be used for analyzing marine sediment composition, understanding chemical properties of sediment layers, and studying the spatial and temporal variations in marine sediments.",
+  "spatialCoverage": {
+    "min_lat": 32.366667,
+    "min_lon": 134.966333,
+    "max_lat": 32.366667,
+    "max_lon": 134.966333
+  },
+  "temporalCoverage": {
+    "from": "2016-09-17T00:00:00",
+    "to": "2016-09-17T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

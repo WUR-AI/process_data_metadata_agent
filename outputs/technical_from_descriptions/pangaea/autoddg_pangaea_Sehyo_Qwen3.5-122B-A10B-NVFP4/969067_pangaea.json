@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains daily weather observations recorded at the Puchalski Automatic Weather Station, located at an elevation of 55 meters in Antarctica. The records span multiple years and include key climate variables such as daily solar radiation sums, minimum and maximum temperatures, relative humidity ranges, and wind speed measurements. Each entry is timestamped with daily resolution and includes precise geographic coordinates for spatial analysis. The data is structured to support climate research, enabling users to aggregate and analyze long-term weather patterns, study extreme temperature events, and monitor environmental conditions in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

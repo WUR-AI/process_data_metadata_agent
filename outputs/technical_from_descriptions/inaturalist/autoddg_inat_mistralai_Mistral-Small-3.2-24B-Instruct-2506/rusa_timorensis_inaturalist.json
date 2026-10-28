@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of the Timor deer (Rusa timorensis), a species of mammal belonging to the family Cervidae. The data includes observations from various locations, primarily in Indonesia, with some records from Australia. Each entry contains details such as the scientific name, geographic coordinates, observation date, and the observer's identity. The dataset is enriched with semantic information, categorizing data into taxonomic ranks, locations, temporal entities, and identifiers, which facilitates aggregation and classification. This dataset can be used for studying the geographic distribution, habitat preferences, and conservation status of the Timor deer, as well as for ecological research and biodiversity assessments. The observations span from 2014 to 2026, providing a comprehensive overview of the species' presence over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Lychnosea intermicata, collected from various locations in the United States. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state or province, and coordinates. Each observation is recorded with a unique identifier, and additional information includes the date of the observation, the person who recorded it, and the license under which the data is shared. The dataset also contains metadata about the observation, such as the basis of the record, the institution that published the data, and any issues or uncertainties associated with the observation. This dataset can be used for studying the distribution and habitat of Lychnosea intermicata, as well as for broader research on moth populations and biodiversity. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classification and aggregation keys for various taxonomic and location data.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

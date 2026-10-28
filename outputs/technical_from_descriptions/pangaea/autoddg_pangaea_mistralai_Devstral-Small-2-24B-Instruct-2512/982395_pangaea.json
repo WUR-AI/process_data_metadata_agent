@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides sediment geochemical measurements from two events, including parameters such as depth, total organic carbon (TOC), black carbon (BC), calcium carbonate (CaCO3), pH, grain size distribution, magnetic susceptibility, and concentrations of heavy metals (Pb, Zn, Cu). It also includes isotopic data (δ13C, δ15N) and spatial-temporal references (latitude, longitude, elevation, and date). The semantic profile indicates that the dataset combines geological, chemical, and geographical measurements, making it useful for environmental and geochemical studies. Researchers can use this data to analyze sediment composition, assess pollution levels, and study sedimentary processes in relation to spatial and temporal variations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

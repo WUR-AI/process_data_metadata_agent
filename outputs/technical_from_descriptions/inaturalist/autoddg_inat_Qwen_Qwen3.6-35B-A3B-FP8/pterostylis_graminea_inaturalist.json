@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the orchid species Pterostylis graminea, sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom, phylum, and family, alongside precise spatial data with decimal latitude and longitude coordinates across New Zealand. Temporal information is available through event dates ranging from 2018 to 2025. The records include metadata on observers, identification dates, and associated media types. Users can leverage this data for biodiversity monitoring, species distribution analysis, and ecological studies, utilizing the included quality control issues and coordinate uncertainty metrics to ensure data reliability in their research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

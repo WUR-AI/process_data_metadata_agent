@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains seismic core data collected from a specific event, with measurements taken at various depths and sections. It includes information on depth of sediment, section, depth of section, core diameter deviation, P-wave travel time, P-wave velocity (Vp-a), acoustic impedance (AGR), event details, latitude, longitude, elevation, and date/time. The data is primarily of a geological nature, with measurements and categorical data used for aggregation. The spatial resolution includes coordinates for latitude and longitude, while the temporal resolution is down to the second. This dataset can be used for geological analysis, seismic interpretation, and understanding the subsurface structure of the surveyed area. It provides valuable insights for researchers and professionals in the field of geology and seismology.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "down to the second"
+}

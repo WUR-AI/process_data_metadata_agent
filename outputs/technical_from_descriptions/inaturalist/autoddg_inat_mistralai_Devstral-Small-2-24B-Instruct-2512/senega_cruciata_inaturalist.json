@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the plant species *Senega cruciata* (L.) J.F.B.Pastore & J.R.Abbott, recorded primarily in the southeastern United States, with a focus on Florida. The records span from 2009 to 2025 and include taxonomic details, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic classifications, spatial and temporal filters, and data quality indicators. This dataset is useful for ecological studies, species distribution modeling, conservation efforts, and research on plant biodiversity in the region. It also supports citizen science initiatives and educational projects related to Florida’s flora.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

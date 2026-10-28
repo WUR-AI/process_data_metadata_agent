@@ -1,0 +1,10 @@
+{
+  "description": "August 2018 atmospheric balloon measurements including location, height, and weather variables.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-08-01T00:00:00",
+    "to": "2018-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

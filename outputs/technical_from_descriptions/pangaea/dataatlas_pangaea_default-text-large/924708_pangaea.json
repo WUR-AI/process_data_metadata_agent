@@ -1,0 +1,10 @@
+{
+  "description": "Eight 2014 whale sighting records with timestamps, location, species, certainty, index, and event.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2014-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

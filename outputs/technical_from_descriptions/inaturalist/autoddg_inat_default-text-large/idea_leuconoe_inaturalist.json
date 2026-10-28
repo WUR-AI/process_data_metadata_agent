@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of the butterfly Idea leuconoe and its subspecies clara, contributed through iNaturalist. All records share the same higher taxonomy (Animalia → Arthropoda → Insecta → Lepidoptera → Nymphalidae) and are identified by unique GBIF and catalog numbers. Geographic coordinates span latitudes 5.9 to 28.3 °N and longitudes 120.8 to 129.9 °E, with coordinate uncertainty ranging from 0 to 31 331 m. Each entry includes temporal fields (eventDate, day, month, year), media type (still images), and a CC‑BY‑NC‑4.0 license. The semantic profile links biodiversity identifiers (gbifID, taxonKey), spatial data (decimalLatitude/Longitude, coordinateUncertaintyInMeters), and provenance metadata (identifiedBy, rightsHolder, lastInterpreted). Researchers can use the data to map the distribution of Idea leuconoe across Taiwan, Japan, the Philippines and surrounding regions, study seasonal occurrence patterns, or support conservation assessments.",
+  "spatialCoverage": {
+    "min_lat": 5.9,
+    "min_lon": 120.8,
+    "max_lat": 28.3,
+    "max_lon": 129.9
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

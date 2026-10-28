@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records ice‑core measurements from a single glaciological event (NM01_04_S01) captured on 29 December 2004 at the coordinates ‑70.65491 latitude and ‑8.25491 longitude. It contains 20 distinct samples, each identified by a unique sample number, with depth of ice or snow ranging from 0 m to 1.87 m, ice density from 0 g cm⁻³ to 0.542 g cm⁻³, and descriptive depth values between 0 m and 1.06 m. The event, date/time, and associated image file are constant across all rows. Semantically, the columns serve as glaciology‑specific identifiers and measurements, while latitude and longitude provide geographic geolocation. Researchers can use these data to analyse spatial and temporal variations in ice thickness and density, support climate‑reconstruction studies, and validate remote‑sensing ice‑sheet models.",
+  "spatialCoverage": {
+    "min_lat": -70.65491,
+    "min_lon": -8.25491,
+    "max_lat": -70.65491,
+    "max_lon": -8.25491
+  },
+  "temporalCoverage": {
+    "from": "2004-12-29T00:00:00",
+    "to": "2004-12-29T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

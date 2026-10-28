@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains flood boulder measurements collected from 11 different sites during the Sucha Woda Flood event on July 24, 2018. Each site includes geographic coordinates (latitude, longitude, and elevation), the number of tree trunks observed, and the diameters of 25 boulders measured at each location. The data provides detailed spatial and physical characteristics of flood deposits, with boulder diameters ranging from 33 to 270 cm. The semantic profile indicates that the dataset is structured around spatial entities (latitude, longitude, elevation, and boulder diameters), numeric measurements (trunk counts and boulder sizes), and temporal event data. Researchers can use this dataset to analyze flood dynamics, assess sediment transport patterns, and study the impact of flooding on riverine landscapes. The information can support hydrological modeling, hazard assessment, and environmental research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-07-24T00:00:00",
+    "to": "2018-07-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains high-resolution measurements of aerosol particle size distributions collected at the Neumayer station in Antarctica during 2019. It records particle concentrations across a wide range of diameters, from approximately 93 to 4846 nanometers, expressed as dN/dlogDp values. Each entry includes precise temporal metadata, such as start and end times, alongside spatial coordinates and an elevation of 42 meters. The data is specifically designed for atmospheric science research, enabling scientists to analyze particle number concentrations, study aerosol dynamics, and investigate the formation and evolution of aerosols in the polar environment.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

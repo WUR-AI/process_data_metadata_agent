@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Macolor niger, commonly known as the black and white snapper, collected from various locations around the world. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive classification of the observed organisms. Geographical data is also included, with coordinates, country codes, and locality information, allowing for spatial analysis and mapping. Temporal data such as event dates, days, months, and years enable temporal filtering and trend analysis. The dataset also includes metadata such as identifiers, publishing organization keys, and media types, which can be used for aggregation and attribution purposes. Additionally, the dataset provides information on the basis of record, occurrence status, and issues, which can be used to assess data quality and reliability. This dataset can be used for biodiversity research, ecological studies, and conservation efforts, particularly focusing on the distribution, abundance, and temporal patterns of Macolor niger populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

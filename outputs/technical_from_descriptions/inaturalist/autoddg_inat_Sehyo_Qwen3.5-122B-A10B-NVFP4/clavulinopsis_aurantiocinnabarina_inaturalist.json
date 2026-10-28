@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the fungus Clavulinopsis aurantiocinnabarina, primarily sourced from iNaturalist. It includes 20 records spanning from 2014 to 2025 across ten US states and one Canadian province. Each entry provides detailed taxonomic classification, precise geographic coordinates, and observation dates, along with information on the observers and rights holders. The data is structured with standard biodiversity identifiers and includes metadata on coordinate uncertainty and media types. Researchers can utilize this collection to analyze the species distribution patterns, seasonal occurrence trends, and citizen science engagement within North America.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

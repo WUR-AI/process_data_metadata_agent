@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the fungus *Mutinus caninus*, sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom, phylum, and species details, alongside precise spatial data with decimal latitude and longitude coordinates across ten countries. Temporal information is available via event dates spanning from 2018 to 2025. The records include observer metadata, such as recorded by and identified by fields, and specify the basis of record as human observations. Users can leverage this data for biodiversity studies, species distribution mapping, and temporal trend analysis, utilizing the included license and quality control issues for reliable research applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Lactuca viminea, sourced primarily from iNaturalist and aggregated via GBIF. It contains 20 records spanning multiple countries, including Ukraine, France, and Spain, with observations recorded between 2019 and 2026. Each entry provides detailed taxonomic classification, precise geographic coordinates, and event dates, alongside information on the observers and data licenses. The data is structured to support biodiversity research, allowing users to analyze the species' distribution patterns, seasonal occurrence, and habitat preferences across different regions. Most records include photographic evidence, enhancing their utility for verification and ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

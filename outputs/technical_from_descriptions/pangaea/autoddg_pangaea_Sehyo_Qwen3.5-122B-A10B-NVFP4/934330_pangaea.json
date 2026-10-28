@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains sediment chronology records from the Stordalen site, featuring 20 unique samples with precise depth and thickness measurements. It includes radiocarbon dating results for various organic materials such as moss, Carex, Betula, and sphagnum, accompanied by laboratory identifiers and age uncertainties. The data provides temporal context with ages ranging up to 2003, alongside spatial coordinates at 68.35 degrees latitude and 19.05 degrees longitude at an elevation of 350 meters. Researchers can utilize this collection to reconstruct environmental histories, analyze sediment accumulation rates, and study past ecological changes in this specific geological setting.",
+  "spatialCoverage": {
+    "min_lat": 68.35,
+    "min_lon": 19.05,
+    "max_lat": 68.35,
+    "max_lon": 19.05
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

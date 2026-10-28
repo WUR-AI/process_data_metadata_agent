@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the bird species Schoeniophylax phryganophilus, sourced from iNaturalist. It records taxonomic details, including kingdom through species, alongside spatial data from Argentina, Brazil, and Uruguay. Each entry provides precise decimal coordinates, event dates ranging from 2007 to 2025, and observer information. The records are classified as human observations with associated media images. Users can leverage this data for biodiversity studies, species distribution mapping, and ecological research focusing on this specific furnariid bird's presence in South America.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2007-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

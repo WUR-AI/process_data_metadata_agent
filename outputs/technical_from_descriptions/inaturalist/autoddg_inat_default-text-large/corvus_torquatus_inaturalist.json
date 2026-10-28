@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises twenty occurrence records of the bird Corvus torquatus, each identified by a unique GBIF ID that serves as the primary key and linked to an external observation URL. All records share the same taxonomic hierarchy (kingdom Animalia, phylum Chordata, class Aves, order Passeriformes, family Corvidae, genus Corvus, species Corvus torquatus) and are classified as human observations from iNaturalist. Geographic coverage spans Hong Kong, Taiwan, and mainland China, with decimal latitudes from 22.29 to 30.34 degrees and longitudes from 114.01 to 120.68 degrees; coordinate uncertainty ranges from 13 to 30 278 meters. Each entry includes timestamps, contributor identifiers, CC‑BY‑NC or CC‑BY licenses, and still‑image media, while quality flags note rounded coordinates and missing taxon IDs. The semantic profile clarifies that fields such as countryCode, stateProvince, decimalLatitude, decimalLongitude, and eventDate enable spatial and temporal filtering, and that identifiedBy and recordedBy provide attribution. Researchers can use these data to map the distribution of Corvus torquatus, assess seasonal movement patterns, support conservation status assessments, or train species‑distribution models.",
+  "spatialCoverage": {
+    "min_lat": 22.29,
+    "min_lon": 114.01,
+    "max_lat": 30.34,
+    "max_lon": 120.68
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

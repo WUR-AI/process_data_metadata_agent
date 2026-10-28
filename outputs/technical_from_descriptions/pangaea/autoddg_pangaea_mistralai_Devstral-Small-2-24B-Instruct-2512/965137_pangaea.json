@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains coral isotope measurements from the Porites species, collected at a specific location in French Polynesia (latitude -17.506944, longitude -149.4225) at an elevation of -15 meters. The data includes various isotopic ratios (Sr/Ca, Mg/Ca, δ18O, δ13C) and age-related measurements spanning from 0 to 2007.375 years, with all samples dated to July 1, 2008. The semantic profile indicates that the dataset combines demographic, climate, and spatial-temporal data, making it useful for climate research and paleoclimate studies. Researchers can use this dataset to analyze past environmental conditions, reconstruct historical climate patterns, and study the relationship between coral growth and oceanic variables. The measurements provide insights into temperature variations, seawater chemistry, and other climatic factors over time.",
+  "spatialCoverage": {
+    "min_lat": -17.506944,
+    "min_lon": -149.4225,
+    "max_lat": -17.506944,
+    "max_lon": -149.4225
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

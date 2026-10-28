@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the orchid species Acianthus fornicatus and related taxa within Australia, primarily in New South Wales and the Jervis Bay Territory. The records span from 2020 to 2025 and include precise geolocation data, observation dates, and taxonomic classifications down to the species level. Each entry is linked to a specific iNaturalist observation, providing rich context such as observer attribution, identification dates, and associated media like still images. Users can leverage this data for ecological studies, distribution mapping, and monitoring population trends of these native orchids, while noting that coordinate uncertainty and data quality flags are included to support rigorous analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

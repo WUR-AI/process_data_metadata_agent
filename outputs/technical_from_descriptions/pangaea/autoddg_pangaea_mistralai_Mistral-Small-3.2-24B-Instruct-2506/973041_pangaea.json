@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Borneo Archaeology, providing a comprehensive collection of archaeological data from various sites across Indonesia and Malaysia. It includes information on site locations, lab labels, dating methods, and age measurements, both dated and calibrated. The dataset's semantic profile reveals that it contains spatial data at different resolutions (site, country, province) and temporal data in years, making it useful for analyzing the chronological and geographical distribution of archaeological findings. Additionally, the dataset includes references to relevant studies, allowing users to explore the context and methodologies behind the data. This dataset can be used for research on the prehistoric human occupation, cultural practices, and environmental interactions in Borneo, offering valuable insights into the region's archaeological heritage.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

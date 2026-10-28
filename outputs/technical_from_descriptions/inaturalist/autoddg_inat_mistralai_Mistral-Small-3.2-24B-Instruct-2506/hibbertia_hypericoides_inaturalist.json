@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Hibbertia hypericoides, a member of the Dilleniaceae family. The data includes various taxonomic classifications, such as kingdom, phylum, class, order, family, genus, and species, providing a detailed hierarchical structure of the species. Each record is associated with specific identifiers like gbifID, datasetKey, and occurrenceID, which facilitate aggregation and cross-referencing. The dataset also includes spatial data, such as decimal latitude and longitude, allowing for geographic mapping and analysis of the species' distribution. Temporal data, including day, month, and year, capture the timing of observations. Additionally, the dataset contains information on the observers and identifiers, as well as media types and issues related to the observations. This dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Hibbertia hypericoides. The semantic profile indicates that the data is well-structured for classification, measurement, and aggregation, making it valuable for various analytical purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

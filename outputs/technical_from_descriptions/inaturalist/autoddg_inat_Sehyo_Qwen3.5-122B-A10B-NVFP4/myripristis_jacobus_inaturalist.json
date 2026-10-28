@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the Blackbar Soldierfish (Myripristis jacobus) sourced from iNaturalist and aggregated via GBIF. It contains 20 records spanning observations from 2008 to 2025 across 13 countries in the Caribbean and Atlantic regions. Each entry includes precise taxonomic classification, geographic coordinates, and observation dates, alongside metadata regarding data quality and licensing. Researchers can utilize this collection to analyze the species' distribution patterns, monitor population presence in specific localities, and study temporal trends in citizen science reporting. The data is primarily composed of still images and is available under various Creative Commons licenses for further biodiversity research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2008-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains geochemical measurements from sediment samples collected at the Santiurde section, identified by unique sample IDs and labels. It includes physical properties such as thickness, stratigraphic height, and mineral composition percentages for quartz, clay, calcite, gypsum, dolomite, and pyrite. All samples share a consistent geographic location with specific latitude, longitude, and elevation coordinates, though temporal data is currently missing. Researchers can utilize this collection to analyze sedimentary patterns, assess mineral distribution variations, and study geochemical characteristics within this specific geological formation. The data serves as a valuable resource for understanding the lithological composition and depositional history of the studied sedimentary sequence.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the plant species *Roepera morgiana* from the Western Cape, South Africa. It includes detailed taxonomic classifications, precise geographic coordinates, and event dates ranging from 2016 to 2026. The records are sourced from iNaturalist, featuring media types like still images and metadata on identification and licensing. Users can leverage this data for spatial and temporal filtering to study the species' distribution and phenology. It supports biodiversity research by providing verified occurrence records with quality control flags, facilitating ecological analysis and conservation planning for this specific taxon.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

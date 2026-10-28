@@ -1,0 +1,12 @@
+{
+  "description": "This dataset compiles 20 occurrence records of moth Asota plana and its subspecies Asota plana lacteata from iNaturalist. Each entry provides a GBIF identifier, occurrence ID, and taxonomic hierarchy from kingdom Animalia to species, with rank noted as species or subspecies. Geographic coverage spans five countries (Taiwan, Malaysia, Singapore, Indonesia, India) and eleven provinces; latitude ranges from –7.77 to 25.19 ° and longitude from 0 to 121.66 °, each with uncertainty up to 547 m. All records are human observations, released under CC‑BY‑4.0 or CC‑BY‑NC‑4.0. Semantic fields cover biodiversity, geographic, temporal, and legal aspects, enabling distribution mapping, phenology studies, and taxonomic verification of Asota plana.",
+  "spatialCoverage": {
+    "min_lat": -7.77,
+    "min_lon": 0.0,
+    "max_lat": 25.19,
+    "max_lon": 121.66
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

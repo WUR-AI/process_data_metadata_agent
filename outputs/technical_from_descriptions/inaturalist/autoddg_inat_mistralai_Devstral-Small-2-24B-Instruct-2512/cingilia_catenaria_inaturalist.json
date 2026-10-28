@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Cingilia catenaria* (Drury, 1773), collected from various locations in Canada and the United States. The records include taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic hierarchies, spatial filters (country, state/province, coordinates), temporal filters (day, month, year), and attribution details (identified by, recorded by). The dataset is particularly useful for studying the distribution, habitat preferences, and seasonal activity patterns of this moth species. Researchers and enthusiasts can leverage this data for ecological analysis, conservation efforts, or citizen science projects.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

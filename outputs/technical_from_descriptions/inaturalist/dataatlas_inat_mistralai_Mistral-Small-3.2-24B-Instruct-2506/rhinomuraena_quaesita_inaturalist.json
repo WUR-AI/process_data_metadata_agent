@@ -1,0 +1,10 @@
+{
+  "description": "Species occurrence data for Rhinomuraena quaesita, 2007-2026, with 1000 records.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2007-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

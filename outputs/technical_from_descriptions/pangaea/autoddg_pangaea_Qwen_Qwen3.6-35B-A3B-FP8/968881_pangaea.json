@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents Antarctic snow density measurements collected during the 2021-2022 field season. It contains 20 records with unique event identifiers, spatial coordinates, and precise timestamps. Key variables include snow depth, defined by top and bottom boundaries, alongside snow density values ranging from 205 to 513 kg/m³. The data serves as a climate resource, utilizing event IDs as aggregation keys and coordinates as spatial indices. Researchers can use this information to analyze snowpack properties, model ice sheet mass balance, and understand regional climatic variations in the Antarctic region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

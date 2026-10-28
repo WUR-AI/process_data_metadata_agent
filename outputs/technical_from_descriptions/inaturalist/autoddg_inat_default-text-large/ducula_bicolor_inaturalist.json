@@ -1,0 +1,15 @@
+{
+  "description": "The dataset holds 20 iNaturalist sightings of the pink‑headed fruit dove (Ducula bicolor) from 2019‑2026. Each record includes a GBIF occurrence ID, catalog number and a common dataset key. Full taxonomic hierarchy from kingdom to species is provided with scientific and verbatim names. Coordinates span ‑8.60 to 25.06 ° N and ‑77.31 to 130.72 ° E, cover five country codes, and include uncertainty up to 1000 m. Event dates are recorded with day, month and year components as well as full timestamps. The semantic profile tags identifiers, taxonomy, coordinates, timestamps, attribution and issue flags, enabling distribution mapping, phenology analysis and conservation planning for Ducula bicolor.",
+  "spatialCoverage": {
+    "min_lat": -8.6,
+    "min_lon": -77.31,
+    "max_lat": 25.06,
+    "max_lon": 130.72
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

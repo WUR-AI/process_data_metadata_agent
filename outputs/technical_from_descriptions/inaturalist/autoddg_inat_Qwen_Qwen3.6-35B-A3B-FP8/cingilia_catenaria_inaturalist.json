@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Cingilia catenaria, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning from 2010 to 2025 across Canada and the United States. Each record features occurrence details, observer information, and media attachments, facilitating ecological and distributional studies. The data supports spatial and temporal filtering for research on species range, phenology, and habitat preferences. Users can leverage this information to analyze population trends, map species distribution, and conduct conservation assessments for this specific geometrid moth.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

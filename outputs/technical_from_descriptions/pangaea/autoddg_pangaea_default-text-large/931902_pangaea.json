@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains video files of siphonophores collected during the Birkeland cruise, and includes event identifiers, file names, sizes, hash values, latitude/longitude coordinates, and a date. Data types: Event, Binary, Binary Size, and Binary Hash are text with two unique values each; Latitude and Longitude are floating‑point numbers ranging from 0 to 46.55 and –26.26667 to 0, respectively; Date/Time records a single day (2016‑07‑07). Semantically, Event serves as an aggregation key for marine research, Binary points to marine‑biology video references, Size records file measurement, Hash ensures integrity, Latitude/Longitude provide geospatial location, and Date marks the collection day. Researchers can use the videos to study siphonophore behavior, distribution and morphology, or to develop image‑analysis algorithms for marine biodiversity monitoring.",
+  "spatialCoverage": {
+    "min_lat": -26.26667,
+    "min_lon": 0.0,
+    "max_lat": 46.55,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2016-07-07T00:00:00",
+    "to": "2016-07-07T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

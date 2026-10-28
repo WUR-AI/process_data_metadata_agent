@@ -1,0 +1,10 @@
+{
+  "description": "Seven sediment core records from March 10, 2019, detailing elemental concentrations and relative errors.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-03-10T00:00:00",
+    "to": "2019-03-10T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

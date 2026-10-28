@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental science data on manganese nodules with 15 columns, 7 rows, 1970-09-02 to",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1970-09-02T00:00:00",
+    "to": "1970-09-02T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

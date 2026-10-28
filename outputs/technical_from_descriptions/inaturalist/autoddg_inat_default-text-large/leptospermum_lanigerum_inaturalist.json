@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 human‑observation records of the shrub Leptospermum lanigerum from Australia. Each record is uniquely identified by gbifID, occurrenceID, catalogNumber and links to the original iNaturalist observation. Taxonomic fields are fully populated, with kingdom Plantae down to species Leptospermum lanigerum and the taxon rank SPECIES. Geographic information includes decimal latitude and longitude (‑43.03 to 0 ° latitude, 0 to 147.71 ° longitude), state‑province (Victoria, Tasmania, South Australia) and a coordinate uncertainty of up to 42 m. Temporal coverage spans 2021‑2026, with precise event dates and day, month, year components. Media are still images and the dataset notes issues such as rounded coordinates. Licenses are CC‑BY or CC0, with rights holders listed as the contributors. Researchers can use these data to map the distribution, study phenology, or assess habitat preferences of L. lanigerum across southeastern Australia.",
+  "spatialCoverage": {
+    "min_lat": -43.03,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 147.71
+  },
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

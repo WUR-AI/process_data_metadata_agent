@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the fungus *Mycena renati*, sourced from the iNaturalist platform and aggregated via GBIF. It contains 20 records spanning multiple countries, including Hungary, Switzerland, and Germany, with precise geospatial coordinates and temporal data ranging from 2012 to 2026. Each entry provides detailed taxonomic classification from kingdom to species, alongside observer information and media attachments. The data supports geospatial analysis and ecological studies of this specific mushroom species. Users can leverage the standardized identifiers and occurrence statuses to validate findings or track distribution patterns, while the included coordinate uncertainty and media types ensure robust data quality for research applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

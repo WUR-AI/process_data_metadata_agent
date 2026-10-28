@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises 20 human‑observation records of the plant Lactuca viminea, each identified by a unique GBIF ID, occurrence ID, catalog number and URL. All records share the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Magnoliopsida, order Asterales, family Asteraceae, genus Lactuca, species viminea) and are classified as “PRESENT” occurrences. Geographic coverage spans ten country codes (UA, AM, HR, ES, FR, IT, PT, PS, RU, AT) with decimal latitudes from 40.31 to 44.74 °N and longitudes from –8.07 to 44.64 °E, and coordinate uncertainty ranging up to 4 750 m. Temporal coverage runs from 2019 to 2026, with day, month and year fields enabling phenological analyses. The semantic profile highlights identifiers for occurrences, taxa and institutions, taxonomic classification fields, precise spatial coordinates with uncertainty metrics, and timestamps for event and identification dates, while mediaType and issue columns document image assets and data‑quality flags. Licensed under CC‑BY‑NC‑4.0, the data can support distribution mapping, habitat suitability modelling, seasonal trend studies and broader biodiversity monitoring of Lactuca viminea across its European range.",
+  "spatialCoverage": {
+    "min_lat": 40.31,
+    "min_lon": -8.07,
+    "max_lat": 44.74,
+    "max_lon": 44.64
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

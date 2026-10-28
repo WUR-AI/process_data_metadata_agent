@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Genista germanica, a species of broom, recorded across multiple countries including Austria, Czech Republic, Italy, Poland, Slovenia, and Croatia. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, with columns representing taxonomic classifications, spatial coordinates, temporal filters, and data quality indicators. This dataset can be used for ecological studies, species distribution modeling, conservation efforts, and research on plant phenology and habitat preferences. The observations are sourced from iNaturalist and include details like occurrence status, individual counts, and media types, making it valuable for both scientific and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

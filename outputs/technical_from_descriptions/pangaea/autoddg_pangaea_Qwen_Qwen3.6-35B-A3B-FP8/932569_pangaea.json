@@ -1,0 +1,7 @@
+{
+  "description": "This dataset details aerosol ion composition collected during environmental science expeditions. It contains 20 unique samples across five particle size stages, ranging from 0.05 to 10 micrometers. Each record includes precise temporal and spatial coordinates, along with a constant sampling height of 25 meters. The chemical analysis measures concentrations of major ions, including chloride, nitrate, sulfate, ammonium, sodium, and potassium, alongside organic markers like MSA. Researchers can utilize this data to study atmospheric chemistry, trace pollution sources, and analyze the spatial distribution of aerosol components in various regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

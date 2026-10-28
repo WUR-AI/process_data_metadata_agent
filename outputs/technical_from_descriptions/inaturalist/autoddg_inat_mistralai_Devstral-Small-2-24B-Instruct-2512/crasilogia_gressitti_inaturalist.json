@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the moth species *Crasilogia gressitti* from Australia, recorded between 2018 and 2025. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with geographic data like country, state/province, and precise coordinates. Each record also provides metadata such as observation date, observer details, and licensing information. The dataset is sourced from iNaturalist and includes identifiers like GBIF ID and occurrence ID for cross-referencing. It can be used for biodiversity research, species distribution studies, and ecological analysis, particularly focusing on moth populations in Australia. The semantic profile highlights its role in taxonomic classification, spatial filtering, and temporal analysis, making it valuable for researchers and conservationists.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

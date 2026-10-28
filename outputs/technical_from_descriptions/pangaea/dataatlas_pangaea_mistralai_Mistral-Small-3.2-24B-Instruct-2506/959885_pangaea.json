@@ -1,0 +1,10 @@
+{
+  "description": "Environmental sediment data with chemical concentrations, location, and time from 2022-12-16.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-12-16T00:00:00",
+    "to": "2022-12-16T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

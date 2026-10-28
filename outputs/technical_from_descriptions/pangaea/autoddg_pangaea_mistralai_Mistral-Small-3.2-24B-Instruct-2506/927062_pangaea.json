@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains balloon weather data collected over a specific period. It includes measurements such as date and time, longitude, latitude, height, atmospheric pressure (PPPP), temperature (TTT), relative humidity (RH), wind direction (dd), and wind speed (ff). The data is recorded at various heights and locations, providing a comprehensive view of atmospheric conditions during the event. The semantic profile indicates that the dataset includes temporal and spatial entities, as well as various meteorological measurements. This information can be used for analyzing weather patterns, studying atmospheric conditions at different altitudes, and understanding the behavior of weather balloons. Researchers and meteorologists can utilize this data to gain insights into weather dynamics and improve weather forecasting models.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

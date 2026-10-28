@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Hypericum crux-andreae, a plant species, across various states in the United States. The data includes observations from Florida, Mississippi, Alabama, North Carolina, South Carolina, and Texas, with details such as the date of observation, geographic coordinates, and the observer's name. The dataset is enriched with taxonomic classifications, including kingdom, phylum, class, order, family, genus, and species, which help in understanding the hierarchical structure of the species. Additionally, the dataset contains metadata about the observation conditions, such as coordinate uncertainty and media type, which can be useful for data validation and quality assessment. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear aggregation keys and measurement contexts. This dataset can be used for studying the geographical distribution, habitat preferences, and temporal patterns of Hypericum crux-andreae, as well as for conservation planning and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

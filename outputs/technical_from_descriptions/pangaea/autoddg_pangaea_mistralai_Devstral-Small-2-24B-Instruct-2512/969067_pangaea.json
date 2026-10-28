@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains weather station measurements from a single location, with data spanning from 2019 to 2023. It includes daily climate observations such as temperature (minimum, mean, and maximum), relative humidity (minimum, mean, and maximum), wind speed (minimum, mean, and maximum), and solar radiation. The dataset also provides geographic coordinates and elevation for the station. Semantically, the data is structured around temporal and spatial entities, with climate measurements serving as the core focus. This dataset can be used for climate analysis, weather pattern studies, and environmental research, particularly in understanding daily variations in atmospheric conditions at a specific location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily"
+}

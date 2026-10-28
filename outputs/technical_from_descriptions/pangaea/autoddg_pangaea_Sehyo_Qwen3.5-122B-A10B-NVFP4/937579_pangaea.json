@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Arctic isotope measurements collected during the 2019 NunaWP4 Mackenzie expeditions. It includes 20 unique sampling events recorded across four distinct expeditions, capturing precise latitude and longitude coordinates alongside specific station identifiers. The data records water depth and isotopic ratios, specifically delta-O-18 and delta-D, as well as the derived deuterium excess parameter. These measurements, taken at hourly resolution between April and September 2019, serve as critical indicators for understanding regional climate dynamics and hydrological cycles. Researchers can utilize this collection to analyze spatial and temporal variations in Arctic freshwater isotopes, supporting studies on climate change, ice melt, and water source tracing in the Mackenzie River basin.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-04-01T00:00:00",
+    "to": "2019-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "hourly"
+}

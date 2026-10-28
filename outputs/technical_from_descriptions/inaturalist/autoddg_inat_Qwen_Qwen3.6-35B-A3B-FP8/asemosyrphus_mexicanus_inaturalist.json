@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 occurrence records of the hoverfly species *Asemosyrphus mexicanus*, sourced primarily from iNaturalist human observations. It provides comprehensive taxonomic classification, including kingdom through species levels, alongside precise spatial data with decimal latitude and longitude coordinates across Mexico, Colombia, Ecuador, and Guatemala. Temporal coverage spans from 2017 to 2026, capturing observation dates and identification timestamps. The records include media types such as still images and are licensed under CC BY-NC 4.0. Researchers can utilize this data for biodiversity monitoring, species distribution modeling, and ecological studies focusing on Syrphidae populations in the Neotropical region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

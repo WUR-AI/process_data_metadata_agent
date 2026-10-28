@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises 20 occurrence records of the butterfly Papilio maackii collected from iNaturalist. Each record includes a unique GBIF identifier, occurrence ID, and taxonomic classification from kingdom down to species, with scientific and verbatim names. Geographic information provides decimal latitude (0‑49.87°) and longitude (0‑139.20°) together with coordinate uncertainty (0‑35 583 m) and state‑province details across Japan, Russia, China, and South Korea. Temporal fields capture the event date, day, month and year of observation. Metadata such as the publishing organization, license (CC‑BY‑NC‑4.0), media type (still images) and data‑quality issues are also recorded. Researchers can use these data to map the distribution, study seasonal patterns, and assess habitat preferences of Papilio maackii.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": 0.0,
+    "max_lat": 49.87,
+    "max_lon": 139.2
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

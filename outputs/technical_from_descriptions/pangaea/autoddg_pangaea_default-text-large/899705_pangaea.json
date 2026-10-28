@@ -1,0 +1,10 @@
+{
+  "description": "The collection consists of twelve NetCDF files that together provide climate‑model output for the period 2015‑2010, each file representing a specific variable (e.g., agriculture, energy, industry) at a single site and year. File sizes vary from a few hundred bytes to over 30 MB, reflecting the differing data volumes for each variable. All files share the same format (nc) and are accessible via individual URLs hosted on the PANGAEA repository. The file names serve as aggregation keys, encoding both temporal (year) and spatial (site) information, while the format field specifies the scientific data type. These data can be used for climate impact assessments, model validation, and comparative analyses of regional climate variables across the selected years.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

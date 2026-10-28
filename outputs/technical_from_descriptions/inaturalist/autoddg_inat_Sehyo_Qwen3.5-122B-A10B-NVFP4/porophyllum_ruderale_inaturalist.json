@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the plant species Porophyllum ruderale, sourced from the iNaturalist platform and aggregated via GBIF. It includes 20 records spanning multiple countries such as Mexico, Argentina, and Brazil, with detailed taxonomic classifications ranging from kingdom to species level. Each entry provides precise geographic coordinates, observation dates, and the names of the observers, though some fields like elevation and individual counts are missing. The data is primarily licensed under CC BY-NC 4.0 and includes associated media like still images. Researchers can utilize this collection to analyze the distribution patterns, phenology, and citizen science reporting trends for this specific plant species across its recorded range.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset presents high-resolution sediment geochemistry data collected during the Belgian collector trial pre-impact event at station SO268_074MUC in the Pacific Ocean. It includes chemical concentrations and relative error metrics for major elements and ions such as Aluminum, Iron, Copper, and Nickel across various sediment depths. The records are georeferenced with precise latitude, longitude, and elevation coordinates, alongside specific core identifiers and sampling timestamps. Researchers can utilize this data to analyze vertical elemental distribution profiles, assess baseline environmental conditions before mining impacts, and study geochemical variations within deep-sea sediments at approximately 4,518 meters depth.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

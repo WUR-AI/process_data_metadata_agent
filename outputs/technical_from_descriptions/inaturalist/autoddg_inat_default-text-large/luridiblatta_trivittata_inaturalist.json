@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises twenty citizen‑science observations of the cockroach Luridiblatta trivittata recorded across California, United States. All records share the same taxonomic hierarchy (kingdom Animalia, phylum Arthropoda, class Insecta, order Blattodea, family Ectobiidae, genus Luridiblatta) and are flagged as present occurrences. Geographic coordinates span latitudes 36.95 to 38.58 degrees north and longitudes ‑122.82 to ‑121.70 degrees west, with coordinate‑uncertainty values ranging from 0 to 87 metres. Each entry includes a timestamp, a still‑image media type, and licensing information (CC‑BY‑NC‑4.0 or CC‑BY‑4.0). The semantic profile links fields to biodiversity concepts: taxonomic classification, spatial location, temporal event, attribution of observers and identifiers, and data‑quality issues. Researchers can use these data to map the species’ distribution, explore seasonal activity patterns, assess citizen‑science data quality, or support ecological niche modelling for Luridiblatta trivittata.",
+  "spatialCoverage": {
+    "min_lat": 36.95,
+    "min_lon": -122.82,
+    "max_lat": 38.58,
+    "max_lon": -121.7
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

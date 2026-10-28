@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on sediment chemistry, providing a comprehensive analysis of various chemical components found in sediment samples. The data includes measurements of nutrients such as nitrate, nitrite, ammonium, and phosphate, as well as other ions like chloride, sulfate, and bromide. Additionally, it covers trace elements including boron, manganese, calcium, iron, sodium, magnesium, strontium, silicon, barium, lithium, and potassium. The dataset is collected from a specific station with detailed spatial and temporal references, including latitude, longitude, elevation, and date/time. The semantic profile indicates that the data is well-structured for environmental analysis, with clear aggregation keys and measurement contexts. This dataset can be used for environmental monitoring, research on sediment composition, and studies on the impact of chemical pollutants on marine ecosystems. The information provided can help scientists and researchers understand the chemical dynamics in sedimentary environments and assess the health of aquatic systems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

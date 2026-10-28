@@ -1,0 +1,15 @@
+{
+  "description": "The dataset comprises 20 human‑observation records of the flowering plant Hypericum crux‑andreae collected through iNaturalist. Each record includes a unique GBIF occurrence identifier, a persistent URL, and the full taxonomic hierarchy from kingdom Plantae to species, allowing precise species verification. Geographic coordinates span latitudes 27.9° N to 35.4° N and longitudes –88.99° to –80.57°, with coordinate uncertainty values ranging from 5 m to 28 790 m, and are accompanied by event dates between 2018 and 2025. Semantic fields capture identifiers (gbifID, datasetKey), taxonomic attributes, spatial measurements, temporal components, attribution (recordedBy, identifiedBy), licensing, and media type (still images). This rich metadata supports distribution mapping, phenology analysis, and conservation assessments of Hypericum crux‑andreae across the southeastern United States.",
+  "spatialCoverage": {
+    "min_lat": 27.9,
+    "min_lon": -88.99,
+    "max_lat": 35.4,
+    "max_lon": -80.57
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the fish species Chlorurus bleekeri, with observations recorded from various locations across the Indo-Pacific region. The data includes taxonomic details such as kingdom, phylum, class, order, family, genus, and species, as well as geographic information including country codes, state/province, and precise coordinates. Each record is accompanied by metadata such as the date of observation, the observer's name, and the license under which the data is shared. The dataset is particularly useful for researchers studying the geographic distribution, habitat preferences, and conservation status of Chlorurus bleekeri. The semantic profile indicates that the data is well-structured for biodiversity research, with clear classifications and spatial context. This dataset can be used for ecological studies, conservation planning, and understanding the impact of environmental changes on fish populations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

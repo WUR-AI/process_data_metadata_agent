@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Marine Sediment Chemistry, providing a comprehensive analysis of various chemical components found in marine sediments. The data includes measurements of nutrients such as nitrates, nitrites, ammonium, and phosphates, as well as other chemical elements like chlorine, sulfate, bromide, boron, manganese, calcium, iron, sodium, magnesium, strontium, silicon, barium, lithium, and potassium. The dataset is collected from a single station, with samples taken at different depths, and includes spatial and temporal references. The semantic profile indicates that the data is scientific in nature, with measurements and spatial references playing key roles. This dataset can be used for studying the chemical composition of marine sediments, understanding environmental changes, and supporting research in marine geochemistry and oceanography.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

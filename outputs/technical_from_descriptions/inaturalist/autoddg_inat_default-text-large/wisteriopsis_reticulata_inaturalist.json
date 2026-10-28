@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 occurrence records of Wisteriopsis reticulata from iNaturalist, each with GBIF identifiers, occurrence IDs and catalog numbers. All records belong to the plant kingdom, family Fabaceae, and share the same scientific name. Geographic coverage spans Taiwan and Fujian, with latitudes 22.5‑25.2° and longitudes 118.4‑121.7°, and coordinate uncertainty up to 50 m. Temporal coverage runs from 2017 to 2026, with event dates recorded to the second. Media are still images, and data quality flags note rounded coordinates and missing taxon IDs. Licenses are CC BY‑NC 4.0 or CC BY 4.0. Researchers can use the data for distribution mapping, phenology analysis and taxonomic verification of Wisteriopsis reticulata.",
+  "spatialCoverage": {
+    "min_lat": 22.5,
+    "min_lon": 118.4,
+    "max_lat": 25.2,
+    "max_lon": 121.7
+  },
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

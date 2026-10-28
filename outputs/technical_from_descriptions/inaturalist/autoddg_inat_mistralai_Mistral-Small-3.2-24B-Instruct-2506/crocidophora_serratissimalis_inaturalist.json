@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Crocidophora serratissimalis, collected from various locations primarily in the United States and Canada. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates and observation dates. The dataset is enriched with identifiers, spatial data, and temporal information, making it suitable for biodiversity studies and ecological research. It can be used to analyze the distribution and habitat preferences of this moth species, track its presence over time, and support conservation efforts. The semantic profile indicates that the data is well-structured for aggregation and classification, facilitating comprehensive analyses in the field of biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

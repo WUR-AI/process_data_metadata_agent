@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on benthic isotope geochemistry, containing measurements from a single geological event at a fixed location in the Gulf of Mexico. It records sediment depth, age, and stable isotope ratios (δ13C and δ18O) for Uvigerina species, providing critical paleoclimatic data. The spatial context is defined by precise latitude, longitude, and elevation coordinates, while temporal references include both sediment age and sampling timestamps. Researchers can utilize this data to analyze historical climate variations and sedimentation patterns. The collection spans ages up to approximately 41 years, offering a detailed record for studying past environmental changes through benthic foraminifera isotopic signatures.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

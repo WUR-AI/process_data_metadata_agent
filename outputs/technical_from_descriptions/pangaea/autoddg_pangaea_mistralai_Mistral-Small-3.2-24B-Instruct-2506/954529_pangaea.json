@@ -1,0 +1,7 @@
+{
+  "description": "This dataset is focused on topographic mapping and contains spatial data related to various locations. It includes two main types of data: GIS files, which represent specific locations and contain spatial data, and an XLSX file that likely contains additional relevant data. The GIS files are named after different geographical features such as mountains and islands, suggesting that the dataset covers a range of topographic features. This dataset can be used for creating detailed topographic maps, analyzing terrain features, and conducting spatial analysis. Researchers and professionals in fields such as geography, environmental science, and urban planning may find this dataset particularly useful for their studies and projects.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

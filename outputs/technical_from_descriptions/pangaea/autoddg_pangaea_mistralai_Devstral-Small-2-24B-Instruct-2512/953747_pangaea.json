@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains Arctic ROV (Remotely Operated Vehicle) data collected during a scientific survey. It includes temporal information with daily resolution, unique survey identifiers, and file paths to various data references such as depth profiles, transmittance measurements, and spectral data. The dataset also provides geospatial measurements, including latitude, longitude, and elevation, which are crucial for understanding the spatial context of the observations. The semantic profile indicates that the data can be used for aggregation and analysis based on time, survey, and event keys, as well as for geospatial measurements. This dataset is particularly useful for researchers studying Arctic environments, as it can provide insights into underwater conditions, sea ice characteristics, and other oceanographic parameters.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

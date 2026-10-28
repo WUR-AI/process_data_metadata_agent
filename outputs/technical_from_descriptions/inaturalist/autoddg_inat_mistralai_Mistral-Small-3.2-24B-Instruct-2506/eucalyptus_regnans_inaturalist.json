@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Eucalyptus regnans, a species of tree native to Australia. It includes records from various locations in Australia, specifically in the states of Victoria and Tasmania. The data covers a range of temporal and spatial information, such as the date and location of each observation, as well as details about the observer and the recording conditions. The dataset is structured with columns that represent different aspects of the observations, including taxonomic classification, geographic coordinates, and metadata about the recording process. This dataset can be used for studying the geographic distribution and habitat preferences of Eucalyptus regnans, as well as for monitoring changes in its population over time. The semantic profile of the dataset indicates that it is well-suited for biodiversity research, with columns that facilitate aggregation and classification based on taxonomic, temporal, and spatial data. Researchers can utilize this dataset to gain insights into the ecological requirements and conservation status of Eucalyptus regnans.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

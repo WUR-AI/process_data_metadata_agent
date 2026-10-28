@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains geochemical core data collected from a single drilling event at a specific offshore location, identified by coordinates 32.366667 N and 134.966333 E. It includes twenty distinct sediment samples with detailed depth measurements ranging from approximately 256 to 1069 meters below the seafloor. Each entry provides analytical results for alkane and diol peak areas, offering insights into organic composition. The data serves as a primary resource for researchers studying marine geochemistry, allowing them to correlate chemical signatures with specific sediment depths and core intervals. This information is essential for understanding subsurface geological processes and paleoenvironmental conditions at the sampled site.",
+  "spatialCoverage": {
+    "min_lat": 32.366667,
+    "min_lon": 134.966333,
+    "max_lat": 32.366667,
+    "max_lon": 134.966333
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

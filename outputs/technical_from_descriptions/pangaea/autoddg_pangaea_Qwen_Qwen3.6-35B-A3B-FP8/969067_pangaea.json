@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains daily Antarctic weather observations from the Puchalski AWS station, located at 62.16°S, 58.47°W, and 55 meters elevation. It records key climate metrics including daily minimum, mean, and maximum temperatures, relative humidity ranges, and wind speed variations. The data also includes snow water depth sums and specific measurement heights. With a temporal resolution of one day, this collection serves as a valuable resource for studying polar climate patterns, analyzing extreme weather events, and supporting environmental research in the Antarctic region. Researchers can utilize these measurements to understand local atmospheric conditions and their variability over time.",
+  "spatialCoverage": {
+    "min_lat": -62.16,
+    "min_lon": -58.47,
+    "max_lat": -62.16,
+    "max_lon": -58.47
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

@@ -1,0 +1,10 @@
+{
+  "description": "45 sediment samples from a single 1986‑11‑05 event, with geochemical, isotopic, and spatial measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1986-11-05T00:00:00",
+    "to": "1986-11-05T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

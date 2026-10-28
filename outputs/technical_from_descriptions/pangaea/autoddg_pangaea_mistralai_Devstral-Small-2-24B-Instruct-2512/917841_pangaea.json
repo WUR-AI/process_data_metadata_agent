@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides water quality measurements from Macapule Lagoon, collected at different times and zones. It includes key parameters such as temperature, salinity, dissolved oxygen, pH, ammonia, nitrate, and phosphate levels, along with spatial coordinates. The data spans from 2013 to 2015, with measurements taken at three distinct zones within the lagoon. Semantically, the dataset combines temporal, spatial, and climate-related entities, making it useful for analyzing environmental trends and spatial variations in water quality. Researchers and environmental scientists can use this dataset to study lagoon ecosystems, assess pollution levels, and monitor changes over time. The structured format allows for aggregation by date, zone, or event, facilitating comparative analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

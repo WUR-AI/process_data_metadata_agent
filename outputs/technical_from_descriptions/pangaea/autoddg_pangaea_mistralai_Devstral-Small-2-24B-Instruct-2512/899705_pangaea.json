@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains climate-related files from the MITAPI project, covering the period from 2010 to 2015. It includes 12 unique files in NetCDF format, each with varying file sizes ranging from 287 to 30,650 bytes. The files are accessible via direct URLs provided in the dataset. The semantic profile indicates that the file names serve as aggregation keys with temporal resolution at the year level, while the file format specifies the data structure, file size measures the data volume, and the URL provides direct access to each file. This dataset can be used for climate research, analysis of temporal climate patterns, and integration into larger climate modeling or data processing workflows.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "year"
+}

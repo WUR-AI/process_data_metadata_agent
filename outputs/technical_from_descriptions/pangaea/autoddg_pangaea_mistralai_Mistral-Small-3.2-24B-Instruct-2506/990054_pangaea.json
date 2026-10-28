@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Arctic Ice Data collected during the MOSAiC campaign, with measurements taken at various activities and events between 2019 and 2020. The data includes spatial measurements of latitude and longitude, as well as elevation, and temporal data with daily resolution. It also features measurements of ice and snow depth, chlorophyll a, and phaeopigments. The semantic profile of the dataset indicates that it is structured around scientific research activities, with aggregation keys for campaign, activity, event, device, and section labels. This dataset can be used for studying Arctic ice properties, monitoring changes in ice composition, and understanding the environmental conditions in the Arctic region. The measurements can support research on climate change, ice dynamics, and ecosystem health.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2020-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily"
+}

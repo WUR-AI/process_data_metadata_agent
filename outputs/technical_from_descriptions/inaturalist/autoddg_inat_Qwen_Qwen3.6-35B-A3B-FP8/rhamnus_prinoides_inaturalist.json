@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Rhamnus prinoides, sourced from iNaturalist. It includes detailed taxonomic classification, spatial coordinates, and temporal data for occurrences recorded across various South African provinces. The records are primarily human observations, providing insights into the species' distribution and abundance. Users can leverage this data for spatial filtering, temporal analysis, and ecological studies. The dataset supports research on plant geography and conservation by offering standardized occurrence records with associated metadata, such as identification dates and licensing information, facilitating comprehensive biodiversity assessments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

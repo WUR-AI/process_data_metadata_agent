@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Lachnagrostis billardierei, sourced primarily from iNaturalist. It includes detailed taxonomic classifications, such as kingdom and family, alongside precise spatial data like decimal latitude and longitude for locations in New Zealand and Australia. Temporal information is provided through event dates, while quality control is indicated by issue codes. Users can leverage this data for ecological studies, species distribution mapping, and conservation planning. The records feature associated media types and licensing information, facilitating comprehensive research into the habitat and occurrence patterns of this specific grass species across its native range.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Senega cruciata*, a plant species within the Polygalaceae family. It includes taxonomic identifiers, spatial coordinates, and temporal data for occurrences recorded in US states like Florida and Louisiana. The records, primarily human observations from iNaturalist, feature media types and quality control issues. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic categorization. It supports research on species distribution, habitat preferences, and phenology, offering valuable insights into the ecology and geographic range of *Senega cruciata* through standardized biodiversity metrics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on volcanic rock chemistry, providing detailed geochemical measurements of various chemical compounds. It includes data on the concentrations of SiO2, TiO2, Al2O3, Fe2O3, MnO, MgO, CaO, Na2O, K2O, and P2O5, with values ranging from 0 to their respective maximums. The dataset also contains spatial and temporal information, with latitude and longitude coordinates, elevation data, and a specific date and time for each sample. Semantically, the dataset is structured to represent scientific samples and events, geochemical measurements, and geospatial references. This information can be used for analyzing the chemical composition of volcanic rocks, studying geological formations, and understanding volcanic activity patterns. The data is organized with sample IDs and event references, facilitating aggregation and comparison of measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

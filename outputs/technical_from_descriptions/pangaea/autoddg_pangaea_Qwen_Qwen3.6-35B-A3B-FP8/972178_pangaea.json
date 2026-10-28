@@ -1,0 +1,15 @@
+{
+  "description": "This dataset, titled Aalen Vegetation Indices, provides geospatial data for Aalen, Germany, covering observations from 1984 to 2023. It includes various vegetation metrics such as NDVI, NirV, and metabolism indices, alongside six-band color composites. The data is organized by year and specific date ranges, with files available in GeoTIFF and Shapefile formats. Spatial coordinates are fixed at approximately 48.80°N, 10.00°E. Users can leverage this information to analyze long-term vegetation trends and environmental changes in the region. The dataset supports filtering by file type and serves as a valuable resource for geospatial research and ecological monitoring in Aalen.",
+  "spatialCoverage": {
+    "min_lat": 48.8,
+    "min_lon": 10.0,
+    "max_lat": 48.8,
+    "max_lon": 10.0
+  },
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

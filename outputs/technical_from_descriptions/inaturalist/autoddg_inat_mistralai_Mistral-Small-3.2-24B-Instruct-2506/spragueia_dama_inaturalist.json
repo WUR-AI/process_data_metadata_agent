@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Spragueia dama, collected from various locations in the United States and Mexico. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates and observation dates. The dataset is enriched with identifiers, taxonomic ranks, and location data, making it suitable for biodiversity studies and ecological research. It can be used for analyzing the distribution and habitat preferences of Spragueia dama, tracking changes in moth populations over time, and studying the impact of environmental factors on moth observations. The semantic profile of the dataset includes identifiers, taxonomic names, locations, temporal entities, and status classifications, providing a comprehensive view of moth observations. This dataset is valuable for researchers and enthusiasts interested in moth ecology, conservation, and biodiversity monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

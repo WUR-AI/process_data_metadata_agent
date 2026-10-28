@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Muhlenbergia lindheimeri, a species of grass native to Texas, collected from various locations across the state. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial and temporal data, including coordinates, observation dates, and elevation. Each record is attributed to specific observers and includes metadata such as license information and media types. The dataset can be used for biodiversity research, ecological studies, and conservation efforts focused on Texas grasses. It provides valuable insights into the distribution, abundance, and temporal patterns of Muhlenbergia lindheimeri, aiding in the understanding of its habitat and ecological role.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

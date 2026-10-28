@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides comprehensive environmental monitoring data, organized into eight distinct files including physico-chemical, particulate matter, temperature, and hydrological records. Each file is accompanied by metadata describing its columns, ensuring clarity for users. The data is encoded in UTF-16LE format with text/plain content types. Semantic analysis reveals that the binary columns serve as file identifiers, size metrics, and integrity hashes, while the content column offers descriptive text related to environmental science. This collection supports research in environmental science by offering detailed insights into water quality, atmospheric composition, and hydrological conditions. Researchers can utilize this structured data to analyze trends in in situ parameters, nutrients, and contaminants across multiple sampling sites.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

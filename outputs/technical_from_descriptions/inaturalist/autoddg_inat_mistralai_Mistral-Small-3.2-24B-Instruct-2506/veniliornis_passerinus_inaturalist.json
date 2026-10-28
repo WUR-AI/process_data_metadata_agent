@@ -1,0 +1,12 @@
+{
+  "description": "This dataset provides information on the distribution of the bird species Veniliornis passerinus, also known as the little piculet. It includes records from various countries, primarily in South America, with details on the location, date, and observer of each sighting. The dataset contains 20 unique observations, with coordinates ranging from -28.228975 to -3.965246 in latitude and -71.902095 to -58.680074 in longitude. The semantic profile of the dataset indicates that it includes taxonomic, location, temporal, and person-related data, which can be used for classification and aggregation purposes. This dataset can be used for studying the geographical distribution, habitat preferences, and temporal patterns of the little piculet, as well as for conservation planning and ecological research. The data is licensed under CC_BY_NC_4_0 and CC_BY_4_0, ensuring its availability for non-commercial use.",
+  "spatialCoverage": {
+    "min_lat": -28.228975,
+    "min_lon": -71.902095,
+    "max_lat": -3.965246,
+    "max_lon": -58.680074
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

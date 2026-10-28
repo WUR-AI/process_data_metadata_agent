@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the marine sponge species *Hymeniacidon perlevis*, collected from various global locations including Ireland, South Africa, the United States, and Mexico. The records span from 2021 to 2026 and include detailed taxonomic classifications, geographic coordinates, and observation metadata such as date, observer, and license information. The dataset is sourced from iNaturalist and provides insights into the species' distribution, habitat, and temporal occurrence. It can be used for biodiversity research, ecological studies, and conservation efforts, particularly in marine environments. The semantic profile highlights taxonomic, spatial, and temporal attributes, making it suitable for filtering and analyzing biodiversity data. Additionally, the dataset includes media references and data quality notes, enhancing its utility for research and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

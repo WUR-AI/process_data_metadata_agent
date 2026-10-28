@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains geospatial and scientific measurements related to the Elwha River Delta. It includes latitude and longitude coordinates, elevation data, and horizontal and vertical root mean square (HRMS and VRMS) measurements, all with high precision. The data is temporally referenced with timestamps down to the second and spatially referenced using coordinates. The dataset also includes status classifications and descriptions for identification purposes. This information can be used for various applications, such as studying the geomorphological changes of the Elwha River Delta, monitoring environmental conditions, or conducting scientific research on river dynamics and sediment transport. The data's high resolution and precision make it valuable for detailed analysis and modeling.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

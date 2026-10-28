@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the moth species Asaphodes beata, primarily recorded in New Zealand. The records span multiple regions, including Otago, Canterbury, and Manawatu-Wanganui, with occurrence dates ranging from 2012 to 2026. Each entry includes precise geolocation data, taxonomic classification, and the identity of the observer, though elevation and depth measurements are generally missing. The data is sourced from iNaturalist and is available under Creative Commons licenses, making it suitable for researchers studying the distribution, seasonal activity, and population trends of this specific Lepidoptera species across New Zealand's diverse landscapes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

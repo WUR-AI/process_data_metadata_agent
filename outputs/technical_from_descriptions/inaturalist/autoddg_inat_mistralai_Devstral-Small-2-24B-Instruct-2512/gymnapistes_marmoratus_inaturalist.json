@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the marbled morwong (Gymnapistes marmoratus), a marine fish species, recorded in Australia, primarily in South Australia and Victoria. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic ranks, spatial filters (latitude, longitude, country, and state), temporal filters (day, month, year), and attribution details (identified by, recorded by). This dataset can be used for marine biodiversity research, species distribution modeling, conservation efforts, and ecological studies, particularly in understanding the habitat and temporal patterns of the marbled morwong.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

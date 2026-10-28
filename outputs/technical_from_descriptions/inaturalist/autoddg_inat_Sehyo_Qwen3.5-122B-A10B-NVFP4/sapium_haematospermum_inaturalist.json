@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the plant species Sapium haematospermum, primarily recorded through the iNaturalist platform. The records span multiple years, with data points located across various provinces in Argentina and a single observation in Brazil. Each entry includes precise geographic coordinates, collection dates, and taxonomic details, allowing researchers to analyze the species' distribution and phenology. The dataset is structured with standard biodiversity identifiers and includes metadata on data quality, such as coordinate uncertainty and observation status. Users can leverage this information for ecological studies, conservation planning, or tracking the presence of this species in specific regions. All records are accompanied by media files and attribution to the original observers.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

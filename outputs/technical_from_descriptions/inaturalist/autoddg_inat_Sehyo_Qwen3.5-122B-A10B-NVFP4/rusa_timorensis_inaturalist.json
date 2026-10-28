@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the Timor Deer (Rusa timorensis) sourced from iNaturalist, offering detailed records across multiple countries including Indonesia, Australia, and New Caledonia. Each entry provides comprehensive taxonomic classification, precise geographic coordinates with uncertainty metrics, and specific event dates ranging from 2014 to 2026. The records are primarily based on visual sightings accompanied by media, facilitating ecological studies on species distribution and population trends. Researchers can utilize this data to analyze spatial patterns, assess establishment means in non-native regions, and monitor temporal occurrence frequencies while adhering to the specified Creative Commons licenses.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

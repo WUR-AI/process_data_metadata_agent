@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains laboratory observations on the early developmental stages of the Mediterranean mussel, Mytilus galloprovincialis, under control and high CO2 conditions. It tracks survival percentages across various stages, from the 1-cell to the trochophore phase, over a period of up to 144 hours. The records include comprehensive marine chemistry parameters such as temperature, salinity, pH, alkalinity, and detailed carbonate system variables like dissolved inorganic carbon and saturation states. Collected at Nagasaki University, this data supports research into ocean acidification impacts on marine mollusk development and calcification processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

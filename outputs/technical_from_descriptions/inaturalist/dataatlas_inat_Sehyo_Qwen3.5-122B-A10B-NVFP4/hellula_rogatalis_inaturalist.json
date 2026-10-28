@@ -1,0 +1,10 @@
+{
+  "description": "This table contains 1,003 occurrence records of the species Hellula rogatalis from 2002 to 2026.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2002-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

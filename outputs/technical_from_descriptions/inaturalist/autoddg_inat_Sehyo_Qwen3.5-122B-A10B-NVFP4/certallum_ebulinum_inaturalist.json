@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the longhorn beetle Certallum ebulinum, sourced primarily from iNaturalist. It contains 20 records spanning multiple countries, including Spain, France, Israel, and Algeria, with detailed taxonomic classification from kingdom to species level. Each entry provides precise geographic coordinates, event dates ranging from 2019 to 2026, and observer attribution. The data includes spatial resolution at the country and state levels, along with coordinate uncertainty metrics to assess data quality. Researchers can utilize this collection to analyze the species' distribution patterns, seasonal activity, and habitat preferences across the Mediterranean region. All records are licensed under CC BY-NC 4.0, ensuring open access for non-commercial scientific use.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": "country and state levels",
+  "temporal": null
+}

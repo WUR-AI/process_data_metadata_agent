@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the fish species Myripristis jacobus, also known as the Jacob's Slippery Dick. The data includes observations from various locations across the Caribbean, with details on the date, location, and observer of each sighting. The dataset is structured with columns representing different taxonomic ranks, such as kingdom, phylum, class, order, family, genus, and species, as well as location data including country code, state or province, and coordinates. Additionally, the dataset includes information on the basis of record, identified by, and rights holder for each observation. This dataset can be used for studying the geographic distribution and habitat preferences of Myripristis jacobus, as well as for monitoring changes in its population over time. The semantic profile of the dataset indicates that it is well-suited for biodiversity research, with columns that facilitate aggregation, classification, and measurement of various aspects of fish distribution.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

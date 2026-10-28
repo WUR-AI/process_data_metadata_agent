@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Chlorurus bleekeri, a species of fish in the Labridae family, collected from various locations across the Indo-Pacific region. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country codes, state/province, and precise coordinates (latitude and longitude). Temporal data, including event dates, days, months, and years, are also provided, allowing for temporal analysis. Each observation is linked to a unique identifier, and additional metadata such as the observer's name, identification date, and license information are included. The dataset can be used for biodiversity research, species distribution modeling, and ecological studies, particularly focusing on the habitat preferences and range of Chlorurus bleekeri. It also supports conservation efforts by providing insights into the species' presence and potential threats.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

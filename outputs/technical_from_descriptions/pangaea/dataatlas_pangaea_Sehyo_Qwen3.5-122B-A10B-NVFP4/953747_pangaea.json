@@ -1,0 +1,10 @@
+{
+  "description": "Records of September 8, 2020 survey events with locations, elevations, and binary file links.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-09-08T00:00:00",
+    "to": "2020-09-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Observational sediment core measurements (geochemistry, grain size, age) across Arctic sites, 140 records (2018‑2021).",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2021-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

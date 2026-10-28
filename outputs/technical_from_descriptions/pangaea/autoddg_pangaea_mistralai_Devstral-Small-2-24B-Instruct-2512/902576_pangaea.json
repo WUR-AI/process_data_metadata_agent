@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides measurements related to permafrost temperature, including mean annual ground temperature, temperature standard deviation, and permafrost probability fractions. The data is organized into four files, each with unique identifiers and metadata such as file format and size. The semantic profile indicates that the content represents climate measurements, while file names and URLs serve as identifiers, and file sizes are numeric measurements. This dataset can be used for climate research, permafrost modeling, and environmental studies, offering valuable insights into permafrost dynamics and temperature variations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

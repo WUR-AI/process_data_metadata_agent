@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 iNaturalist occurrence records of the black snapper *Macolor niger*, covering observations from 2005 to 2025 across nine countries (including Australia, Egypt, Maldives, and Taiwan). Each entry provides a full taxonomic hierarchy—from kingdom down to species—along with stable identifiers such as gbifID, occurrenceID, datasetKey, and catalogNumber. Precise geographic coordinates range from –18.6 ° to 25.6 ° latitude and 0 ° to 171.1 ° longitude, with coordinate uncertainty values up to 6 828 m. Temporal information records the event date to the minute, and metadata capture contributors, licensing (CC‑BY‑NC 4.0), and media types. The semantic profile links these identifiers to biodiversity entities, spatial data to coordinates, and temporal fields to timestamps, making the data valuable for studying the distribution, seasonal patterns, and conservation status of *Macolor niger*.",
+  "spatialCoverage": {
+    "min_lat": -18.6,
+    "min_lon": 0.0,
+    "max_lat": 25.6,
+    "max_lon": 171.1
+  },
+  "temporalCoverage": {
+    "from": "2005-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

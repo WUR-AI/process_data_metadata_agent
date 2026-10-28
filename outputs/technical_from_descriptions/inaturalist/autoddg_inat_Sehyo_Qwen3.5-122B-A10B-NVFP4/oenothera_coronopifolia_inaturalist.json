@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the plant species Oenothera coronopifolia, primarily sourced from iNaturalist. It includes 20 unique occurrence records spanning the United States, with specific observations in Colorado, Utah, New Mexico, and Wyoming. Each entry provides precise taxonomic classification, geographic coordinates, and event dates ranging from 2012 to 2025. The data features detailed spatial attributes, including coordinate uncertainty and elevation, alongside temporal metadata down to the second. Researchers can utilize this collection to analyze the species' distribution patterns, phenology, and habitat preferences across different states. The records are accompanied by media files and attribution to individual observers, supporting biodiversity monitoring and ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

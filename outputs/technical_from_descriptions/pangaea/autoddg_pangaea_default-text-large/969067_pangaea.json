@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains daily meteorological observations from the Puchalski AWS station. Each row records the date (day resolution), a height measurement (0‑1.5 m) and a fixed secondary height of 2 m. Climate variables include a solar‑weighted dose up to 24.8, minimum temperature from –15.1 °C to 1.5 °C, mean temperature to 3.9 °C, maximum temperature to 6.1 °C, relative humidity ranging 0‑97.5 %, and wind speed from 0‑35.4 m s⁻¹. All records share the event label “Puchalski_AWS”. Geographic fields locate the station at latitude –62.1641, longitude –58.4701 and elevation 55 m. These data support climate trend analysis, weather forecasting, and regional environmental research.",
+  "spatialCoverage": {
+    "min_lat": -62.1641,
+    "min_lon": -58.4701,
+    "max_lat": -62.1641,
+    "max_lon": -58.4701
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

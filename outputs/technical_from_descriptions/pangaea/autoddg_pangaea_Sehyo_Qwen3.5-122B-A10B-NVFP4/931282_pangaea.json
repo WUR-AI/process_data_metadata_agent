@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains sensor data logs featuring file records with associated metadata such as MIME types and file sizes. The records are linked to a specific event and include precise geospatial coordinates for latitude, longitude, and elevation, all located at a single site. Temporal information is provided with daily resolution, allowing for time-based analysis of the data. The dataset is primarily composed of binary file references, including input and output archives, which serve as interaction data. Researchers can use this collection to analyze sensor file distributions, track data generation patterns over time, or study the spatial context of sensor deployments for general monitoring and aggregation purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "daily"
+}

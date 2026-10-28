@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the bird species Schoeniophylax phryganophilus, primarily sourced from iNaturalist. The records span multiple years and cover occurrences across Argentina, Uruguay, and Brazil, with detailed geographic coordinates and state-level locality information. Each entry includes taxonomic classification, observation dates, and media types such as still images, facilitating robust geospatial and temporal analysis. The data is structured with standard biodiversity identifiers like GBIF and occurrence IDs, ensuring compatibility with global research networks. Researchers can utilize this collection to study the species' distribution patterns, seasonal activity, and habitat preferences within the Neotropical region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises twenty citizen‑science observations of the striped grasshopper *Romalea reticulata* recorded in Costa Rica (country code CR) across the provinces of Limón, Heredia and Alajuela. Each record includes a unique GBIF identifier, occurrence ID, and taxonomic hierarchy from kingdom down to species, together with the scientific name and its verbatim form. Geographic coordinates span latitudes 9.64 to 10.55 °N and longitudes ‑84.66 to ‑82.72 °E, with coordinate‑uncertainty values ranging from 0 to 1 402 m. Temporal coverage runs from 2008 to 2025, and media are still images, sometimes flagged for issues such as rounded coordinates. The semantic profile shows identifiers (gbifID, datasetKey, catalogNumber) for aggregation, classification fields (kingdom, phylum, class, order, family, genus, species, taxonRank) for biodiversity taxonomy, geographic fields (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters, stateProvince, countryCode) for spatial mapping, and temporal fields (eventDate, day, month, year, dateIdentified, lastInterpreted) for time‑based analyses, while attribution (identifiedBy, recordedBy, rightsHolder) and licensing (CC BY 4.0, CC BY‑NC 4.0, CC0 1.0) support proper reuse. Researchers can use these data for species‑distribution modelling, phenology studies, conservation assessments, and to explore patterns in citizen‑science reporting of *R. reticulata*.",
+  "spatialCoverage": {
+    "min_lat": 9.64,
+    "min_lon": -84.66,
+    "max_lat": 10.55,
+    "max_lon": -82.72
+  },
+  "temporalCoverage": {
+    "from": "2008-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

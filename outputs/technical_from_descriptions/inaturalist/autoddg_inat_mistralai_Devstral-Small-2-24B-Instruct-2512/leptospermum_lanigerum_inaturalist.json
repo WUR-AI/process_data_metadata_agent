@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of *Leptospermum lanigerum*, a plant species from the Myrtaceae family, recorded across Australia. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with geographic coordinates, observation dates, and metadata like identifiers, licenses, and contributors. The semantic profile highlights its use for biodiversity research, spatial filtering, and temporal analysis, with columns supporting classification, attribution, and legal context. Researchers and ecologists can use this dataset to study the distribution, habitat preferences, and temporal trends of *Leptospermum lanigerum*, aiding conservation efforts and ecological modeling. The observations span multiple states, including Victoria, Tasmania, and South Australia, with varying coordinate uncertainties and media types like still images.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset focuses on alkane diol geochemistry, containing chemical measurements from oceanographic samples. It includes identifiers for samples and events, alongside precise spatial coordinates at latitude 32.37 and longitude 134.97, with a constant elevation of -4776 meters. The data records depth intervals ranging from 0 to over 1068 meters, capturing sediment layers. Key chemical metrics include alkane and diol peak areas, which vary significantly across the 20 unique samples collected on September 17, 2016. Researchers can use this information to analyze lipid distributions and understand biogeochemical processes in deep-sea environments, facilitating studies on organic matter preservation and marine sediment chemistry.",
+  "spatialCoverage": {
+    "min_lat": 32.37,
+    "min_lon": 134.97,
+    "max_lat": 32.37,
+    "max_lon": 134.97
+  },
+  "temporalCoverage": {
+    "from": "2016-09-17T00:00:00",
+    "to": "2016-09-17T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

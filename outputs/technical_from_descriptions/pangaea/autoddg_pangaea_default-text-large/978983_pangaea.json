@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records geochemical and mineralogical measurements from rock‑core event 386‑M0095B collected on 30 May 2021. Fourteen samples are identified by unique sample labels and IGSN codes, with depths ranging from 0 to 26.81 m. Mineral counts such as quartz (Qz) and plagioclase (Pl) are integer values; compounds like NaCl and chlorite are also recorded, while many other mineral fields are zero. Latitude (36.89168333), longitude (143.4078833) and elevation (‑7 697 m) locate the core. The semantic profile ties each column to its geoscience meaning, enabling rock‑core characterization and modeling of subsurface mineral assemblages.",
+  "spatialCoverage": {
+    "min_lat": 36.89168333,
+    "min_lon": 143.4078833,
+    "max_lat": 36.89168333,
+    "max_lon": 143.4078833
+  },
+  "temporalCoverage": {
+    "from": "2021-05-30T00:00:00",
+    "to": "2021-05-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

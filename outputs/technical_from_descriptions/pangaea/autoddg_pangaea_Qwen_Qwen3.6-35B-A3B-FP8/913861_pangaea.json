@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides hourly aerosol size distribution measurements from the Neumayer Station in Antarctica. It records particle number concentrations across 52 size bins, ranging from 92.87 to 4845.51 nanometers. The data includes temporal stamps, geographic coordinates, and elevation details for each observation. Researchers can utilize this information to analyze atmospheric aerosol dynamics, study climate change impacts in polar regions, and model air quality. The consistent 60-minute intervals facilitate robust temporal analysis of aerosol behavior and transport mechanisms in the Southern Hemisphere environment.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "60-minute"
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of moth species, specifically focusing on the genus Haritalodes, with records from various global locations including New Zealand, Australia, India, and South Korea. The data includes detailed taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic ranks, spatial filters, temporal data, and attribution details, making it suitable for ecological and taxonomic studies. Researchers can use this dataset to analyze moth distribution patterns, study species interactions, or assess environmental impacts on moth populations. The observations are sourced from iNaturalist, providing a community-driven perspective on moth biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

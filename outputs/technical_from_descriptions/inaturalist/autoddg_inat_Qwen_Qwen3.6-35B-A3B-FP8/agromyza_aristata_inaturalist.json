@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the fly species Agromyza aristata, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning from 2020 to 2025. The records document occurrences across various US states and Canadian provinces, providing valuable insights into the species' distribution. Users can leverage this data for spatial and temporal filtering to study habitat preferences and migration patterns. The dataset supports ecological research by offering standardized occurrence records with associated media and identification details, facilitating comprehensive biodiversity analysis and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

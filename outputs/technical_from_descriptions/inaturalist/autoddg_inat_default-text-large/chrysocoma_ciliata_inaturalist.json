@@ -1,0 +1,7 @@
+{
+  "description": "The dataset provides twenty occurrence records of the South African plant Chrysocoma ciliata, each with a GBIF ID and occurrence ID. All records share taxonomic hierarchy from kingdom Plantae to species Chrysocoma ciliata. Latitude and longitude locate observations in Free State, Western Cape, Eastern Cape and Northern Cape, with coordinate uncertainty of 1–20 meters. Event dates record when each specimen was observed. Metadata include recorder and identifier names and CC‑BY licensing. Semantic profile shows columns act as keys, taxonomic identifiers, geospatial points, timestamps and attribution fields, allowing filtering by taxon, location or date. Researchers can map species’ distribution, study its phenology, or illustrate citizen‑science contributions to South African flora.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

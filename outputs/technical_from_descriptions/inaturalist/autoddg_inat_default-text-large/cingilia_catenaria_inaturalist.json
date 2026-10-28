@@ -1,0 +1,7 @@
+{
+  "description": "The dataset contains 20 occurrence records of the moth Cingilia catenaria, each with a unique GBIF ID and occurrence URI. All records share the same taxonomic hierarchy (kingdom Animalia, phylum Arthropoda, class Insecta, order Lepidoptera, family Geometridae, genus Cingilia) and are human observations from iNaturalist. Geographic fields give decimal latitude and longitude with uncertainty up to 1,704 m, covering Canadian provinces (Nova Scotia, Ontario, Québec) and US states (Minnesota, Massachusetts, New York, etc.). Temporal columns provide event date and derived day, month, year. Attribution columns list observers, rights holders and licenses (CC‑BY‑NC‑4.0, CC‑BY‑4.0, CC0‑1.0). Media type is still image and issue flags note coordinate rounding. This semantic structure enables biodiversity research, species‑distribution modelling, phenology studies and validation of citizen‑science data.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

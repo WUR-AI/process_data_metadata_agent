@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Marine Sediment Chemistry, providing detailed measurements of various chemical elements and compounds found in sediment samples. The data includes measurements of elements such as Aluminum (Al), Barium (Ba), Calcium (Ca2+), Chromium (Cr), Copper (Cu), Iron (Fe), Potassium (K+), Lanthanum (La), Lithium (Li), Magnesium (Mg2+), Manganese (Mn), Sodium (Na+), Nickel (Ni), Phosphorus (P), Strontium (Sr), and Titanium (Ti). The dataset also includes relative errors for these measurements, indicating the precision of the data. The samples are georeferenced with latitude, longitude, and elevation data, and are associated with specific events and areas. This dataset can be used for analyzing the chemical composition of marine sediments, studying environmental impacts, and conducting geological research. The semantic profile indicates that the data is well-structured for aggregation and measurement purposes, making it suitable for detailed scientific analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

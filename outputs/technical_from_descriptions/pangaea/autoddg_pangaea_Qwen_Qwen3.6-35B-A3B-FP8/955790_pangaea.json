@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on manganese nodule geochemistry, containing chemical composition data for five distinct geological events. It records spatial coordinates, including latitude, longitude, and elevation, alongside sediment depth measurements. The primary variables track the concentrations of manganese, iron, nickel, cobalt, and copper within whole nodules and nodule fragments. Each entry is uniquely identified and classified by deposit and sample type, accompanied by qualitative descriptions. Collected between September 1970, this resource supports geological research into marine mineral distribution and elemental analysis. Researchers can utilize these measurements to study nodule formation processes, assess resource potential, and understand the geochemical characteristics of deep-sea manganese deposits.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1970-09-01T00:00:00",
+    "to": "1970-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

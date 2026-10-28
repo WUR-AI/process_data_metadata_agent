@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the fungus *Clavulinopsis aurantiocinnabarina*, sourced primarily from iNaturalist human observations. It includes detailed taxonomic classification, spatial coordinates, and temporal data spanning from 2014 to 2025 across various US states and Canada. The records feature media types like still images and are licensed under CC BY-NC 4.0 or CC0. Researchers can use this data for spatial filtering, temporal analysis, and taxonomic identification. It supports studies on fungal distribution and ecology, with quality control issues noted for coordinate rounding and taxon ID verification.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

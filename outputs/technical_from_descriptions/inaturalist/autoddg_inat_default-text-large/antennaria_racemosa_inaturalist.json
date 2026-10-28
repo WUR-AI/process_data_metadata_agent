@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains twenty verified occurrences of the plant Antennaria racemosa from Canada and the United States. Each record provides a unique GBIF ID, an external occurrence URL, and a catalog number for reference. Taxonomic fields are constant, listing kingdom Plantae through species Antennaria racemosa Hook., enabling precise classification. Geographic coordinates (0‑52.92° N, ‑123.5‑0° W) and uncertainty (4‑27 126 m) are provided, with identifiers serving as primary keys for biodiversity records. Event dates range from 2011 to 2026, providing day, month and year for phenological studies. Researchers can map the species’ distribution, explore habitat preferences, or use the still‑image media for educational outreach.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -123.5,
+    "max_lat": 52.92,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

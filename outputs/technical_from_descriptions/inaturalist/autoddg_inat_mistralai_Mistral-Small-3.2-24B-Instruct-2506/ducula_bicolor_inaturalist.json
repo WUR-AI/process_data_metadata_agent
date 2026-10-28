@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Ducula bicolor, also known as the Pacific imperial pigeon, collected from various locations around the world. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as details about the observation events, including the date, location, and observer. The dataset is structured with identifiers for each observation, dataset, and taxon, facilitating aggregation and classification. It also includes spatial data with coordinates and uncertainty measurements, and temporal data with day, month, and year resolutions. This dataset can be used for biodiversity research, ecological studies, and conservation efforts focused on the Pacific imperial pigeon and its habitats. The semantic profile indicates that the data is well-suited for aggregation, classification, and measurement purposes, making it valuable for analyzing patterns and trends in pigeon observations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

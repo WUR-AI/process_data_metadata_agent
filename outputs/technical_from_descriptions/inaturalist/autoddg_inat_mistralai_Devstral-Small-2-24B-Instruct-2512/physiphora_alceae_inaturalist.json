@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species *Physiphora alceae*, a fly in the family Ulidiidae, collected from various locations worldwide. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country, state/province, and coordinates. Temporal data, including event dates and identification dates, are also provided. Each observation is linked to a unique identifier, and metadata such as the observer, rights holder, and license are included. The dataset can be used for biodiversity research, species distribution modeling, and ecological studies. It is particularly useful for researchers interested in the global distribution and temporal patterns of *Physiphora alceae*. The semantic profile of the dataset includes identifiers, taxonomic ranks, spatial and temporal data, and attribution information, making it suitable for aggregation, filtering, and quality control in biodiversity studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the beetle species Sphenophorus interstitialis, primarily sourced from iNaturalist. The records span multiple states in the United States and provinces in Canada, with observations documented between 2021 and 2025. Each entry includes precise taxonomic classification, geographic coordinates, and observation dates, though elevation and depth data are generally missing. The dataset serves as a valuable resource for researchers studying the distribution and seasonal activity of this species. Users can leverage the spatial and temporal data to analyze population trends, while the attached media and identification details support ecological monitoring and biodiversity assessments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

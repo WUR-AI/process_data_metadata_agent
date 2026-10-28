@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the sea bubble, Bulla gouldiana, a species of sea snail. The data includes various taxonomic classifications such as kingdom, phylum, class, family, genus, and species, providing a comprehensive view of the organism's taxonomic hierarchy. Additionally, the dataset offers spatial data with coordinates, country codes, and state/province information, allowing for geographical analysis of the observations. Temporal data is also included, with event dates, days, months, and years, enabling temporal trend analysis. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Bulla gouldiana. It provides valuable information for understanding the distribution, habitat, and temporal patterns of this species, contributing to broader marine biodiversity research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

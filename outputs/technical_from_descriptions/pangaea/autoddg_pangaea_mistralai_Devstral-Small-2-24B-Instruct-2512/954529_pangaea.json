@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains topographic GIS data, including spatial information for various locations such as Big Skidder, Black Hills, and Lopez Island. The data is stored in both GIS and XLSX formats, with the GIS files representing geospatial data and the XLSX file containing general information. The GIS data includes 9 unique location values, while the XLSX data has 1 unique value. This dataset can be used for mapping, spatial analysis, and topographic studies, providing valuable insights into the geographical features and elevations of the specified areas. The GIS data serves as an aggregation key for spatial analysis, making it useful for researchers and professionals in geospatial fields.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

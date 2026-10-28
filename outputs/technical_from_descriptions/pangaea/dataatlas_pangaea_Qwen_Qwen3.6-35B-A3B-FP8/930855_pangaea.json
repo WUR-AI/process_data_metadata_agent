@@ -1,0 +1,10 @@
+{
+  "description": "20 sediment samples with depth, geographic coordinates, and alkene/diol peak areas from September 17, 2016.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-09-17T00:00:00",
+    "to": "2016-09-17T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

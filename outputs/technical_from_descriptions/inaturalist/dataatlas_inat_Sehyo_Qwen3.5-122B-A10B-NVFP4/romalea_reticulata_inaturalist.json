@@ -1,0 +1,10 @@
+{
+  "description": "1,005 biodiversity records of Romalea reticulata species occurrences from 2006 to 2026.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

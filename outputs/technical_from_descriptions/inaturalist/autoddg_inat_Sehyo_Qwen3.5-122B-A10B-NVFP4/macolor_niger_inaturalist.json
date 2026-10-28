@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles 20 human-observed records of the Black Maori fish (Macolor niger) sourced from iNaturalist. The observations span multiple countries, including Australia, Egypt, Indonesia, and the Maldives, with geographic coordinates ranging from the Red Sea to the Pacific. Each entry includes detailed taxonomic classification, precise event dates from 2005 to 2025, and contributor attribution. While elevation and depth data are largely missing, the records provide valuable spatial and temporal distribution insights. Researchers can utilize this collection to study the species' range, analyze seasonal occurrence patterns, and assess data quality flags for biodiversity monitoring efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2005-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

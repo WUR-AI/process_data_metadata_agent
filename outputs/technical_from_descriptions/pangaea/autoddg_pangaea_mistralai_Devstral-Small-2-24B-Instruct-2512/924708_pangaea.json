@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains records of whale sightings, including the date and time of observations, geographic coordinates (latitude and longitude), species identification, certainty of identification, and the number of individuals observed. The data spans from August 2014 to October 2014, with sightings recorded in high-latitude regions. The dataset includes five unique whale species or categories, such as \"Dolphins, unidentified\" and \"Balaenoptera physalus,\" along with two levels of identification certainty (\"definite\" or \"probable\"). The semantic profile indicates that the dataset is structured around temporal, spatial, and biological classifications, making it useful for analyzing patterns in whale movements and distributions. Researchers and conservationists can use this data to study whale behavior, migration routes, and population dynamics, as well as to support marine conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-08-01T00:00:00",
+    "to": "2014-10-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

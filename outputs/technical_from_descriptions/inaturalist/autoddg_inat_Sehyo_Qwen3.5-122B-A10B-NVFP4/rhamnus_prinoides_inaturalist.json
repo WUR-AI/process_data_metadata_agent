@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Rhamnus prinoides, primarily recorded within South Africa across six provinces including Eastern Cape, KwaZulu-Natal, and Gauteng. Each record provides detailed taxonomic classification, precise geolocation coordinates, and temporal data ranging from 2014 to 2026. The entries are sourced from iNaturalist and include associated media such as still images, with most records carrying a Creative Commons license. Researchers can utilize this collection to analyze the species distribution, study phenological patterns over time, and assess data quality through coordinate uncertainty flags. The dataset serves as a valuable resource for biodiversity monitoring and ecological research focused on this specific taxon.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

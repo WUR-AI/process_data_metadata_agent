@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human-observed records of the dog stinkhorn fungus, Mutinus caninus, sourced from iNaturalist. The observations span multiple countries including Germany, Denmark, the United Kingdom, and Spain, with precise geographic coordinates and event dates ranging from 2018 to 2025. Each record includes full taxonomic classification, observer details, and associated media such as still images. The data is structured with unique identifiers for linking and filtering, supporting geospatial analysis and temporal studies of fungal distribution. Researchers can utilize this collection to track the presence and seasonal occurrence of this species across diverse European and Asian habitats.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

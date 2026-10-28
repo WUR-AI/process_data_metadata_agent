@@ -1,0 +1,12 @@
+{
+  "description": "This dataset provides 20 time‑stamped observations of atmospheric water‑vapor properties recorded at a fixed height of 24 m above a site located at latitude ‑70.65°, longitude ‑8.25°, and elevation 42 m. Each record includes the water‑vapor mixing ratio (0 to 2.09) and its measurement uncertainty, counts of valid observations, the isotopic composition of the vapor (δ¹⁸O ranging from ‑45.41 to 0 ‰ and δD ranging from ‑357.44 to 0 ‰) together with their standard deviations, and the d xs parameter (‑2.72 to 24.66) with its uncertainty. All variables are labeled with their climate‑science semantics—temporal (Date/Time), spatial (Latitude, Longitude, Elevation), measurement, uncertainty, and aggregation contexts. The single event identifier “GVN” categorizes the measurements. Researchers can use these data to analyse water‑vapor isotope variations, trace moisture sources, and improve climate‑model representations of the hydrological cycle.",
+  "spatialCoverage": {
+    "min_lat": -70.65,
+    "min_lon": -8.25,
+    "max_lat": -70.65,
+    "max_lon": -8.25
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

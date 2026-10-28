@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species *Rhodostrophia calabra*, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning from 2011 to 2026. The records are primarily human observations, with associated metadata such as observer names, identification dates, and image media types. Users can leverage this data for spatial and temporal analysis of the species' distribution across European countries. The semantic profile supports filtering by location, time, and taxonomic rank, making it suitable for ecological studies and biodiversity monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

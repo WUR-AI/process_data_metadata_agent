@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Pectocarya recurvata*, a plant species in the Boraginaceae family. It includes spatial coordinates, temporal data, and taxonomic details for occurrences recorded in the United States, specifically across Arizona, California, Nevada, and New Mexico. The records are primarily human observations from iNaturalist, featuring media types like still images. Users can leverage this data for ecological studies, species distribution mapping, and conservation planning. The dataset provides essential identifiers and quality flags, supporting research into the plant's habitat preferences and geographic range within the specified regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

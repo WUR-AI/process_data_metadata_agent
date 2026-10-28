@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains aerosol particle measurements collected at the Neumayer Station in Antarctica, with data spanning from June 2018 to December 2018. The measurements include particle number size distributions across a range of diameters, from 92.87 nm to 4845.51 nm, recorded at a fixed height of 7 meters and elevation of 42 meters. Each record includes timestamps, geographic coordinates, and detailed particle concentration data (dN/dlogDp) for various size bins. The dataset is structured with temporal and spatial aggregation keys, making it suitable for time-series and spatial analyses. It can be used to study aerosol dynamics, atmospheric composition, and environmental changes in polar regions. Researchers can explore particle behavior, seasonal variations, and potential impacts on climate or air quality. The scientific measurements provide insights into aerosol distribution patterns and their environmental context.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-06-01T00:00:00",
+    "to": "2018-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Echium angustifolium*, a plant species within the Boraginaceae family. It includes spatial coordinates, temporal event dates, and taxonomic identifiers for occurrences recorded by iNaturalist users. The data supports ecological research by providing precise location and time stamps for species monitoring. Users can analyze distribution patterns across countries like Israel, Greece, and Cyprus. The records include media types and quality flags, facilitating studies on plant phenology and geographic range. This resource is valuable for conservation efforts and understanding the species' habitat preferences through aggregated citizen science data.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

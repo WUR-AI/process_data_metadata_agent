@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Eucalyptus regnans*, the mountain ash, recorded in Australia. It includes taxonomic classifications, spatial coordinates, and temporal data from human observations on iNaturalist. The records span multiple years and cover locations in Victoria and Tasmania. Users can filter data by date, location, or observer. The dataset supports ecological research, species distribution modeling, and conservation efforts. It provides essential metadata such as license types and identification details. Researchers can utilize this information to study the species' habitat preferences and population dynamics across different regions in Australia.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

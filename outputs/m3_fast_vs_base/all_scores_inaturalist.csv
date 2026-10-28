@@ -1,0 +1,9 @@
+Method,LLM,n,Missing,Spatial accuracy [%],Temporal accuracy [%]
+M³ base,Llama3 70B,100,0,99.8,82.5
+M³ base,Qwen 3.6 35B,100,0,96.0,91.5
+M³ fast,Llama3 70B,100,0,100.0,99.5
+M³ fast,Qwen 3.6 35B,100,0,100.0,100.0
+M³ fast,Qwen 3.5 122B,100,0,96.0,96.0
+M³ fast,Mistral Devstral 2 24B,100,36,64.0,64.0
+ReAct,Llama3 70B,100,0,100.0,94.0
+ReAct,Qwen 3.6 35B,100,1,99.0,99.0

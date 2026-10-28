@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains sediment geochemistry measurements collected during the GeoB16320-2 event at a single deep-sea location in the Gulf of Mexico. The records include sediment depth, total organic carbon (TOC), and total inorganic carbon (TIC) values, alongside precise spatial coordinates and an elevation of -626 meters. All samples were recorded on March 24, 2012. As a climate-related measurement set, the data serves as a valuable resource for analyzing carbon cycling and sediment composition in marine environments. Researchers can utilize these aggregated observations to study historical environmental conditions or validate models of deep-sea geochemical processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-24T00:00:00",
+    "to": "2012-03-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

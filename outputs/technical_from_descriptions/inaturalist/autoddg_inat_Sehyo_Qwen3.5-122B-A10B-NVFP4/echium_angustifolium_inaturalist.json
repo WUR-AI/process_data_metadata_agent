@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the plant species Echium angustifolium, primarily sourced from iNaturalist. The records span multiple countries, including Israel, Greece, Cyprus, and Libya, with observations documented between 2011 and 2026. Each entry includes detailed taxonomic classification, precise geographic coordinates, and temporal data down to the hour. While elevation and depth information are generally missing, the dataset provides coordinate uncertainty metrics and links to associated media such as still images. Researchers can utilize this collection to study the distribution patterns, phenology, and habitat preferences of this specific Boraginaceae species across the Mediterranean region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

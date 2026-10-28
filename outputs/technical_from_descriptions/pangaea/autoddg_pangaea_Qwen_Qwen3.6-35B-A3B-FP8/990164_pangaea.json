@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains lake sediment geochemistry data from Event LTp22-1, collected at coordinates 21.28°N, 104.69°W, with an elevation of 1430 meters. It features depth, age, and various elemental concentrations including Silicon, Potassium, Calcium, and Iron, all presented as Centered Log-Ratio (CLR) transformations. The records span from 1915 to 2018, providing a temporal resolution of years. Additionally, it includes coherent/incoherent scattering ratios. Researchers can use this data to analyze historical environmental changes, trace sediment sources, and study geochemical processes in lake ecosystems over the past century.",
+  "spatialCoverage": {
+    "min_lat": 21.28,
+    "min_lon": -104.69,
+    "max_lat": 21.28,
+    "max_lon": -104.69
+  },
+  "temporalCoverage": {
+    "from": "1915-01-01T00:00:00",
+    "to": "2018-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "years"
+}

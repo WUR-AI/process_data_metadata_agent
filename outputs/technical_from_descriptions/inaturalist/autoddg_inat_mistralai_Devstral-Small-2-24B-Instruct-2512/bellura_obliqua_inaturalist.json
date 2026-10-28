@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Bellura obliqua*, a member of the Noctuidae family, recorded across North America. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. Key fields provide spatial (latitude/longitude), temporal (day/month/year), and taxonomic (kingdom/species) information, enabling filtering and analysis. Observations are sourced from iNaturalist, with attributes like coordinate uncertainty and media types (e.g., images) included. The dataset supports biodiversity research, species distribution studies, and ecological monitoring, particularly for *Bellura obliqua* populations. Users can explore temporal trends, geographic ranges, and observer contributions while adhering to open licenses (e.g., CC BY-NC 4.0).",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

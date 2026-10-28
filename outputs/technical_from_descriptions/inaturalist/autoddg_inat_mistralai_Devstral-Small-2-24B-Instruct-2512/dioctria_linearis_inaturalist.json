@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Dioctria linearis, a type of fly belonging to the family Asilidae. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country, state/province, and coordinates. Temporal data such as event date, day, month, and year are also provided, allowing for temporal analysis. The dataset includes identifiers like GBIF ID, dataset key, and occurrence ID, which can be used for aggregation and reference purposes. Additionally, it contains information on the observers, identifiers, and licenses, ensuring proper attribution and usage rights. The semantic profile indicates that the data is well-structured for biodiversity research, with clear classifications and spatial-temporal filters. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Dioctria linearis across various regions. It is also valuable for ecological research, conservation efforts, and understanding the species' interactions with its environment.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Porophyllum ruderale*, a plant species within the Asteraceae family. It includes taxonomic identifiers, geographic coordinates spanning multiple countries, and temporal data from 2019 to 2026. The records are primarily human observations sourced from iNaturalist, featuring media types like still images. Users can leverage this data for ecological studies, species distribution mapping, and biodiversity monitoring. The dataset provides essential spatial and temporal attributes, enabling researchers to analyze the plant's presence across diverse regions and track its occurrence over time for conservation and scientific research purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

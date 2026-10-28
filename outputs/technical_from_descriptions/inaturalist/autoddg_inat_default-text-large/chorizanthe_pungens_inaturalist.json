@@ -1,0 +1,7 @@
+{
+  "description": "This dataset comprises 20 occurrence records of the plant Chorizanthe pungens and its variety hartwegiana, collected in California, USA. Each record includes a unique gbifID and occurrenceID URL, a full taxonomic hierarchy from kingdom to species, and an infraspecific epithet where applicable. Precise geographic coordinates (latitude and longitude) are provided with uncertainty up to 28 km and timestamps of the observation event. The data capture attribution (identifiedBy, recordedBy), licensing (CC‑BY‑NC‑4.0, CC‑BY‑4.0, CC0‑1.0), and media type (still images). Semantic fields serve as primary keys, taxon identifiers, and spatial‑temporal measurements, enabling analyses of distribution, phenology, and conservation status of Chorizanthe pungens.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

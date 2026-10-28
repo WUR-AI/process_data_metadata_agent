@@ -1,0 +1,10 @@
+{
+  "description": "Single-day sediment sample data with mineral composition, location, and depth from 2021-05-30.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-05-30T00:00:00",
+    "to": "2021-05-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

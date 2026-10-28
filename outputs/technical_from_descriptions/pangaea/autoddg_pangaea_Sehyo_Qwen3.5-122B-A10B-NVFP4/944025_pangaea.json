@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains high-resolution sediment geochemistry measurements collected during a German collector trial prior to impact at a specific deep-sea station. The data includes concentrations of major and trace elements such as aluminum, barium, calcium, chromium, copper, iron, potassium, lanthanum, lithium, magnesium, manganese, sodium, nickel, phosphorus, strontium, and titanium across various sediment depths. Each measurement is accompanied by relative error metrics and precise spatial coordinates, including latitude, longitude, and elevation, along with temporal timestamps. Researchers can utilize this comprehensive profile to analyze elemental distribution patterns, assess sediment composition, and support environmental monitoring or geological studies in the sampled marine region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents laboratory experiments on the oyster *Magallana hongkongensis* to study responses to ocean acidification. It contains 20 records from Zhanjiang, recorded in June 2016, detailing various treatment conditions. The data includes biological measurements such as shell stiffness, hardness, density, and volume, alongside critical seawater chemistry parameters like pH, temperature, salinity, and dissolved inorganic carbon. Additionally, it provides carbonate system indicators, including aragonite and calcite saturation states. Researchers can use this information to analyze how changing ocean chemistry affects oyster shell formation and physiological stress, supporting studies on marine organism resilience and calcification processes under acidified conditions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-06-01T00:00:00",
+    "to": "2016-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

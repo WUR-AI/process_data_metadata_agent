@@ -1,0 +1,10 @@
+{
+  "description": "578 Antarctic ice and snow depth and density measurements from December 2021 to January 2022.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-12-01T00:00:00",
+    "to": "2022-01-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species *Pycnoscelus indicus*, a type of cockroach, collected from various locations across Asia and the United States, particularly Hawaii. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country, state/province, and coordinates. Temporal data, including the date of observation, day, month, and year, are also provided. Each observation is linked to a unique identifier, and metadata such as the observer's name, license, and media type are included. The dataset can be used for biodiversity studies, ecological research, and tracking the distribution and behavior of *Pycnoscelus indicus* across different regions. It is particularly useful for researchers interested in insect ecology, invasive species monitoring, and environmental science.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

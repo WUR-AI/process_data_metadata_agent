@@ -1,0 +1,7 @@
+{
+  "description": "This dataset records geospatial measurements from the Elwha River Delta, featuring latitude, longitude, and elevation coordinates. It includes temporal data with second-level resolution and electrical engineering metrics, specifically horizontal and vertical root mean square errors. The records are classified by a fixed status and associated with the PROF132 event. Users can leverage this data for spatial analysis and environmental monitoring of the delta region. The collection provides precise location and error metrics, facilitating detailed studies of the area's physical characteristics and changes over time. This resource supports research requiring high-accuracy geospatial and temporal data integration for the Elwha River Delta ecosystem.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "second-level"
+}

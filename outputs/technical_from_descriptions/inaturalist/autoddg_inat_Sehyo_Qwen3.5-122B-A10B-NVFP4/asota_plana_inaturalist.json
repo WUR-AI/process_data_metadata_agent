@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the moth species Asota plana and its subspecies Asota plana lacteata, sourced primarily from iNaturalist. The records span multiple countries, including Taiwan, Indonesia, Malaysia, Singapore, and India, with detailed taxonomic classifications ranging from kingdom to subspecies. Each entry includes precise geospatial coordinates, observation dates, and contributor information, facilitating robust geospatial and temporal analyses. While elevation and depth data are largely missing, the dataset provides rich metadata on identification dates and media types, such as still images. Researchers can utilize this collection to study the distribution patterns, seasonal activity, and citizen science engagement surrounding Asota plana across its native range.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

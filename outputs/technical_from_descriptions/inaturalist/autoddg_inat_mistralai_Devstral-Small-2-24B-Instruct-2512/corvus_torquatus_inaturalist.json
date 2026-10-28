@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Collared Crow (Corvus torquatus), a bird species from the Corvidae family, collected from various locations in Hong Kong, Taiwan, and mainland China. The records include taxonomic information, geographic coordinates, observation dates, and details about the observers and identifiers. The data is sourced from iNaturalist and includes metadata such as licenses, media types, and data quality issues. The semantic profile highlights the dataset's focus on biodiversity, with columns categorized into taxonomic, spatial, temporal, and attribution information. This dataset can be used for studying the distribution, behavior, and conservation status of the Collared Crow, as well as for research in ornithology and ecological monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

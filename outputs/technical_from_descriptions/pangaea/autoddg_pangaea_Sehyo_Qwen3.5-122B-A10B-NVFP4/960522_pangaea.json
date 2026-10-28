@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains laboratory incubation results for the pteropod species Limacina helicina, collected in September 2019 near Station 9 at coordinates 48.43°N, 126.23°W. The records include comprehensive oceanographic measurements such as temperature, salinity, dissolved oxygen, and various carbon system parameters like pH, pCO2, and aragonite saturation states. Each entry is linked to specific sample labels and treatment conditions, distinguishing between supersaturated and undersaturated environments. The data also features quality flags and standard error estimates to ensure reliability. Researchers can use this dataset to analyze the physiological responses of Limacina helicina to varying carbonate chemistry conditions and assess the impacts of ocean acidification on shell-forming marine organisms.",
+  "spatialCoverage": {
+    "min_lat": 48.43,
+    "min_lon": -126.23,
+    "max_lat": 48.43,
+    "max_lon": -126.23
+  },
+  "temporalCoverage": {
+    "from": "2019-09-01T00:00:00",
+    "to": "2019-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

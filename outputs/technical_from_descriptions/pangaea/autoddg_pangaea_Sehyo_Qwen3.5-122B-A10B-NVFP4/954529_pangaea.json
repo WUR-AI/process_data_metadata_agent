@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains topographic GIS data organized by specific geographic locations, including areas such as Big Skidder, Black Hills, and various islands like Fidalgo and Lopez. The collection features nine unique location entries, each associated with a corresponding compressed file, alongside a single raw data spreadsheet. The location column serves as a geographic information system key, representing spatial data at the zip code resolution to facilitate effective data aggregation. The file format column indicates that the data is stored in Excel format for general data storage purposes. Researchers and analysts can utilize this dataset to perform spatial analysis, visualize terrain features, and integrate topographic information into broader geographic information system projects.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": "zip code resolution",
+  "temporal": null
+}

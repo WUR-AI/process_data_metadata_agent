@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Sesamum indicum, commonly known as sesame, a widely cultivated plant species. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, enabling precise classification and identification. Observations are geographically diverse, spanning multiple countries and states/provinces, with coordinates provided for spatial analysis. Each record includes metadata such as observation date, identifier, rights holder, and license, ensuring proper attribution and usage rights. The dataset also highlights issues like coordinate rounding and taxon identification challenges, which may require further validation. Researchers and enthusiasts can use this dataset for studying the distribution, ecology, and conservation of sesame, as well as for agricultural and botanical research. The semantic profile emphasizes biodiversity classification, spatial data, and temporal aggregation, making it valuable for both scientific and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

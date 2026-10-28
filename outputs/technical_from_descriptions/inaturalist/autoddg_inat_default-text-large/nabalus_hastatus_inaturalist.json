@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of Nabalus hastatus from iNaturalist, covering the United States (Alaska, Washington) and Canada (British Columbia). Geographic coordinates range from 47.4° to 59.2° latitude and –152.2° to –121.4° longitude, with coordinate uncertainty up to 244 m. All entries are human observations and include a full taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Magnoliopsida, order Asterales, family Asteraceae, genus Nabalus, species N. hastatus) and timestamps. The semantic profile shows fields for taxonomy, location, temporal data, attribution, media type and data‑quality issues. Researchers can use the data to map the species’ distribution, examine phenology, assess conservation status, or explore habitat preferences, and the records are available under CC0 or CC BY licenses.",
+  "spatialCoverage": {
+    "min_lat": 47.4,
+    "min_lon": -152.2,
+    "max_lat": 59.2,
+    "max_lon": -121.4
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

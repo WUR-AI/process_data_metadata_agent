@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides comprehensive vegetation and land cover observations for Uelzen, Germany, spanning from 1984 to 2022. It includes diverse remote sensing content such as vegetation indices, metabolism indices, and multi-band color composites, stored primarily as GeoTIFF and Shapefile formats. The data is georeferenced to a specific site with precise latitude and longitude coordinates, allowing for detailed spatial analysis. Users can leverage this collection to study long-term ecological changes, monitor seasonal vegetation dynamics, and analyze land use patterns over nearly four decades. The inclusion of both raster and vector files supports versatile applications in environmental monitoring and geographic information system research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

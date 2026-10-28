@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides measurements of Antarctic snow depth and density, collected at various locations across the continent. It includes spatial coordinates (latitude and longitude), snow depth (total, top, and bottom layers), and snow density, along with event identifiers and timestamps. The data spans from December 2021 to January 2022, with measurements ranging from 0 to 5.135 meters in depth and 205 to 513 kg/m³ in density. Semantically, the dataset combines temporal (date/time), spatial (latitude/longitude), and climate-related measurements (snow depth/density), making it useful for climate research, cryosphere studies, and environmental monitoring. Researchers can use this data to analyze snow accumulation patterns, assess seasonal variations, or validate remote sensing observations in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-12-01T00:00:00",
+    "to": "2022-01-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

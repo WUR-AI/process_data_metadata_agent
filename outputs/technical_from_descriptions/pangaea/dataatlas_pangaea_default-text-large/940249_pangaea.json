@@ -1,0 +1,10 @@
+{
+  "description": "Observations of ice core properties and isotopic measurements from a single site on 2006‑12‑09.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-12-09T00:00:00",
+    "to": "2006-12-09T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the flightless duck species Tachyeres patachonicus, also known as the flying steamer duck. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location data with coordinates and country codes. The observations are recorded by various individuals and include details such as the date of observation, the observer's name, and the license under which the data is shared. The dataset can be used for studying the distribution and habitat of this unique bird species, as well as for biodiversity research and conservation efforts. The semantic profile of the dataset indicates that it is well-structured for aggregation and classification purposes, making it a valuable resource for researchers in the field of biodiversity. The data spans from the year 2009 to 2026, providing a comprehensive overview of the species' presence in various regions, primarily in Argentina and Chile.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

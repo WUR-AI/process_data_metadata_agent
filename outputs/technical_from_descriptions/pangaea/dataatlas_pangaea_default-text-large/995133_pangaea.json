@@ -1,0 +1,10 @@
+{
+  "description": "Observations from Expedition EMB320, Baltic Sea sites, June 2023, shell counts and frequencies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-06-01T00:00:00",
+    "to": "2023-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

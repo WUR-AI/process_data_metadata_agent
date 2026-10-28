@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human-observed records of the plant species *Senega cruciata*, primarily sourced from iNaturalist observations across the United States. The collection includes 20 unique occurrence records spanning multiple states, with detailed taxonomic classification from kingdom to species level. Each entry provides precise geographic coordinates, observation dates, and contributor attribution, alongside data quality flags indicating issues such as coordinate rounding. Researchers can utilize this dataset to analyze the spatial distribution and seasonal occurrence patterns of *Senega cruciata* in the southeastern US. The data supports biodiversity monitoring, ecological studies, and conservation planning, with all records adhering to specific Creative Commons licenses for open scientific use.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

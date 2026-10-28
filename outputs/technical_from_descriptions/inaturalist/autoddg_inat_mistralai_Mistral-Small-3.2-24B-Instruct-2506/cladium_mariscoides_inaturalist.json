@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Cladium mariscoides, a species of plant in the sedge family. It includes records from various locations in the United States and Canada, with a focus on states and provinces such as Illinois, Michigan, Ontario, and New York. The data covers a range of years and includes details such as the date of observation, the observer's name, and the coordinates of the observation. The dataset can be used for studying the geographical distribution and habitat preferences of Cladium mariscoides, as well as for monitoring changes in its range over time. The semantic profile of the dataset includes taxonomic information, location data, and temporal data, which can be used for aggregation and classification purposes. The dataset also includes identifiers for various aggregation keys, which can be used to link the data to other datasets or to perform more detailed analyses.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the brown alga *Colpomenia peregrina*, sourced from iNaturalist. It includes comprehensive taxonomic classification, spatial coordinates, and temporal data for occurrences across multiple countries. The records are primarily human observations, providing detailed metadata such as identification dates, media types, and quality control issues. Users can leverage this data for spatial and temporal filtering to study the species' distribution and phenology. The dataset supports research into marine biodiversity patterns, offering reliable geographic and taxonomic information for ecological analysis and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises 20 occurrence records of the plant Lomatium orientale, collected through iNaturalist human observations. Each record includes a unique GBIF identifier, occurrence ID, and catalog number, and provides taxonomic classification from kingdom down to species. Geographic fields give latitude and longitude coordinates (0 to 40.53° N, –105.30° to 0° W) with uncertainty measures, while temporal fields capture the event date, day, month and year of observation. The semantic profile clarifies each column’s role—for example, gbifID as an aggregation key, decimalLatitude for mapping, and identifiedBy for attribution. Researchers can use the data to map the species’ distribution in Colorado and South Dakota, study seasonal phenology, or evaluate data quality via the issue flags.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -105.3,
+    "max_lat": 40.53,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

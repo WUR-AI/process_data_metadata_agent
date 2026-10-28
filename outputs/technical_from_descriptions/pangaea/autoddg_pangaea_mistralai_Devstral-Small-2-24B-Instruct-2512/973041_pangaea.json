@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides archaeological radiocarbon and U-Th dating records from Borneo, covering sites in Indonesia and Malaysia. It includes temporal measurements such as calibrated and uncalibrated ages, standard deviations, and dating methods, alongside spatial data like site names, countries, and provinces. The dataset also contains academic references for each record. Semantically, it categorizes data into spatial, temporal, and categorical domains, serving as an aggregation key for archaeological research. This dataset can be used to analyze the chronological and geographical patterns of human activity in Borneo, supporting studies on prehistoric settlement, cultural transitions, and environmental interactions in the region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

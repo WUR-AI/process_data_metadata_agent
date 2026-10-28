@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the species Papilio maackii, commonly known as Maack's swallowtail, sourced from the iNaturalist platform. It includes 20 records spanning multiple countries such as Japan, China, Russia, and South Korea, with detailed taxonomic classification from kingdom to species level. Each entry provides precise geolocation data, observation dates ranging from 2015 to 2026, and contributor attribution. The records are primarily based on still images and are licensed under CC BY-NC 4.0. Researchers can utilize this collection to analyze the species' geographic distribution, seasonal activity patterns, and population presence across East Asia, while also assessing data quality through associated coordinate uncertainty flags.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

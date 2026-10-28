@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Passerine Woodpecker (Veniliornis passerinus), a species of bird belonging to the Picidae family. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data including country codes, state/province, and coordinates. Temporal data such as event dates, days, months, and years are also provided. The dataset is sourced from iNaturalist and includes details about the observers, identifiers, and licenses. It can be used for biodiversity research, species distribution modeling, and conservation efforts. The semantic profile indicates that the data is well-structured for aggregation, spatial filtering, and temporal analysis, making it suitable for various ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

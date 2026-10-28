@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine salp data collected from various scientific research expeditions. It includes information on events, sample identifiers, expedition details, dates, times, vessels, stations, gear types, water depths, locations, species identifiers, orders, sizes, tissue descriptors, methods, specimen counts, life stages, and various measurements such as mass, ash mass, and elemental compositions. The dataset spans multiple years and locations, with samples collected from the Southern Ocean, Chatham Rise, and the Northeast Pacific. The semantic profile indicates that the data is well-structured for scientific research, with aggregation keys for events, locations, and species, as well as detailed measurements for analysis. This dataset can be used for studying the distribution, biology, and ecological roles of salps in marine ecosystems, as well as for broader research on oceanography and marine biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "The dataset captures a single aerial‑imagery project (WA_CapeBlossom_20210625_7cm_01) acquired on 25 June 2021 at 21:21:30 UTC, covering the Cape Blossom site at latitude 66.891836 N and longitude 162.596512 W. Each record describes a specific file – preview PNGs of RGB, CIR and DSM, cloud‑optimized GeoTIFFs for orthophoto, DSM and hillshade, zipped tile mosaics, point‑cloud archives, tile‑footprint GeoJSON and processing‑info ZIP – with file sizes ranging from 341 kB up to 15.4 GB. The “Project” and “Event” columns act as aggregation keys, “Content” provides a human‑readable description, “Binary” stores the file name, “Binary (Size)” records the file size, while “Latitude”, “Longitude” and “Date/Time” give precise spatial and temporal context. Because the data are high‑resolution aerial images and 3‑D products, they are suitable for mapping, land‑cover classification, change detection, photogrammetric 3‑D modeling, and other geospatial analyses.",
+  "spatialCoverage": {
+    "min_lat": 66.891836,
+    "min_lon": 162.596512,
+    "max_lat": 66.891836,
+    "max_lon": 162.596512
+  },
+  "temporalCoverage": {
+    "from": "2021-06-25T21:21:30",
+    "to": "2021-06-25T21:21:30"
+  },
+  "spatial": "7cm",
+  "temporal": null
+}

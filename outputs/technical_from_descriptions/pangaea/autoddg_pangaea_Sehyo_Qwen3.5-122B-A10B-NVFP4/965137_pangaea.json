@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains high-resolution geochemical measurements from Porites sp. coral cores collected at a single site in French Polynesia, identified as TIAREI-3B. The records span recent years, with Age_2 values ranging from 2001 to 2007, providing a detailed temporal context for climate reconstruction. Key variables include elemental ratios like Strontium-to-Calcium and Magnesium-to-Calcium, alongside stable isotope ratios of oxygen and carbon, which serve as proxies for past sea surface temperatures and environmental conditions. All samples share consistent geographic coordinates and an elevation of -15 meters. Researchers can utilize this data to analyze seasonal climate variability, validate paleoclimate models, and understand the geochemical responses of coral ecosystems to changing oceanic conditions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2001-01-01T00:00:00",
+    "to": "2007-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

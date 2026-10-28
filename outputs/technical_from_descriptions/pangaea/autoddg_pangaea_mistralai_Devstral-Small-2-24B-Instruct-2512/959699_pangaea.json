@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed geochemical and spatial information on manganese nodules collected from the seafloor. It includes measurements of various chemical elements such as manganese, iron, cobalt, nickel, and rare earth elements like lanthanum, cerium, and neodymium, along with their concentrations. The data also captures geographical coordinates, elevation, and sampling details, enabling spatial analysis. The semantic profile highlights the dataset's focus on geological and geochemical classifications, with columns serving as aggregation keys for events, identifiers, and temporal data. This dataset is valuable for studying the composition and distribution of manganese nodules, assessing their economic potential, and supporting research in marine geology and resource exploration.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

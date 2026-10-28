@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of Nabalus hastatus, a plant species belonging to the Asteraceae family. It includes records from Alaska, Washington in the United States, and British Columbia in Canada, with observations spanning from 2017 to 2025. The dataset contains various taxonomic classifications, such as kingdom, phylum, class, order, family, genus, and species, which help in understanding the hierarchical structure of the species. Additionally, it includes spatial data like decimal latitude and longitude, allowing for the mapping of the species' distribution. The dataset also contains temporal data, such as event dates, which can be used to analyze the timing of observations. Furthermore, it includes information on the observers and identifiers, as well as the licenses and rights holders, providing context for the data collection process. This dataset can be used for studying the geographical distribution, temporal patterns, and ecological preferences of Nabalus hastatus, aiding in conservation efforts and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

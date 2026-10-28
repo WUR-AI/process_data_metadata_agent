@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Crassula capensis* from the Western Cape, South Africa. It includes taxonomic classifications, precise geographic coordinates, and temporal data ranging from 2014 to 2026. The records are primarily human observations linked to iNaturalist, featuring media attachments and quality control issues. Users can leverage this data for spatial and temporal filtering, taxonomic identification, and ecological studies. The dataset supports research on species distribution and phenology, offering detailed metadata on recorders, licenses, and coordinate uncertainty for robust biodiversity analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

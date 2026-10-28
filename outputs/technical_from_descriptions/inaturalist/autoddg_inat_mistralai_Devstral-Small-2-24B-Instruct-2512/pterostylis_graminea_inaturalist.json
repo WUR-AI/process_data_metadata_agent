@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the orchid species *Pterostylis graminea* in New Zealand, collected from various regions including Auckland, Wellington, and Southland. The records include taxonomic details, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, with columns categorized into taxonomic classifications, spatial measurements, temporal filters, and attribution details. This dataset can be used for ecological studies, conservation efforts, and research on orchid distribution and habitat preferences in New Zealand. It also supports analyses of citizen science contributions and data quality assessment.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

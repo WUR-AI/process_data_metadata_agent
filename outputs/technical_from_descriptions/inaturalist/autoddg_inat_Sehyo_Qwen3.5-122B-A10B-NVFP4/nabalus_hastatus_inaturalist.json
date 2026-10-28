@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Nabalus hastatus, primarily sourced from iNaturalist. It contains 20 unique records documenting occurrences across the United States and Canada, specifically in Alaska, Washington, and British Columbia. Each entry includes precise geospatial coordinates, observation dates ranging from 2017 to 2025, and taxonomic details confirming the species classification. The data is enriched with information on observers, identification dates, and media types, often including still images. Researchers can utilize this collection to analyze the geographic distribution, seasonal phenology, and habitat preferences of Nabalus hastatus in North American ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

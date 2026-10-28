@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 iNaturalist occurrence records of Chlorurus bleekeri, Bleeker’s Parrotfish. Each record has a unique gbifID and an occurrenceID URL. Taxonomic columns give the hierarchy from kingdom to species and canonical and verbatim scientific names. Geographic fields provide country code, state/province, and latitude‑longitude coordinates from –20.22 to 12.66 ° latitude and 0 to 177.31 ° longitude, with uncertainties up to 1,418 m. Event dates include day, month, and year. The data also list the publishing organization, observers, identifiers, license, media type (still images), and issues such as coordinate rounding. Researchers can map distribution, study seasonal patterns, and assess habitat use of Bleeker’s Parrotfish in the Indo‑Pacific.",
+  "spatialCoverage": {
+    "min_lat": -20.22,
+    "min_lon": 0.0,
+    "max_lat": 12.66,
+    "max_lon": 177.31
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

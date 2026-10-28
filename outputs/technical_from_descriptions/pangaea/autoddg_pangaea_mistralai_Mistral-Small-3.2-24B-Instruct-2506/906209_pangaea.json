@@ -1,0 +1,7 @@
+{
+  "description": "This dataset, titled \"Pregnancy Hunting Data,\" contains information about various activities related to pregnancy and hunting. It includes three files, all in XLSX format, with sizes ranging from 24.848 to 254.888 units. The files are identified by unique names and can be accessed via specific URLs. Semantically, the dataset describes activities, file identifiers, format specifications, measurements, and locators. This dataset can be used for analyzing and understanding the relationship between pregnancy and hunting activities, such as tracking pregnancy diagnoses, hunting records, and catch-per-unit-effort. Researchers and analysts can utilize this data to gain insights into these activities and their potential impacts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

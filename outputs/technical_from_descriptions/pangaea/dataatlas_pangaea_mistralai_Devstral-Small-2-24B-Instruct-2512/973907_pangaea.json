@@ -1,0 +1,10 @@
+{
+  "description": "Earth/environmental science data from 2015-07-12, 249 rows, 11 columns.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-07-12T00:00:00",
+    "to": "2015-07-12T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

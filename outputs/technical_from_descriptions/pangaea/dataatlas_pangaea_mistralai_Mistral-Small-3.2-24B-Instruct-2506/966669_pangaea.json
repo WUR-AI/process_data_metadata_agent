@@ -1,0 +1,10 @@
+{
+  "description": "Environmental sample data from August 2022, including location, time, and isotopic measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-08-01T00:00:00",
+    "to": "2022-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

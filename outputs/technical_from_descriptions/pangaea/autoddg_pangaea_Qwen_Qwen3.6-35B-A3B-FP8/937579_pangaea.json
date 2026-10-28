@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Mackenzie River isotope measurements, specifically focusing on δ18O, δD, and d excess values. It aggregates data from four distinct expeditions conducted in 2019, with records spanning from April to September. Each entry includes precise spatial coordinates, water depth, and specific station identifiers. The semantic profile indicates that these metrics serve as key measurements for climate research, allowing for detailed spatial and temporal analysis. Researchers can utilize this information to study hydrological processes and isotopic variations within the Mackenzie River system. The data supports investigations into climate dynamics by providing high-resolution isotopic signatures linked to specific geographic locations and collection times.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-04-01T00:00:00",
+    "to": "2019-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

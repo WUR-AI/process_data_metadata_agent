@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the butterfly species *Idea leuconoe* and its subspecies, collected from various locations including Taiwan, Japan, Malaysia, and the Philippines. The records span from 2009 to 2026 and include detailed taxonomic information, geographic coordinates, observation dates, and metadata such as identifiers, contributors, and licensing details. The semantic profile highlights biodiversity-focused attributes, including taxonomic ranks, spatial filters (e.g., country, coordinates), temporal filters (e.g., event dates), and quality control flags. Users can explore species distribution, temporal trends, and regional variations, making it valuable for ecological studies, conservation efforts, and research on butterfly habitats and behaviors. The dataset also supports attribution tracking and usage rights compliance.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

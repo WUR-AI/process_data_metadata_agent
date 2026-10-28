@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the sea slug *Bulla gouldiana*, primarily recorded in California, with additional records from Costa Rica and Ecuador. The data includes precise geospatial coordinates, event dates ranging from 2016 to 2026, and taxonomic details confirming the species classification. Most records are supported by still images and include metadata regarding the observers and identification dates. Researchers can utilize this collection to analyze the species' distribution patterns, seasonal occurrence, and habitat preferences along the Pacific coast. The dataset also provides quality flags for coordinate uncertainty and data issues, ensuring users can assess the reliability of specific records for ecological studies or biodiversity monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

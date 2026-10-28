@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Antennaria racemosa, commonly known as racemose pussytoes. The data includes various taxonomic ranks such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive classification of the species. The dataset also includes spatial data such as country code, state/province, and coordinates, allowing for geographic analysis. Temporal data such as event date, day, month, and year are also included, enabling temporal analysis. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Antennaria racemosa. It provides detailed information on the occurrence, identification, and classification of this species, making it valuable for researchers and conservationists. The semantic profile of the dataset includes identifiers, taxonomic ranks, locations, temporal entities, and statuses, which are essential for aggregation, classification, and measurement in biodiversity studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

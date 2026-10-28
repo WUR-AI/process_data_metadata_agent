@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the fungal species Mycena renati across various locations in Europe and beyond. It includes details such as the kingdom, phylum, class, order, family, genus, and species of the fungi, along with their occurrence status and the specific locations where they have been observed. The dataset also contains temporal information, including the day, month, and year of each observation, as well as the coordinates and uncertainty of the observation locations. Additionally, it includes identifiers for the dataset, occurrence, and taxon, which can be used for aggregation and classification purposes. This dataset can be used for studying the geographical distribution and temporal patterns of Mycena renati, as well as for biodiversity research and conservation efforts. The semantic profile of the dataset indicates that it contains well-structured data with clear classifications and measurements, making it suitable for various analytical and research applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

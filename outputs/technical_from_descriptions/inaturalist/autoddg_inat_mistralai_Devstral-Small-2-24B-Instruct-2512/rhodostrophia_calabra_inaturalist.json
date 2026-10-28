@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Rhodostrophia calabra*, collected from various locations across Europe. The records include taxonomic information such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like country, state/province, and coordinates. Temporal details such as event date, day, month, and year are also provided, allowing for temporal analysis. Each observation is attributed to a recorder and identified by a taxonomist, with associated metadata such as license and rights holder. The dataset can be used for biodiversity research, species distribution modeling, and ecological studies. It supports spatial and temporal filtering, enabling users to analyze the presence and trends of *Rhodostrophia calabra* across different regions and time periods. The semantic profile highlights the dataset's focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution markers.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

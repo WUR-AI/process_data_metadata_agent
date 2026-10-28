@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Chrysocoma ciliata, a plant species, collected from various locations in South Africa. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state or province, and coordinates. Each observation is recorded with a unique identifier, and additional information includes the date of the observation, the person who recorded it, and the license under which the data is shared. The dataset also contains semantic information that categorizes the data into domains such as biodiversity, location, temporal, and person, with specific functions like classification, aggregation key, and measurement. This dataset can be used for studying the distribution and habitat of Chrysocoma ciliata, tracking changes over time, and supporting conservation efforts. The observations are primarily human observations, and the data is licensed under CC_BY_NC_4_0 and CC_BY_4_0, ensuring proper usage and attribution.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

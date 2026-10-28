@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of the moth species Haritalodes derogata and Haritalodes obliqualis. It includes records from various countries such as New Zealand, Australia, India, South Korea, and Hong Kong, with observations spanning from 2016 to 2025. The dataset contains detailed taxonomic information, including kingdom, phylum, class, order, family, genus, and species, as well as geographic data such as country codes, state/province, and precise coordinates. Additionally, it includes temporal data with event dates, days, months, and years of observation. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and aggregation keys for spatial and temporal data. This dataset can be used for studying the geographic distribution, habitat preferences, and temporal patterns of these moth species, aiding in conservation efforts and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

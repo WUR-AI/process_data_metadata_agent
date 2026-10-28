@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides remote sensing data for Uelzen, Germany, covering observations from 1984 to 2022. It includes vegetation and metabolism indices, six-band color composites, and shapefiles, available as GeoTIFFs and various shapefile components. The data is geospatially anchored at coordinates 52.798539332, 9.998781436, with daily temporal resolution for specific start and end dates. Users can leverage this information for environmental monitoring, land cover analysis, and long-term ecological studies. The collection supports research into vegetation health and metabolic processes over nearly four decades, offering valuable insights into regional environmental changes through standardized geospatial metrics and file formats.",
+  "spatialCoverage": {
+    "min_lat": 52.798539332,
+    "min_lon": 9.998781436,
+    "max_lat": 52.798539332,
+    "max_lon": 9.998781436
+  },
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily"
+}

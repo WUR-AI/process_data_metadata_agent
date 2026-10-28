@@ -1,0 +1,10 @@
+{
+  "description": "Water vapor isotopic measurements at 24 meters elevation in Antarctica from 2017 to 2019.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

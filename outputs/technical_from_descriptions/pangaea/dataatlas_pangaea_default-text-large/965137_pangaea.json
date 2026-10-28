@@ -1,0 +1,10 @@
+{
+  "description": "Earth environmental measurements from July 1 2008: coral isotope ratios, ages, event, location, elevation (91",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2008-07-01T00:00:00",
+    "to": "2008-07-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

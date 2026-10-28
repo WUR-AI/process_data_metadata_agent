@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains twenty observations of the Magellanic Duck (Tachyeres patachonicus). Each record includes a unique gbifID and occurrenceID, the taxonomic hierarchy from kingdom to species, and the scientific name with authorship. Geographic fields give decimal latitude and longitude (‑54.83 to ‑40.63 ° S, ‑73.01 to ‑66.54 ° W) and coordinate uncertainty up to 10 000 m. Event dates span 2014‑2025 with day, month and year components. The semantic profile identifies identifiers, classification, location metrics, measurement attributes, attribution and quality flags. Licenses (CC0, CC‑BY, CC‑BY‑NC) permit reuse. Researchers can employ data for distribution mapping, habitat suitability modelling, phenology analysis and conservation planning of the Magellanic Duck in southern South America.",
+  "spatialCoverage": {
+    "min_lat": -54.83,
+    "min_lon": -73.01,
+    "max_lat": -40.63,
+    "max_lon": -66.54
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This laboratory dataset records 20 distinct treatment groups of the mollusk Magallana hongkongensis (Reg spec no 836038) collected in Zhanjiang on 1 June 2016 (latitude 21.33 N, longitude 110.67 E). For each sample it provides measurements of shell morphology (area porosity, stiffness, hardness, density, three volume metrics) and a comprehensive suite of water‑chemistry parameters—including pH (NBS), temperature, salinity, total alkalinity, pCO₂, carbonate ion concentrations, Ω‑calcite, Ω‑aragonite, CO₂, fCO₂, and dissolved inorganic carbon—along with their standard deviations. The data span the full observed ranges (e.g., area porosity 0–6.80 cm², stiffness 0–112.82 MPa, pH 0–8.01, temperature 0–27.7 °C). Semantic tags identify each column as a measurement, identifier, geographic or temporal attribute, or quality‑control flag. Researchers can use this resource to investigate how experimental treatments influence mollusk shell chemistry and to model the response of shell composition to varying marine environmental conditions.",
+  "spatialCoverage": {
+    "min_lat": 21.33,
+    "min_lon": 110.67,
+    "max_lat": 21.33,
+    "max_lon": 110.67
+  },
+  "temporalCoverage": {
+    "from": "2016-06-01T00:00:00",
+    "to": "2016-06-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

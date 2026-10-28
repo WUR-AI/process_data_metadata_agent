@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the species Agromyza aristata, a type of fly in the family Agromyzidae. The records include taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location data including country, state/province, and coordinates. Each observation is linked to a specific event date and includes details about the observer and the identification process. The dataset also provides information on the basis of record, license, and media type associated with each observation. Semantically, the dataset is rich in biodiversity-related metadata, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution markers. This dataset can be used for studying the distribution and habitat preferences of Agromyza aristata, analyzing temporal patterns in its observations, and supporting research in biodiversity and ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

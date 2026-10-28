@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains information on marine sediment cores collected from specific events, with each core sample labeled uniquely. The data includes measurements of sediment depth, age, and sea surface temperature (SST) along with its standard deviation. The samples are categorized by their state and grouped into clusters. The dataset also provides spatial references including latitude, longitude, and elevation, as well as temporal references with date and time information. The semantic profile indicates that the dataset is domain-specific to scientific and climate research, with functions for aggregation, categorization, measurement, and spatial and temporal references. This dataset can be used for studying marine sediment cores, analyzing past climate conditions, and understanding the geological history of the ocean floors. The data spans a range of depths, ages, and temperatures, providing a comprehensive view of the sediment cores' characteristics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

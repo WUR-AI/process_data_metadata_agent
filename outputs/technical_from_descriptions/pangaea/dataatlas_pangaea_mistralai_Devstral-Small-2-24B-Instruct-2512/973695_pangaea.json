@@ -1,0 +1,10 @@
+{
+  "description": "Earth/environmental science data from 1986-11-05, 45 rows, sediment chemistry, isotopic ratios, location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1986-11-05T00:00:00",
+    "to": "1986-11-05T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of Tiedemannia filiformis, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences in the US, primarily Florida. The records are human observations with associated media images. Users can filter by location, date, or license. The data supports ecological studies, species distribution mapping, and conservation efforts. It provides detailed metadata on identification, recording, and data quality issues. This resource is valuable for researchers studying plant biodiversity and phenology in specific regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

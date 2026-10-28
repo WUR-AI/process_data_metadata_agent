@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains laboratory measurements from ocean acidification experiments conducted on the pteropod species Limacina helicina. It includes physical and chemical oceanographic parameters such as temperature, salinity, dissolved oxygen, and carbonate system variables (DIC, AT, pH, pCO2, and saturation states for aragonite and calcite). The data also document biological responses, including respiration rates and individual counts, across different treatment conditions and incubation durations. Quality flags and measurement errors are provided for key variables. The semantic profile indicates that the dataset integrates biological, chemical, and oceanographic measurements, with clear identification keys for species and samples, making it suitable for studies on marine organism responses to changing ocean chemistry. Researchers can use this data to analyze the effects of ocean acidification on pteropod physiology and to inform broader ecological and biogeochemical models.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

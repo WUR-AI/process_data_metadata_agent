@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides geochemical measurements of volcanic rock samples, including major oxide components such as SiO2, TiO2, Al2O3, and others, along with spatial and temporal references. The data includes sample identifiers, geospatial coordinates (latitude, longitude, and elevation), and collection timestamps, enabling detailed analysis of volcanic rock chemistry. The semantic profile highlights the dataset's focus on geochemical measurements, spatial references, and temporal tracking, making it suitable for studies in geology, volcanology, and earth sciences. Researchers can use this dataset to analyze chemical compositions, spatial distributions, and temporal variations in volcanic rocks, supporting studies on volcanic activity, magma sources, and geological processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

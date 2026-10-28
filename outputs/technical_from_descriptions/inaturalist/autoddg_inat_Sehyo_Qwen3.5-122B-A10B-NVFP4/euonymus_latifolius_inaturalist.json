@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the plant species Euonymus latifolius, sourced primarily from iNaturalist and aggregated via GBIF. It contains 20 unique occurrence records spanning multiple countries, including Ukraine, Russia, France, and Italy, with observations dating from 2021 to 2026. Each entry provides precise taxonomic classification, geographic coordinates, and temporal details such as the event date and year of observation. The data includes identifiers for the observing individuals and rights holders, alongside media types like still images. Researchers can utilize this collection to study the distribution patterns, phenology, and citizen science reporting trends of this specific shrub across its native and introduced ranges.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

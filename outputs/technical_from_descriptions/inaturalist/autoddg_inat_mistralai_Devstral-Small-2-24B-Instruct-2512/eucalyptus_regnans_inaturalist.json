@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Eucalyptus regnans, a species of eucalypt native to Australia. The records include taxonomic information, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic ranks, spatial filters, temporal data, and attribution details, making it suitable for ecological and conservation research. Users can explore the distribution, temporal trends, and environmental context of Eucalyptus regnans across Victoria and Tasmania. The dataset supports studies on species occurrence, habitat analysis, and citizen science contributions, with data quality indicators and usage rights clearly defined.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

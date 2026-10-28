@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed chemical and isotopic measurements from marine sediment samples collected during the ODP Leg 112 at Site 680. It includes data on various elements such as aluminum, calcium, iron, and molybdenum, as well as isotopic ratios like δ15N and δ13C, which are crucial for understanding sediment composition and environmental conditions. The dataset spans the Pliocene and Pleistocene epochs, offering insights into past climate and oceanographic changes. It can be used for studying marine sediment chemistry, paleoceanography, and environmental reconstructions. The semantic profile indicates that the data is well-structured for geological and chemical analyses, with clear identifiers and measurements that facilitate research in these fields.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

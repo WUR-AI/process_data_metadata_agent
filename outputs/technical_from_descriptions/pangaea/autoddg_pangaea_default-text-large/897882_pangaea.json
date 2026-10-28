@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 observations of the marine gastropod E. fimbriata collected at three sites (Djifer, Joal, Foundiougne) in 2014. Each row provides a Sample ID, month, and a common date stamp. Environmental variables include temperature (0–31.2 °C) and salinity (0–54 ppt). Biological measurements cover oocyte dry mass (0–46.9 mg), volume (0–0.4 ml), lipids (0–3.7 mg), protein (0–69.1 mg) and calorific content (0–16.4 kJ). Geochemical ratios (Ba/Ca, Sr/Ca, Zn/Ca) and latitude/longitude (up to 14.18°, down to –16.85°) are also recorded. Columns act as aggregation keys (Event, Sample ID, Month) and as ecological, biochemical, and geochemical measurements. Researchers can use the data to examine how seasonal temperature and salinity influence oocyte composition, model reproductive energetics, or compare elemental signatures across locations.",
+  "spatialCoverage": {
+    "min_lat": -16.85,
+    "min_lon": -16.85,
+    "max_lat": 14.18,
+    "max_lon": 14.18
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2014-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

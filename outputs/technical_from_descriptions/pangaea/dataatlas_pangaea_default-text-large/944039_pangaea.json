@@ -1,0 +1,10 @@
+{
+  "description": "Sediment core elemental concentrations and errors from one station on 2019‑03‑20, including depth and location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-03-20T00:00:00",
+    "to": "2019-03-20T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

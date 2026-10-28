@@ -1,0 +1,10 @@
+{
+  "description": "Occurrence records of Cinnyris pulchellus (1986‑2026) with taxonomy, coordinates, dates, and observer metadata.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1986-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the insect species Capsus ater, collected from various locations across Europe and the United States. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state or province, and precise coordinates. Each observation is dated and includes identifiers for the dataset, occurrence, and taxon. The dataset also provides information on the observers, identifiers, and the licenses under which the data is shared. Semantically, the dataset is rich in biodiversity information, with columns representing taxonomic classifications, spatial data, temporal data, and identifiers for aggregation and classification purposes. This dataset can be used for studying the distribution and habitat of Capsus ater, tracking changes over time, and supporting research in entomology and biodiversity conservation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

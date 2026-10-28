@@ -1,0 +1,7 @@
+{
+  "description": "Environmental data with event, sample, section, age, SR, reference, location, and date/time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

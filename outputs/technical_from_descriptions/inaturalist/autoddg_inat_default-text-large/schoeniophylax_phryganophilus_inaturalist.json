@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises 20 human‑observation records of the bird Schoeniophylax phryganophilus, collected mainly in Argentina with a few entries from Brazil and Uruguay. Each record includes a full taxonomic hierarchy (kingdom Animalia, phylum Chordata, class Aves, order Passeriformes, family Furnariidae, genus Schoeniophylax, species phryganophilus), a unique GBIF identifier, and precise latitude‑longitude coordinates (ranging from –35.30 to 0 degrees latitude and –60.77 to 0 degrees longitude) together with coordinate‑uncertainty values up to 2 526 m. The semantic profile shows that identifiers such as gbifID, datasetKey and catalogNumber serve as lookup keys, taxonomic fields enable filtering and identification, spatial fields support mapping, and temporal fields (eventDate, day, month, year, dateIdentified) provide timestamps for phenology analyses. Licensing information (CC0, CC‑BY, CC‑BY‑NC) and rights‑holder metadata ensure clear reuse conditions. Researchers can use these data to map the species’ distribution, examine seasonal occurrence patterns, and support conservation assessments for Schoeniophylax phryganophilus.",
+  "spatialCoverage": {
+    "min_lat": -35.3,
+    "min_lon": -60.77,
+    "max_lat": 0.0,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

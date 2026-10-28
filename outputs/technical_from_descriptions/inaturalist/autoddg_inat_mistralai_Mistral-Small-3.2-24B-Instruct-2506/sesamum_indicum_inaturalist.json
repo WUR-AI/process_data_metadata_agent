@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Sesamum indicum, a species of flowering plant commonly known as sesame. The data includes records from various countries, with details on the taxonomic classification, geographic location, and observation dates. The dataset is enriched with identifiers for aggregation and classification, as well as spatial and temporal data that allow for detailed analysis. It can be used for studying the global distribution patterns of Sesamum indicum, understanding its habitat preferences, and monitoring its presence across different regions. The semantic profile of the dataset includes taxonomic, location, temporal, and person-related information, making it valuable for biodiversity research and conservation efforts. Additionally, the dataset contains media types and issues related to the observations, providing a comprehensive view of the species' distribution and occurrence status.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Pectocarya recurvata, collected from various locations in the United States, primarily in Arizona, California, New Mexico, and Nevada. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state/province, and coordinates. Each observation is recorded with a unique identifier, and additional metadata includes the date of the observation, the person who recorded it, and the license under which the data is shared. The dataset also contains information about the media type associated with each observation and any issues related to the data. This dataset can be used for studying the distribution and habitat of Pectocarya recurvata, as well as for biodiversity research and conservation efforts. The semantic profile of the dataset indicates that it is well-structured for aggregation and classification purposes, making it a valuable resource for researchers in the field of biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

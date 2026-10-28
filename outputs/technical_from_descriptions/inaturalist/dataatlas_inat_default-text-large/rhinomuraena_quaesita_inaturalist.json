@@ -1,0 +1,10 @@
+{
+  "description": "Rhinomuraena quaesita occurrence records (2007‑2026) with coordinates, dates, observer metadata, 1000 entries.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2007-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

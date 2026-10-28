@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on manganese nodules, providing detailed chemical composition data from samples collected during a specific geological event. The data includes measurements of various chemical elements such as aluminum, silicon, calcium, and manganese, along with spatial information like latitude, longitude, and elevation. The dataset is classified by deposit type and sample type, with each entry uniquely identified. The semantic profile indicates that the data is geologically contextualized, with measurements and classifications relevant to geological studies. This dataset can be used for research on the distribution and composition of manganese nodules, aiding in the understanding of deep-sea mineral resources and their potential economic and environmental impacts. The temporal data provides context for when the samples were collected, enhancing the dataset's utility for temporal analyses.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents Baltic Sea mollusk research, specifically focusing on *Mytilus balthica* collected during the EMB320 expedition in June 2023 at the Rönnebank site. It contains shell length measurements and frequency counts for individuals sampled from both reference areas and marine protected areas. The data serves as a valuable resource for marine biologists studying mollusk populations and the ecological impacts of conservation zones. With shell lengths ranging from 0 to 18 mm and frequencies up to 107, this collection supports analyses of growth patterns and distribution. Researchers can utilize these metrics to assess biodiversity health and compare biological indicators across different environmental management strategies in the Baltic Sea region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-06-01T00:00:00",
+    "to": "2023-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

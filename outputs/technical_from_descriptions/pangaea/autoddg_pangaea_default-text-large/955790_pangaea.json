@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records observations of manganese nodules collected during five events in September 1970. Each record includes coordinates (latitude from –14.05 to 12.0° and longitude from –175.7167 to 0°) and seafloor elevation (‑5340 to 0 m). The deposit type is classified as Mn nodule, with sample types distinguishing whole nodules from those without a core. Geochemical measurements report concentrations of Mn (0–20 ppm), Fe (0–15.6 ppm), Ni (0–0.58 ppm), Co (0–0.63 ppm) and Cu (0–0.27 ppm). Sediment depth ranges 0–0.1 m. Identifiers serve as unique keys, and descriptive notes capture nodule morphology. Researchers can use these spatial, temporal and chemical data for resource assessment, paleo‑environmental reconstruction, and comparative geochemical studies of manganese nodule deposits.",
+  "spatialCoverage": {
+    "min_lat": -14.05,
+    "min_lon": -175.7167,
+    "max_lat": 12.0,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "1970-09-01T00:00:00",
+    "to": "1970-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

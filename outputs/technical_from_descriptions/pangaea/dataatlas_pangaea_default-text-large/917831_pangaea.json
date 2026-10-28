@@ -1,0 +1,10 @@
+{
+  "description": "Observational dataset of 123 fish measurements from Macapule Lagoon, Dec 2013–Aug 2015.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-12-01T00:00:00",
+    "to": "2015-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

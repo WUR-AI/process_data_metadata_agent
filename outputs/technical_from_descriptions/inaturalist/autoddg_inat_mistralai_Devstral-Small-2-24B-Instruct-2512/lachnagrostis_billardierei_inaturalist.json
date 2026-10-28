@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Lachnagrostis billardierei*, a member of the Poaceae family, collected from New Zealand and Australia. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, country, and state/province. Temporal details such as event dates, day, month, and year are also provided, allowing for temporal analysis. Each observation is linked to a unique identifier, and metadata includes the observer, identification date, and license information. The dataset can be used for biodiversity research, ecological studies, and tracking the distribution and occurrence of *Lachnagrostis billardierei* over time. It supports spatial and temporal filtering, making it valuable for conservation efforts and scientific analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

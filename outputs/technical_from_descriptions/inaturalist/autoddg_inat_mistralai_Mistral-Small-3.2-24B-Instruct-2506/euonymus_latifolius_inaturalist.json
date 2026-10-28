@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of Euonymus latifolius, a species of flowering plant in the family Celastraceae. It includes records from various locations across Europe and the Middle East, with details on the taxonomic classification, geographic coordinates, and observation dates. The dataset is enriched with identifiers for aggregation and classification purposes, as well as information on the observers and the licensing of the data. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and measurements. This dataset can be used for studying the geographic distribution, habitat preferences, and temporal patterns of Euonymus latifolius, aiding in conservation efforts and ecological research. The records span from 2021 to 2026, providing a comprehensive overview of the species' presence in different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

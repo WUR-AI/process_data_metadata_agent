@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the plant species Acrothamnus colensoi in New Zealand, with records spanning from 2019 to 2026. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as location data with coordinates and spatial resolution down to the locality level. Additionally, the dataset provides temporal data with event dates and identifiers for various aggregation keys. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and measurements. This dataset can be used for studying the distribution and occurrence of Acrothamnus colensoi in New Zealand, tracking changes over time, and supporting conservation efforts for this plant species. The inclusion of identifiers and aggregation keys also facilitates integration with other biodiversity datasets.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

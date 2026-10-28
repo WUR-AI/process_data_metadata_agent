@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles 20 human-observed occurrences of the plant species Sesamum indicum, commonly known as sesame, sourced from the iNaturalist platform. The records span multiple countries, including India, the United States, China, and Mexico, with observations documented between 2009 and 2025. Each entry provides detailed taxonomic classification, geographic coordinates, and temporal data, alongside information on the observers and licensing terms. Researchers can utilize this collection to analyze the global distribution patterns of sesame, study its presence across different states and provinces, and examine the timing of observations for ecological or agricultural studies. The data includes both species-level and subspecies-level records, offering insights into the diversity within the genus.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

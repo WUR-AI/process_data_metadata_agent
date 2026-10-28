@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains soil radiometric data collected from specific events and locations, with each record including measurements of uranium (U), thorium (Th), and potassium (K) concentrations, along with their respective errors. The data also includes soil depth, total dose rates, and age dates with uncertainties. The spatial context is provided through latitude, longitude, and elevation, while temporal data is captured through date and time stamps. The dataset's semantic profile indicates that it is structured for aggregation and measurement purposes, with a focus on environmental and spatial data. This information can be used for environmental monitoring, geological studies, and radiometric dating, providing valuable insights into soil composition and historical context. The data was collected on April 3, 2023, ensuring a consistent temporal framework for analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-04-03T00:00:00",
+    "to": "2023-04-03T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

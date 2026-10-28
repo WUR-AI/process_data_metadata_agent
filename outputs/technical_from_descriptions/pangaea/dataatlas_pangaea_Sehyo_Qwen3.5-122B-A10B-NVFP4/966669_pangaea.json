@@ -1,0 +1,10 @@
+{
+  "description": "August 2022 cryoconite samples from Flade Isblink ice cap with radiometric and geochemical data.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-08-01T00:00:00",
+    "to": "2022-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

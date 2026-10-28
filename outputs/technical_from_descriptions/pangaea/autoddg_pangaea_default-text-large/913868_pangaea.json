@@ -1,0 +1,12 @@
+{
+  "description": "The dataset records aerosol size‑distribution measurements taken at the Neumayer Station (latitude ‑70.65°, longitude ‑8.25°, elevation 42 m). Each record is indexed by an integer and corresponds to a fixed instrument height of 7 m and a one‑hour sampling interval (Time min = 60). The timestamp fields provide start and end times with second‑ and minute‑resolution. Columns dN/dlogDp(...) report particle concentrations for 45 size bins ranging from 92.87 nm to 4845.51 nm, with values spanning from 0 up to several hundred particles cm⁻³. Geographic coordinates and a constant event label identify the scientific expedition. These data support atmospheric‑science studies such as aerosol climatology, cloud‑formation research, and model validation.",
+  "spatialCoverage": {
+    "min_lat": -70.65,
+    "min_lon": -8.25,
+    "max_lat": -70.65,
+    "max_lon": -8.25
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "1 hour"
+}

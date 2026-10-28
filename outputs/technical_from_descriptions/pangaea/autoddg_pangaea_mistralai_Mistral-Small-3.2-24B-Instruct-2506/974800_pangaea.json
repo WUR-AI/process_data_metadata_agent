@@ -1,0 +1,7 @@
+{
+  "description": "This dataset presents results from a laboratory experiment focused on an aquatic ecosystem. It includes measurements of X. umbellata pulsation under different treatments and conditions. The data is categorized by study type, tank number, and treatment type, with measurements taken at various days of exposure (DOE). The dataset's semantic profile indicates that it is designed for scientific research, with columns representing study type, equipment identification, treatment categorization, and numeric measurements. This dataset can be used to analyze the effects of different treatments on X. umbellata pulsation, contributing to our understanding of aquatic ecosystem dynamics and the impact of various factors on aquatic life. The measurements span from 0 to 40 pulsations, providing a comprehensive view of the experimental outcomes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

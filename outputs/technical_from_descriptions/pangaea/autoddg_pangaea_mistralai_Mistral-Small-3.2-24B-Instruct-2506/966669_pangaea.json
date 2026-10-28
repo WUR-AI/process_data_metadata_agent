@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains measurements related to glacier radiation data, specifically from the Flade Isblink ice cap. It includes various types of data such as event information, spatial coordinates (latitude and longitude), temporal data (date and time), sample identifiers, and measurements of different isotopes and elements like 137Cs, 210Pb, 241Am, and 40K. The dataset also includes elevation data and other relevant measurements such as LOI (Loss on Ignition) and Carb (Carbon content). The semantic profile indicates that the data is domain-specific to climate studies, with various columns serving as aggregation keys or measurement values. This dataset can be used for climate research, particularly in studying the impact of radiation on glaciers and understanding the environmental changes in polar regions. The measurements provided can help in analyzing the spatial and temporal variations in radiation levels and their effects on the ice cap.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

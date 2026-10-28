@@ -1,0 +1,10 @@
+{
+  "description": "Species occurrence data of Asaphodes beata from 2005 to 2026, 997 records.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2005-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

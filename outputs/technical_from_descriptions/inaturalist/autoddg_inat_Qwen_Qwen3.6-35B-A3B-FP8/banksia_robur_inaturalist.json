@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Banksia robur*, a plant species within the Proteaceae family. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences recorded in Australia, specifically Queensland and New South Wales. The records are primarily human observations from iNaturalist, featuring media types like still images. Users can leverage this data for spatial and temporal filtering to study species distribution and phenology. The dataset supports research on plant ecology and conservation by providing structured metadata on identification, licensing, and coordinate uncertainty, facilitating robust biodiversity analysis and monitoring efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

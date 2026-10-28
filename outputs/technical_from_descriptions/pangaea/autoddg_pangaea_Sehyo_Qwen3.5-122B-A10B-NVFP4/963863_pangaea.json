@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides comprehensive physicochemical water data, including in situ parameters, nutrients, trace elements, and contaminants, alongside particulate matter analysis and continuous temperature records. It also features modeled and measured hydrological discharge data for multiple sampling sites. The collection consists of eight text files, each accompanied by specific metadata describing column structures. Technical attributes such as file size, UTF-16LE character encoding, and cryptographic hashes are included to ensure data integrity and proper configuration. These resources are designed for environmental scientists and researchers to analyze water quality trends, validate hydrological models, and conduct detailed studies on aquatic ecosystem health and pollution levels.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

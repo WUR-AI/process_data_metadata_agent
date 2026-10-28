@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the plant species Leptospermum lanigerum, sourced from iNaturalist. It records taxonomic details, including kingdom through species, and spatial data across Australian states like Victoria and Tasmania. The records include precise decimal coordinates, event dates ranging from 2021 to 2026, and observer information. Users can leverage this data for biodiversity research, species distribution mapping, and temporal analysis of plant occurrences. The dataset supports spatial filtering and temporal studies, offering valuable insights into the presence and habitat of this specific myrtle species in southern Australia.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

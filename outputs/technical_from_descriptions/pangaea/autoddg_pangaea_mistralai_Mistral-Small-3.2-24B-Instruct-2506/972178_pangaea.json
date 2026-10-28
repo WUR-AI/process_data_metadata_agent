@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on Aalen Vegetation, providing valuable information on vegetation indices, metabolism indices, and color composites for the city of Aalen, Germany. The data spans from 1984 to 2023, with various observations recorded annually. The dataset includes GeoTIFF and Shapefile formats, with file types such as projection descriptions, shape indexes, and attributes. Semantically, the dataset is rich in spatial and temporal data, with location and time serving as key aggregation factors. It also includes descriptive content and file storage information. This dataset can be used for analyzing vegetation trends, monitoring environmental changes, and supporting urban planning and ecological research in Aalen. The data's resolution at the city level and specific coordinates allows for detailed spatial analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "annual"
+}

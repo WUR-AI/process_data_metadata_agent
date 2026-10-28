@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the giant moray eel, *Rhinomuraena quaesita*. It includes taxonomic classifications, geographic coordinates, and temporal data from iNaturalist records. The records span multiple countries and provinces, with event dates ranging from 1989 to 2026. Users can analyze species distribution, track observation trends over time, and study spatial patterns of this marine species. The data supports ecological research and conservation efforts by providing detailed occurrence information, including observer details and media types, facilitating comprehensive studies on the biology and habitat of *Rhinomuraena quaesita*.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1989-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

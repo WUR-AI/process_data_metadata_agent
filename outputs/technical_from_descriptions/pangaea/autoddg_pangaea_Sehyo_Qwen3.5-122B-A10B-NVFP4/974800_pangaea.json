@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains results from a laboratory experiment investigating aquatic ecology, specifically focusing on X. umbellata pulsation under various conditions. The study utilizes multiple tanks as experimental units, each subjected to different treatment conditions such as Control, DOC, Zooplankton, and Phytoplankton. Data was collected over a period ranging from zero to twenty-eight days, with measurements recorded at specific time intervals. The primary metric, X. umbellata pulsation, is a biological indicator measured in float values, while the experimental design is consistently categorized as a laboratory study. Researchers can use this data to analyze how different treatments and time durations impact biological pulsation rates in controlled aquatic environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises 20 occurrence records of the flowering plant Leptosiphon chrysanthus, all drawn from a single GBIF dataset (datasetKey) and identified as HUMAN_OBSERVATION records from iNaturalist. Each record includes a unique gbifID and catalogNumber, the full taxonomic hierarchy from kingdom to species, and, where applicable, an infraspecific epithet and taxon rank (species or subspecies). Geographic information is provided as decimal latitude (0 to 37.16) and longitude (‑118.32 to 0) with coordinate uncertainty ranging from 2 to 61 metres, enabling precise mapping. Temporal fields capture the event date and its day, month and year components, while attribution fields record the identifiers of the observers, identifiers, and licensing terms. Semantic metadata describe each column’s role—lookup keys (gbifID, datasetKey, taxonKey), classification (kingdom, family, genus, species), spatial coordinates, quality metrics (coordinateUncertaintyInMeters), media types, and data‑quality issues—supporting robust filtering and analysis. Researchers can use these records to study the distribution, phenology and habitat preferences of Leptosiphon chrysanthus, to model its range, or to assess observation quality across California, Nevada and Arizona.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -118.32,
+    "max_lat": 37.16,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

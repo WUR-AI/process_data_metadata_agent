@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains sediment core measurements from a single sampling event (LSMo22-1) collected at a fixed location (21.365278°N, 104.568333°W) at 750 meters elevation on April 8, 2022. It includes depth measurements (top, bottom, and midpoint) alongside radiometric data such as lead-210 (210Pb) and cesium-137 (137Cs) with their respective standard deviations, which are commonly used for sediment dating and environmental analysis. The dataset's semantic profile indicates it is primarily composed of environmental measurements, with spatial and temporal identifiers for aggregation. Researchers can use this data to study sediment accumulation rates, environmental changes over time, and the chronology of depositional events in the studied area. The measurements cover depths up to 0.275 meters, with 210Pb values ranging from 0 to 147.1 Bq/kg and 137Cs values up to 19.8 Bq/kg, providing insights into recent sediment history.",
+  "spatialCoverage": {
+    "min_lat": 21.365278,
+    "min_lon": -104.568333,
+    "max_lat": 21.365278,
+    "max_lon": -104.568333
+  },
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the marine snail *Bulla gouldiana*, sourced primarily from iNaturalist. It includes detailed taxonomic classifications, such as kingdom and phylum, alongside precise spatial data with decimal latitude and longitude coordinates. The records span multiple countries, including the US, Costa Rica, and Ecuador, with event dates ranging from 2016 to 2026. Each entry provides metadata on the observer, identification date, and associated media types. This biodiversity data supports ecological research, species distribution mapping, and conservation efforts by offering verified human observations of this specific gastropod species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

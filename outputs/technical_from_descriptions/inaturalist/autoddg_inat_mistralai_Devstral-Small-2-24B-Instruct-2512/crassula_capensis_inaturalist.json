@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of Crassula capensis, a plant species native to South Africa, with records spanning from 2014 to 2026. Each entry includes taxonomic details such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, along with spatial data like coordinates, country code, and state province. Temporal information includes event dates, days, months, and years, while metadata fields cover identifiers, licenses, and attribution details. The dataset is sourced from iNaturalist and includes observations recorded by various individuals, with each record linked to a unique occurrence ID. It can be used for biodiversity research, ecological studies, and monitoring the distribution and status of Crassula capensis. The semantic profile highlights the dataset's focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and metadata.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset details the geochemistry of manganese nodules collected from a deep-sea site at 11.072°N, 140.047°W, and 4722 meters depth. It provides comprehensive elemental concentrations for major oxides like Al, Si, Ca, and Fe, alongside trace metals including Co, Ni, Cu, and Zn. The collection also includes rare earth elements such as La, Ce, and Nd, plus radioactive isotopes Th and U. Samples were gathered on August 27, 1976, with specific analyses for nodule topsides, undersides, and bulk compositions. Researchers can use this data to study deep-sea mineral formation, assess resource potential, and analyze environmental geochemical patterns in marine sedimentary environments.",
+  "spatialCoverage": {
+    "min_lat": 11.072,
+    "min_lon": -140.047,
+    "max_lat": 11.072,
+    "max_lon": -140.047
+  },
+  "temporalCoverage": {
+    "from": "1976-08-27T00:00:00",
+    "to": "1976-08-27T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

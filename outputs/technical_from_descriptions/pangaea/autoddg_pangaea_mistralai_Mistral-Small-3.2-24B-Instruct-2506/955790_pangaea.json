@@ -1,0 +1,12 @@
+{
+  "description": "This dataset focuses on manganese nodules, providing detailed information on various samples collected during different geological events. The data includes spatial coordinates, with latitude ranging from -14.05 to 12.0 and longitude from -175.7167 to 0, as well as elevation data spanning from -5340.0 to 0. Each sample is categorized by type, such as whole nodule or nodule without core, and includes measurements of key elements like manganese, iron, nickel, cobalt, and copper. The dataset's semantic profile indicates it is well-suited for aggregation and classification tasks, with columns representing spatial, numeric, and temporal entities relevant to geological studies. Researchers can use this dataset to analyze the distribution and composition of manganese nodules, aiding in studies of deep-sea mineral resources and marine geology.",
+  "spatialCoverage": {
+    "min_lat": -14.05,
+    "min_lon": -175.7167,
+    "max_lat": 12.0,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

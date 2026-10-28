@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains sediment geochemistry measurements collected from a single oceanographic event at a depth of 565 meters in the Gulf of Mexico. The records include sediment depth, total organic carbon (TOC), and total inorganic carbon (TIC) values, alongside precise geographic coordinates and a fixed elevation. Each entry is linked to a specific sample identifier and timestamp, allowing for temporal and spatial analysis. Researchers can utilize this data to study carbon cycling, sediment composition, and environmental conditions in marine settings. The combination of geochemical metrics with spatial and temporal metadata makes it ideal for investigating sedimentary processes and paleoenvironmental reconstructions in this specific region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "The dataset compiles 20 radiocarbon and U‑Th measurements from archaeological sites across Borneo, covering 13 distinct sites in Indonesia and Malaysia (Kalimantan Timur, Sarawak, Sabah). Each record includes a laboratory label, the dating method (calibrated or uncalibrated radiocarbon), and up to two age estimates with their standard deviations. Ages range from 0 to 16.5 ka, with calibrated ages up to 44.8 ka. The columns serve as spatial identifiers (site, country, province), methodological metadata (lab label, dating method, status), and temporal measurements (age, standard deviation, calibrated min/max). Researchers can use the data to model settlement chronologies, compare calibrated versus uncalibrated ages, and investigate regional patterns of human activity in Borneo.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises 20 citizen‑science observations of the orchid *Pterostylis alpina* from Victoria, Australia. All records share the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Liliopsida, order Asparagales, family Orchidaceae, genus Pterostylis, species alpina) and are flagged as present occurrences. Geographic coordinates span –38.44 ° to –37.13 ° latitude and 0 ° to 145.68 ° longitude, with coordinate‑uncertainty values ranging from 0 to 28 329 m. Each entry includes a timestamp, photographer attribution, CC‑BY‑NC 4.0 or CC0 licensing, and one or more still‑image media files. The semantic profile shows that the columns capture taxonomic classification, precise geolocation, temporal event data, provenance (identifiedBy, recordedBy, rightsHolder), and data‑quality flags. Researchers can use these records to map the species’ distribution, explore seasonal phenology, assess habitat preferences, or support conservation planning for *Pterostylis alpina*.",
+  "spatialCoverage": {
+    "min_lat": -38.44,
+    "min_lon": 0.0,
+    "max_lat": -37.13,
+    "max_lon": 145.68
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

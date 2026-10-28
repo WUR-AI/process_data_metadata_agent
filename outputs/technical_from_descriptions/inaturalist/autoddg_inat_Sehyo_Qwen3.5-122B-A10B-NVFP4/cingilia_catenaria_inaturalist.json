@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the moth species Cingilia catenaria, primarily sourced from iNaturalist. The records span multiple years and cover locations across Canada and the United States, including provinces like Ontario and Quebec, and states such as Massachusetts and New York. Each entry provides detailed taxonomic classification, precise geographic coordinates, and observation dates, along with metadata regarding the observer and data quality issues. Researchers can utilize this collection to study the species' distribution patterns, seasonal activity, and habitat preferences. The data is suitable for biodiversity monitoring, ecological modeling, and conservation planning efforts focused on this specific Lepidoptera.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

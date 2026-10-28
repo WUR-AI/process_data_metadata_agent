@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains water isotope measurements collected at a fixed location in the Galápagos Volcanic Network (GVN), with data spanning from 2017 to 2018. It includes temporal (hourly resolution), spatial (latitude, longitude, elevation), and climate-specific measurements such as water vapor mix ratio, stable isotope ratios (δ18O and δD), and their standard deviations. The dataset also tracks observation counts (NOBS) for each measurement, ensuring data reliability. Semantically, it combines temporal, spatial, and numeric climate entities, making it useful for aggregation and analysis. Researchers can use this data to study atmospheric water cycles, climate patterns, and isotope variability in tropical regions. The fixed elevation (24 meters) and single event type (GVN) provide a consistent baseline for comparisons.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2018-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "hourly"
+}

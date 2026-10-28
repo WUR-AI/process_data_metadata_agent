@@ -1,0 +1,7 @@
+{
+  "description": "The dataset provides paleomagnetic measurements from sediment cores, with depth between 0 and 3.66 m. It includes magnetic declination (0–348°) and inclination (0–87.6°) plus their uncertainties, and confidence metrics such as Kappa (0–904) and α95 (0–9.56). Paleointensity is given by RPI (0–0.56) with uncertainty, and two age estimates (0–6.28 Ma) supply chronology. Virtual geomagnetic pole latitude (0–83.7°) and longitude (‑179° to 158°) with error bounds are recorded, while the integer “Cores” field (3–4) identifies each core. Researchers can use these data to reconstruct past geomagnetic field directions, assess intensity changes, and improve magnetostratigraphic age models.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

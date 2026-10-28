@@ -1,0 +1,10 @@
+{
+  "description": "GeoB16310-3 sediment geochemistry data including depth, TOC, TIC, and location recorded March 23, 2012.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-23T00:00:00",
+    "to": "2012-03-23T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

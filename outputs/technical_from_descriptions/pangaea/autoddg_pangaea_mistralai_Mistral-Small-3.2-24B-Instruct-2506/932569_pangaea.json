@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Arctic Aerosol Chemistry, providing valuable insights into the chemical composition of aerosols in the Arctic region. It includes measurements of various chemical components such as chloride (Cl-), nitrate ([NO3]-), sulfate ([SO4]2-), and others, across different aerosol size ranges and stages. The data is collected at specific dates and times, with corresponding latitude and longitude coordinates, allowing for spatial and temporal analysis. The dataset can be used for studying the distribution and behavior of aerosols in the Arctic, understanding their chemical properties, and assessing their impact on climate and environmental processes. The semantic profile indicates that the dataset includes aggregation keys for events, samples, stages, and temporal entities, as well as measurements for spatial entities and various chemical components. This structured information facilitates comprehensive data analysis and interpretation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

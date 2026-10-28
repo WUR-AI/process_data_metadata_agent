@@ -1,0 +1,10 @@
+{
+  "description": "146 water column observations (April‑Sept 2019) with geolocation, depth, and fluorescence DOM metrics.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-04-01T00:00:00",
+    "to": "2019-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

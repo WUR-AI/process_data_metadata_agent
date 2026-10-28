@@ -1,0 +1,10 @@
+{
+  "description": "Sediment geochemical, isotopic, and physical properties for 21 samples collected between July 2018 and August",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-07-01T00:00:00",
+    "to": "2018-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset, titled Kraichgau Climate Data, compiles meteorological and model simulation records from the Katharinentalerhof site in Pforzheim, Germany. It includes twelve distinct files in CSV and DAT formats, ranging from small performance logs to large Noah-MP model outputs with sizes up to 9,240 bytes. All data points are georeferenced to coordinates 48.92 latitude and 8.7 longitude, though specific timestamps are currently missing. The collection serves as a resource for analyzing local climate conditions and evaluating land-cover scenarios using the Noah-MP model. Researchers can utilize these files to study plant performance, weather patterns, and the impacts of varying land-use configurations in the Kraichgau region.",
+  "spatialCoverage": {
+    "min_lat": 48.92,
+    "min_lon": 8.7,
+    "max_lat": 48.92,
+    "max_lon": 8.7
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

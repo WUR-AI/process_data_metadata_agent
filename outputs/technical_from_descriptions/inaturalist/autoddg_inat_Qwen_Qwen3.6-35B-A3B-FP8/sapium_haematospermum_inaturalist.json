@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Sapium haematospermum, sourced from iNaturalist. It includes detailed taxonomic classification, spatial coordinates, and temporal data for occurrences across Argentina, Uruguay, and Brazil. The records are human observations, providing identifiers, license information, and media types. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic studies. The semantic profile supports aggregation and metadata retrieval, making it suitable for ecological research and species distribution modeling. Quality control issues are noted, ensuring users are aware of data limitations during analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

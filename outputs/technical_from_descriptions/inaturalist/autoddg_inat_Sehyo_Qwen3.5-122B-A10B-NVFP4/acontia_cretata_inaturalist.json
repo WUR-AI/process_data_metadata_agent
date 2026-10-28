@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the moth species Acontia cretata, primarily recorded in the United States across states like Texas, Nevada, Arizona, and California. The records span from 2017 to 2026 and include precise geographic coordinates, observation dates, and contributor details. Each entry provides a full taxonomic classification from kingdom to species, along with data quality metrics such as coordinate uncertainty. The observations are sourced from iNaturalist and are licensed for reuse under various Creative Commons terms. Researchers can utilize this collection to study the species' distribution patterns, seasonal activity, and habitat preferences across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

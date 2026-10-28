@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains observations of the seaweed species *Colpomenia peregrina*, a brown alga found in coastal regions worldwide. The records include taxonomic information, such as kingdom, phylum, and species, as well as spatial data like coordinates, country, and state/province, enabling geographic analysis. Temporal details, including observation dates and identification timestamps, allow for tracking changes over time. The dataset also provides metadata on observers, licenses, and media types, ensuring proper attribution and usage. Observations span multiple countries, including the US, France, the UK, and New Zealand, with coordinates ranging from -36.78 to 55.17 latitude and -119.54 to 174.78 longitude. Researchers can use this data to study species distribution, environmental impacts, and biodiversity trends in marine ecosystems. The semantic profile highlights its utility for taxonomic classification, spatial filtering, and temporal analysis, making it valuable for ecological research and conservation efforts.",
+  "spatialCoverage": {
+    "min_lat": -36.78,
+    "min_lon": -119.54,
+    "max_lat": 55.17,
+    "max_lon": 174.78
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on the effects of ocean acidification on the development stages of the mollusk species Mytilus galloprovincialis. It includes measurements of various chemical parameters such as pH, alkalinity, dissolved inorganic carbon, and carbonate species, as well as temperature and salinity. The data is categorized by treatment type (High CO2 and Control), time in hours, and developmental stage. The dataset can be used to study the impacts of ocean acidification on marine organisms, particularly mollusks, and to analyze the changes in carbonate chemistry under different conditions. The semantic profile indicates that the dataset is well-structured for aggregation and measurement purposes, with clear categorization and reference data. This information can be valuable for researchers investigating the biological and chemical responses to changing ocean conditions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

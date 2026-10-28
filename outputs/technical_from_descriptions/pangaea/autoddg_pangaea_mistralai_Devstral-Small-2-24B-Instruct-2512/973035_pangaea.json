@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains soil radiometric measurements collected from two distinct events, with each sample labeled uniquely for identification. The data includes spatial coordinates (latitude and longitude) and elevation, allowing for precise geospatial analysis. Key measurements include soil depth, uranium (U), thorium (Th), potassium (K), and their respective uncertainties, as well as total dose rates and equivalent doses. Age dating values with uncertainties are also provided, offering temporal insights into the soil samples. The dataset is structured to support aggregation by event, sample, or lab labels, making it useful for comparative studies. Semantically, the data combines geospatial, environmental, and temporal entities, enabling analyses of spatial distribution, radiometric properties, and chronological relationships. This dataset is ideal for researchers studying soil composition, environmental radiation, or geochronology, providing a comprehensive resource for radiometric and dosimetric research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

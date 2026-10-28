@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains sulfur isotope data (δ34S Py) from sediment cores and rock samples collected globally, with measurements ranging from -43.8 to 37.7 per mil. It includes key geochemical parameters such as calcium carbonate content (CaCO3), total organic carbon (TOC), and sulfate reduction rates (SR), alongside spatial metadata like latitude, longitude, water depth, and distance from shore. The data is sourced from peer-reviewed studies, with references provided for each record. Semantically, the dataset integrates geographic, geologic, and chemical classifications, enabling analysis of sulfur cycling across different environments and time periods. Researchers can use this dataset to study paleoenvironmental conditions, biogeochemical processes, and the evolution of sulfur isotopes in marine and terrestrial settings.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Banksia robur, a species of flowering plant in the Proteaceae family, recorded across Australia. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. Key attributes include scientific names, spatial coordinates (latitude and longitude), and temporal details (day, month, year). The semantic profile highlights biodiversity-focused fields, enabling filtering by taxonomy, location, and time. Observations are attributed to individual recorders and identified by experts, with licenses ensuring open access. This dataset is valuable for ecological studies, conservation efforts, and research on Banksia robur distribution and habitat. It supports spatial and temporal analyses, helping researchers understand species presence and environmental interactions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

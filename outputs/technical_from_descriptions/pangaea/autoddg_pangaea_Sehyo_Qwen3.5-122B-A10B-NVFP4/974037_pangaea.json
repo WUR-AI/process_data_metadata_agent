@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents geological measurements from eleven distinct sites affected by the Sucha Woda flood event on July 24, 2018. It provides precise spatial coordinates, elevation data, and counts of tree trunks for each location. The core of the dataset consists of twenty-five columns recording the diameters of individual boulders found at these sites, with values ranging from 40 to 270 units. These measurements serve as critical indicators of flood intensity and sediment transport dynamics. Researchers can utilize this structured data to analyze boulder distribution patterns, reconstruct flood hydrology, and assess the geomorphological impact of extreme weather events on mountainous terrain.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-07-24T00:00:00",
+    "to": "2018-07-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

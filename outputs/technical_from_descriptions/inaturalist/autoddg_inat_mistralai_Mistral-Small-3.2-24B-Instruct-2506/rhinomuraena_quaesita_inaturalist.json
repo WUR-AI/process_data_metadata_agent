@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on the distribution of the marine eel species Rhinomuraena quaesita, also known as the \"snake moray\" or \"spaghetti eel.\" It includes observations from various locations such as Indonesia, the Philippines, Australia, and Vanuatu, with coordinates and dates of sightings. The dataset contains taxonomic information, including kingdom, phylum, class, order, family, genus, and species, as well as details about the observers and the licensing of the data. The semantic profile indicates that the dataset is rich in biodiversity information, with a strong focus on taxonomic classification and spatial data, making it useful for aggregation and measurement purposes. Researchers can use this dataset to study the geographical distribution, habitat preferences, and conservation status of the snake moray, contributing to marine biodiversity research and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides downloadable resources related to Permafrost Ground Temperature, specifically focusing on Mean Annual Ground Temperature, its standard deviation, and permafrost probability fractions. It contains four distinct files, including climate measurement data and a thumbnail image, available in ZIP and JPG formats. The file sizes range up to approximately 1909 KB, with direct download links provided for each item. Users can utilize this collection to access critical thermal parameters for permafrost regions, supporting research in climate science and environmental monitoring. The structured aggregation keys facilitate easy retrieval of specific data components, making it a valuable asset for analyzing ground temperature variations and probabilities in cold regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

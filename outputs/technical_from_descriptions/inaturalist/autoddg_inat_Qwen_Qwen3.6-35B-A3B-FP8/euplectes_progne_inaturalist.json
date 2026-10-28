@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the Southern Red Bishop (Euplectes progne). It includes taxonomic details, spatial coordinates, and temporal data for occurrences recorded primarily in South Africa and Kenya. The records are sourced from iNaturalist, featuring human observations with associated media. Key fields include geographic location, event dates, and identification metadata. Users can utilize this data for species distribution analysis, ecological studies, and tracking population trends. The dataset supports research into the bird's habitat preferences and range expansion, offering valuable insights for conservation efforts and biodiversity monitoring in southern Africa.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

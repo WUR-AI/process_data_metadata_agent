@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the plant species *Alopecurus myosuroides*, commonly known as blackgrass, sourced from the iNaturalist platform. It includes 20 records spanning multiple countries across Europe, with detailed taxonomic classifications and precise geographic coordinates. Each entry provides temporal data, including observation dates and identification timestamps, alongside contributor information and media attachments. The records are primarily based on human observations and are licensed under various Creative Commons terms. Researchers can utilize this dataset to analyze the distribution patterns, seasonal occurrence, and citizen science reporting trends for this specific grass species across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the marine gastropod Struthiolaria papulosa, primarily recorded across various regions of New Zealand. The records span from 2018 to 2026 and include precise geographic coordinates, observation dates, and elevation data where available. Each entry is linked to a specific observer and includes media attachments, mostly still images, to support identification. The data is structured with standard biodiversity identifiers, allowing for integration into larger ecological studies. Researchers can utilize this collection to analyze the species distribution, monitor population trends over time, and assess habitat preferences within the country. The dataset also provides metadata on data quality issues and licensing terms for responsible reuse.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

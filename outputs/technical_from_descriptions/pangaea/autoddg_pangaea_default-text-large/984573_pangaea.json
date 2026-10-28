@@ -1,0 +1,15 @@
+{
+  "description": "The dataset includes 20 marine sediment samples collected during two events on 3 June 2019 and 5 June 2019. Each record provides a unique sample label, a categorical half label, sediment depth (0–236.7 m), age (0–1.31 ka), and sea surface temperature (SST) ranging from 0 to 3.82 °C with a standard deviation up to 2.50 °C. Samples are assigned to five clusters and share a common location at latitude ‑56.1512, longitude ‑115.1341 and elevation ‑4 081 m. The columns convey spatial (latitude, longitude, elevation), temporal (date/time), geological (depth, age), and oceanographic (SST, SST std dev) information. This data can be used to examine spatial and temporal sea‑temperature patterns, relate temperature variability to sediment depth, and support climate‑change or paleo‑oceanography research.",
+  "spatialCoverage": {
+    "min_lat": -56.1512,
+    "min_lon": -115.1341,
+    "max_lat": -56.1512,
+    "max_lon": -115.1341
+  },
+  "temporalCoverage": {
+    "from": "2019-06-03T00:00:00",
+    "to": "2019-06-05T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

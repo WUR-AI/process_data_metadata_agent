@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the plant species Lachnagrostis billardierei, primarily recorded in New Zealand and Australia. The records span from 2018 to 2025 and include detailed taxonomic classifications, precise geographic coordinates, and observation dates. Each entry is linked to specific observers and includes media attachments, such as still images, to support identification. The data is sourced from iNaturalist and published under Creative Commons licenses, making it suitable for biodiversity research, distribution mapping, and ecological studies focused on this grass species. Researchers can utilize the spatial and temporal attributes to analyze occurrence patterns and habitat preferences across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

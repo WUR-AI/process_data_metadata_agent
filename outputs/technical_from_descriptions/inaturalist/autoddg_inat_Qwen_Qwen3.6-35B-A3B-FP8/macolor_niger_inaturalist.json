@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains biodiversity observations of the species Macolor niger, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates ranging from -18.6 to 25.6 degrees latitude, and temporal data spanning from 2005 to 2025. Key fields capture occurrence status, recording individuals, and media types, alongside quality flags indicating coordinate precision issues. Researchers can utilize this data to study the geographic distribution, habitat preferences, and temporal trends of Macolor niger populations across various countries. The records support ecological analyses, conservation planning, and biodiversity monitoring efforts by providing verified human-observed occurrence points with associated metadata.",
+  "spatialCoverage": {
+    "min_lat": -18.6,
+    "min_lon": null,
+    "max_lat": 25.6,
+    "max_lon": null
+  },
+  "temporalCoverage": {
+    "from": "2005-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

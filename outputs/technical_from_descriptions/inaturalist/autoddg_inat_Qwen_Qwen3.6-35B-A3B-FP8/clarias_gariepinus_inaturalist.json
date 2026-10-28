@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the African catfish, *Clarias gariepinus*, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data for each sighting. The records are primarily human observations, with media types such as still images attached. Spatial coverage spans multiple countries, with coordinates ranging from negative latitudes to positive longitudes. Users can leverage this data for species distribution modeling, ecological studies, and tracking the global presence of this invasive species. The dataset provides essential metadata including identification dates, observer details, and licensing information, facilitating comprehensive research into the biology and spread of *Clarias gariepinus*.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

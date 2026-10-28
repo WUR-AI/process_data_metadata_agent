@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the insect species *Capsus ater*, recorded as human observations via iNaturalist. It includes taxonomic details, spatial coordinates across multiple European countries, and temporal data from 2006 to 2025. Key fields such as gbifID and occurrenceID serve as unique aggregation keys, while country and state columns provide geographic context. The data supports ecological research by offering verified presence records with associated media and licensing information. Users can analyze species distribution, phenology, and observer trends, leveraging the structured metadata for robust biodiversity studies and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

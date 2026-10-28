@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains 20 observations of the species Pycnoscelus indicus, sourced from iNaturalist. It records taxonomic details, including kingdom through species, and spatial data with coordinates spanning multiple countries and states. Each entry includes temporal information such as event dates and identification times, alongside metadata like recorded by, license, and media types. The data serves as a valuable resource for biodiversity research, enabling users to analyze species distribution, track observation trends over time, and study the global presence of this cockroach species through citizen science records.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Daily meteorological observations from Puchalski AWS station between 2018 and 2023.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2023-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "Daily"
+}

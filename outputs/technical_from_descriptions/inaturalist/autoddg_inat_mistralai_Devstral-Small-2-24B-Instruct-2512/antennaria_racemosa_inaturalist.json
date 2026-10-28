@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Antennaria racemosa, commonly known as eastern mountain pussytoes, collected from various locations in Canada and the United States. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country code, state/province, and coordinates. Temporal data, including event date, day, month, and year, is also provided. Each observation is attributed to a specific recorder and identified by a taxonomist, with additional metadata such as license, rights holder, and media type. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and abundance of Antennaria racemosa across different regions and time periods.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the fish species Myripristis jacobus, sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom through species, alongside precise spatial data with decimal latitude and longitude coordinates across various Caribbean locations. Temporal information is detailed via event dates ranging from 2008 to 2025. The records include observer details, identification dates, and media types, primarily still images. Users can leverage this data for biodiversity research, species distribution mapping, and temporal trend analysis. Quality flags indicate potential coordinate rounding issues, aiding in data filtering and validation for ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2008-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

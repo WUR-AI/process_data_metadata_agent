@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 human‑observation records of the beetle Nemognatha piazata, all sourced from iNaturalist and identified by a variety of contributors. Each entry includes a unique GBIF occurrence identifier, external occurrence URL, and taxonomic hierarchy from kingdom Animalia down to species Nemognatha piazata (with some records specifying the subspecies bicolor). Geographic information is provided as decimal latitude and longitude, spanning 25.7 ° N to 36.7 ° N and –102.5 ° W to –80.8 ° W, with coordinate uncertainties ranging from 0 to 1 573 m. Temporal data record the observation date (2018‑2026) and the date of identification. The records are tagged as “HUMAN_OBSERVATION”, include still‑image media, and carry licenses such as CC‑BY‑4.0 and CC‑BY‑NC‑4.0. Data quality flags note rounded coordinates and missing taxon IDs. Researchers can use this collection to study the distribution, phenology, and visual variation of Nemognatha piazata across the southern United States, or to model habitat preferences using the precise spatial and temporal metadata.",
+  "spatialCoverage": {
+    "min_lat": 25.7,
+    "min_lon": -102.5,
+    "max_lat": 36.7,
+    "max_lon": -80.8
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

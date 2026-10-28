@@ -1,0 +1,15 @@
+{
+  "description": "This dataset focuses on sediment geochemistry, providing detailed measurements from a geological survey. It includes depth, total organic carbon (TOC), and total inorganic carbon (TIC) values, all recorded as float measurements. The data is spatially referenced by latitude, longitude, and elevation, with coordinates ranging from 23.82 degrees latitude and -87.17 degrees longitude at an elevation of -565 meters. A single event identifier, GeoB16310-2, links these samples, which were collected on March 22, 2012. This information is valuable for analyzing sediment composition and understanding environmental conditions in marine or coastal geological settings. Researchers can use this data to study carbon cycles and sedimentary processes.",
+  "spatialCoverage": {
+    "min_lat": 23.82,
+    "min_lon": -87.17,
+    "max_lat": 23.82,
+    "max_lon": -87.17
+  },
+  "temporalCoverage": {
+    "from": "2012-03-22T00:00:00",
+    "to": "2012-03-22T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

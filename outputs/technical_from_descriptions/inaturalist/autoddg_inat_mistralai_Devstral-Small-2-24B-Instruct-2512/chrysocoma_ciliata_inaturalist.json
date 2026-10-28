@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Chrysocoma ciliata, a plant species in the Asteraceae family, recorded across South Africa. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic hierarchies, spatial filters (country, province, coordinates), temporal filters (day, month, year), and attribution details (identified by, recorded by). The dataset can be used for ecological studies, species distribution modeling, conservation assessments, and research on plant biodiversity in South Africa. It also supports analyses of observation trends, habitat preferences, and citizen science contributions to biodiversity monitoring.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

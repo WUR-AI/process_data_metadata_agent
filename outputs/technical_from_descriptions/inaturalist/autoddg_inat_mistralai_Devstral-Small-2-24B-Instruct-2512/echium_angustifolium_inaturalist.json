@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Echium angustifolium*, commonly known as viper's bugloss, collected from various locations primarily in the Eastern Mediterranean region, including Israel, Greece, Cyprus, and Libya. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, country codes, and locality details. Temporal data such as event dates, days, months, and years are also provided, allowing for temporal analysis. Each observation is attributed to specific recorders and identifiers, with associated licenses and rights holders. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and occurrence of *Echium angustifolium* across different regions and time periods. It also includes metadata on the basis of record, media types, and potential issues with the data, ensuring transparency and reliability for researchers.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

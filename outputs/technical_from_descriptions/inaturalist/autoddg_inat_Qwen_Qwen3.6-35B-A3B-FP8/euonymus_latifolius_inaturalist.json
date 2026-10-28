@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Euonymus latifolius*, a plant species in the Celastraceae family. It includes taxonomic classifications, spatial coordinates, and temporal data from various countries. The records are primarily human observations sourced from iNaturalist, covering events between 2012 and 2026. Key fields include geographic location, event dates, and observer details. This data supports ecological research, species distribution mapping, and conservation efforts. Users can filter by location, time, or taxonomic rank. The dataset facilitates analysis of plant presence and habitat preferences, aiding in understanding the species' range and environmental associations across different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the orchid species *Spiranthes ochroleuca*. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences recorded between 2018 and 2025. The records are primarily human observations sourced from iNaturalist, covering locations in the United States and Canada. Key fields include decimal latitude and longitude for spatial filtering, event dates for temporal analysis, and media types such as still images. Researchers can use this data to study species distribution, phenology, and habitat preferences. The dataset supports ecological modeling and conservation efforts by providing verified occurrence points with associated metadata on identification and licensing.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

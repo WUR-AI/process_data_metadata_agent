@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents laboratory measurements of the Hong Kong oyster, Magallana hongkongensis, collected in Zhanjiang in June 2016. It includes physical properties such as shell stiffness, hardness, density, and porosity alongside extensive carbonate chemistry parameters like pH, temperature, salinity, and dissolved inorganic carbon. The data covers various experimental treatments, providing detailed statistical metrics and standard deviations for each measurement. Researchers can utilize this resource to investigate how different environmental conditions affect oyster shell integrity and calcification rates. Furthermore, the inclusion of saturation states for aragonite and calcite makes it valuable for studying the impacts of ocean acidification on marine mollusks.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-06-01T00:00:00",
+    "to": "2016-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

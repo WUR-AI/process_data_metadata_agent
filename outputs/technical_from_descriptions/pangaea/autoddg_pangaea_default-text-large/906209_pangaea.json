@@ -1,0 +1,7 @@
+{
+  "description": "The collection contains three Excel (XLSX) files that document different aspects of paca hunting research. The “Content” column categorizes each record within the ecological domain, distinguishing interview data, hunting registers for pregnancy and immatures, and catch‑per‑unit‑effort information. Each “File name” serves as a unique lookup key for the corresponding spreadsheet, while the “File format” consistently indicates the data are stored as Excel workbooks. File sizes vary from a modest 24.8 KB to a larger 254.9 KB, reflecting the differing amounts of information. Direct access is provided through the “URL file” links. Researchers can use this dataset to explore paca hunting patterns, assess reproductive status, and evaluate hunting effort, supporting ecological studies and wildlife management decisions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

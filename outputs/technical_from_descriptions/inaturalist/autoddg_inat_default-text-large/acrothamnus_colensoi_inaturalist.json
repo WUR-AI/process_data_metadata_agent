@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises twenty human‑observed records of the New Zealand shrub Acrothamnus colensoi, all classified under the same kingdom, phylum, class, order, family, genus and species. The observations span four New Zealand provinces (Canterbury, Otago, Nelson and Marlborough) with decimal latitudes ranging from ‑44.73 to ‑41.10 and longitudes from 0 to 173.49, and coordinate uncertainties between 0 and 31 metres. Each row includes a unique GBIF occurrence identifier, a persistent URL, taxonomic ranks, precise event dates, and attribution fields (identifiedBy, recordedBy, rightsHolder). Semantic metadata links these columns to biodiversity, geographic, temporal and legal domains, while mediaType flags still‑image files and issue flags note data quality concerns. Researchers can use the data for species‑distribution modelling, phenology studies, conservation planning and broader biodiversity analyses of Acrothamnus colensoi.",
+  "spatialCoverage": {
+    "min_lat": -44.73,
+    "min_lon": 0.0,
+    "max_lat": -41.1,
+    "max_lon": 173.49
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

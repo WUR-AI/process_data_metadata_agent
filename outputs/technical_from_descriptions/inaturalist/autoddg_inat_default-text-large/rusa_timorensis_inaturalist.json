@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains 20 occurrence records of Rusa timorensis (Timor deer) from iNaturalist, spanning the years 2014 to 2026 and covering Indonesia, Australia and other regions. It includes precise latitude/longitude values ranging from ‑34.475 to 0.785 degrees latitude and 0 to 151.05 degrees longitude, with coordinate uncertainty up to 31,344 m. Taxonomic columns provide the full classification from kingdom to species and identifiers such as gbifID, occurrenceID and taxonKey. Temporal fields record the event date and day, month and year components. Media are still images and the license is CC BY‑NC 4.0. Researchers can use the data for mapping Timor deer distribution, studying phenology, and informing conservation assessments.",
+  "spatialCoverage": {
+    "min_lat": -34.475,
+    "min_lon": 0.0,
+    "max_lat": 0.785,
+    "max_lon": 151.05
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

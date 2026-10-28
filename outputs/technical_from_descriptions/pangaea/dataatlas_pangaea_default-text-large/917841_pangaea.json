@@ -1,0 +1,10 @@
+{
+  "description": "12 water-quality records from Macapule Lagoon (2013‑2015) with temperature, salinity, DO, pH, nutrients.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2015-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

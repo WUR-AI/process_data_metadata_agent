@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Asota plana, sourced from iNaturalist. It includes detailed taxonomic classifications, such as kingdom and family, alongside precise spatial data with decimal latitude and longitude coordinates. Temporal information is provided through event dates, while quality control is managed via issue codes. The records, primarily human observations, are linked to specific identifiers and media types. Researchers can utilize this data to study the geographic distribution, temporal patterns, and habitat preferences of Asota plana across various regions, supporting ecological analysis and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

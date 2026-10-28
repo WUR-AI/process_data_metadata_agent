@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains sediment core measurements from a single geological event located at 29.0 degrees latitude and -88.333 degrees longitude, with an elevation of -803.5 meters. The records span sediment depths up to 11.83 meters and correspond to ages reaching approximately 41 years. Key variables include stable isotope ratios for Uvigerina species, specifically carbon-13 and oxygen-18, which are critical for paleoclimatology research. All samples were collected during a single event in March 2009. Researchers can use this data to analyze past environmental conditions, reconstruct historical climate patterns, and study sediment deposition rates in this specific marine location.",
+  "spatialCoverage": {
+    "min_lat": 29.0,
+    "min_lon": -88.333,
+    "max_lat": 29.0,
+    "max_lon": -88.333
+  },
+  "temporalCoverage": {
+    "from": "2009-03-01T00:00:00",
+    "to": "2009-03-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

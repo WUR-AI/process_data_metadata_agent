@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Phebalium squamulosum*, a plant species in the Rutaceae family. It includes taxonomic details, geographic coordinates, and event dates for occurrences recorded in Australia, primarily New South Wales. The data features identifiers, spatial attributes, and temporal records, supporting ecological and taxonomic research. Users can analyze species distribution, monitor population trends, and study habitat preferences. The dataset supports biodiversity conservation efforts by providing verified occurrence records with associated metadata, facilitating scientific studies on plant ecology and biogeography in the region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

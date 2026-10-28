@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on sediment geochemistry, providing a comprehensive analysis of various chemical elements and measurements related to geological samples. It includes data on sediment depth, age, and concentrations of elements such as silicon, potassium, calcium, titanium, and others, all measured in Centered Log-Ratio (CLR) transformations. The dataset is spatially referenced with latitude and longitude coordinates, and temporally referenced with date and time information. It can be used for studying sediment composition, environmental changes, and geological processes. The data is collected from a specific event, with consistent elevation and temporal resolution, making it valuable for researchers in geology, environmental science, and related fields. The semantic profile indicates that the dataset is well-structured for measuring geological properties and spatial-temporal references, ensuring its utility in various analytical contexts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

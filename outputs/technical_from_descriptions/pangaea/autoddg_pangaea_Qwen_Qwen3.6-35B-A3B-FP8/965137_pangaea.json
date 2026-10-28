@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains coral geochemistry data from Porites sp. samples collected at a specific site in the South Pacific, defined by latitude -17.506944 and longitude -149.4225. It includes high-resolution measurements of strontium-to-calcium, magnesium-to-calcium, oxygen-18, and carbon-13 isotopes. The records span from 2001 to 2007, providing a temporal resolution of daily to yearly intervals. These geochemical proxies serve as critical indicators for reconstructing past sea surface temperatures and salinity variations. Researchers can utilize this data to analyze climate variability and oceanographic changes in tropical regions. The consistent event identifier and elevation data ensure precise spatial context for paleoclimate studies and environmental monitoring efforts.",
+  "spatialCoverage": {
+    "min_lat": -17.506944,
+    "min_lon": -149.4225,
+    "max_lat": -17.506944,
+    "max_lon": -149.4225
+  },
+  "temporalCoverage": {
+    "from": "2001-01-01T00:00:00",
+    "to": "2007-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "daily to yearly"
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset details the oocyte composition of *E. fimbriata*, capturing biological and environmental metrics across three locations in Senegal. It includes temperature, salinity, and precise geographic coordinates alongside oocyte measurements such as diameter, volume, lipid content, protein levels, and calorific value. Additionally, it records elemental ratios including Barium, Strontium, and Zinc relative to Calcium. The data spans various months in 2014, providing a comprehensive view of reproductive physiology linked to local climate conditions. Researchers can utilize this information to analyze how environmental factors influence oocyte development and energy allocation in marine ecosystems, supporting ecological studies on species adaptation and spawning dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2014-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

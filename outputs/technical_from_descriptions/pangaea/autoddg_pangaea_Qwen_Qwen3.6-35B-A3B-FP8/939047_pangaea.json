@@ -1,0 +1,10 @@
+{
+  "description": "This dataset records water vapor isotope measurements, specifically delta-18O and delta-D values, alongside water vapor mixing ratios. Collected at a single Antarctic site with an elevation of 42 meters, the data spans from 2017 to 2018. Each entry includes temporal stamps, spatial coordinates, and statistical standard deviations for the isotopic ratios. The records capture varying observation counts, indicating fluctuating data quality or sampling conditions. Researchers can utilize this information to study atmospheric moisture sources, transport mechanisms, and isotopic fractionation processes in polar regions. The consistent event label suggests a unified monitoring campaign focused on understanding hydrological cycles and climate dynamics through precise isotopic analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2018-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

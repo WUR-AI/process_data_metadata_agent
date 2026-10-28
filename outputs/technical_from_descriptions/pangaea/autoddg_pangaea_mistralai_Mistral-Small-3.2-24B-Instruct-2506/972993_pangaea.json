@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains sulfur isotope data from various scientific research events and sites, with a total of 20 unique events and 16 unique sites. It includes spatial data such as latitude, longitude, distance to shore, water depth description, and elevation, as well as temporal data like age and date/time. The dataset also features chemical measurements like δ34S Py, SR, CaCO3, and TOC, along with classifications of sample type, main lithology, CH4, and analytical methods. The semantic profile indicates that the data is well-suited for aggregation, measurement, and classification tasks within the context of scientific research, particularly in the fields of geology and chemistry. This dataset can be used for studying sulfur isotope variations, understanding geological processes, and exploring the chemical composition of sediment cores and rocks. It is valuable for researchers investigating the Earth's history, environmental changes, and biogeochemical cycles.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

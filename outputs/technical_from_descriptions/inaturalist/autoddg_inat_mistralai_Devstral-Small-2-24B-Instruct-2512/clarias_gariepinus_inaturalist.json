@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the African sharptooth catfish (Clarias gariepinus), a freshwater fish species native to Africa but widely introduced across the globe. The records include taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic hierarchies, spatial filters (country, coordinates), temporal data (event dates), and attribution details (recorded by, identified by). Users can explore the species' distribution, habitat preferences, and temporal trends, making it valuable for ecological studies, invasive species research, and conservation efforts. The dataset also supports analyses of observation quality and licensing, ensuring ethical and accurate use of the data.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

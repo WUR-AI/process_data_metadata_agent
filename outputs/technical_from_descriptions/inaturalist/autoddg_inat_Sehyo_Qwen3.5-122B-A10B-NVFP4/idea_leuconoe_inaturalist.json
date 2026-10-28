@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the butterfly *Idea leuconoe*, commonly known as the Paper Kite, sourced from iNaturalist. It includes 20 unique occurrence entries spanning multiple countries such as Taiwan, Japan, the Philippines, and Malaysia, with observations recorded between 2009 and 2026. The data provides detailed taxonomic classifications, precise geolocation coordinates, and temporal information down to the hour. Each record is linked to specific observers and includes media attachments like still images. Users can leverage this dataset to study the species' geographic distribution, seasonal activity patterns, and population presence across different regions, while also assessing data quality through provided uncertainty metrics and issue flags.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

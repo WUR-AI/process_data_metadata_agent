@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 human‑observation records of Lomandra obliqua from New South Wales, Australia. Each record is uniquely identified by a gbifID (the primary biodiversity occurrence identifier) and an occurrenceID URL, and includes the full taxonomic hierarchy, scientific name and verbatim name. Geographic coordinates range from –35.586086 to 0 ° latitude and 0 to 151.335266 ° longitude, with coordinate uncertainty between 0 and 291 m. Event dates, day, month and year are provided, and media are still images. All records are released under CC‑BY‑NC‑4.0 and note a single data‑quality issue. The data support distribution mapping, phenology analysis and biodiversity monitoring of Lomandra obliqua.",
+  "spatialCoverage": {
+    "min_lat": -35.586086,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 151.335266
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

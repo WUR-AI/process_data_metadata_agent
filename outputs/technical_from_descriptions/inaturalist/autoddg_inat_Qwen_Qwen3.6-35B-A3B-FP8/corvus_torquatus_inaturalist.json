@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the Collared Crow (*Corvus torquatus*) sourced from iNaturalist. It records occurrences across Hong Kong, China, and Taiwan, featuring precise geographic coordinates and event dates ranging from 2018 to 2026. The data includes taxonomic classifications, observer details, and media types, primarily still images. Users can leverage this information for biodiversity monitoring, species distribution analysis, and ecological studies. The records are licensed under Creative Commons, facilitating open access for research and conservation efforts focused on this specific avian species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

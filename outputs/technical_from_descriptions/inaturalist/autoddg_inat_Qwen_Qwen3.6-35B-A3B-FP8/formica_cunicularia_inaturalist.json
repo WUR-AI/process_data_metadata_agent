@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the ant species Formica cunicularia, sourced from iNaturalist. It includes detailed taxonomic classifications, spatial coordinates, and temporal event dates for occurrences across multiple countries. The records are primarily human observations, providing insights into the species' distribution in regions such as Europe and Asia. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic studies. The dataset supports research on species distribution patterns and ecological monitoring, offering valuable metadata on identification and licensing for scientific use.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

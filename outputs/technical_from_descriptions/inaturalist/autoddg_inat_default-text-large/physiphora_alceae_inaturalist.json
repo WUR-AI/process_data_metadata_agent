@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains twenty human‑observation records of the picture‑winged fly *Physiphora alceae* sourced from iNaturalist. Each entry is uniquely identified by a GBIF ID and an occurrence ID, and is linked to a single dataset key that aggregates the observations. The taxonomic hierarchy is fully populated (kingdom Animalia, phylum Arthropoda, class Insecta, order Diptera, family Ulidiidae, genus Physiphora, species alceae) and the scientific name is provided both in canonical and verbatim forms. Geographic coverage spans twelve countries across Europe, North America, Asia and Africa, with decimal latitudes from 0 to 56.45 ° and longitudes from ‑119.88 ° to 47.23 °, each accompanied by an uncertainty measure (13 distinct values, up to 28  km). Temporal information includes exact event dates, day, month and year components, while attribution fields record the identifiers of observers, identifiers, and rights holders under three Creative‑Commons licenses. Media types are primarily still images, and a single issue flag indicates coordinate rounding. Researchers can use these records to study the distribution, phenology and habitat use of *Physiphora alceae*, to model its range, or to assess data‑quality aspects such as coordinate uncertainty in citizen‑science biodiversity datasets.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -119.88,
+    "max_lat": 56.45,
+    "max_lon": 47.23
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

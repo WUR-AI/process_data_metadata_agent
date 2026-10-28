@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the plant species Mitreola petiolata, sourced primarily from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences across the United States and India. The records feature identifiers, geographic locations, and event dates, alongside metadata such as license types and data quality issues. Researchers can utilize this information to study the species' distribution, phenology, and habitat preferences. The data supports ecological analyses, conservation planning, and biodiversity monitoring efforts by providing structured, georeferenced observation records with associated media and collector details.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

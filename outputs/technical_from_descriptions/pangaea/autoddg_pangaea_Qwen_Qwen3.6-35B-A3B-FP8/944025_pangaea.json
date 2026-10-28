@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine sediment geochemistry data from a German collector trial conducted in the Pacific Ocean. It records elemental concentrations, including aluminum, iron, and rare earth elements, across varying sediment depths. The columns provide both absolute measurements and relative error values for comprehensive chemical analysis. Spatial context is defined by precise latitude, longitude, and elevation coordinates, while temporal data is captured with second-level resolution. Researchers can utilize this information to study sediment composition, trace element distribution, and geochemical processes in deep-sea environments, supporting broader geoscience and oceanographic investigations.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "seconds"
+}

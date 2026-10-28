@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species *Ancylis burgessiana*, sourced from iNaturalist. It includes detailed taxonomic classifications, spatial coordinates, and temporal data for occurrences across the United States and Canada. The records capture human observations, providing insights into the species' distribution and phenology. Users can leverage this data for spatial filtering, temporal analysis, and ecological studies. The dataset supports research on species distribution patterns and biodiversity monitoring, offering a valuable resource for understanding the presence and abundance of *Ancylis burgessiana* in North American ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

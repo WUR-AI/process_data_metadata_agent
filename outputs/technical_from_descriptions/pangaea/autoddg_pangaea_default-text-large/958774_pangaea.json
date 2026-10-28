@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records total phosphorus (TP) concentrations in the Lake Constance Fischbach‑Uttwil site. Observations span 1951‑2009 and include a surface reference (Depth top = 0 m) with two depth intervals: the full water column (Depth bot = 250 m, Depth water = 125 m) and the upper 20 m (Depth bot = 20 m, Depth water = 10 m). TP values range from 0 to 83 µg L⁻¹ and are labeled with a description indicating winter‑mixing or summer upper‑layer averages. All records share the same coordinates (latitude 47.6240°, longitude 9.3755°) and a lake elevation of –252 m. Semantically, Year obs is a temporal key, the depth fields are physical measurements, TP is a water‑quality chemical metric, and the location fields provide geospatial context. These data can be used to track long‑term phosphorus trends, evaluate eutrophication risk, and support lake‑management models.",
+  "spatialCoverage": {
+    "min_lat": 47.624,
+    "min_lon": 9.3755,
+    "max_lat": 47.624,
+    "max_lon": 9.3755
+  },
+  "temporalCoverage": {
+    "from": "1951-01-01T00:00:00",
+    "to": "2009-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

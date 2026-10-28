@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains chemical composition measurements of aerosols collected during the PS106 expedition in the Arctic region between May and July 2017. The records include spatial coordinates, timestamps, and aerosol size ranges categorized into five distinct stages. Each sample lists concentrations for various ions such as chloride, sulfate, nitrate, ammonium, and methanesulfonic acid, alongside other trace elements. The data is structured to support climate research by linking specific measurement events to precise locations and times. Researchers can utilize this information to analyze aerosol transport patterns, source apportionment, and the chemical evolution of atmospheric particles across different size fractions in polar environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-05-01T00:00:00",
+    "to": "2017-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

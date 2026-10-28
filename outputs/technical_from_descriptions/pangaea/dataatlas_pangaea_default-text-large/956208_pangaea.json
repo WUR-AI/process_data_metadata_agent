@@ -1,0 +1,10 @@
+{
+  "description": "Observational marine specimen dataset (2012‑2021) with 86 records of location, gear, depth, and fish morphometrics.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2021-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

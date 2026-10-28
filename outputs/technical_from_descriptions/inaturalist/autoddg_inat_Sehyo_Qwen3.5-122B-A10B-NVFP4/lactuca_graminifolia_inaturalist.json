@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species *Lactuca graminifolia*, commonly known as grass-leaved lettuce. The records span multiple years, primarily from 2018 to 2026, and cover locations across the United States and Mexico, with a concentration in states like Florida, Arizona, and North Carolina. Each entry includes detailed taxonomic classification, precise geographic coordinates, and observation dates, facilitating robust geospatial and temporal analyses. The data is sourced from iNaturalist observations, often accompanied by still images, and includes metadata on observers and licensing terms. Researchers can utilize this collection to study the species' distribution patterns, habitat preferences, and phenology across its range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

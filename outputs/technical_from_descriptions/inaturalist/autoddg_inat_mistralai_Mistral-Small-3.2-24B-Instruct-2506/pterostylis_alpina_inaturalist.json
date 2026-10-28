@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Alpine Orchid (Pterostylis alpina) in Victoria, Australia. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which allows for precise classification and aggregation of biodiversity data. The dataset also provides spatial data, including coordinates and country codes, enabling geographical analysis and mapping. Temporal data, such as event dates and years, facilitate tracking changes over time. Additionally, the dataset includes identifiers for aggregation keys, which can be used to link and integrate data from various sources. This dataset can be used for studying the distribution, habitat, and conservation status of the Alpine Orchid, as well as for broader biodiversity research and environmental monitoring. The semantic profile indicates that the data is well-structured for biodiversity analysis, with clear classifications and measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

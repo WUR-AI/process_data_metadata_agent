@@ -1,0 +1,10 @@
+{
+  "description": "219 sediment samples from 2009‑03‑04, with depth, age, isotopic δ13C/δ18O, location, elevation, and event.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-03-04T00:00:00",
+    "to": "2009-03-04T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

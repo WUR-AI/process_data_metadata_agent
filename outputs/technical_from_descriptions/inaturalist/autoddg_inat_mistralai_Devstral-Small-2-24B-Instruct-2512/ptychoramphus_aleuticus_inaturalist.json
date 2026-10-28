@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the rhino auklet (Ptychoramphus aleuticus), a seabird species, recorded primarily in the United States, with a few observations in Mexico and Canada. The data includes taxonomic information, geographic coordinates, observation dates, and details about the observers and identifiers. The semantic profile highlights biodiversity-focused attributes such as taxonomic classification, spatial and temporal filters, and data quality indicators. This dataset can be used for studying the distribution, habitat preferences, and population trends of rhino auklets, as well as for biodiversity research and conservation efforts. The observations are sourced from iNaturalist and include metadata such as licenses and rights holders, ensuring proper attribution and usage rights.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Mitreola petiolata, a plant species belonging to the Loganiaceae family, recorded primarily in the United States with a few observations in India. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates, observation dates, and identifiers for aggregation and reference purposes. The semantic profile highlights the dataset's focus on biodiversity, with columns representing taxonomic ranks, spatial data, temporal information, and attribution details. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Mitreola petiolata, as well as for biodiversity research and conservation efforts. The observations are sourced from iNaturalist and include metadata such as licenses, rights holders, and media types, ensuring proper attribution and usage rights.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

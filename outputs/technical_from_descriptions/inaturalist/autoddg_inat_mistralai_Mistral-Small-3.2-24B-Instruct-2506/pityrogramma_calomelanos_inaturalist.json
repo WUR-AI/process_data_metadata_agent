@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on the distribution of the fern species Pityrogramma calomelanos, providing valuable insights into its global presence. The data includes observations from various countries such as the United States, Taiwan, Panama, and Malaysia, with detailed taxonomic classifications ranging from kingdom to species. Each record is enriched with geographic coordinates, allowing for precise mapping of the fern's distribution. The dataset also includes information on the observers, dates of observation, and licensing details, ensuring transparency and credibility. This comprehensive collection can be used for ecological studies, conservation efforts, and understanding the environmental preferences of Pityrogramma calomelanos. The semantic profile indicates that the data is well-structured for biodiversity research, with clear classifications and aggregation keys for efficient data analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

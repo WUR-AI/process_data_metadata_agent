@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides twenty iNaturalist observations of the brown alga Colpomenia peregrina. Each record has a unique GBIF ID and occurrence URL and shares the taxonomic hierarchy from kingdom Chromista to species. The observations span eight countries and twelve states, with latitudes from –36.78 to 55.17 and longitudes from –119.54 to 174.78. Dates from 2016 to 2026 are included; records have images and are licensed under CC‑BY‑NC‑4.0 or CC‑BY‑4.0. Semantic columns act as biodiversity identifiers, spatial measurements and timestamps, allowing filtering by location, taxon rank or date. Researchers can use the data to map distribution, examine habitat preferences and support marine monitoring.",
+  "spatialCoverage": {
+    "min_lat": -36.78,
+    "min_lon": -119.54,
+    "max_lat": 55.17,
+    "max_lon": 174.78
+  },
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

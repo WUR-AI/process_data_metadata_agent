@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Porophyllum ruderale*, a member of the Asteraceae family, collected from various locations across multiple countries. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, enabling precise classification and identification. Each observation is enriched with spatial data, including country, state/province, and coordinates, allowing for geographic analysis and mapping. Temporal details such as event date, day, month, and year provide insights into the timing of observations. Additionally, the dataset includes metadata like licenses, rights holders, and identifiers, ensuring proper attribution and usage. This dataset can be used for biodiversity studies, ecological research, and conservation efforts, particularly in analyzing the distribution, habitat preferences, and temporal patterns of *Porophyllum ruderale*. The semantic profile highlights the dataset's utility for taxonomic classification, spatial filtering, and temporal analysis, making it a valuable resource for researchers and practitioners in the field of biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of bird species, specifically focusing on the Cinnyris pulchellus and Cinnyris melanogastrus species. It includes detailed taxonomic classifications, such as kingdom, phylum, class, order, family, genus, and species, which help in understanding the hierarchical structure of these bird species. The dataset also contains spatial data, including country codes, state/province information, and precise coordinates, which allow for mapping and analyzing the geographical distribution of these species. Temporal data, such as event dates, days, months, and years, provide insights into the timing of observations. Additionally, the dataset includes identifiers for various aggregation keys, which facilitate data linkage and integration. This dataset can be used for studying the habitat preferences, migration patterns, and conservation status of these bird species, as well as for ecological research and biodiversity assessments. The semantic profile of the dataset indicates that it is well-structured for biodiversity-related analyses, with clear classifications and measurements that support comprehensive data interpretation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

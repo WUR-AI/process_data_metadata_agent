@@ -1,0 +1,12 @@
+{
+  "description": "The dataset records results from a trawl fish survey around Sylt, Germany. Each entry has a text sample label (three unique values) and precise geographic coordinates (latitude 0–55.06° N, longitude 0–8.51° E) with secondary start‑end positions. Depth is measured (0–9.4 m and 0–11.3 m). Timestamps (three unique date‑time values) provide temporal ordering. All samples are from a benthic habitat. Fish data include total length of Scomber scombrus (0–280 mm) and count (0–2). Oceanographic variables record salinity (0–30.27 PSU) and temperature (0–19.2 °C). A single event type groups the observations. Researchers can map species distribution, examine size structure, and relate fish abundance to depth, salinity and temperature for marine ecological modelling.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": 0.0,
+    "max_lat": 55.06,
+    "max_lon": 8.51
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

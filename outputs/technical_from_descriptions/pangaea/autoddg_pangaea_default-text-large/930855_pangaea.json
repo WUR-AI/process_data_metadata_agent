@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 borehole samples collected on 2016‑09‑17 at a single location (32.366667 N, 134.966333 E) and elevation –4776 m. Each record includes a unique Sample ID and a descriptive Sample label, with a constant secondary label. Depth measurements are provided as top and bottom values in meters for up to four overlapping intervals, ranging from 0 to 1068.7 m. Geochemical analyses report Alk peak area (0–221 854) and Diols peak area (0–14 244). All samples belong to the same event and share the same timestamp. The data are suitable for studying vertical geochemical gradients, mineralization zones, and paleo‑environmental reconstruction in deep boreholes.",
+  "spatialCoverage": {
+    "min_lat": 32.366667,
+    "min_lon": 134.966333,
+    "max_lat": 32.366667,
+    "max_lon": 134.966333
+  },
+  "temporalCoverage": {
+    "from": "2016-09-17T00:00:00",
+    "to": "2016-09-17T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

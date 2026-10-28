@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Leptosiphon chrysanthus, primarily recorded in California, Nevada, and Arizona. The records span from 2008 to 2026 and include detailed taxonomic classifications ranging from kingdom to subspecies, along with precise geospatial coordinates and observation dates. Each entry provides metadata such as the observer, identification date, and associated media like still images. The data is sourced from iNaturalist and includes quality flags for coordinate rounding and taxonomic issues. Researchers can utilize this collection to analyze the species' distribution patterns, seasonal occurrence, and habitat preferences across the western United States.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2008-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains detailed climatology measurements of ice and snow collected on December 29, 2004, at a specific location in the Southern Hemisphere. The records include precise latitude and longitude coordinates alongside physical measurements such as ice and snow depth, which ranges up to 1.87 meters, and ice density values between 0.41 and 0.54. Each entry is linked to a unique sample identifier and an associated image file for visual reference. Researchers can utilize this data to analyze local snowpack characteristics, monitor seasonal variations, or validate climate models. The consistent temporal and spatial resolution makes it suitable for aggregating environmental statistics or studying physical properties of polar ice formations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2004-12-29T00:00:00",
+    "to": "2004-12-29T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Cladium mariscoides*, a plant species within the Cyperaceae family. It includes taxonomic classifications, spatial coordinates, and temporal data from iNaturalist records across the US and Canada. The data supports spatial and temporal filtering for ecological studies. Key fields include decimal latitude and longitude for location, event dates for timing, and identifiers like gbifID. Users can leverage this information to analyze species distribution, track observation trends, and conduct research on this specific plant's habitat and occurrence patterns.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

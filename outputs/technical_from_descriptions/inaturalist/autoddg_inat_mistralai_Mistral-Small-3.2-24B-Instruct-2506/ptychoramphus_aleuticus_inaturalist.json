@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of Cassin's Auklet (Ptychoramphus aleuticus), a species of seabird found primarily along the Pacific coast of North America. The data includes records from various locations such as Oregon, California, and British Columbia, with coordinates and uncertainty measurements provided for each observation. The dataset is enriched with taxonomic information, including kingdom, phylum, class, order, family, genus, and species, as well as details on the observers and the dates of observation. The semantic profile indicates that the dataset is well-structured for biodiversity research, with clear classifications and measurements. This dataset can be used for studying the distribution, habitat, and behavior of Cassin's Auklet, as well as for conservation efforts and ecological research. The observations span from 2015 to 2026, providing a comprehensive overview of the species' presence over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

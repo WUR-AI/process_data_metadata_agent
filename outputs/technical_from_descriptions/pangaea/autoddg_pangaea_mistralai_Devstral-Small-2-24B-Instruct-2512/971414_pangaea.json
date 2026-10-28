@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains river sediment data collected from two locations in Kazusa, Chiba, Japan: the Ono River and Yuki River sections. It includes measurements such as sediment section depth, age in years, and sedimentary rate (SR), along with spatial coordinates (latitude and longitude) for each sample. The data is sourced from both this study and Kuwano et al. (2021), with sample IDs and event locations serving as aggregation keys. The semantic profile highlights spatial and temporal entities, including coordinates and age, which are essential for geospatial and chronological analysis. This dataset can be used for studying sediment accumulation rates, environmental changes over time, and spatial variations in river sediment composition.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

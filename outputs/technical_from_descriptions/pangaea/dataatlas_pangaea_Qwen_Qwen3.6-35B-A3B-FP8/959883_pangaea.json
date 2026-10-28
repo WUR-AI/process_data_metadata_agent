@@ -1,0 +1,10 @@
+{
+  "description": "Sediment geochemistry and elemental concentrations at station M18650-1GC on December 15, 2022.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-12-15T00:00:00",
+    "to": "2022-12-15T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

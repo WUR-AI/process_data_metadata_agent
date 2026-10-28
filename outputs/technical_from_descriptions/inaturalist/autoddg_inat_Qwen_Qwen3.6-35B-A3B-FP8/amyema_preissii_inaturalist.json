@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the parasitic plant Amyema preissii, sourced from iNaturalist. It records taxonomic details, including kingdom through species, and spatial data across Australian states like Victoria and South Australia. Each entry provides precise decimal coordinates, event dates ranging from 2012 to 2026, and media types such as still images. The data supports biodiversity research by offering verified human observations with associated identifiers and licensing information. Users can analyze species distribution, phenology, and geographic range, leveraging the structured metadata for ecological studies and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

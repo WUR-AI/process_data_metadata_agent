@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine biology event observations, including video recordings of fish and siphonophores collected during research cruises. Each entry includes metadata such as event identifiers, file details (including size and hash for verification), and geospatial coordinates (latitude and longitude) marking the collection locations. The data is timestamped to the day, allowing for temporal analysis. Semantically, the dataset organizes information around scientific research events, multimedia interaction data, and technical measurements like file size and hash. It serves as a valuable resource for marine biology research, enabling studies on species distribution, behavior, and environmental interactions. Researchers can use this dataset to explore spatial and temporal patterns in marine life, supporting conservation efforts and ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "day"
+}

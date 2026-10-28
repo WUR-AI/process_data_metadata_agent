@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Dollar Sunfish (Lepomis marginatus), a species of freshwater fish native to North America. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with geographic coordinates, observation dates, and metadata about the observers and data quality. The semantic profile highlights the dataset's focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution markers. This dataset can be used for ecological studies, species distribution modeling, conservation efforts, and research on freshwater fish habitats. The observations span multiple U.S. states, providing a broad geographic coverage for analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "34 Earth‑environment observations captured 2012‑03‑24, including depth, TOC, TIC, location, elevation, and event.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-24T00:00:00",
+    "to": "2012-03-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

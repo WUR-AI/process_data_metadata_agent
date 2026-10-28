@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the butterfly species Idea leuconoe, also known as the common banded peacock or the white peacock. The data includes records from various locations such as Taiwan, Japan, the Philippines, and more, with detailed taxonomic information, geographic coordinates, and observation dates. The dataset is enriched with identifiers, taxonomic ranks, and spatial data, making it useful for biodiversity studies and ecological research. It can be utilized for analyzing the distribution, habitat preferences, and temporal patterns of this butterfly species. The semantic profile indicates that the dataset is well-structured for aggregation and classification purposes, facilitating comprehensive biodiversity assessments and conservation efforts. Researchers can leverage this information to study the ecological dynamics and conservation status of Idea leuconoe.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

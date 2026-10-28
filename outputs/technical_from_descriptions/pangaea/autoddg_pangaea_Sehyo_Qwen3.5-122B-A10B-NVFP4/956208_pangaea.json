@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains detailed biological and environmental records of preserved Arctic fish specimens, specifically focusing on the species *Boreogadus saida*. Collected during multiple marine expeditions between 2012 and 2020, the data includes precise spatial coordinates, water depth, and collection dates alongside specific morphological measurements such as total length, standard length, and weight. Researchers can utilize this resource to analyze population demographics, sexual distribution, and stomach content digestion states across various Arctic locations. The inclusion of gear types and elevation data further supports studies on sampling methods and habitat preferences, making it a valuable asset for marine biology and climate change research in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2020-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

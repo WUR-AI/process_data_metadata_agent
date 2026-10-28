@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of orchids, specifically focusing on the genus Acianthus. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a detailed breakdown of the observed orchids. The observations are geotagged with decimal latitude and longitude, and include information on the date and location of each observation, such as the country code and state or province. Additionally, the dataset includes identifiers like gbifID, datasetKey, and occurrenceID, which can be used for aggregation and cross-referencing. The semantic profile indicates that the data is well-structured for biodiversity studies, with clear classifications and measurements. This dataset can be used for research on orchid distribution, habitat preferences, and conservation efforts, as well as for educational purposes to study plant taxonomy and ecology.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

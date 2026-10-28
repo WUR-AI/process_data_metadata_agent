@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the alpine orchid species *Pterostylis alpina* in Victoria, Australia, collected from 2013 to 2025. Each record includes taxonomic details, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The data is sourced from iNaturalist and includes fields for species classification, spatial filtering, and temporal analysis. Researchers can use this dataset to study the distribution, habitat preferences, and seasonal activity patterns of *Pterostylis alpina*, supporting conservation efforts and ecological research in alpine regions. The semantic profile highlights biodiversity-focused attributes, making it valuable for taxonomic, spatial, and temporal queries.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

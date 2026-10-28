@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on stratigraphic composition, providing detailed measurements of geological samples. It includes sample identifiers, thickness, various composition ratios, and stratigraphic heights, along with measurements of quartz, clay, calcite, gypsum, dolomite, and pyrite content. The data is georeferenced with latitude, longitude, and elevation information, although the date and time information is missing. The dataset's semantic profile indicates that it is well-suited for aggregation and spatial reference, making it valuable for geological studies. Researchers can use this dataset to analyze stratigraphic layers, understand sediment composition, and study the geological history of the sampled area. The measurements and spatial data provide a comprehensive view of the stratigraphic context, supporting various geological and environmental research applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

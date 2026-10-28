@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains twenty verified observations of the grass Lachnagrostis billardierei, each identified by a unique GBIF occurrence ID and a persistent iNaturalist URL. All records belong to the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Liliopsida, order Poales, family Poaceae, genus Lachnagrostis) and are classified as “present” human observations. Geographic coverage spans southern New Zealand and southeastern Australia, with decimal latitudes from –41.26 to –36.84 and longitudes from 144.55 to 175.74, and coordinate uncertainties ranging from 2 m to 122 m. Temporal coverage runs from 2018 to 2026, and each entry includes media (still images) under CC‑BY or CC‑BY‑NC licences. The semantic profile shows that identifiers (gbifID, occurrenceID) serve as primary keys, taxonomic fields enable filtering by rank, and spatial fields (decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters) support precise mapping. Researchers can use these data to model the species’ distribution, assess seasonal phenology, or evaluate habitat preferences across the two countries.",
+  "spatialCoverage": {
+    "min_lat": -41.26,
+    "min_lon": 144.55,
+    "max_lat": -36.84,
+    "max_lon": 175.74
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

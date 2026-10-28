@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the marine sponge *Hymeniacidon perlevis*, sourced primarily from iNaturalist. It includes 20 records spanning multiple countries, with geographic coordinates, observation dates, and taxonomic classifications from kingdom to species level. The data features detailed spatial information, including latitude, longitude, and coordinate uncertainty, alongside temporal metadata such as event dates and identification timestamps. Most records are accompanied by still images and are licensed under Creative Commons terms. Researchers can utilize this collection to analyze the distribution patterns, seasonal occurrence, and habitat preferences of this sponge species across different regions, supporting biodiversity monitoring and ecological studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

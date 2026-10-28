@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides a geochemical profile of sediment samples collected at a single monitoring event (GeoB16310‑2) on 22 March 2012 at latitude 23.82405 ° N, longitude ‑87.1702833 ° W, and an elevation of ‑565 m. It contains float measurements of sediment depth (0 – 4.85 m), total organic carbon (TOC, 0 – 0.701 % or g kg⁻¹) and total inorganic carbon (TIC, 0 – 10.611 % or g kg⁻¹), each recorded as continuous geological measurements. The event identifier, date/time, and elevation are single‑value text and integer fields. Spatial coordinates and a second‑resolution timestamp enable geolocation and temporal ordering. Researchers can use these data to evaluate carbon distribution, compare sediment composition across depths, and support regional geochemical or environmental assessments.",
+  "spatialCoverage": {
+    "min_lat": 23.82405,
+    "min_lon": -87.1702833,
+    "max_lat": 23.82405,
+    "max_lon": -87.1702833
+  },
+  "temporalCoverage": {
+    "from": "2012-03-22T00:00:00",
+    "to": "2012-03-22T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

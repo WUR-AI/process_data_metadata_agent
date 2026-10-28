@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Euonymus latifolius, collected from various locations across Europe and the Middle East. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country, state/province, and coordinates. Temporal data, including the day, month, and year of observation, is also provided. Each observation is attributed to a specific recorder and includes metadata such as the basis of record, license, and media type. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and status of Euonymus latifolius across different regions. It is particularly useful for researchers interested in plant taxonomy, conservation biology, and environmental science.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

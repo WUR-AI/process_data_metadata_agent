@@ -1,0 +1,7 @@
+{
+  "description": "The collection comprises a set of zip files and an Excel workbook that together provide topographic information for several locations. The GIS column lists nine distinct place names, such as Big Skidder, Black Hills, and San Juan, serving as the primary identifier for each spatial record. The XLSX column contains a single entry, the file TopographicHigh_RawData.xlsx, which holds the raw elevation data. Because the GIS field is a geospatial identifier with place‑level resolution, the dataset can be used for mapping, terrain analysis, environmental planning, and other topographic studies. It is well suited for researchers and GIS professionals needing location‑specific elevation data.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

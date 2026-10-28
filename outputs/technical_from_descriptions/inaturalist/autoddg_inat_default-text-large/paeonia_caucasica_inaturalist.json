@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains twenty observations of the Caucasian peony (Paeonia caucasica) from Russia, mainly Krasnodar and one from Adygey. Each entry provides a unique GBIF ID, occurrence URL, catalog number and a taxonomic hierarchy (kingdom to species) identical for all records. Coordinates span 43.5‑44.7 °N and 37.9‑40.7 °E, with uncertainty between 3 and 1 598 m. Event dates are recorded with day, month and year components, and attribution fields list observers, identifiers and licenses (CC‑BY or CC‑0). Media are images and issue flags note rounded coordinates or missing taxon IDs, making the data useful for phenology, distribution modelling and projects on the Caucasian peony.",
+  "spatialCoverage": {
+    "min_lat": 43.5,
+    "min_lon": 37.9,
+    "max_lat": 44.7,
+    "max_lon": 40.7
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the Mexican hoverfly species Asemosyrphus mexicanus, collected from various locations in Mexico and neighboring countries. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates and observation dates. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear identifiers, taxonomic ranks, and spatial and temporal data. This dataset can be used for studying the distribution, habitat, and ecology of Asemosyrphus mexicanus, as well as for broader research on hoverfly biodiversity and conservation in Mexico and the region. The observations span from 2017 to 2026, providing a comprehensive overview of the species' presence and activity over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

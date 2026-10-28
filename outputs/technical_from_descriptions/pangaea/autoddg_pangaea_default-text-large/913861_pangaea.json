@@ -1,0 +1,12 @@
+{
+  "description": "This dataset records 20 aerosol size‑distribution observations taken at the Neumayer Station (latitude ‑70.65°, longitude ‑8.25°, elevation 42 m) with a fixed instrument height of 7 m and a one‑hour sampling window (Time min = 60 min). Each row includes a timestamp (Date/Time) and a corresponding end time, and the measurements are expressed as dN/dlogDp values for particle diameters from 92.87 nm up to 4845.51 nm, with observed ranges from near zero to several hundred (e.g., 0–453.74 for 92.87 nm and 0–699.86 for 144.11 nm). The columns are semantic‑typed as atmospheric‑science measurements, while the temporal fields serve as aggregation keys and the geographic fields provide precise location metadata. Researchers can use these data to analyse temporal variations in aerosol size spectra, assess aerosol impacts on radiative forcing, and support climate‑model validation or air‑quality studies in polar environments.",
+  "spatialCoverage": {
+    "min_lat": -70.65,
+    "min_lon": -8.25,
+    "max_lat": -70.65,
+    "max_lon": -8.25
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "1 hour"
+}

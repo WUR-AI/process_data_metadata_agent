@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on sediment geochemistry, providing detailed measurements from a specific geological event. It includes depth, total organic carbon (TOC), and total inorganic carbon (TIC) values, which are critical for analyzing sediment composition. The data is spatially indexed by latitude, longitude, and elevation, covering a depth range up to 10.38 meters. Temporal context is provided by a single recorded date in March 2012. Researchers can use this information to study geochemical profiles and environmental conditions at the sampled location. The consistent event identifier suggests aggregated samples from a single survey, facilitating comparative analysis of sediment layers and their chemical properties over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-01T00:00:00",
+    "to": "2012-03-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

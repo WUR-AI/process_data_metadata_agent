@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains paleoceanographic diatom measurements from sediment cores, including species composition and environmental indicators. It features 20 unique samples with depth, age, and diatom abundance data, categorized by temperature preferences (warm, cold, ice-neritic, etc.) and specific species counts. The dataset includes spatial coordinates (latitude, longitude, elevation) and temporal information, though date/time is missing. Semantically, it serves as a climate-focused measurement dataset, useful for aggregating and analyzing paleoenvironmental conditions. Researchers can use this data to reconstruct past oceanographic changes, study diatom community shifts, and correlate climate variables with sedimentary records. The measurements cover a range of diatom types, providing insights into historical sea surface temperatures and ecological dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

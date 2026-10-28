@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the butterfly *Idea leuconoe*, sourced from iNaturalist. It records taxonomic details, including subspecies like *I. leuconoe clara*, and spatial data across Taiwan, Japan, the Philippines, and Malaysia. Each entry provides precise coordinates, event dates ranging from 2009 to 2026, and observer metadata. The data supports biodiversity research, species distribution mapping, and ecological studies. Users can filter records by location, time, or taxonomic rank. Quality control issues, such as coordinate rounding, are flagged. This resource is ideal for analyzing the geographic range and temporal patterns of this widespread species, facilitating conservation efforts and scientific inquiry into its habitat preferences.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2009-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

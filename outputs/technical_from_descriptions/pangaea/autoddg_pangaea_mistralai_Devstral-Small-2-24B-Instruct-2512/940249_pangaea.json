@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains measurements from an ice core sample, specifically focusing on isotopic data. It includes core identifiers, depth measurements, gas age, oxygen isotope ratios (δ18O and δ18O_2), and chlorine isotope ratios (Δ36 and Δ36_2). The data also provides spatial and temporal references, including latitude, longitude, elevation, and date/time. The semantic profile indicates that the dataset is structured for climate research, with identifiers for aggregation, measurements for analysis, and spatial/temporal references for context. This dataset can be used for studying past climate conditions, analyzing isotopic variations in ice cores, and correlating data with historical climate events. The measurements span a depth range of 0 to 2532.56 and a gas age range of 0 to 20.56476, offering insights into long-term climate patterns.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

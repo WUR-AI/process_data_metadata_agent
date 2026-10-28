@@ -1,0 +1,7 @@
+{
+  "description": "This dataset records marine biology observations from the PS87 expedition, capturing detailed whale and dolphin sightings across the Arctic region. Each entry includes precise timestamps, geographic coordinates, and species identification, ranging from specific names like Balaenoptera physalus to general categories such as unidentified large whales. The data also provides a certainty level for each observation and counts the number of individuals seen. Researchers can utilize this information to analyze migration patterns, assess species distribution in high-latitude waters, and study the reliability of visual marine surveys. The consistent event identifier links all records to a single research campaign, facilitating comprehensive temporal and spatial analysis of marine mammal activity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

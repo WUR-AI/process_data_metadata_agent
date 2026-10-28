@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed information on mineral composition from geological samples. It includes data on various minerals such as quartz (Qz), plagioclase (Pl), and chlorite (Chl), measured at different sediment depths. The dataset is structured with columns representing specific minerals and their respective measurements, along with identifiers for events and samples. Spatial data includes latitude, longitude, and elevation, while temporal data is recorded by date and time. The semantic profile indicates that the dataset is domain-specific to geological studies, with measurements serving as key data points. This dataset can be used for analyzing mineral distributions, understanding geological formations, and supporting research in earth sciences. The measurements and identifiers allow for aggregation and detailed analysis of mineral compositions across different samples and events.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of *Antennaria racemosa*, a plant species in the Asteraceae family. It includes spatial coordinates, temporal event dates, and taxonomic identifiers for records from Canada and the United States. The data features unique GBIF and occurrence IDs, linking to specific iNaturalist observations. Users can analyze species distribution across states like Alberta and Washington, leveraging coordinate uncertainty and media types for research. This resource supports ecological studies, conservation planning, and biodiversity monitoring by providing structured, georeferenced occurrence data with clear licensing and attribution details for scientific use.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

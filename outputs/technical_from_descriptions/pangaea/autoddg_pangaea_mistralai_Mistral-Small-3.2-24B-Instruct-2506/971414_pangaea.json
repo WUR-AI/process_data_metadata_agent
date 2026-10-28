@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on River Sediment Ages, specifically from the Ono River and Yuki River sections in Kazusa, Chiba. It includes various measurements such as section depth, sediment age, and sedimentary rate (SR) from different sample IDs and events. The data spans from the year 0 to 1310, with section depths ranging from -0.15 to 146.27 meters. The dataset also provides geographical information through latitude and longitude coordinates. Semantically, the dataset includes spatial data for location and coordinates, temporal data for age and date/time, and numeric entities for section depth and sedimentary rate. This dataset can be used for studying sediment accumulation rates, historical river dynamics, and geological dating. The references provided can help users explore related scientific literature.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "0000-01-01T00:00:00",
+    "to": "1310-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

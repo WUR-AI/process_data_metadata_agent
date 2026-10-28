@@ -1,0 +1,12 @@
+{
+  "description": "This dataset provides measurements of Arctic water quality, including dissolved organic matter (DOM) properties and fluorescence indices. It contains 20 unique sampling events across four expeditions, with spatial coverage spanning latitudes from 68.357 to 69.649 and longitudes from -137.8048 to -133.147. Key measurements include water depth, various DOM components (IFDOM C1, C2, C3), fluorescence peaks (FDOM A, C, M, T), and fluorescence indices (fDOM FI, HI, BI). The data is temporally resolved to the second and can be aggregated by event, expedition, or station. This dataset is valuable for studying Arctic water quality trends, DOM dynamics, and environmental monitoring, particularly in relation to climate change impacts in polar regions.",
+  "spatialCoverage": {
+    "min_lat": 68.357,
+    "min_lon": -137.8048,
+    "max_lat": 69.649,
+    "max_lon": -133.147
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

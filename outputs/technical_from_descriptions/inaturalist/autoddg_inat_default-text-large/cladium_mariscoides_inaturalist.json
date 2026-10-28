@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises twenty human‑observation records of the wetland grass Cladium mariscoides, each identified by a unique GBIF occurrence ID that serves as the primary key and links to the original iNaturalist observation. All records share the same taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Liliopsida, order Poales, family Cyperaceae, genus Cladium) and are classified at the species rank, with scientific and verbatim names provided. Geographic coverage spans the United States and Canada, with decimal latitudes from 0 to 45.92° N and longitudes from –88.25° to 0°, and coordinate uncertainties ranging from 1 to 27 692 m. Temporal information includes precise event dates, day, month and year components, while attribution fields record the observers, identifiers and licensing (CC‑BY‑NC‑4.0, CC‑BY‑4.0, CC0‑1.0). Media types are listed as still images, and data‑quality flags note issues such as rounded coordinates. Researchers can use these richly annotated occurrence points to study the distribution, phenology and habitat preferences of Cladium mariscoides across its North‑American range.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -88.25,
+    "max_lat": 45.92,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

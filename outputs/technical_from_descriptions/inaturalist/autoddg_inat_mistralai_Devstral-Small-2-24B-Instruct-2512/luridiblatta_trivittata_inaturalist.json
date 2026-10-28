@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the California cockroach species *Luridiblatta trivittata* in the state of California, USA. The records include taxonomic information such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, coordinate uncertainty, and elevation. Temporal details such as event dates, days, months, and years are also provided. Each observation is attributed to a recorder and identifier, with associated metadata like licenses and rights holders. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and population trends of this cockroach species in California. It is particularly useful for researchers interested in arthropod taxonomy, spatial distribution, and temporal patterns of occurrence.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents sediment mineralogy from the Lanaittu core, sampled at depths ranging from 0 to 27.5 meters. It provides detailed quantitative measurements of mineral abundances, including transparent, opaque, and turbid fractions, alongside specific minerals like garnet, staurolite, and kyanite. The data includes spatial coordinates and temporal references from January 1994, enabling precise geological mapping. Researchers can utilize this information to analyze sediment composition, assess metamorphic conditions, and understand depositional environments. The consistent sampling parameters facilitate comparative studies of mineralogical variations within the core, supporting broader investigations into regional geological history and sediment transport processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1994-01-01T00:00:00",
+    "to": "1994-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

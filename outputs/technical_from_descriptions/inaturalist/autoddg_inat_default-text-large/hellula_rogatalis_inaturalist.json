@@ -1,0 +1,15 @@
+{
+  "description": "This dataset compiles 20 Hellula rogatalis sightings from iNaturalist, each with a GBIF occurrence ID, URL and catalog number. Taxonomic fields cover kingdom Animalia to species Hellula rogatalis, enabling filtering by rank. Geographic data include country codes (US, MX), state/province, and latitude‑longitude (21.8° N to 39.1° N, –122.0° to –116.9° W) with uncertainties up to 2 879 m. Records span 2014‑2025, providing day, month and year for temporal analysis. All entries are under a CC BY‑NC 4.0 license, crediting observers, and include media. The semantic profile shows identifiers as aggregation keys, taxonomic columns for classification, spatial columns for location and precision, temporal columns for dating, and issue flags such as rounded coordinates.",
+  "spatialCoverage": {
+    "min_lat": 21.8,
+    "min_lon": -122.0,
+    "max_lat": 39.1,
+    "max_lon": -116.9
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

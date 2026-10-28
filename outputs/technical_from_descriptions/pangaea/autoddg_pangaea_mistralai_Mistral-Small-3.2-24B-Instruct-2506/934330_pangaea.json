@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains information on peat core ages, with measurements and metadata from a specific location in Stordalen, Sweden. It includes data on sediment depth, sample thickness, age dating, and uncertainty, along with the type of dated material and laboratory labels. The dataset spans a range of years from 1922 to 2003, with spatial coordinates and elevation data provided for the sampling site. Semantically, the dataset is rich in climate-related information, with numeric entities representing measurements and temporal data, spatial entities indicating location, and text fields offering descriptions and aggregation keys. This dataset can be used for climate research, particularly in studying peatland development, carbon sequestration, and paleoclimate reconstruction. The detailed age dating information and material types make it valuable for understanding long-term environmental changes and validating climate models.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1922-01-01T00:00:00",
+    "to": "2003-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

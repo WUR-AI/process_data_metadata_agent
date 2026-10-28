@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 observations of water isotope measurements collected during four research expeditions in the Mackenzie region. Each record includes latitude, longitude, timestamp, station identifier, water depth, δ¹⁸O and δD isotope ratios, and a derived metric d xs. Latitude values range up to 69.649° north and longitude down to –137.8048° west. Depths are shallow (0–1 m) and isotope values span –20.32 to 0 ‰ for δ¹⁸O and –161.9 to 0 ‰ for δD. The data serve climate and geochemical analyses, supporting studies of spatial and temporal patterns in water isotopes, hydrology, and paleoclimate reconstruction and environmental monitoring.",
+  "spatialCoverage": {
+    "min_lat": null,
+    "min_lon": -137.8048,
+    "max_lat": 69.649,
+    "max_lon": null
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

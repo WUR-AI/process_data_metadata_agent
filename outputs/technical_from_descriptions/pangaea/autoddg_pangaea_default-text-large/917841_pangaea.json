@@ -1,0 +1,12 @@
+{
+  "description": "The dataset records daily water‑quality measurements from Macapule Lagoon, identified by four distinct dates and three sampling zones. Each record includes temperature (0‑32.5 °C), salinity (0‑41.2 ppt), dissolved oxygen (0‑7.2 mg L⁻¹), pH (0‑7.9), ammonia (0‑1200 µg L⁻¹), nitrate (0‑10 mg L⁻¹) and phosphate (0‑0.3 mg L⁻¹). The temporal column serves as an aggregation key with day resolution, while the zone, latitude (25.35) and longitude (‑108.5) columns provide spatial context for geolocation. All measurements are environmental variables intended for quantitative analysis. Researchers can use the data to assess seasonal trends, compare zones, and support lagoon water‑quality monitoring, management decisions, and policy recommendations.",
+  "spatialCoverage": {
+    "min_lat": 25.35,
+    "min_lon": -108.5,
+    "max_lat": 25.35,
+    "max_lon": -108.5
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "day"
+}

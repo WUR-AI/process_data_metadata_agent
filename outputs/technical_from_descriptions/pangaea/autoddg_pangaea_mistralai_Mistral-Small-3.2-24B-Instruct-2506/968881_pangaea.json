@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Antarctic Snow Depth, providing valuable information for climate research and environmental monitoring. It includes measurements of snow depth and density at various locations in Antarctica, with each record specifying the event, latitude, longitude, and date/time. The dataset's semantic profile indicates that it contains spatial data for location coordinates and temporal data with a resolution of seconds, making it useful for time-series analysis and spatial mapping. The measurements of snow depth, both overall and at the top and bottom layers, along with snow density, offer insights into the physical properties of snow cover. Researchers can use this data to study snow accumulation patterns, climate change impacts, and other environmental processes in Antarctica. The dataset's structured format and detailed metadata enhance its usability for various scientific applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "seconds"
+}

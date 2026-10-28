@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Spragueia dama, collected from various locations in the United States and Mexico. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country code, state/province, and coordinates. Temporal data includes event dates, days, months, and years. The dataset also provides information on the observers, identifiers, and licenses for the observations. The semantic profile indicates that the data is structured for biodiversity research, with columns serving as aggregation keys, spatial filters, temporal filters, and attribution markers. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Spragueia dama, as well as for biodiversity monitoring and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

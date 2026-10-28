@@ -1,0 +1,10 @@
+{
+  "description": "This dataset focuses on vegetation metabolism in Uelzen, Germany, providing valuable insights into the region's ecological dynamics. It includes various data types such as vegetation indices, metabolism indices, and 6 band color composites, collected over multiple years from 1984 to 2022. The dataset comprises GeoTIFF and Shapefile formats, with each entry specifying the observation year, start and end dates, and content type. The semantic profile indicates that the data is rich in spatial and temporal information, with columns representing locations, temporal entities, and file types. This dataset can be used for analyzing long-term trends in vegetation health, studying the impacts of environmental changes, and supporting ecological research and policy-making. The spatial resolution ranges from city-level to specific coordinates, while the temporal resolution varies from yearly to daily.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": "city-level to specific coordinates",
+  "temporal": "yearly to daily"
+}

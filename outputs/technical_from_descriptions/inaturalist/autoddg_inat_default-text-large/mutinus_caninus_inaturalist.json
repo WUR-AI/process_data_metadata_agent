@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 occurrence records of the fungus Mutinus caninus, all drawn from a single iNaturalist dataset. Each record is uniquely identified by gbifID and occurrenceID and includes the full taxonomic hierarchy from kingdom to species. Geographic coverage spans ten countries in Europe and Asia, with latitudes from 0 to 56.18 degrees and longitudes from ‑3.57 to 36.19 degrees, and coordinate‑uncertainty values up to 26 000 m. Temporal information ranges from 2018 to 2025, providing exact event dates and day, month, and year fields. All observations are human‑recorded still images under CC‑BY‑NC‑4.0 or CC‑BY‑4.0 licenses. The semantic profile links taxonomy, location, timestamps and data‑quality flags, enabling filtering by country, state or uncertainty. Researchers can use these records to map the distribution, study phenology, or assess observation quality of Mutinus caninus.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -3.57,
+    "max_lat": 56.18,
+    "max_lon": 36.19
+  },
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

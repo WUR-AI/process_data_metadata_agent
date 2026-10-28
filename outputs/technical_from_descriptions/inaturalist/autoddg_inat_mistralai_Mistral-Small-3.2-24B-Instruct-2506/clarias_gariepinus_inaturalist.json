@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the African catfish, Clarias gariepinus, across various regions. It includes details such as the scientific name, taxonomic ranks, and geographical coordinates of observations. The dataset is enriched with semantic profiles that describe the function and context of each column, such as identifiers, taxonomic ranks, locations, and temporal data. This information can be used for biodiversity studies, ecological research, and conservation efforts. The dataset covers observations from multiple countries and includes metadata such as the date of observation, the observer's name, and the license under which the data is shared. Researchers can utilize this data to analyze the distribution patterns, habitat preferences, and potential impacts of the African catfish on local ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

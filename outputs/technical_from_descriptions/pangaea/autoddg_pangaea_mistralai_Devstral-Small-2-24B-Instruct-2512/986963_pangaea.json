@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains measurements from polar sediment cores, including spatial coordinates (latitude, longitude, elevation), sediment depth, age estimates, and various chemical and geological properties. Key variables include total organic carbon (TOC), total inorganic carbon (TIC), total nitrogen (TN), and stable isotope ratios (δ13C, δ15N), along with sediment grain size distributions. The data spans multiple events and time periods, with temporal resolution ranging from years to seconds. Semantically, the dataset integrates geospatial, geological, and chemical measurements, making it valuable for paleoenvironmental reconstructions, climate studies, and sedimentary process analysis. Researchers can use this dataset to investigate past environmental changes, carbon cycling, and sediment deposition patterns in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "years to seconds"
+}

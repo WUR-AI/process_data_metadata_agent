@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents biological measurements of the Baltic clam *Macoma balthica* collected during the EMB320 expedition in the Rönnebank area of the Baltic Sea in June 2023. The records distinguish between samples taken from a Marine Protected Area and a Reference area, capturing variations in shell length and frequency counts. Each entry includes specific site identifiers alongside the measured shell length and the corresponding frequency of individuals found. Researchers can utilize this data to analyze population structures, compare ecological conditions between protected and non-protected zones, and assess the health of benthic communities within this specific marine environment.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-06-01T00:00:00",
+    "to": "2023-06-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

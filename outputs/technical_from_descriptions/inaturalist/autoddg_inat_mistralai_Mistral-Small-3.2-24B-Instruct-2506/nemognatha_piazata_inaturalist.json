@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the beetle species Nemognatha piazata and its subspecies Nemognatha piazata bicolor, primarily located in the United States, with a focus on the states of Florida, Oklahoma, and Texas. The data spans from the year 1933 to future projections in 2026, with detailed taxonomic information including kingdom, phylum, class, order, family, genus, species, and infraspecific epithet. Each observation is georeferenced with decimal latitude and longitude, and includes metadata such as the observer's name, identification date, and license information. The dataset's semantic profile indicates that it is well-suited for biodiversity research, with columns representing various taxonomic ranks, locations, and temporal entities. This dataset can be used for studying the distribution, habitat, and temporal patterns of these beetle species, as well as for conservation efforts and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1933-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

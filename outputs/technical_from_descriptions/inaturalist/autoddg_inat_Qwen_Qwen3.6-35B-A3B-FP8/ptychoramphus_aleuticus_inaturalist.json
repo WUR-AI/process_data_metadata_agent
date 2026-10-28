@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the Least Auklet (*Ptychoramphus aleuticus*), sourced from iNaturalist. It provides comprehensive taxonomic classification, including kingdom through species levels, alongside precise spatial coordinates across the United States, Canada, and Mexico. Temporal data spans from 2015 to 2026, capturing event dates and identification timestamps. The records include media types and quality flags to assist in data validation. Users can leverage this biodiversity data for spatial filtering, temporal analysis, and studying the distribution and observation patterns of this specific seabird species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

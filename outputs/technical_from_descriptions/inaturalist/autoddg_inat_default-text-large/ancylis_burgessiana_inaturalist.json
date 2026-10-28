@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 observation records of the moth Ancylis burgessiana, all identified to species (kingdom Animalia, phylum Arthropoda, class Insecta, order Lepidoptera, family Tortricidae). Each row provides a unique GBIF ID, occurrence ID and catalog number linking to iNaturalist. Geographic fields give decimal latitude (0 – 46.94) and longitude (‑92.61 – 0) with coordinate‑uncertainty (0‑71 m) and state‑province for 14 US states and Canada. Event date, day, month and year record the timing of each sighting. Media are still images under CC‑BY‑NC‑4.0 or CC0, with issues such as rounded coordinates flagged. The semantic profile shows identifiers, taxonomic names, location and temporal attributes useful for mapping distributions, phenology studies and biodiversity reporting of Ancylis burgessiana.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -92.61,
+    "max_lat": 46.94,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

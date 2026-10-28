@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Keckiella breviflora, a plant species in the Plantaginaceae family, recorded primarily in California and Nevada, USA. The data includes taxonomic classifications, geographic coordinates, observation dates, and attribution details such as identifiers and rights holders. Semantically, the dataset is structured to support biodiversity research, with columns categorized into taxonomic, spatial, temporal, and organizational metadata. It can be used for ecological studies, species distribution modeling, and conservation efforts. The observations are sourced from iNaturalist and include media references, licenses, and quality control notes. The dataset spans multiple years, providing temporal insights into the species' presence and habitat. Researchers can filter and analyze the data based on location, time, and taxonomic details to study the species' ecology and conservation status.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

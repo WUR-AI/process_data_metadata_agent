@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains 20 laboratory‑experiment observations of aquatic tanks, each identified by a unique tank number (11 distinct tanks) and grouped by four ecological treatment categories (Control, DOC, Zooplankton, Phytoplankton). An integer index ranging from 0 to 48 records each row, while the experimental factor “DOE” is measured as an integer between 0 and 28. The biological response variable “X. umbellata pulsation” is a floating‑point measurement spanning 0 to 40. The data capture how different treatments affect the pulsation of X. umbellata in controlled tank environments. Researchers can use this collection to compare treatment effects, model ecological responses, or assess experimental designs in aquatic ecology studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

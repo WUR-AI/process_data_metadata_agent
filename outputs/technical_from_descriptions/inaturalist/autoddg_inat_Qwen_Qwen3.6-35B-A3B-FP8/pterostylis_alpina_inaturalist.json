@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the orchid species Pterostylis alpina, sourced from iNaturalist. It includes taxonomic classifications, precise spatial coordinates in Victoria, Australia, and temporal data spanning from 2013 to 2025. The records are primarily human observations, featuring media types like still images and quality flags indicating coordinate rounding. Users can leverage this data for ecological studies, species distribution modeling, and conservation planning. The dataset supports research into the habitat preferences and phenology of Pterostylis alpina, offering valuable insights into its presence across specific geographic regions over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

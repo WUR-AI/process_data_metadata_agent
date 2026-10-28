@@ -1,0 +1,10 @@
+{
+  "description": "Sediment core data from July 2018 to August 2019 with geochemical and grain size measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-07-01T00:00:00",
+    "to": "2019-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

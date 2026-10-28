@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 20 occurrence records of the marine snail Bulla gouldiana, all contributed as human observations through iNaturalist. Each record provides a GBIF ID, an occurrence URL, and the full taxonomic hierarchy to species Bulla gouldiana. Coordinates cover latitudes 0 °–34.43 ° N and longitudes –119.95 °–0 °, with uncertainties up to 28 957 m; most records are from California, USA, plus a few from Costa Rica and the Galápagos. The semantic profile links identifiers, taxonomic, spatial (latitude, longitude, uncertainty), temporal (eventDate, day, month, year) and attribution (identifiedBy, recordedBy, license) fields. These data support distribution mapping, phenology studies, and evaluation of citizen‑science quality for marine snails.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -119.95,
+    "max_lat": 34.43,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

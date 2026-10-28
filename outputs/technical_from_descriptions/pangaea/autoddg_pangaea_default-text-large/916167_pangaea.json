@@ -1,0 +1,12 @@
+{
+  "description": "The collection comprises twelve text‑based files that serve as the primary aggregation key for a single field experiment at Katharinentalerhof Pforzheim (latitude 48.92, longitude 8.7). File formats are either CSV or DAT, providing general metadata about each resource, and file sizes vary from 6 KB to 9 240 KB, reflecting a range of measurement detail. Each entry includes a URL that references the actual data file, and the event identifier groups all records under the same study. Geographic coordinates are recorded as floating‑point values, while the temporal column is currently empty. These files contain environmental measurements related to carbon fluxes and can be used to analyse ecosystem carbon exchange, validate model simulations, or support comparative studies of land‑surface processes.",
+  "spatialCoverage": {
+    "min_lat": 48.92,
+    "min_lon": 8.7,
+    "max_lat": 48.92,
+    "max_lon": 8.7
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

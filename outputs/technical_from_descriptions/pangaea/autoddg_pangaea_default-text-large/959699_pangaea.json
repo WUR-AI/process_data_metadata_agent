@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records a single sampling event (PLDS04MV‑109BX) collected at latitude 11.072 ° N, longitude ‑140.047 ° E and a seafloor elevation of ‑4 722 m, with all samples classified as manganese‑nodule deposits. Each record includes a unique sample identifier, a sediment‑depth of 0 m, and a distance from the nodule surface ranging up to 0.15 m, together with a categorical sample type (topside, underside or bulk). Geochemical measurements report concentrations of major elements (Al up to 2.3 %, Si up to 6.66 %, Ca up to 1.75 %) and trace metals (Mn up to 30.48 %, Fe up to 9.25 %, Co, Ni, Cu, Zn, Ba) as well as rare‑earth elements (La up to 117 ppm, Ce up to 625 ppm, Nd up to 210 ppm, etc.). The columns convey geospatial coordinates, geological measurements, and geochemical element concentrations, with a single timestamp (27 August 1976) serving as a temporal key. Researchers can use these data to characterize the chemistry of manganese nodules, assess their resource potential, compare nodule compositions across sites, and evaluate environmental impacts of deep‑sea mining.",
+  "spatialCoverage": {
+    "min_lat": 11.072,
+    "min_lon": -140.047,
+    "max_lat": 11.072,
+    "max_lon": -140.047
+  },
+  "temporalCoverage": {
+    "from": "1976-08-27T00:00:00",
+    "to": "1976-08-27T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

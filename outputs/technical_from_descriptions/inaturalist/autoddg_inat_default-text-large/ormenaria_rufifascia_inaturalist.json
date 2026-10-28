@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 iNaturalist observations of the planthopper Ormenaria rufifascia. Each record has a unique GBIF occurrence ID (gbifID), a catalog number, and shares a single datasetKey. The full taxonomic classification from kingdom to species is provided, along with both scientificName and verbatimScientificName. Geographic coordinates span latitude 0–30.63° and longitude ‑87.41° to 0°, with uncertainty up to 402 m. Event dates range from 2019 to 2026, providing day, month and year fields for temporal analysis. Media are still images released under CC‑BY‑NC‑4.0, with rights holders and issue flags, enabling mapping of Ormenaria distribution, seasonal analysis, and reliability assessment.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -87.41,
+    "max_lat": 30.63,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

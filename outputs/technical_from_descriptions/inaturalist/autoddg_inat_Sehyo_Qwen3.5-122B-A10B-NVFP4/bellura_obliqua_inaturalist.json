@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human-observed records of the moth species Bellura obliqua, primarily sourced from iNaturalist. The observations span multiple locations across the United States and Canada, including states like South Dakota and provinces such as Quebec and Ontario, with event dates ranging from 2018 to 2026. Each record includes detailed taxonomic classification, precise geographic coordinates, and temporal data down to the hour. The dataset is structured to support geospatial analysis and temporal studies of species distribution. Most records are accompanied by still images and include attribution to the observers and identifiers, making this collection valuable for biodiversity research and ecological monitoring of this specific Lepidoptera species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

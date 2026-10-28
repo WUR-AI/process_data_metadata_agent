@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Hypericum crux-andreae, commonly known as St. Andrew's Cross, collected from various locations in the United States. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like decimal latitude and longitude, and temporal data including day, month, and year of observation. The dataset also provides information on the observer, identification details, and media types associated with each observation. The semantic profile of the dataset columns indicates that it is well-suited for biodiversity research, allowing for aggregation, classification, spatial filtering, and temporal analysis. This dataset can be used for studying the distribution, habitat preferences, and phenology of Hypericum crux-andreae, as well as for conservation planning and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

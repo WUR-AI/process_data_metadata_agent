@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the fungus *Clavulinopsis aurantiocinnabarina*, collected primarily in the United States and Canada. It includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, country, and state/province. Temporal data includes observation dates, days, months, and years, while additional fields cover identifiers, attribution, and media types. The dataset is useful for studying fungal distribution, biodiversity, and ecological patterns. It can support research on fungal taxonomy, habitat preferences, and temporal trends in fungal occurrences. The semantic profile highlights its role in biodiversity research, with fields designed for classification, spatial filtering, temporal analysis, and quality control.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

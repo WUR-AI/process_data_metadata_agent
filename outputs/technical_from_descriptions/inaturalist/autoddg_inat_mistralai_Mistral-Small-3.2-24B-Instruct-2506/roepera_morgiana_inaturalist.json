@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains plant observations, specifically focusing on the species Roepera morgiana, also known as Roepera morgsana. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the plant's taxonomic hierarchy. The observations are georeferenced with decimal latitude and longitude, and include metadata such as the date of observation, the observer's name, and the publishing organization. The dataset also contains information about the observation status, basis of record, and any issues related to the data. This dataset can be used for biodiversity studies, ecological research, and conservation efforts, particularly in the Western Cape region of South Africa. The semantic profile of the dataset indicates that it is well-structured for aggregation and classification purposes, making it a valuable resource for researchers and data analysts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

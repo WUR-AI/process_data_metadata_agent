@@ -1,0 +1,6 @@
+Model,Temp. accuracy [%],Spat. accuracy [%],Missing files
+Llama3 70B,0.0,0.0,7
+Mistral Devstral 2 24B,0.0,0.0,4
+Mistral Small 3.2 24B,0.0,0.0,2
+Qwen 3.5 122B,0.0,0.0,3
+Qwen 3.6 35B,0.0,0.0,2

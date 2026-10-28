@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on ocean acidification, specifically examining the effects on Magallana hongkongensis, a type of mollusk. It includes various measurements such as pH levels, temperature, salinity, and carbon dioxide concentrations, along with their standard deviations. The dataset also provides information on stiffness, hardness, density, and volume of the mollusk shells. The data is categorized by treatment types and includes spatial and temporal references, such as latitude, longitude, and date. This dataset can be used to study the impact of ocean acidification on marine life, particularly on the shell properties of mollusks. The semantic profile indicates that the data is well-structured for scientific analysis, with clear classifications and measurements that facilitate aggregation and spatial-temporal referencing. The dataset's comprehensive measurements and classifications make it valuable for researchers investigating the effects of changing ocean conditions on marine organisms.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

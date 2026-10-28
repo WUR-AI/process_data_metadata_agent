@@ -1,0 +1,12 @@
+{
+  "description": "This dataset records fish physiological traits collected at the Macapule Lagoon site (latitude 25.35, longitude ‑108.5). Each entry includes a date, one of four seasonal categories, a capture‑interval range, a fish identifier (17 unique codes) and a size class (Cat 0‑22). Measured variables cover length (0‑26.3 cm), total mass (0‑261.6 g), organ wet masses (gut up to 10.1 g, liver 2.3 g, stomach 6.6 g, heart 0.2 g), eviscerated mass (0‑236.7 g) and biochemical indices such as HSI, K, GRI, triglycerides, cholesterol and glucose (maximum 830.9). The data enable analysis of seasonal influences on fish condition, organ development and metabolic health, supporting ecological and physiological research on fish.",
+  "spatialCoverage": {
+    "min_lat": 25.35,
+    "min_lon": -108.5,
+    "max_lat": 25.35,
+    "max_lon": -108.5
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

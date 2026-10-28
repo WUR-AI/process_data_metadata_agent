@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides vegetation metrics for the city of Uelzen, Germany, spanning observations from 1984 to 2022. It includes various indices such as vegetation index, metabolism index, and 6-band color composites, along with shapefiles for spatial reference. The data is structured with temporal resolution ranging from yearly to daily, and spatial data includes latitude and longitude coordinates. The semantic profile highlights geographic and temporal entities, with aggregation keys for location, year, and event, and measurement contexts for dates, content, and coordinates. This dataset can be used for environmental monitoring, land cover analysis, and studying vegetation changes over time. It is particularly useful for researchers and practitioners in ecology, agriculture, and urban planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "yearly to daily"
+}

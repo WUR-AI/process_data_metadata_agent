@@ -1,0 +1,10 @@
+{
+  "description": "This dataset documents laboratory experiments on the sea snail *Limacina helicina* to study ocean acidification effects. Collected in September 2019 at Station 9, it includes oceanographic measurements such as temperature, salinity, dissolved oxygen, and carbonate chemistry parameters like pH and pCO2. The data captures various experimental conditions, including supersaturated and undersaturated treatments with different incubation durations. Researchers can use this information to analyze physiological responses, calculate respiration rates, and assess the impact of changing carbonate saturation states on marine calcifiers.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-09-01T00:00:00",
+    "to": "2019-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

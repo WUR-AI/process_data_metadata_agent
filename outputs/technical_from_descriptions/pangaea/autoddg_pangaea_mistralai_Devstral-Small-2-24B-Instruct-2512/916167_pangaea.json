@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains ecosystem climate data collected from the Katharinentalerhof in Pforzheim, Germany, with coordinates at latitude 48.92 and longitude 8.7. It includes 12 files in CSV or DAT formats, ranging in size from 6 to 9240 units, with each file accessible via a unique URL. The data covers various measurements, such as plant performance and weather conditions, and is structured to support aggregation by file name, event, and location. The semantic profile highlights key components like file metadata, spatial coordinates, and temporal references, though the date/time field is currently missing. Researchers and environmental scientists can use this dataset to analyze climate impacts on ecosystems, model environmental changes, or study the relationships between weather patterns and plant performance.",
+  "spatialCoverage": {
+    "min_lat": 48.92,
+    "min_lon": 8.7,
+    "max_lat": 48.92,
+    "max_lon": 8.7
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

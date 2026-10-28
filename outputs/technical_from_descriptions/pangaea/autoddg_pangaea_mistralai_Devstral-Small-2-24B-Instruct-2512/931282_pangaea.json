@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains sensor data events, including file identifiers, metadata, and measurements. It features two unique files with varying sizes, all associated with a single event type. The data includes geospatial information such as latitude, longitude, and elevation, providing precise location details. Temporal data is also included, with timestamps indicating when the events occurred. The semantic profile reveals that the dataset combines file identifiers, metadata, and measurements, with a focus on geospatial and temporal data. This dataset can be used for analyzing sensor events, tracking spatial and temporal patterns, and studying the relationship between sensor data and geographic locations. It is particularly useful for applications requiring detailed event tracking and geospatial analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

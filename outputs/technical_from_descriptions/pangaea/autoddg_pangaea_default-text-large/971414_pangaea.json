@@ -1,0 +1,12 @@
+{
+  "description": "The dataset records river sediment samples collected from two sections of the Chiba region, the Ono River and the Yuki River. Each record includes a textual Event and Sample ID that serve as aggregation keys, a numeric Section measurement ranging from -0.15 to 146.27, and an archaeological Age value from 0 to 1310 years. Environmental SR values span 0 to 242. Geographic coordinates are provided (latitude 35.27 N, longitude 140.29 E). Bibliographic references attribute the data to the current study or Kuwano et al. (2021). The missing Date/Time field indicates no temporal stamp. Researchers can use these measurements to assess sediment composition, provenance, and historical deposition patterns in riverine environments.",
+  "spatialCoverage": {
+    "min_lat": 35.27,
+    "min_lon": 140.29,
+    "max_lat": 35.27,
+    "max_lon": 140.29
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles ecological records related to Paca hunting, featuring three distinct files in XLSX format. The collection includes interview data on pregnancy diagnoses, hunting registers for immature and pregnant animals, and catch-per-unit-effort metrics. Each entry is identified by a unique file name and linked to a direct download URL, with file sizes ranging up to 254.888 units. Structurally, the data serves as descriptive labels and aggregation keys within an ecological context, while file formats and sizes act as technical attributes for filtering and measurement. Researchers can utilize these records to analyze hunting patterns, assess population health, and evaluate the sustainability of Paca harvesting practices.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

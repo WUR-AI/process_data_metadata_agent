@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains information on paleoclimate sediments, with each entry representing a specific event and its associated measurements. The data includes spatial information such as latitude and longitude, as well as various geological measurements like depth of sediment, age, and accumulation rate. Temporal data is also present, with age and date/time information. The dataset's semantic profile indicates that it is rich in geological measurements, making it useful for analyzing sediment composition and structure. Researchers can use this data to study past climate conditions, sediment transport processes, and environmental changes over time. The dataset's spatial and temporal resolution allows for detailed investigations into the relationships between sediment characteristics and historical climate events.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

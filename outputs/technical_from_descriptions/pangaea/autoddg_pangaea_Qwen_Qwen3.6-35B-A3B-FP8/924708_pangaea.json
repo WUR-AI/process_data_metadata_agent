@@ -1,0 +1,10 @@
+{
+  "description": "This dataset records whale observations from the PS87-track event in 2014. It contains temporal, spatial, and biological data, including date, latitude, and longitude coordinates. The records identify specific organisms, such as Balaenoptera physalus and Orcinus orca, alongside unidentified species. Each entry includes a certainty rating and an individual count, ranging from one to ten. This information supports marine biology research by tracking cetacean distribution and abundance. Users can analyze sighting patterns, assess observation confidence, and study whale behavior across different geographic locations. The data facilitates ecological studies and conservation efforts by providing structured, time-stamped records of marine mammal encounters in high-latitude regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2014-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains ocean sediment measurements collected from two distinct drilling events, identified as 383-U1539C and 383-U1539D, at a deep-sea site with an elevation of -4081 meters. The records include specific sample labels, sediment depths ranging up to 236.72 meters, and corresponding geological ages in years. Each entry provides Sea Surface Temperature (SST) values alongside their standard deviations, offering insights into past climate conditions. The data is geographically anchored by precise latitude and longitude coordinates and includes temporal references down to the hour. Researchers can utilize this collection to analyze sediment stratigraphy, correlate deep-sea deposits with surface climate variations, and study environmental changes over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

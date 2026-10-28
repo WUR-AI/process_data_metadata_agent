@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of *Wisteriopsis reticulata*, a plant species in the Fabaceae family. All records originate from Taiwan, with specific localities including Taipei, Kaohsiung, and New Taipei. The data includes precise geographic coordinates, event dates ranging from 2017 to 2026, and media types such as still images. Users can leverage this biodiversity data for spatial and temporal filtering, taxonomic classification, and quality control analysis. It supports research on species distribution, phenology, and ecological monitoring by providing structured occurrence records with associated metadata like identification dates and license information.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

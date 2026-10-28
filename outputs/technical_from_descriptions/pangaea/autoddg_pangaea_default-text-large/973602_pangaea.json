@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains geochemical analyses of two volcanic rock samples identified by the Sample ID field, which serves as an aggregation key. Each record provides weight‑percent measurements of major oxides such as SiO₂ (0–48.7 %), TiO₂ (0–1.26 %), Al₂O₃ (0–16.28 %), Fe₂O₃ (0–8.67 %), MnO (0–0.15 %), MgO (0–9.22 %), CaO (0–10.76 %), Na₂O (0–2.97 %), K₂O (0–0.19 %), and P₂O₅ (0–0.14 %), with a total oxide sum up to 98.2 %. The Event column records a single geological event, and the geographic coordinates (latitude 86.961, longitude 55.68667) and elevation (‑3254 m) locate the sampling site. All measurements were taken at the same timestamp, 2016‑10‑04 17:21:00. This volcanic geochemistry dataset can be used to characterize rock composition, compare magma evolution, and support petrological modeling of volcanic systems.",
+  "spatialCoverage": {
+    "min_lat": 86.961,
+    "min_lon": 55.68667,
+    "max_lat": 86.961,
+    "max_lon": 55.68667
+  },
+  "temporalCoverage": {
+    "from": "2016-10-04T17:21:00",
+    "to": "2016-10-04T17:21:00"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles 20 human observations of the blister beetle *Nemognatha piazata*, including its subspecies *bicolor*, recorded across the United States. The records span from 1933 to 2026, with a concentration of recent sightings in Florida, Texas, and Oklahoma. Each entry provides precise taxonomic details, geographic coordinates, and observation dates, supported by media such as still images. The data is sourced from iNaturalist and includes provenance information like identifiers for observers and rights holders. Researchers can utilize this collection for geospatial analysis, temporal trend studies, and biodiversity assessments of Meloidae beetles in North American ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1933-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains Lead-210 sediment measurements from a single event recorded on April 8, 2022, at coordinates 21.28°N, 104.69°W, with an elevation of 1430 meters. It includes depth intervals, total activity, and supported and unsupported Lead-210 components with their respective standard deviations. The data supports geological analysis of sediment accumulation rates and dating. Researchers can use this information to study environmental changes, track pollution sources, and understand historical deposition patterns in the region. The consistent spatial and temporal references allow for precise correlation with other geological records, facilitating comprehensive studies of sedimentary processes and lead isotope distribution in this specific geographic context.",
+  "spatialCoverage": {
+    "min_lat": 21.28,
+    "min_lon": -104.69,
+    "max_lat": 21.28,
+    "max_lon": -104.69
+  },
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

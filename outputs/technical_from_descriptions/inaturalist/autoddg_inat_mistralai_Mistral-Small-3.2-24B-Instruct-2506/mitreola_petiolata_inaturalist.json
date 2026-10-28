@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Mitreola petiolata, a species of flowering plant in the family Loganiaceae. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the plant's biological hierarchy. Additionally, the dataset offers spatial data with coordinates, country codes, and state/province information, allowing for geographical analysis. Temporal data is also included, with event dates, days, months, and years, enabling temporal trend analysis. The dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Mitreola petiolata. It is particularly useful for understanding the distribution, habitat, and temporal patterns of this species. The semantic profile indicates that the data is well-structured for aggregation and classification, making it suitable for detailed scientific analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

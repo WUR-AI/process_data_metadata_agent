@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains high-resolution meteorological observations collected from a weather balloon on August 18, 2018. It records temporal data down to the second alongside precise spatial coordinates, including longitude, latitude, and altitude. The measurements capture key atmospheric variables such as pressure, temperature, relative humidity, wind direction, and wind speed. Each record is linked to a specific observation event, allowing researchers to aggregate and analyze the balloon's flight path and environmental conditions. This data is ideal for studying local weather patterns, validating atmospheric models, or analyzing the vertical and horizontal distribution of meteorological parameters during a single balloon launch.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-08-18T00:00:00",
+    "to": "2018-08-18T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "second"
+}

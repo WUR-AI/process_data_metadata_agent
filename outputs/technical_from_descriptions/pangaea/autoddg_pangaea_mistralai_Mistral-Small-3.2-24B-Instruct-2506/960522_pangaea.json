@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on ocean acidification research, specifically examining the pteropod Limacina helicina. It includes various measurements such as temperature, salinity, dissolved oxygen, and carbon parameters like DIC and AT, collected from laboratory experiments. The data is categorized by study type, species identification, sample label, and treatment conditions. Quality flags are provided for several measurements to ensure data reliability. The dataset's semantic profile indicates that it contains both spatial and temporal data, with measurements taken at specific coordinates and times. This dataset can be used to study the impacts of ocean acidification on marine organisms, particularly pteropods, and to analyze changes in oceanographic conditions over time. The inclusion of quality flags and standard errors ensures the accuracy and reliability of the data for scientific research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

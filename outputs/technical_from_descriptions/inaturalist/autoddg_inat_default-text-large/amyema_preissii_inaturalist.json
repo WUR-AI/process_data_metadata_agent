@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains twenty human‑observation records of the mistletoe Amyema preissii, all classified under the same kingdom, phylum, class, order, family, genus and species. Each occurrence is uniquely identified by gbifID, occurrenceID and catalogNumber, and is linked to a single datasetKey and publishingOrgKey. The records span four Australian states (Victoria, South Australia, Western Australia and the Northern Territory) with precise latitude and longitude coordinates (‑38.406665 to 0 ° latitude, 0 to 144.848622 ° longitude) and include coordinate‑uncertainty values ranging from 4 m to 20 000 m. Temporal information is captured at the second level, with event dates from 2012 to 2026, and media types are recorded as still images, flagged for issues such as rounded coordinates. The semantic profile shows each column’s role—taxonomic classification, geographic location, measurement uncertainty, attribution, licensing and data‑quality flags—supporting robust biodiversity analyses. Researchers can use these data to map the species’ distribution, examine seasonal patterns, assess habitat preferences, or inform conservation planning for Amyema preissii.",
+  "spatialCoverage": {
+    "min_lat": -38.406665,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 144.848622
+  },
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

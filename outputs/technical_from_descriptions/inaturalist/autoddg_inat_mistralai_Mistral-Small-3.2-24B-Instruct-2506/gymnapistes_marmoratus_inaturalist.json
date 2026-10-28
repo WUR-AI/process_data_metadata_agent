@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Marbled Wrasse (Gymnapistes marmoratus), a species of fish found in Australian waters. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as location data with coordinates and country codes. Additionally, the dataset provides temporal information, including the date and time of each observation. The semantic profile of the dataset indicates that it is well-suited for biodiversity research, with columns representing various taxonomic ranks, locations, and temporal entities. This dataset can be used for studying the distribution, habitat, and behavior of the Marbled Wrasse, as well as for monitoring the health and status of marine ecosystems in Australia. The data is licensed under CC_BY_NC_4_0, allowing for non-commercial use and sharing with attribution.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Tiedemannia filiformis* in the southeastern United States, primarily in Florida, with additional records from Texas and Louisiana. The data includes taxonomic classifications, geographic coordinates, observation dates, and attribution details such as identifiers and rights holders. Semantically, the dataset is structured around biodiversity metadata, with columns representing taxonomic ranks, spatial filters (e.g., coordinates and country codes), temporal filters (e.g., event dates), and data quality indicators. It is particularly useful for researchers studying plant distributions, phenology, and conservation status in the region. The observations are sourced from iNaturalist and include media references, making it valuable for ecological research and citizen science initiatives.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

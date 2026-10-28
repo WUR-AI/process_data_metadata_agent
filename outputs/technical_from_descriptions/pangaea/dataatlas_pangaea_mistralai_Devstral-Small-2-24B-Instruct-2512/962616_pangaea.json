@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental science data from 2021-06-25, including project details, content, and geospatial coordinates.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-06-25T00:00:00",
+    "to": "2021-06-25T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

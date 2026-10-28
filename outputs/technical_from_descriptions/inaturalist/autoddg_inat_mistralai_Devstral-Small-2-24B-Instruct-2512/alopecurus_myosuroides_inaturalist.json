@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed observations of the weed species *Alopecurus myosuroides* (black-grass) across Europe, collected from citizen science contributions on iNaturalist. It includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including spatial (country, coordinates), temporal (event dates), and taxonomic (species, genus) data, enabling filtering and aggregation for research. The dataset can be used to analyze weed distribution patterns, track seasonal variations, and support agricultural or ecological studies on invasive species management. Observations span multiple countries and years, offering insights into the species' prevalence and environmental context.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the succulent plant Crassula capensis, primarily recorded in the Western Cape province of South Africa. The records span from 2014 to 2026 and include various taxonomic ranks, such as the species level and specific varieties like var. capensis and var. promontorii. Each entry provides precise geospatial coordinates, observation dates, and links to associated media, facilitating detailed geospatial and temporal analyses of the species distribution. Researchers can utilize this data to study population trends, habitat preferences, and the ecological status of Crassula capensis, while the inclusion of coordinate uncertainty and data quality flags ensures robust scientific application.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

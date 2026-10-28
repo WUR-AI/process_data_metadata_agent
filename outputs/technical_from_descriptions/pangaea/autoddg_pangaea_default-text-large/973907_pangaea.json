@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records measurements from a single seismic‑borehole event (MSM44_362‑1) collected on 12 July 2015 at latitude 75.97917 N, longitude 66.04717 W and elevation ‑705 m. It contains 20 observations with an integer index ranging from 0 to 247. Depth of sediment varies between ‑0.14 m and 2.16 m, while section depth spans 0 to 64 m and core‑diameter deviation ranges from ‑2.57 m to 3.61 m. P‑wave travel times are recorded in seconds from 0 to 152.1 s, with Vp‑a values of either 0 or 100 and AGR values up to 11 780. Each row includes the geological section identifier, geophysical measurements (P‑wave time, Vp‑a, AGR), and precise geolocation coordinates. The data are suitable for analyzing borehole seismic properties, calibrating subsurface velocity models, and supporting geological or geophysical interpretation of sediment layers.",
+  "spatialCoverage": {
+    "min_lat": 75.97917,
+    "min_lon": -66.04717,
+    "max_lat": 75.97917,
+    "max_lon": -66.04717
+  },
+  "temporalCoverage": {
+    "from": "2015-07-12T00:00:00",
+    "to": "2015-07-12T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

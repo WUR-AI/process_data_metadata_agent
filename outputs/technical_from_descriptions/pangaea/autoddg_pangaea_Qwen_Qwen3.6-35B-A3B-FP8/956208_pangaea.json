@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains preserved specimens of *Barents Sea Fish*, specifically *B. saida*, collected during various marine biology expeditions. It includes unique identifiers for events, expeditions, and specimens, alongside spatial coordinates and depth measurements. Key biological metrics such as total length, standard length, weight, sex, and condition index are recorded. The data also features digestive tract analysis, including stomach mass and content, along with sampling gear and dates. Researchers can utilize this comprehensive collection to study fish population dynamics, growth patterns, and dietary habits in the Barents Sea region, supporting ecological and fisheries management studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

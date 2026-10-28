@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles occurrence records for the plant species Cladium mariscoides, primarily sourced from iNaturalist observations across the United States and Canada. The records span from 2013 to 2025 and include detailed taxonomic classifications, geographic coordinates, and observation dates. Each entry features unique identifiers such as gbifID and occurrenceID, linking to specific human observations verified by various contributors. While some fields like elevation and individual counts are missing, the dataset provides robust spatial data with varying coordinate uncertainties. Researchers can utilize this collection to analyze the species' distribution patterns, monitor population trends over time, and support conservation efforts for this sedge in North American ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

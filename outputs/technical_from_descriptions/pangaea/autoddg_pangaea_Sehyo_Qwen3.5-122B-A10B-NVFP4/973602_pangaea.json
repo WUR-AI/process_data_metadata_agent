@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains marine sediment geochemistry measurements collected during the PS101 expedition in October 2016. It features chemical compositions including major oxides such as SiO2, Al2O3, and Fe2O3, alongside spatial coordinates and elevation data for each sample. The records are organized by unique sample and event identifiers, providing precise temporal and geographic context for the analysis. Researchers can utilize this data to investigate sediment composition patterns, trace elemental distributions, and understand geological processes in the sampled region. The inclusion of total oxide percentages ensures data quality for comprehensive geochemical modeling and comparative studies of marine environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-10-01T00:00:00",
+    "to": "2016-10-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

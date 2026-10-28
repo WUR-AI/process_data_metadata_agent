@@ -1,0 +1,10 @@
+{
+  "description": "Records 1,002 Sesamum indicum biodiversity occurrences from 2003 to 2026 with taxonomic and geographic data.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2003-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

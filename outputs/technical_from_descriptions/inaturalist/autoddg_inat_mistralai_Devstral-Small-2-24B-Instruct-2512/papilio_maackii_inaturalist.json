@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the butterfly species *Papilio maackii*, collected from various locations across East Asia, including Japan, Russia, China, South Korea, and other regions. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with geographic coordinates, observation dates, and metadata about the observers and identifiers. The dataset is sourced from iNaturalist and includes fields for spatial, temporal, and taxonomic filtering, making it useful for biodiversity research, ecological studies, and conservation efforts. It also provides insights into the distribution, habitat preferences, and seasonal activity patterns of *Papilio maackii*. The data is licensed under CC BY-NC 4.0, ensuring open access for non-commercial use.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

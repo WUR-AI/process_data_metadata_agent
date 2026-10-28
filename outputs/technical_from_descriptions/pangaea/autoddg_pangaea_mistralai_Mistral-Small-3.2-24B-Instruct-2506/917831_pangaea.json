@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Fish Health Metrics, providing a comprehensive collection of biological measurements and health indicators for fish. It includes data on various biological parameters such as mass, gut weight, liver mass, stomach weight, heart mass, and eviscerated mass, along with health indices like the hepatosomatic index (HSI), condition factor (K), and gonadosomatic index (GRI). The dataset also contains temporal information, including date/time and season, as well as spatial data with latitude and longitude coordinates. The semantic profile indicates that the dataset is well-suited for aggregation and analysis based on temporal and spatial keys. Researchers can use this dataset to study fish health trends, seasonal variations, and geographic distributions, making it a valuable resource for aquatic biology and environmental science studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental science data on whale sightings, 2014-08-06 to 2014-10-01.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-08-06T00:00:00",
+    "to": "2014-10-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

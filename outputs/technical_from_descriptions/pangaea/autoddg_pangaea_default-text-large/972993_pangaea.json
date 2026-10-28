@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 marine drilling observations from 16 sites, spanning latitudes –44.9° to 57.3° and longitudes –44.6° to 174.3°. Each record includes an event ID, coordinates, site code, and bibliographic reference (source and DOI). Geochemical fields provide δ34S Py values from –43.8‰ to 37.7‰, ages from –6.2 to 124.8 Ma, sediment depth, elevation, and sediment‑rate up to 109 000. Sample types are sediment core or rock, water‑depth categories are slope or shelf, and lithology includes mud, clay, chalk, or ooze. Analytical methods such as SIMS, CRS, TRS and hand‑picked are noted. The semantic profile links columns to domains, supporting studies of marine sulfur isotopes, paleo‑oceanography, and biogeochemical cycles.",
+  "spatialCoverage": {
+    "min_lat": -44.9,
+    "min_lon": -44.6,
+    "max_lat": 57.3,
+    "max_lon": 174.3
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "The dataset provides remote‑sensing products for Uelzen, Germany, covering years 1984‑2022. It includes NDVI, metabolism indices, six‑band composites and shapefiles in GeoTIFF format. An integer index column has 20 unique values from 0‑276, and Year obs shows 15 distinct years. Columns capture spatial data (area, latitude, longitude, site info), temporal data (start/end dates, year, measurement date) and file metadata (content, file type, GeoTIFF, shapefile). The semantic profile marks location and event as aggregation keys and dates as measurements. These raster and vector layers support vegetation monitoring, land‑cover change analysis and ecological modelling.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1984-01-01T00:00:00",
+    "to": "2022-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

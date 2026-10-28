@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of blister beetles, specifically the species *Nemognatha piazata* and its subspecies *bicolor*, recorded primarily in the United States, with a focus on Florida, Texas, and Oklahoma. The data includes taxonomic classifications, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes, including taxonomic ranks, spatial measurements, temporal filters, and attribution details, making it suitable for ecological and conservation studies. Researchers can use this dataset to analyze species distribution, habitat preferences, and temporal trends, as well as support biodiversity monitoring and taxonomic research. The observations are sourced from iNaturalist, ensuring community-contributed and verified data.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

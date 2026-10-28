@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles sediment geochemistry measurements from diverse global marine and terrestrial sites, including sediment cores and rock samples. It features precise geographic coordinates, site identifiers, and publication references for each entry. Key geochemical parameters include sulfur isotope ratios (δ34S Py), methane levels, total organic carbon, and calcium carbonate concentrations, alongside sedimentation rates and lithological descriptions. The data spans various depositional environments, from continental shelves to deep slopes, with ages ranging from recent to over 120 years. Researchers can utilize this collection to analyze paleoenvironmental conditions, study carbon cycling, and investigate geochemical processes across different geological settings and time periods.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

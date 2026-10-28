@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides detailed chemical composition and spatial-temporal information on Arctic aerosols, collected during field campaigns in 2017. It includes measurements of various ionic species such as chloride, nitrate, sulfate, and ammonium, along with aerosol size distribution data categorized into five stages. The dataset also contains precise geographic coordinates and timestamps for each sample, enabling spatial and temporal analysis. The semantic profile highlights its structured organization, with columns serving as aggregation keys, categorization variables, and measurement values for chemical concentrations. Researchers can use this dataset to study Arctic aerosol chemistry, investigate atmospheric transport patterns, and analyze the impact of different ionic species on Arctic air quality and climate processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2017-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents sediment geochemistry data from station M186_54-1, collected on December 16, 2022, at a depth of 1234 meters. It contains 19 samples with measurements spanning 0 to 3.81 meters below the sediment surface. The records include concentrations of major ions like chloride and sulfate, nutrients such as nitrate and phosphate, and trace elements including iron, manganese, and strontium. Geospatial coordinates and temporal stamps provide precise context for each sample. Researchers can utilize this high-resolution chemical profile to analyze sediment composition, track nutrient cycling, and investigate geochemical processes in marine environments.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-12-16T00:00:00",
+    "to": "2022-12-16T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

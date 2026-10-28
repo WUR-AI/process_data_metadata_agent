@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Bellura obliqua, collected from various locations in the United States and Canada. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state or province, and precise coordinates. Each observation is recorded with a unique identifier, and additional metadata includes the date of the observation, the person who recorded it, and the license under which the data is shared. The dataset also contains information about the media type used for the observation and any issues related to the data. This dataset can be used for studying the distribution and habitat of Bellura obliqua, as well as for broader research on moth species and their ecological roles. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classification and aggregation keys for various taxonomic and location-based attributes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

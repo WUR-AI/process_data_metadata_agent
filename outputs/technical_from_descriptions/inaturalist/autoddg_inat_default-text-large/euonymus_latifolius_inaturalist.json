@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 human‑observation records of Euonymus latifolius from iNaturalist, covering 11 country codes and 15 state‑province regions. Each entry provides a unique gbifID and occurrenceID URL, full taxonomic hierarchy (kingdom to species), and a scientific name string. Geographic coordinates range from 42.1 °N to 45.8 °N and 6.5 °E to 49.3 °E, with coordinate uncertainty values between 0 m and 122 m. Temporal metadata include the event date, day, month and year, while attribution fields record the identifier, recorder, and license. The semantic profile links biodiversity identifiers, spatial entities, temporal components and media types, enabling precise filtering, spatial mapping and provenance tracking. Researchers can use these observations to map the species’ distribution, study phenology and seasonal patterns, and assess citizen‑science reporting across its range.",
+  "spatialCoverage": {
+    "min_lat": 42.1,
+    "min_lon": 6.5,
+    "max_lat": 45.8,
+    "max_lon": 49.3
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

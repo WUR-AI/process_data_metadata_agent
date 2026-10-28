@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains ice core data collected from a specific event on December 29, 2004, at a location with coordinates ranging from -70.65491 to -8.25491. It includes measurements of depth in ice and snow, density of ice, and depth description, with each sample having a unique identifier and an associated image for visualization. The dataset's semantic profile indicates that it includes temporal and spatial entities, as well as measurements related to climate science. This data can be used for various purposes, such as studying climate change, understanding past weather patterns, and analyzing the composition of ice cores. Researchers can aggregate data by event, date/time, sample number, or spatial coordinates to gain insights into the specific conditions and measurements recorded during this event.",
+  "spatialCoverage": {
+    "min_lat": -70.65491,
+    "min_lon": -8.25491,
+    "max_lat": -70.65491,
+    "max_lon": -8.25491
+  },
+  "temporalCoverage": {
+    "from": "2004-12-29T00:00:00",
+    "to": "2004-12-29T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 occurrence records of Sapium haematospermum from Argentina and Uruguay. Each record is uniquely identified by gbifID and catalogNumber and links to the iNaturalist observation via occurrenceID. Taxonomy from kingdom to species is included. Coordinates range from –35.27 to 0 latitude and –61.17 to 0 longitude, with uncertainty between 0 and 6 521 m. Event dates are recorded. The data include observer (recordedBy), identifier (identifiedBy) and licensing (CC BY‑NC 4.0 or CC BY 4.0). Semantic fields such as decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters and eventDate enable spatial and temporal analyses. Researchers can map the distribution, study phenology, assess habitat preferences, or model the range under climate change.",
+  "spatialCoverage": {
+    "min_lat": -35.27,
+    "min_lon": -61.17,
+    "max_lat": 0.0,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

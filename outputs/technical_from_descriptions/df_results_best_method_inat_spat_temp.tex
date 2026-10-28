@@ -1,0 +1,16 @@
+\begin{table}
+\caption{Best model per method on iNaturalist spatial and temporal accuracy. The best model is the highest mean of the two accuracies. Equal means keep the model that appears first in the every-model table.}
+\label{tab:best_method_inat_spat_temp}
+\begin{tabular}{llccc}
+\toprule
+Method & Best model & Temp. accuracy [\%] & Spat. accuracy [\%] & Mean accuracy [\%] \\
+\midrule
+M$^3$ & Qwen 3.6 35B & 87.0 & 95.2 & 91.1 \\
+M$^3$ fast & Qwen 3.6 35B & 100.0 & 100.0 & 100.0 \\
+AutoDDG & Llama3 70B & 0.0 & 0.0 & 0.0 \\
+DataAtlas & Llama3 70B & 0.0 & 0.0 & 0.0 \\
+Single LLM & Llama3 70B & 0.0 & 0.0 & 0.0 \\
+ReAct & Qwen 3.6 35B & 99.0 & 99.0 & 99.0 \\
+\bottomrule
+\end{tabular}
+\end{table}

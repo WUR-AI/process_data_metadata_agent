@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains human observations of the plant species Lomandra obliqua, primarily recorded in New South Wales, Australia. The records include detailed taxonomic classifications, precise geographic coordinates, and observation dates ranging from 2007 to 2025. Each entry provides spatial data such as latitude, longitude, and coordinate uncertainty, alongside temporal details like day, month, and year of the event. The dataset is sourced from iNaturalist and includes attribution to individual observers and identifiers for the publishing organization. Researchers can utilize this collection for geospatial analysis, tracking species distribution, and studying phenological patterns. Most records are accompanied by media files, and the data is available under Creative Commons licenses for open scientific use.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2007-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

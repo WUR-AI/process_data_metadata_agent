@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records geochemical measurements from the Belgian collector trial pre‑impact at station SO268_074MUC. It covers a single core (ID 18) sampled at depths of 0–0.225 m, providing concentrations of Al, Ba, Ca²⁺, Cr, Cu, Fe, K⁺, La, Li, Mg²⁺, Mn, Na⁺, Ni, P, Sr and Ti, each with an associated uncertainty. Concentrations span wide ranges—for example Al 0–254.8 ppm, Cu up to 1040 ppm, Fe up to 160 ppm, and Sr up to 612 ppm—while uncertainties are typically below 5 % of the measured value. Geolocation: latitude 14.1351°, longitude –125.8637°, elevation –4518 m, timestamp 2019‑03‑20 02:30:12. These data enable geochemical mapping, contamination assessment, and paleo‑environmental reconstruction.",
+  "spatialCoverage": {
+    "min_lat": 14.1351,
+    "min_lon": -125.8637,
+    "max_lat": 14.1351,
+    "max_lon": -125.8637
+  },
+  "temporalCoverage": {
+    "from": "2019-03-20T02:30:12",
+    "to": "2019-03-20T02:30:12"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on sediment geochemistry, providing a comprehensive collection of environmental measurements. It includes data on various parameters such as depth, total organic carbon (TOC), black carbon (BC), calcium carbonate (CaCO3), pH levels, and particle size distributions. The dataset also encompasses measurements of total phosphorus (TP), heavy metals like lead (Pb), zinc (Zn), and copper (Cu), as well as stable isotopes (δ13C and δ15N). Each entry is georeferenced with latitude, longitude, and elevation, and timestamped with date and time. The semantic profile indicates that the dataset is structured around environmental measurements and spatial references, making it suitable for aggregation and spatial analysis. Researchers can use this dataset to study sediment composition, environmental pollution, and geochemical processes, contributing to fields such as environmental science, geology, and ecology.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

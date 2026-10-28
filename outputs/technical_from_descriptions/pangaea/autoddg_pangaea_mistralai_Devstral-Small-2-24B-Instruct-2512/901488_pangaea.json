@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains geospatial measurements from the Elwha River Delta, including latitude, longitude, and elevation data collected at various timestamps. It features horizontal and vertical root mean square (HRMS and VRMS) measurements, with all records marked as \"FIXED\" status. The data is categorized by profile descriptions (e.g., PROF132, PROF164) and uniformly labeled under the \"Elwha_River_Delta\" event.\n\nSemantically, the dataset integrates spatial (latitude/longitude/elevation), temporal (date/time), and scientific (HRMS/VRMS) data types, enabling precise geospatial and temporal analysis. The categorical fields (Status, Description, Event) provide contextual classification for the measurements.\n\nThis dataset is valuable for environmental studies, coastal monitoring, and research on the Elwha River Delta's geomorphological changes, particularly in relation to sediment dynamics and delta evolution.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

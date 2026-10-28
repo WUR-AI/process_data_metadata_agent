@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains ice core data collected from a specific location in Antarctica, with measurements taken at various depths. It includes key climate indicators such as δ18O and Δ36, which are isotopic measurements used to infer past temperature and atmospheric composition. The data is temporally resolved, with gas age and date/time information, and spatially referenced with latitude, longitude, and elevation data. This dataset can be used for climate research, particularly for studying past climate variations and understanding long-term climate trends. The semantic profile indicates that the data is well-structured for aggregation and analysis, with clear identifiers, measurements, and spatial and temporal references. Researchers can utilize this dataset to investigate historical climate patterns and contribute to the broader understanding of climate change.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

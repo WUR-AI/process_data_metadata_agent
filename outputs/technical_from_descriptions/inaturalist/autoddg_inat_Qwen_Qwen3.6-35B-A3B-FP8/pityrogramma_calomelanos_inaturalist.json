@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains biodiversity observations of the fern species Pityrogramma calomelanos. It includes taxonomic classifications, spatial coordinates ranging from -155.89 to 121.82 longitude, and temporal data spanning years 2019 to 2026. The records are primarily human observations from various countries, including the US, Taiwan, and Indonesia. Users can filter data by location, date, or coordinate uncertainty. The dataset supports ecological studies, species distribution mapping, and biodiversity research. It provides essential metadata such as identification dates, license information, and quality control issues, facilitating comprehensive analysis of this specific plant species' global presence.",
+  "spatialCoverage": {
+    "min_lat": null,
+    "min_lon": -155.89,
+    "max_lat": null,
+    "max_lon": 121.82
+  },
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

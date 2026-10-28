@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of Phebalium squamulosum, a plant species belonging to the Rutaceae family. The data includes various taxonomic ranks such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, providing a comprehensive classification of the observed specimens. Each record is uniquely identified and includes details such as the observation date, location coordinates, and the observer's information. The dataset also contains metadata about the publishing organization, license, and rights holder. The semantic profile indicates that the data is well-structured for biodiversity research, with clear aggregation keys and classification contexts. This dataset can be used for studying the distribution, habitat, and temporal patterns of Phebalium squamulosum, as well as for broader biodiversity and ecological research. The observations span from 2014 to 2026, offering a longitudinal view of the species' presence in New South Wales and Jervis Bay Territory.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

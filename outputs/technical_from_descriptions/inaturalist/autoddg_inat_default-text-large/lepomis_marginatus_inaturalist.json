@@ -1,0 +1,7 @@
+{
+  "description": "This dataset comprises 20 citizen‑science observations of the fish Lepomis marginatus (spotted sunfish) recorded on iNaturalist. Each record includes a unique GBIF occurrence identifier, the observation URL, and taxonomic classification from kingdom down to species. Geographic information provides latitude, longitude, coordinate uncertainty (up to 29 868 m) and the US state or province where the fish was seen. Temporal fields capture the exact event date and the day, month, and year of observation. Media are still images, and licensing is CC‑BY‑NC‑4.0 or CC0. The data support analyses of species distribution, seasonal patterns, and the value of community‑generated biodiversity records.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

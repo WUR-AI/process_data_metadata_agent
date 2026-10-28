@@ -1,0 +1,10 @@
+{
+  "description": "Environmental data of Magallana hongkongensis, collected June 1, 2016, with 27 measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-06-01T00:00:00",
+    "to": "2016-06-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "The dataset comprises 20 verified occurrences of the plant Rhamnus prinoides recorded in South Africa. Each record has a unique gbifID primary key and an external occurrenceID, and includes the taxonomic hierarchy from kingdom to species. Coordinates (latitude –33.987 to 0, longitude 0 to 30.35) have up to 10 m uncertainty, and dates provide day, month, and year. Attribution fields list observers, identifiers, and rights holders, and all records are licensed under CC‑BY or CC‑BY‑NC. The semantic profile indicates that columns represent biodiversity concepts such as taxon, location, event, and related metadata, making the data suitable for mapping distribution, analyzing phenology, or informing conservation of Rhamnus prinoides.",
+  "spatialCoverage": {
+    "min_lat": -33.987,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 30.35
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

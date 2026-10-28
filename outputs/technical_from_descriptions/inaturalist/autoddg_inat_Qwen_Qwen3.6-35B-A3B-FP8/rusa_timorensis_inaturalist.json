@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains Timor Deer observations sourced from iNaturalist, focusing on the species Rusa timorensis. It includes detailed taxonomic classifications, spatial coordinates ranging across Indonesia and Australia, and temporal data from 2014 to 2026. Each record features occurrence IDs, event dates, and observer information, with media types primarily consisting of still images. The data supports biodiversity research by providing verified presence records and location details. Users can leverage this information for ecological studies, species distribution mapping, and conservation planning, utilizing the rich metadata on identification and licensing to ensure proper attribution and data quality assessment.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

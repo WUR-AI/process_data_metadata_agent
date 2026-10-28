@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the species Romalea reticulata, a grasshopper within the family Romaleidae, primarily recorded in Costa Rica. The records span from 2008 to 2025 and include geospatial coordinates, temporal details, and taxonomic classifications for each sighting. Most entries are linked to iNaturalist observations and include media such as still images. The data covers specific provinces like Limón, Heredia, and Alajuela, with varying levels of coordinate precision and elevation information. Researchers can utilize this collection for temporal analysis of population presence, geospatial distribution mapping, and biodiversity assessments of Orthoptera in Central American ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2008-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

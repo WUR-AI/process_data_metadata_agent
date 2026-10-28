@@ -1,0 +1,15 @@
+{
+  "description": "This dataset comprises 20 iNaturalist observations of the Aleutian Auklet (Ptychoramphus aleuticus), each identified by a unique gbifID that serves as the primary aggregation key. All records share the same taxonomic hierarchy—from kingdom Animalia to species Ptychoramphus aleuticus—providing a consistent scientific name and taxon rank. Geographic coverage spans the United States (California, Oregon, Washington) and Mexico, with decimal latitudes from 0 to 56.9 degrees and longitudes from ‑127.7 to 0, and coordinate uncertainties ranging up to 28 km. Temporal data cover events between 2015 and 2026, with day, month and year fields available. Columns such as occurrenceID, decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters, eventDate, identifiedBy, license, mediaType and issue capture provenance, spatial accuracy, timing, authorship, usage rights, media classification and data‑quality flags. Researchers can use these records to map Aleutian Auklet distribution, examine seasonal patterns, assess observation precision, or explore citizen‑science contributions to seabird monitoring.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -127.7,
+    "max_lat": 56.9,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2015-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

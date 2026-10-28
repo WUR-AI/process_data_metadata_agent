@@ -1,0 +1,43 @@
+\begin{table}
+\caption{Spatial and temporal accuracy for every model of M$^3$, M$^3$ fast, AutoDDG, DataAtlas, Single LLM, and ReAct on iNaturalist. A field is correct only when it equals the observation bound. With 100 species, the match count is the accuracy in percent.}
+\label{tab:all_models_inat_spat_temp}
+\begin{tabular}{llcc}
+\toprule
+Method & Model & Temp. accuracy [\%] & Spat. accuracy [\%] \\
+\midrule
+\multirow[t]{4}{*}{M$^3$} & Llama3 70B & 81.0 & 99.0 \\
+ & Mistral Devstral 2 24B & 69.5 & 99.2 \\
+ & Qwen 3.5 122B & 76.0 & 99.2 \\
+ & Qwen 3.6 35B & 87.0 & 95.2 \\
+\midrule
+\multirow[t]{4}{*}{M$^3$ fast} & Llama3 70B & 78.5 & 100.0 \\
+ & Mistral Devstral 2 24B & 96.0 & 96.0 \\
+ & Qwen 3.5 122B & 96.0 & 96.0 \\
+ & Qwen 3.6 35B & 100.0 & 100.0 \\
+\midrule
+\multirow[t]{5}{*}{AutoDDG} & Llama3 70B & 0.0 & 0.0 \\
+ & Mistral Devstral 2 24B & 0.0 & 0.0 \\
+ & Mistral Small 3.2 24B & 0.0 & 0.0 \\
+ & Qwen 3.5 122B & 0.0 & 0.0 \\
+ & Qwen 3.6 35B & 0.0 & 0.0 \\
+\midrule
+\multirow[t]{5}{*}{DataAtlas} & Llama3 70B & 0.0 & 0.0 \\
+ & Mistral Devstral 2 24B & 0.0 & 0.0 \\
+ & Mistral Small 3.2 24B & 0.0 & 0.0 \\
+ & Qwen 3.5 122B & 0.0 & 0.0 \\
+ & Qwen 3.6 35B & 0.0 & 0.0 \\
+\midrule
+\multirow[t]{5}{*}{Single LLM} & Llama3 70B & 0.0 & 0.0 \\
+ & Mistral Devstral 2 24B & 0.0 & 0.0 \\
+ & Mistral Small 3.2 24B & 0.0 & 0.0 \\
+ & Qwen 3.5 122B & 0.0 & 0.0 \\
+ & Qwen 3.6 35B & 0.0 & 0.0 \\
+\midrule
+\multirow[t]{5}{*}{ReAct} & Llama3 70B & 92.0 & 100.0 \\
+ & Mistral Devstral 2 24B & 18.5 & 100.0 \\
+ & Mistral Small 3.2 24B & 18.0 & 99.8 \\
+ & Qwen 3.5 122B & 97.0 & 99.0 \\
+ & Qwen 3.6 35B & 99.0 & 99.0 \\
+\bottomrule
+\end{tabular}
+\end{table}

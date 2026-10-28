@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the bird species Euplectes progne, commonly known as the red-shouldered widowbird, recorded across multiple countries including South Africa, Kenya, and Lesotho. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, enabling precise classification and identification. Observations are geotagged with coordinates, uncertainty, and elevation data, providing spatial context for each sighting. Temporal details like event date, day, month, and year allow for temporal analysis of occurrences. The dataset also includes metadata such as the observer's name, identification date, license information, and media types associated with each record. Semantically, the dataset is structured to support biodiversity research, with columns designed for aggregation, spatial filtering, temporal analysis, and quality control. Researchers and conservationists can use this dataset to study the distribution, habitat preferences, and population trends of Euplectes progne, contributing to broader efforts in avian ecology and conservation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

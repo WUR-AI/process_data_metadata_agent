@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the fungal species Mycena renati, a type of mushroom belonging to the Basidiomycota phylum. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country, state/province, and coordinates. Temporal data such as event date, day, month, and year are also provided, along with attribution details like the observer and identifier. The dataset is sourced from iNaturalist and includes media types such as still images. It can be used for biodiversity research, ecological studies, and monitoring the distribution and occurrence of Mycena renati across different regions and time periods. The semantic profile indicates that the data is well-structured for aggregation, spatial filtering, temporal analysis, and data quality assessment.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

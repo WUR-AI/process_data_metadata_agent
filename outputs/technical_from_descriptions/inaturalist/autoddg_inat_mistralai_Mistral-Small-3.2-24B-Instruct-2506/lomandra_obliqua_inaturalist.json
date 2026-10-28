@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Lomandra obliqua, a plant species native to Australia. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive view of the species' biological hierarchy. Additionally, the dataset offers location data with coordinates, country codes, and state/province information, allowing for spatial analysis and mapping. Temporal data, including event dates, days, months, and years, enables tracking of observations over time. The dataset also includes identifiers for aggregation keys, which can be used to link and integrate data from different sources. Furthermore, the dataset contains information on the observers, identifiers, and rights holders, providing context and credibility to the observations. This dataset can be used for biodiversity studies, ecological research, and conservation efforts focused on Lomandra obliqua and its habitat.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

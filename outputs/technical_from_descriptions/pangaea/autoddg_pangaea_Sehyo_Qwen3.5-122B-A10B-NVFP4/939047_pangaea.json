@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains high-resolution measurements of water vapor isotopes collected at a specific climate monitoring site with an elevation of 42 meters. The records include temporal data recorded hourly, alongside key atmospheric variables such as water vapor mixing ratios and their associated errors. Crucially, the dataset provides stable isotope ratios, specifically delta-18O and delta-D for water vapor, along with their standard deviations and the number of observations used for each calculation. These measurements, captured at a fixed latitude and longitude, are essential for studying atmospheric moisture transport and climate dynamics. Researchers can utilize this data to analyze isotopic fractionation processes, validate climate models, and investigate regional hydrological cycles through detailed temporal and spatial aggregation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "hourly"
+}

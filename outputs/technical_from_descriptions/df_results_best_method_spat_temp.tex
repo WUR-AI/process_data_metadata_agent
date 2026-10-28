@@ -1,0 +1,18 @@
+\begin{table}
+\caption{Best model per method on PANGAEA spatial and temporal coverage. The best model is the highest spatial true-positive accuracy, then spatial precision, spatial recall, temporal true-positive accuracy, temporal precision, and temporal recall.}
+\label{tab:best_method_spat_temp}
+\begin{tabular}{llrrrrrr}
+\toprule
+Method & Best model & \multicolumn{3}{c}{Spatial coverage} & \multicolumn{3}{c}{Temporal coverage} \\
+\cmidrule(lr){3-5} \cmidrule(lr){6-8}
+ &  & TP accuracy [\%] & Precision [\%] & Recall [\%] & TP accuracy [\%] & Precision [\%] & Recall [\%] \\
+\midrule
+M$^3$ & Llama3 70B & 60.5 & 100.0 & 100.0 & 53.0 & 91.9 & 96.6 \\
+M$^3$ fast & Llama3 70B & 60.5 & 100.0 & 97.1 & 53.0 & 95.0 & 93.4 \\
+AutoDDG & Llama3 70B & 38.2 & 100.0 & 88.2 & 28.5 & 90.7 & 72.1 \\
+DataAtlas & Llama3 70B & 0.0 & -- & 0.0 & 18.5 & 100.0 & 69.2 \\
+Single LLM & Llama3 70B & 53.0 & 100.0 & 89.7 & 46.5 & 91.2 & 85.2 \\
+ReAct & Llama3 70B & 60.0 & 100.0 & 97.1 & 51.5 & 95.0 & 93.4 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents detailed reproductive and physiological measurements of the oyster species E. fimbriata collected from three coastal locations in Senegal during 2014. It includes environmental variables such as temperature and salinity alongside biological metrics like oocyte dry mass, volume, and biochemical composition including lipids and proteins. The data also features geochemical ratios of barium, strontium, and zinc relative to calcium, which serve as proxies for environmental conditions. Researchers can utilize this resource to analyze seasonal reproductive cycles, assess the impact of environmental factors on oyster gametogenesis, and study the bioaccumulation of trace elements in marine bivalves across different spawning batches.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2014-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Occurrence records of Formica cunicularia (2013‑2026) with taxonomic, temporal, and geographic details.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

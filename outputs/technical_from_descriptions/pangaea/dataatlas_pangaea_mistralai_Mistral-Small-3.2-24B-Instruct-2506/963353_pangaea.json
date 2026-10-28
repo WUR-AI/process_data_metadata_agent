@@ -1,0 +1,10 @@
+{
+  "description": "Environmental data from 2004 with event, location, sample, and ice measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2004-01-01T00:00:00",
+    "to": "2004-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

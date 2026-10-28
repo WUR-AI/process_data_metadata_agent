@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed sediment chemistry measurements from a geological study, focusing on the composition of various chemical elements and their relative concentrations. The data includes measurements of elements such as aluminum, barium, calcium, chromium, copper, iron, potassium, lanthanum, lithium, magnesium, manganese, sodium, nickel, phosphorus, strontium, and titanium, along with their relative errors. The dataset also includes spatial and temporal references, such as latitude, longitude, elevation, and date/time, which allow for precise location and time tracking of the samples. The semantic profile indicates that the data is structured to support aggregation and measurement analysis, making it suitable for studies in sediment chemistry and geological research. This dataset can be used for analyzing sediment composition, understanding chemical variations in different sediment layers, and studying the environmental impact on sediment chemistry.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

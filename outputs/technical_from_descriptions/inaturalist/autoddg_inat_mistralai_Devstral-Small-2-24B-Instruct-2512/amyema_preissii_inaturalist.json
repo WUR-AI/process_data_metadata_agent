@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Amyema preissii, a parasitic plant native to Australia. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, state/province, and country. Temporal data such as event dates, day, month, and year are also provided, allowing for temporal analysis. Each observation is linked to a unique identifier, and metadata such as the observer's name, identification date, and license details are included. The dataset can be used for biodiversity research, ecological studies, and conservation efforts, particularly in understanding the distribution and habitat preferences of Amyema preissii. The semantic profile highlights the dataset's focus on biodiversity, with columns serving as aggregation keys, spatial filters, temporal filters, and quality control indicators.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

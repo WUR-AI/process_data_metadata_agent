@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species Banksia robur, primarily recorded in Queensland and New South Wales, Australia. The records span from 2010 to 2026 and include precise geographic coordinates, observation dates, and taxonomic classifications down to the species level. Each entry is linked to specific observers and often includes associated still images, facilitating visual verification. The data is structured with standard biodiversity identifiers, allowing for seamless integration into global research networks. Researchers can utilize this collection to analyze the species' distribution patterns, monitor population trends over time, and assess habitat preferences across different Australian states.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

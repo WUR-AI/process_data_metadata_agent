@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 iNaturalist occurrence records of the plant Keckiella breviflora, all from the United States (California and Nevada). Each entry provides a unique GBIF occurrence identifier, dataset key, and occurrence URL, together with the full taxonomic hierarchy (kingdom Plantae, phylum Tracheophyta, class Magnoliopsida, order Lamiales, family Plantaginaceae, genus Keckiella, species breviflora). Precise geographic coordinates (latitude 35.78 to 40.02, longitude –122.57 to –118.66) and coordinate‑uncertainty values enable spatial analysis, while event dates from 2014‑2026 support temporal studies. Media fields indicate still images, and licensing (CC‑BY‑NC, CC0) and rights‑holder information are included. Data‑quality flags such as coordinate rounding are recorded. Researchers can use this collection for mapping the species’ distribution, examining phenology, and informing conservation assessments of Keckiella breviflora.",
+  "spatialCoverage": {
+    "min_lat": 35.78,
+    "min_lon": -122.57,
+    "max_lat": 40.02,
+    "max_lon": -118.66
+  },
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

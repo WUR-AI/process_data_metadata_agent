@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains measurements of Porites coral geochemistry from a single site (TIAREI‑A1) in French Polynesia, recorded on 1 July 2008. It includes 20 records with columns: Age (float, –0.057 to 0 years), Age_2 (year, 0 to 2007.375), Sr/Ca, Mg/Ca, δ18O, δ13C (all float, ranges 0‑9.155, 0‑5.122, –4.78‑0, –2.85‑0). Event is a single categorical label, latitude –17.506944, longitude –149.4225, elevation –15 m. The semantic profile identifies Age as a geochemical measurement, Age_2 as a chronological index, the Sr/Ca, Mg/Ca, δ18O and δ13C as geochemical proxies, and the location fields as geographic coordinates. Researchers can use these data to reconstruct past sea‑surface temperature, salinity and carbon cycling, or to calibrate coral‑based climate chronologies.",
+  "spatialCoverage": {
+    "min_lat": -17.506944,
+    "min_lon": -149.4225,
+    "max_lat": -17.506944,
+    "max_lon": -149.4225
+  },
+  "temporalCoverage": {
+    "from": "2008-07-01T00:00:00",
+    "to": "2008-07-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

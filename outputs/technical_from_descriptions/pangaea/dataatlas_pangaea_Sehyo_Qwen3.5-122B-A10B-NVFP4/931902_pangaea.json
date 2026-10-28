@@ -1,0 +1,10 @@
+{
+  "description": "Two July 2016 Birkeland Cruise video records with locations and file metadata.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-07-01T00:00:00",
+    "to": "2016-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

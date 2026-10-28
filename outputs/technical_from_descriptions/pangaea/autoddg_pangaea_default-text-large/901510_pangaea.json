@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records fixed‑point measurements taken at the Elwha River Delta on 3 February 2012. It contains 20 rows with latitude values ranging from 0 to 49.5554432 degrees north and longitude from –125.9387829 to 0 degrees east, together with elevation measurements between 0 and 4.78 meters. Each record includes a timestamp (to the second) and electrical sensor readings: horizontal RMS (HRMS) values from 0 to 0.029 and vertical RMS (VRMS) values from 0 to 0.034. The status field is uniformly “FIXED”, and the description and event fields identify the monitoring campaign (PROF132, Elwha_River_Delta). These geospatial and electrical measurements support delta monitoring, enabling analysis of sediment transport, water‑level changes, and infrastructure stability in the river delta environment.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -125.9387829,
+    "max_lat": 49.5554432,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2012-02-03T00:00:00",
+    "to": "2012-02-03T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

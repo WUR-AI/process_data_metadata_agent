@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Senega cruciata, primarily located in Florida, with some records from Louisiana, Mississippi, and Tennessee. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which allows for comprehensive classification and identification of the observed plants. Additionally, the dataset provides spatial data, including coordinates and uncertainty measurements, enabling precise geolocation of the observations. Temporal data, such as event dates and identification dates, allows for tracking the timing of observations. The dataset also includes information about the observers, licenses, and media types, providing context and credibility to the records. This dataset can be used for studying the distribution, habitat, and temporal patterns of Senega cruciata, as well as for broader research on plant biodiversity in the southeastern United States. The semantic profile indicates that the data is well-structured for biodiversity research, with clear classifications and measurements that facilitate aggregation and analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

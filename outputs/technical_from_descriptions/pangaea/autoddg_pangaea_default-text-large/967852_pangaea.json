@@ -1,0 +1,12 @@
+{
+  "description": "The dataset contains 19 geological samples identified by a text‑based Sample ID and Sample label, which serve as aggregation and grouping keys. Each sample records a thickness measurement (integer values from 0 to 23 cm) and several continuous measurements: Ratio (0 – 1.36), Strat height (0 – 15.85 m), quartz content (Qz, 0 – 13 %), clay (0 – 50 %), calcite (0 – 84 %), and mineral fractions Gp (0 – 1), Dol (0 – 2) and Py (0 – 9). All samples belong to a single event, “Santiurde_section”, and share the same spatial reference: latitude 43.0685608, longitude ‑4.0878295 and elevation 730 m. The Date/Time field is empty. These columns capture geological measurements, mineral composition, and precise geospatial coordinates, making the data suitable for stratigraphic composition analysis, such as mapping mineral distribution across sedimentary layers, comparing thickness and ratio trends, or integrating with GIS to study spatial patterns in the study area.",
+  "spatialCoverage": {
+    "min_lat": 43.0685608,
+    "min_lon": -4.0878295,
+    "max_lat": 43.0685608,
+    "max_lon": -4.0878295
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

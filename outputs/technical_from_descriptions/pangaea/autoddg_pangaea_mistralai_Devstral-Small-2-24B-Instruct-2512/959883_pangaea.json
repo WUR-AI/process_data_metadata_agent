@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides detailed chemical measurements of marine sediment samples collected from a single station (M186_50-1GC) at a depth of -1227 meters, with coordinates at latitude 38.74047 and longitude -28.58108. The data includes 18 sediment samples analyzed for various chemical parameters such as nitrate ([NO3]-), nitrite ([NO2]-), ammonium ([NH4]+), phosphate ([PO4]3-), chloride (Cl-), sulfate ([SO4]2-), and other elements like boron (B), manganese (Mn), calcium (Ca), iron (Fe), sodium (Na), magnesium (Mg), strontium (Sr), silicon (Si), barium (Ba), lithium (Li), and potassium (K). The measurements are taken at different sediment depths, ranging from 0.29 to 3.64 meters, and cover a range of concentrations for each chemical parameter. The dataset also includes temporal information, with all samples collected on December 15, 2022. This dataset can be used for studying the chemical composition of marine sediments, understanding nutrient cycling in marine environments, and analyzing the distribution of various elements in sediment layers. The semantic profile indicates that the dataset is rich in chemical measurements, with each parameter serving as a key measurement for geological and chemical analysis. The spatial and temporal references allow for precise location and time tracking of the samples.",
+  "spatialCoverage": {
+    "min_lat": 38.74047,
+    "min_lon": -28.58108,
+    "max_lat": 38.74047,
+    "max_lon": -28.58108
+  },
+  "temporalCoverage": {
+    "from": "2022-12-15T00:00:00",
+    "to": "2022-12-15T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

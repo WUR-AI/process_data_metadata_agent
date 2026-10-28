@@ -1,0 +1,15 @@
+{
+  "description": "This dataset presents sediment core analysis data, focusing on measurements of total organic carbon (TOC) and total inorganic carbon (TIC) at various sediment depths. The data is collected from a single event, GeoB16310-2, at a specific location with a latitude of 23.82405 and a longitude of -87.170283333333, and an elevation of -565.0 meters, recorded on March 22, 2012. The dataset includes measurements of sediment depth ranging from 0 to 4.85 meters, with TOC values spanning from 0 to 0.701% and TIC values from 0 to 10.611%. Semantically, the dataset comprises numeric entities related to geological measurements, spatial entities indicating the sample location, and temporal entities marking the sampling time. This dataset can be used for analyzing sediment composition, studying carbon distribution in sediments, and understanding the geological history and environmental changes at the sampling site.",
+  "spatialCoverage": {
+    "min_lat": 23.82405,
+    "min_lon": -87.170283333333,
+    "max_lat": 23.82405,
+    "max_lon": -87.170283333333
+  },
+  "temporalCoverage": {
+    "from": "2012-03-22T00:00:00",
+    "to": "2012-03-22T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

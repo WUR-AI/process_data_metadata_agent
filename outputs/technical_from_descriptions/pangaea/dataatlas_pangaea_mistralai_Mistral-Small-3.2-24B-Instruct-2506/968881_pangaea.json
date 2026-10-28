@@ -1,0 +1,7 @@
+{
+  "description": "Environmental event data with location, depth, time, and snow density measurements.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

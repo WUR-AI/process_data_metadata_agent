@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the moth species Crasilogia gressitti, primarily recorded in Queensland and New South Wales, Australia. The records span from 2018 to 2025 and include precise geographic coordinates, elevation data, and timestamps for each sighting. All entries are classified under the family Geometridae and are sourced from the iNaturalist platform, with media types consisting of still images. The data is structured with standard biodiversity fields, including taxonomic hierarchy and observer details, making it suitable for analyzing species distribution patterns, seasonal activity, and population trends. Researchers can utilize this information to study the ecological preferences of Crasilogia gressitti within its native Australian habitat.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

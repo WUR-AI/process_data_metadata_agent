@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records measurements from five geological core samples (La3, La7, La10, La16, La20) collected at the Lanaittu core site (40.2592 ° N, 9.5014 ° E) on 1 January 1994. Sample label serves as the aggregation key and includes a sediment depth between 0 and 27.5 m and the comment “2‑4 phi”. Quantitative fields cover a geochemical HM index (0–1.4), transparency, opacity and turbidity (0–45.8, 0–51.7, 0–33.6), and mineral percentages such as zircon, tourmaline, garnet, epidote and zoisite‑clinozoisite, with values spanning the ranges shown in the profile. Latitude, longitude and a timestamp provide location reference. The data can support analyses of mineral composition, petrological properties and trends in sedimentary cores, aiding stratigraphic correlation, provenance interpretation and paleo‑environmental reconstruction.",
+  "spatialCoverage": {
+    "min_lat": 40.2592,
+    "min_lon": 9.5014,
+    "max_lat": 40.2592,
+    "max_lon": 9.5014
+  },
+  "temporalCoverage": {
+    "from": "1994-01-01T00:00:00",
+    "to": "1994-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

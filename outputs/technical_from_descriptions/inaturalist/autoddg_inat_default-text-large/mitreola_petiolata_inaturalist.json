@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides 20 iNaturalist human‑observation records of the plant Mitreola petiolata. Each entry includes GBIF and dataset identifiers, the full taxonomic hierarchy (Plantae > Tracheophyta > Magnoliopsida > Gentianales > Loganiaceae > Mitreola > petiolata) and the scientific name. Geographic coverage spans US states (Texas, Florida, Alabama, Louisiana) and one location in India, with latitudes from 19.4 to 31.9° and longitudes from –97.8 to –85.7°. Coordinate uncertainty ranges from 4 m to 29,891 m, and the observations cover 2016‑2025, providing day, month and year fields. All records are licensed under CC BY‑NC 4.0 or CC0 and include media. Researchers can use the data for distribution mapping, phenology studies, and biodiversity analyses of Mitreola petiolata.",
+  "spatialCoverage": {
+    "min_lat": 19.4,
+    "min_lon": -97.8,
+    "max_lat": 31.9,
+    "max_lon": -85.7
+  },
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

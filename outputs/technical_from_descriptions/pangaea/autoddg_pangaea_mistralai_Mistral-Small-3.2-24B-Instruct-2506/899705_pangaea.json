@@ -1,0 +1,7 @@
+{
+  "description": "This dataset consists of 12 climate data files, each with a unique name and size, ranging from 287 to 30650 units. All files are in the 'nc' format and can be accessed via their respective URLs. The file names contain temporal data with a yearly resolution, indicating that the data is organized by year. The file format and size provide identification and measurement context, while the URLs offer access to the data. This dataset can be used for various climate-related studies, such as analyzing climate variables, tracking changes over time, and supporting climate model development. The data can also be useful for researchers and scientists working on climate change mitigation and adaptation strategies.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "yearly"
+}

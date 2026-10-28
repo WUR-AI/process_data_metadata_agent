@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains ice core isotope measurements from the WDC06A core, located in Antarctica at 1766 meters elevation. It records depth, gas age, and isotopic ratios including δ18O, δ18O_2, Δ36, and Δ36_2. The data spans depths up to 2532.56 meters and gas ages up to 20.56 years. Collected on December 9, 2006, these records serve as critical climate proxies. Researchers can use this information to reconstruct past atmospheric conditions and temperature variations. The consistent spatial coordinates and temporal references allow for precise paleoclimate analysis and aggregation of isotopic trends over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

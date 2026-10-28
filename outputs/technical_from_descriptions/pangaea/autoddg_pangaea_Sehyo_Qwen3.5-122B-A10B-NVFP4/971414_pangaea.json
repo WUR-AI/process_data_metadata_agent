@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains river sediment records from the Ono and Yuki Rivers in Chiba, Japan, organized by specific sampling events and unique sample identifiers. It includes spatial measurements such as section distance markers, latitude, and longitude coordinates, alongside temporal data indicating sediment age in years. The records also feature SR values, likely representing sedimentation rates or related environmental metrics, and cite their academic sources. Researchers can use this data to analyze sediment accumulation patterns, reconstruct historical environmental changes, and study the spatial distribution of river deposits across the Kiwada Kazusa region for environmental science applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

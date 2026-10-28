@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of Keckiella breviflora, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences in California and Nevada. The records feature identifiers, species keys, and observer details, supporting spatial and temporal filtering. Users can analyze species distribution, track observation trends, and assess data quality through issue flags. The data supports research in ecology and conservation by providing structured occurrence records with associated metadata, licenses, and media types for further study.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

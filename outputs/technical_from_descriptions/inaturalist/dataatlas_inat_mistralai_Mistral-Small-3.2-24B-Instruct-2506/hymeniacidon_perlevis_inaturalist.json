@@ -1,0 +1,10 @@
+{
+  "description": "Species occurrence data for Hymeniacidon perlevis, 2016-2026, 1000 records.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

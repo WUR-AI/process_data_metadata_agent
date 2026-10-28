@@ -1,0 +1,12 @@
+{
+  "description": "This dataset details sediment composition from the Santiurde section, featuring 19 geological samples collected at an elevation of 730 meters. It records stratigraphic height, thickness, and mineral ratios, including quartz, clay, calcite, gypsum, dolomite, and pyrite. Spatial coordinates pinpoint the location near latitude 43.07 and longitude -4.09. The data supports geological analysis of sedimentary layers, enabling researchers to study mineral distribution and stratigraphic variations. Although temporal data is missing, the consistent spatial context allows for precise mapping of sedimentary events. This resource is valuable for understanding regional geological history and sedimentary processes through detailed compositional measurements.",
+  "spatialCoverage": {
+    "min_lat": 43.07,
+    "min_lon": -4.09,
+    "max_lat": 43.07,
+    "max_lon": -4.09
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

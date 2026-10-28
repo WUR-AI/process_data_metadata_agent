@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides 20 human‑observed occurrences of the Australian shrub Banksia robur, recorded in Queensland and New South Wales. Each record includes GBIF and iNaturalist identifiers, a complete taxonomic hierarchy (Plantae → Tracheophyta → Magnoliopsida → Proteales → Proteaceae → Banksia → robur), and the scientific name with authorship. Precise geographic coordinates are supplied, with latitudes from –33.91 to –25.5 ° and longitudes up to 153.13 °, together with coordinate‑uncertainty measurements in metres. Temporal data span 2010‑2026, captured at day, month and year resolution. All entries are still‑image media, flagged for rounded coordinates, and released under a CC BY‑NC 4.0 licence. The collection is ideal for mapping the species’ distribution, analysing phenology, and supporting conservation assessments of Banksia robur.",
+  "spatialCoverage": {
+    "min_lat": -33.91,
+    "min_lon": -180.0,
+    "max_lat": -25.5,
+    "max_lon": 153.13
+  },
+  "temporalCoverage": {
+    "from": "2010-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "day, month and year"
+}

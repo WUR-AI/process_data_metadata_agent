@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the insect species Ormenaria rufifascia, primarily recorded in Florida and South Carolina between 2019 and 2026. It includes precise spatial coordinates, taxonomic classifications, and event dates for each sighting. The records are sourced from iNaturalist, featuring media types like still images and metadata on data quality issues. Researchers can use this collection to study the species' geographic distribution, seasonal activity patterns, and habitat preferences. The data supports biodiversity monitoring and ecological analysis, offering valuable insights into the presence and behavior of this specific flatid planthopper in the southeastern United States.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

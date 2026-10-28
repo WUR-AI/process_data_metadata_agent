@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains paleomagnetic measurements from sediment cores, with each row representing data from a specific depth. The dataset includes various magnetic parameters such as declination, inclination, and their respective uncertainties, as well as age estimates and virtual geomagnetic pole (VGP) coordinates. The data is of geological nature, with measurements spanning different depths and ages, primarily focusing on magnetic properties and spatial coordinates. This dataset can be used for studying the Earth's magnetic field variations over time, reconstructing past geomagnetic field behavior, and understanding the geological history of the sampled regions. The semantic profile indicates that the dataset contains both temporal and spatial data, making it valuable for temporal and spatial analyses in geological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

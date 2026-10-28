@@ -1,0 +1,7 @@
+{
+  "description": "This dataset documents a laboratory experiment focused on aquatic ecosystems, specifically examining the pulsation of X. umbellata under different conditions. The data includes measurements of pulsation rates across 11 tanks, with treatments categorized as Control, DOC, Zooplankton, and Phytoplankton. Key variables include the study type, tank identifier, treatment type, days of exposure (DOE), and pulsation values, which range from 0 to 40.0. Semantically, the dataset uses categorical entities like treatment types and tank identifiers as aggregation keys, while numeric entities such as DOE and pulsation serve as measurements. This dataset can be used to analyze the impact of various treatments on X. umbellata pulsation, providing insights into aquatic ecosystem dynamics and the effects of different environmental factors.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

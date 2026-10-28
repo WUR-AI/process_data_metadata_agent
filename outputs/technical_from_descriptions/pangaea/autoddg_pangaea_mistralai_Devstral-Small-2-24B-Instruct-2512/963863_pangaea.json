@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains environmental data collected from multiple sampling sites, including physico-chemical parameters, particulate matter, temperature, and hydrological measurements. The dataset consists of eight text files, each with unique identifiers, sizes, and hash values, all encoded in UTF-16LE format. Each data file is accompanied by a corresponding metadata file that describes the columns in detail. The semantic profile indicates that the dataset is structured to aggregate environmental measurements, with metadata providing context for file types, encodings, and unique identifiers. This dataset can be used for environmental monitoring, research, and analysis, such as studying water quality, climate patterns, or the impact of contaminants. The descriptive content offers insights into the scientific context of each measurement, making it valuable for researchers and policymakers.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

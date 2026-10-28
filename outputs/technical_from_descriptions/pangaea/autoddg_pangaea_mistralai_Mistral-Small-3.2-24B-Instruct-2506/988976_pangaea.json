@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on paleoceanographic diatoms, providing valuable insights into past climate conditions. It includes measurements of various diatom species, sediment depth, and age, with data spanning from 0 to 2.747 in age and 0 to 0.295 in sediment depth. The dataset's semantic profile indicates that it is rich in climate-related measurements, with each diatom species serving as a distinct measurement variable. Additionally, the dataset contains spatial reference data with latitude and longitude coordinates, and temporal data with age information. This dataset can be used for studying past oceanographic conditions, understanding climate change, and reconstructing historical environmental patterns. The measurements of different diatom species can help researchers infer past sea surface temperatures, sea ice extent, and other oceanographic parameters.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

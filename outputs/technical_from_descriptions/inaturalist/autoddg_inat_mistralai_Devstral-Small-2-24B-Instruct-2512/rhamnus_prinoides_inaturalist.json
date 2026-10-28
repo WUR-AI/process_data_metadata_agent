@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of *Rhamnus prinoides*, a plant species native to South Africa, collected from various regions including the Eastern Cape, KwaZulu-Natal, and Gauteng. The records include taxonomic details such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like coordinates, state/province, and country code. Temporal information includes event dates, days, months, and years, while attribution details such as identified by, recorded by, and rights holder are also provided. The dataset is sourced from iNaturalist and includes metadata like licenses and media types. It can be used for biodiversity research, ecological studies, and conservation efforts, particularly in understanding the distribution and habitat preferences of *Rhamnus prinoides*. The semantic profile highlights its utility for taxonomic classification, spatial filtering, temporal analysis, and quality control in biodiversity datasets.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains sediment core chemistry measurements from a single drilling event (370-C0023A) at coordinates 32.366667°N, 134.966333°E, with an elevation of -4776 meters. It includes 20 samples with detailed depth measurements (top, bottom, and sediment depth) and chemical analyses of alkane and diol peak areas. The data spans from September 17, 2016, and covers sediment depths ranging from 0 to 1068.335 meters. Semantically, the dataset integrates scientific sample identifiers, geological depth measurements, chemical compound analyses, and geographical/temporal references, making it suitable for studies in marine geochemistry, sediment composition, and paleoenvironmental reconstruction. Researchers can use this dataset to analyze organic compound distributions in deep-sea sediments, correlate chemical signatures with depth, or investigate temporal changes in sediment chemistry.",
+  "spatialCoverage": {
+    "min_lat": 32.366667,
+    "min_lon": 134.966333,
+    "max_lat": 32.366667,
+    "max_lon": 134.966333
+  },
+  "temporalCoverage": {
+    "from": "2016-09-17T00:00:00",
+    "to": "2016-09-17T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

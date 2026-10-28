@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the brown alga Colpomenia peregrina, sourced from iNaturalist and aggregated via GBIF. It contains 20 records spanning from 2016 to 2026, covering locations across eight countries including the United States, France, and New Zealand. Each entry provides detailed taxonomic classification, precise geographic coordinates, and observation dates, though some fields like elevation and depth are currently missing. The data is primarily licensed under CC BY-NC 4.0 and includes media attachments such as still images. Researchers can utilize this collection to study the global distribution, seasonal patterns, and introduction history of this invasive marine species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

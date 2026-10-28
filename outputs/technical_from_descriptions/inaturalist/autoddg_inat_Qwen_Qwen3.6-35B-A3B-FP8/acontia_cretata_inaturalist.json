@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Acontia cretata, primarily recorded in the United States. It includes detailed taxonomic classifications, spatial coordinates, and temporal data spanning from 2017 to 2026. The records are sourced from iNaturalist, featuring human observations with associated media and identification details. Users can leverage this data for spatial filtering, temporal aggregation, and quality control analysis. The dataset supports research into species distribution, phenology, and ecological monitoring, providing essential metadata on licensing and data provenance for scientific inquiry.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

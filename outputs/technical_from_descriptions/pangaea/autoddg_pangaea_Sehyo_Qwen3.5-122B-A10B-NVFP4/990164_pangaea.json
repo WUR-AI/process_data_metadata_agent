@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains sediment geochemistry measurements collected from a specific site in Mexico, identified by the sample code LTp22-1. The records include sediment depth, corresponding calendar ages ranging from 1915 to 2018, and concentrations of various chemical elements such as Silicon, Potassium, Calcium, and heavy metals like Cadmium and Zinc, all presented in CLR-transformed values. Additional columns provide scattering ratios, event identifiers, and precise geographic coordinates with an elevation of 1430 meters. Researchers can utilize this data to analyze historical environmental changes, trace pollution sources, or study sedimentation patterns over the last century at this high-altitude location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1915-01-01T00:00:00",
+    "to": "2018-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

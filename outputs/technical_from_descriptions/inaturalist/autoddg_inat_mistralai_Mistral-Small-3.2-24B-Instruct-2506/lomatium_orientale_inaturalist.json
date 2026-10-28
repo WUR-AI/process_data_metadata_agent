@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Lomatium orientale, a plant species, primarily in Colorado, with one observation in South Dakota. The data includes various taxonomic ranks such as kingdom, phylum, class, order, family, genus, and species, which help in classifying the organism. Additionally, the dataset contains spatial data like country code, state/province, and coordinates, allowing for geographic analysis. Temporal data such as event date, day, month, and year are also included, enabling the study of temporal patterns. The dataset can be used for biodiversity research, ecological studies, and conservation efforts focused on Lomatium orientale. It also includes information on the observers, identifiers, and licenses, providing context and credibility to the observations. The semantic profile indicates that the dataset is well-structured for aggregation and classification purposes, making it valuable for detailed biodiversity analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

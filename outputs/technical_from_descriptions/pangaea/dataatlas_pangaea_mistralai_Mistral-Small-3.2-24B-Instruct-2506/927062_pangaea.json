@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental data from August 2018, 21-minute balloon event, 1801 records.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-08-01T00:00:00",
+    "to": "2018-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

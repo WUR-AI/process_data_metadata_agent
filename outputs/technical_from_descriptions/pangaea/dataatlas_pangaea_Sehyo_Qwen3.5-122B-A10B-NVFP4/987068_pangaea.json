@@ -1,0 +1,10 @@
+{
+  "description": "Sediment core data from March 23, 2012, including depth, TOC, TIC, and location.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-23T00:00:00",
+    "to": "2012-03-23T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the orchid species Acianthus fornicatus, primarily recorded in New South Wales, Australia. It includes detailed taxonomic classifications, precise geographic coordinates, and temporal data spanning from 2020 to 2025. The records are sourced from iNaturalist human observations, featuring media attachments and identification metadata. Users can leverage this data for spatial analysis of species distribution, temporal trend studies, and ecological research. The dataset supports biodiversity monitoring and conservation efforts by providing verified occurrence records with associated quality control issues and licensing information for open scientific use.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

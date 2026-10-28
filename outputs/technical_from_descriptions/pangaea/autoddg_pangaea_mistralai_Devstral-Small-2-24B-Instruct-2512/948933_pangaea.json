@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains benthic trawl data collected in marine environments, focusing on the species *Scomber scombrus* (Atlantic mackerel). It includes spatial coordinates (latitude and longitude), bathymetric measurements, environmental parameters (salinity and temperature), and temporal information for each trawl event. The dataset also records fish total length (TL) and count, along with habitat classification. Semantically, the data is structured to support aggregation by sample label, date/time, and event, with measurements categorized under marine biology. This dataset can be used for ecological studies, spatial distribution analysis, and environmental monitoring of benthic habitats, particularly in relation to fish populations and oceanographic conditions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

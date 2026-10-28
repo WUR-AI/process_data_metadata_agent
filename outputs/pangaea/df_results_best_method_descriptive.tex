@@ -1,0 +1,16 @@
+\begin{table}
+\caption{Best model per method on PANGAEA descriptive metadata. The best model is the highest mean of faithfulness and similarity. Values are mean $\pm$ standard error, in percent.}
+\label{tab:best_method_descriptive}
+\begin{tabular}{llcc}
+\toprule
+Method & Best model & Faithfulness [\%] & Similarity [\%] \\
+\midrule
+M$^3$ & Llama3 70B & 94.7 $\pm$ 1.7 & 56.0 $\pm$ 3.4 \\
+AutoDDG & Mistral Small 3.2 24B & 82.7 $\pm$ 3.3 & 44.4 $\pm$ 2.8 \\
+DataAtlas & Mistral Small 3.2 24B & 77.7 $\pm$ 2.8 & 54.7 $\pm$ 3.7 \\
+Single LLM & Mistral Devstral 2 24B & 80.7 $\pm$ 4.2 & 48.1 $\pm$ 3.9 \\
+ReAct & Mistral Small 3.2 24B & 91.7 $\pm$ 2.6 & 47.4 $\pm$ 3.9 \\
+M$^3$ fast & Mistral Devstral 2 24B & 96.0 $\pm$ 1.4 & 46.1 $\pm$ 3.2 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,15 @@
+{
+  "description": "This dataset records twenty quick‑look image files generated during a single ROV survey conducted on 8 September 2020. All rows share the same survey identifier (1) and event label (PS122/5_61‑35), and they are geolocated at latitude 88.675993 ° N, longitude 112.324519 ° E with an elevation of –4291.4 m, indicating a deep‑water deployment. The **Date/Time** column provides a day‑level timestamp, the **Survey ID** serves as a numeric identifier, and the **Binary** field lists the PNG filenames that reference each image. The **Event** column denotes the specific marine‑survey segment, while **Latitude**, **Longitude**, and **Elevation** capture precise geospatial measurements. Researchers can use these records to visualise ROV observations, assess seabed and water‑column conditions, and support mapping or environmental monitoring of deep‑sea habitats.",
+  "spatialCoverage": {
+    "min_lat": 88.675993,
+    "min_lon": 112.324519,
+    "max_lat": 88.675993,
+    "max_lon": 112.324519
+  },
+  "temporalCoverage": {
+    "from": "2020-09-08T00:00:00",
+    "to": "2020-09-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

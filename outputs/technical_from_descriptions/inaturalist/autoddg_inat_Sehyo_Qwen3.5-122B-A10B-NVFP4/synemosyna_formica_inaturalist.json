@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the ant-mimicking jumping spider, Synemosyna formica, sourced from the iNaturalist platform. The records span multiple years and cover various locations across the United States and Canada, including states like Massachusetts, Ohio, and Ontario. Each entry provides detailed taxonomic classification, precise geographic coordinates, and observation dates, facilitating spatial and temporal analysis of the species' distribution. The data includes identifiers for observers and rights holders, along with media types such as still images. Researchers can utilize this collection to study population trends, habitat preferences, and the ecological range of Synemosyna formica in North America.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

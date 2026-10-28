@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains 20 observations of the long‑horn beetle Certallum ebulinum. Each entry is keyed by a GBIF integer (gbifID) and an occurrence URL, and lists the taxonomic hierarchy. Coordinates with uncertainty (2–28 505 m) place records in Spain, France, Portugal, Italy, Israel and Algeria. EventDate, dateIdentified, mediaType and issue flags provide temporal context, image type, and data‑quality notes. The semantic model uses gbifID, occurrenceID and taxonKey as identifiers, enabling distribution modelling, phenology studies, and beetle conservation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

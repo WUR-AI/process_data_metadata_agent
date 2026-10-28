@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the plant species Nabalus hastatus, sourced from iNaturalist. It includes detailed taxonomic classification, spatial coordinates across Alaska and British Columbia, and temporal data from 2017 to 2025. Key fields such as gbifID and occurrenceID serve as unique identifiers for biodiversity aggregation. The records document human observations with associated media types and quality flags like coordinate rounding. Researchers can use this data to study the species' distribution, phenology, and habitat preferences in the Pacific Northwest region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

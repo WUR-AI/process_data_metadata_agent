@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the species Veniliornis passerinus, commonly known as the passerine woodpecker, sourced from the iNaturalist platform. The records span multiple countries in South America, including Brazil, Argentina, Colombia, and Bolivia, with detailed geographic coordinates and state-level locality information. Each entry includes taxonomic classification, observation dates ranging from 2017 to 2026, and attribution to specific observers. The data is structured to support biodiversity research, enabling geospatial analysis of species distribution and temporal studies of occurrence patterns. Researchers can utilize this collection to assess habitat preferences, monitor population trends, and validate species presence across different ecological zones.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

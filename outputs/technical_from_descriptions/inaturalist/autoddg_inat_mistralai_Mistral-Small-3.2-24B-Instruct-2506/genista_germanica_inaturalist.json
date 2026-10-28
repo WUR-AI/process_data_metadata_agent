@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of Genista germanica, a species of broom plant, collected from various locations across Europe. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, providing a comprehensive classification of the observed plants. Each observation is geotagged with decimal latitude and longitude, and includes details such as the date of observation, the observer's name, and the identification method. The dataset also contains metadata about the publishing organization, license, and rights holder. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear identifiers, spatial data, and temporal information. This dataset can be used for studying the distribution and habitat of Genista germanica, as well as for broader ecological and conservation research. The observations span from 2021 to 2026, providing a temporal snapshot of the species' presence in different regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

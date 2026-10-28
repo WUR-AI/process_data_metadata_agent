@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains measurements from Arctic ice cores collected during the MOSAiC expedition, spanning from November 2019 to July 2020. It includes data on chlorophyll a (Chl a), phaeopigments (Phae), ice/snow depth, and elevation, along with metadata such as sampling location, date, and device used. The dataset is structured with columns representing campaign, activity, event, date/time, latitude, longitude, device, section label, section comment, depth description, depth of ice/snow, Chl a concentration, Phae concentration, and elevation. Semantically, the dataset is designed for scientific research, with columns serving as aggregation keys (e.g., Campaign, Activity, Event) or measurements (e.g., Latitude, Longitude, Chl a, Phae). This dataset can be used for studying Arctic ice properties, analyzing temporal and spatial variations in ice core composition, and understanding the environmental conditions during the MOSAiC expedition.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-11-01T00:00:00",
+    "to": "2020-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

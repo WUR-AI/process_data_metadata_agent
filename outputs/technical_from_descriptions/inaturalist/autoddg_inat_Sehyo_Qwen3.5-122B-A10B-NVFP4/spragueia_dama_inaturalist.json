@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the moth species Spragueia dama, primarily sourced from iNaturalist. It includes 20 unique occurrence entries spanning observations in the United States and Mexico, with data collected between 2017 and 2026. Each record provides detailed taxonomic classification, precise geographic coordinates, and temporal details such as the date of observation. The dataset features spatial attributes like state and country codes, alongside quality metrics including coordinate uncertainty. Users can leverage this data to analyze the species distribution patterns, study seasonal activity, or assess the reliability of citizen science observations for biodiversity monitoring and ecological research.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

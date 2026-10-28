@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the mistletoe species *Amyema preissii* across Australia, sourced primarily from the iNaturalist platform. The records include detailed taxonomic classifications, geographic coordinates, and observation dates spanning from 2012 to 2026. Each entry provides unique identifiers, observer attribution, and media links, facilitating robust biodiversity research. Users can leverage this data for geospatial analysis of species distribution, temporal studies of flowering or fruiting events, and ecological assessments within specific states like Victoria and South Australia. The dataset also includes quality flags and coordinate uncertainty metrics, ensuring researchers can evaluate data reliability for conservation planning and scientific modeling.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

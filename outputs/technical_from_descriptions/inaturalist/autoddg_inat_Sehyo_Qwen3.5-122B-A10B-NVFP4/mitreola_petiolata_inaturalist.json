@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species *Mitreola petiolata*, primarily sourced from iNaturalist. It contains twenty records documenting occurrences across the United States and India, with a concentration in southern states like Texas and Florida. Each entry includes detailed taxonomic classification, precise geospatial coordinates, and observation dates ranging from 2016 to 2025. The data features associated media, such as still images, and identifies the observers and rights holders for each record. Researchers can utilize this collection to analyze the species' distribution patterns, phenology, and habitat preferences, while also assessing data quality through provided coordinate uncertainty metrics and issue flags.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

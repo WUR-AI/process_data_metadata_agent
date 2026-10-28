@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the insect species Dioctria linearis, collected from various locations across Europe. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which allows for precise classification and aggregation. Each observation is geotagged with coordinates, providing spatial data that can be used for mapping and analyzing the distribution of this species. The dataset also includes temporal information, such as the date of observation, which enables the study of seasonal patterns and trends. Additionally, the dataset contains metadata about the observers, the publishing organization, and the license under which the data is shared. This information can be used for research on insect biodiversity, ecological studies, and conservation efforts. The semantic profile of the dataset indicates that it is well-structured for biodiversity-related analyses, with clear identifiers and aggregation keys for various data points. The observations are primarily human-observed and include images, making it a valuable resource for both scientific research and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

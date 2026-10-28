@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Sapium haematospermum*, a member of the Euphorbiaceae family, collected from various locations in Argentina and Brazil. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like coordinates, country, and state/province. Temporal data, including observation dates and identification dates, are also provided. Each observation is linked to a unique identifier, and metadata such as the observer's name, license, and media type are included. The dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and status of *Sapium haematospermum*. It is particularly useful for researchers interested in plant taxonomy, conservation, and spatial-temporal analysis of species occurrences.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

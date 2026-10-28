@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the marine fish Gymnapistes marmoratus, commonly known as the devil fish, recorded primarily in South Australia and Victoria, Australia. The records, sourced from iNaturalist, include precise geographic coordinates, observation dates ranging from 2022 to 2025, and associated media such as still images. Each entry provides detailed taxonomic classification and identifies the observers, supporting biodiversity monitoring and ecological research. Researchers can utilize this data to analyze species distribution patterns, seasonal occurrence trends, and habitat preferences within the region. The dataset is licensed under CC BY-NC 4.0, ensuring open access for non-commercial scientific inquiry while maintaining proper attribution to the contributors.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset contains 20 iNaturalist records of moth genus Haritalodes, H. derogata. Each entry provides a gbifID, a datasetKey and an occurrenceID URL. Taxonomic classification from kingdom to species, with taxonRank and scientificName, is included. Geographic fields cover seven country codes, 13 states/provinces, latitude (‑36.94 to 41.83) and longitude (0 to 174.80) with uncertainty up to 469 m. EventDate, day, month and year give context, while identifiedBy, recordedBy, rightsHolder and license (CC‑BY‑NC‑4.0 or CC‑BY‑4.0) record attribution. The semantic profile links identifiers, classification, coordinates, timestamps and media type (StillImage) to use. Researchers can use these records for species‑distribution modelling, phenology analysis or conservation planning of Haritalodes across Australasia, Africa and Asia.",
+  "spatialCoverage": {
+    "min_lat": -36.94,
+    "min_lon": 0.0,
+    "max_lat": 41.83,
+    "max_lon": 174.8
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

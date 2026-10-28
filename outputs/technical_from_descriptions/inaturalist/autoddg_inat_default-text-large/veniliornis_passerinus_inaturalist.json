@@ -1,0 +1,15 @@
+{
+  "description": "These 20 iNaturalist observations document the Green‑barred Woodpecker (Veniliornis passerinus) across Brazil, Peru, Bolivia, Argentina and Colombia from 2017 to 2026. Each record carries a unique GBIF ID, full taxonomic hierarchy, precise decimal latitude (‑28.23 to 0 °) and longitude (‑71.90 to 0 °) with uncertainty values, and a timestamp broken into eventDate, day, month and year. Media are classified as still images and data‑quality issues are flagged. The semantic profile ties identifiers to biodiversity concepts such as taxonKey, basisOfRecord and rightsHolder. The dataset can support mapping of woodpecker distribution, phenology studies and habitat‑use analyses for conservation planning.",
+  "spatialCoverage": {
+    "min_lat": -28.23,
+    "min_lon": -71.9,
+    "max_lat": 0.0,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This dataset comprises twenty citizen‑science observations of the stonefish *Gymnapistes marmoratus* recorded in Australia, primarily in South Australia and Victoria. Each record includes a unique GBIF identifier (gbifID ranging from 5 to 5 909 385 661), the scientific name, full taxonomic hierarchy (kingdom to species), and a precise geolocation (decimal latitude from ‑38.356 to 0 degrees and longitude up to 138.516 degrees) with coordinate uncertainty values between 0 and 177 metres. Temporal details are captured through event dates, day, month and year fields, while attribution fields record the observers, identifiers and licensing (CC‑BY‑NC‑4.0). The semantic profile links each column to its biodiversity context—taxonomic classification, spatial coordinates, timestamps, media type and quality issues—enabling reliable filtering and analysis. Researchers can use these data to map stonefish distribution, study seasonal occurrence patterns, assess habitat preferences, and evaluate the quality of citizen‑science contributions.",
+  "spatialCoverage": {
+    "min_lat": -38.356,
+    "min_lon": -180.0,
+    "max_lat": 0.0,
+    "max_lon": 138.516
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

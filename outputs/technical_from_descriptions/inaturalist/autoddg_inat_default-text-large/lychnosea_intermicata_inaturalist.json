@@ -1,0 +1,12 @@
+{
+  "description": "This dataset holds 20 iNaturalist observations of the moth Lychnosea intermicata from six U.S. states, all classified as Animalia > Arthropoda > Insecta > Lepidoptera > Geometridae. Each record includes a unique GBIF occurrence ID (gbifID 1 398 561 595–6 399 045 519), precise latitude/longitude (0 to 38.5 N, –98.2 to 0 E) and coordinate uncertainty up to 499 m. Semantic columns capture taxonomic identifiers, geographic codes, event dates, media type (still images) and attribution (identifiedBy, recordedBy), with issue flags for rounded coordinates. Licenses (CC‑BY‑NC‑4.0, CC‑BY‑4.0, CC0) permit reuse with credit. The data support species‑distribution mapping, phenology analysis, and broader biodiversity monitoring of Lychnosea intermicata.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -98.2,
+    "max_lat": 38.5,
+    "max_lon": 0.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

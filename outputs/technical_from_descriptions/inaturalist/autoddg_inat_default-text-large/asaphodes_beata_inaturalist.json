@@ -1,0 +1,15 @@
+{
+  "description": "This dataset contains 20 occurrence records of the moth *Asaphodes beata* from New Zealand, all sourced from iNaturalist human observations. Each record is uniquely identified by a GBIF ID and an occurrence URL, and includes the full taxonomic hierarchy (kingdom to species) as well as precise geographic coordinates (latitude ranging from –45.91 to 0 and longitude from 0 to 176.14) with coordinate uncertainty up to 543 m. Temporal information records event dates between 2012 and 2026, and attribution fields list the observers, identifiers, and rights holders under CC‑BY licences. The semantic profile maps columns to biodiversity, geography, temporal, legal and multimedia domains, supporting mapping, phenology, licensing compliance and data‑quality flag analyses of moth observations.",
+  "spatialCoverage": {
+    "min_lat": -45.91,
+    "min_lon": 0.0,
+    "max_lat": 0.0,
+    "max_lon": 176.14
+  },
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

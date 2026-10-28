@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species Asota plana and its subspecies Asota plana lacteata, collected from various locations across Asia, primarily in Taiwan, Indonesia, Malaysia, Singapore, and India. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, as well as geographic and temporal data, including country codes, state/province, coordinates, and event dates. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classification and aggregation keys for taxonomic and spatial data. This dataset can be used for studying the distribution, habitat, and temporal patterns of Asota plana, as well as for broader biodiversity and ecological research. The observations are licensed under various Creative Commons licenses, ensuring open access for research and educational purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

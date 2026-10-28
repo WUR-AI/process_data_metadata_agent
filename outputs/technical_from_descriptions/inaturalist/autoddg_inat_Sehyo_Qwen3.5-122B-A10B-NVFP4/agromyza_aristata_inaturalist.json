@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the fly species Agromyza aristata, primarily sourced from iNaturalist. The records span multiple years, with observations concentrated in the United States and Canada across various states and provinces. Each entry includes precise taxonomic classification, geographic coordinates, and collection dates, facilitating detailed spatial and temporal analysis. While elevation and depth data are largely absent, the dataset provides robust information on observer contributions and identification dates. Researchers can utilize this resource to study the distribution patterns, seasonal activity, and ecological presence of Agromyza aristata in North America, supporting biodiversity monitoring and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

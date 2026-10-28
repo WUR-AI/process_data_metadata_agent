@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Bellura obliqua, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates across the United States and Canada, and temporal data from 2018 to 2026. The records are primarily human observations, providing detailed metadata such as observer names, identification dates, and associated media. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic studies. The dataset supports research into species distribution and phenology, offering valuable insights into the presence and behavior of Bellura obliqua in North American ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

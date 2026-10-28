@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the moth species *Asota plana*, including both the species and its subspecies *Asota plana lacteata*. The records span multiple countries, primarily in Asia, with detailed taxonomic classifications, geographic coordinates, and observation dates. Each entry includes metadata such as the observer's name, identification details, and licensing information, making it useful for biodiversity research, ecological studies, and species distribution analysis. The dataset also highlights potential data quality issues, such as coordinate rounding and taxon identification challenges, which may require further validation. Researchers can use this data to study the species' habitat preferences, temporal patterns, and geographic range, contributing to conservation efforts and taxonomic research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

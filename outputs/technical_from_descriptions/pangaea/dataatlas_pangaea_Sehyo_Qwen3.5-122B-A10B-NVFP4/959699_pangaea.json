@@ -1,0 +1,10 @@
+{
+  "description": "Three manganese nodule samples from August 27, 1976, with geochemical composition and location data.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1976-08-27T00:00:00",
+    "to": "1976-08-27T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

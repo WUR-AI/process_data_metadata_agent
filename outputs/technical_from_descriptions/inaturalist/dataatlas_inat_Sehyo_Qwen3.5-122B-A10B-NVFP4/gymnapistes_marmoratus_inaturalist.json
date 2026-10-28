@@ -1,0 +1,10 @@
+{
+  "description": "Records 1,004 occurrences of Gymnapistes marmoratus from 1978 to 2026.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1978-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

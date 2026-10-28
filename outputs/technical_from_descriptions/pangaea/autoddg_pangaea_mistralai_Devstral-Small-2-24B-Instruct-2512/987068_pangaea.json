@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides measurements of marine sediment chemistry, including depth, total organic carbon (TOC), total inorganic carbon (TIC), and spatial coordinates (latitude, longitude, and elevation). The data was collected during a single event (GeoB16310-3) on March 23, 2012, at a consistent location in the Gulf of Mexico. The semantic profile indicates that the dataset is structured around geological measurements, with depth, TOC, and TIC serving as key numeric entities, while latitude, longitude, and elevation provide spatial context. The event and date/time columns act as aggregation keys, linking the measurements to a specific sampling event. This dataset can be used for analyzing sediment composition, studying carbon cycling in marine environments, or supporting research on geological processes in the Gulf of Mexico.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-03-23T00:00:00",
+    "to": "2012-03-23T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

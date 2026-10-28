@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains bird observations of the species Schoeniophylax phryganophilus, collected from various locations in Argentina, Brazil, and Uruguay. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like coordinates, country, and state/province. Temporal data, including event dates and identification dates, is also provided. Each observation is attributed to specific individuals, with information on the rights holder, identified by, and recorded by. The dataset includes media types and licenses, ensuring proper usage and attribution. It can be used for biodiversity studies, ecological research, and conservation efforts, providing valuable insights into the distribution, behavior, and population dynamics of this bird species.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

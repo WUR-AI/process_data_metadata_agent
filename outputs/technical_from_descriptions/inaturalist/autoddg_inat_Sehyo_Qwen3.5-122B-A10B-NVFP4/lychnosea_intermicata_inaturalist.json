@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed records of the moth species Lychnosea intermicata, primarily sourced from iNaturalist. It includes 20 unique occurrence entries spanning multiple US states such as Texas, Louisiana, and Missouri, with observation dates ranging from 2016 to 2026. Each record provides precise taxonomic classification, geographic coordinates, and temporal details down to the hour. The data supports geospatial analysis and temporal trend studies, while metadata fields like coordinate uncertainty and media types ensure quality control. Researchers can utilize this collection to study the distribution and phenology of this specific geometrid moth across its observed range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

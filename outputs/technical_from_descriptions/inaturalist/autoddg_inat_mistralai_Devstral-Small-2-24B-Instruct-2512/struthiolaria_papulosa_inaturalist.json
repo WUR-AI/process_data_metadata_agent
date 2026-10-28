@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the mollusk species *Struthiolaria papulosa* in New Zealand, collected from various regions including Auckland, Wellington, and Southland. The records span from 2018 to 2026 and include taxonomic details, geographic coordinates, observation dates, and attribution information. The data is sourced from iNaturalist and includes metadata such as identifiers, licenses, and media types. It can be used for biodiversity research, species distribution mapping, and ecological studies in New Zealand. The semantic profile highlights taxonomic classification, spatial filtering, temporal analysis, and data quality indicators, making it suitable for scientific and conservation applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

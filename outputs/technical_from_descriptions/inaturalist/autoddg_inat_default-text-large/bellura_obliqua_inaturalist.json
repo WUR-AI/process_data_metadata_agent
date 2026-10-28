@@ -1,0 +1,12 @@
+{
+  "description": "The dataset holds 20 occurrence records of the moth Bellura obliqua, classified under Animalia > Arthropoda > Insecta > Lepidoptera > Noctuidae. Each entry has a unique GBIF ID, dataset key, and records scientific name, genus and species. Observations cover United States, spanning states and provinces from Connecticut to British Columbia, with latitudes 40.9–50.5 °N and longitudes –123.3 to –60.5 °W. Coordinate uncertainty ranges from 0 to 349 m, and records are observations with media. Semantic fields capture identifiers, coordinates and event dates, while issues flag rounded coordinates and missing taxon IDs. The data can support distribution mapping, phenology analysis and biodiversity monitoring of Bellura obliqua.",
+  "spatialCoverage": {
+    "min_lat": 40.9,
+    "min_lon": -123.3,
+    "max_lat": 50.5,
+    "max_lon": -60.5
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

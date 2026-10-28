@@ -1,0 +1,7 @@
+{
+  "description": "The dataset records laboratory experiments on the Mediterranean mussel Mytilus galloprovincialis (taxon ID 151896) conducted at Nagasaki University (32.8095 ° N, 129.7708 ° E). Two experimental treatments – a high‑CO₂ exposure and a control – were applied for up to 144 h and sampled at seven developmental stages. For each sample the table provides temperature (13 °C ± 0.2), pH (7.42–8.13 ± 0.03), salinity (35.5 ± 0.67 psu) and a full suite of carbonate‑system parameters (AT, DIC, CO₂, HCO₃⁻, CO₃²⁻, Ca²⁺, saturation states ΩCal and ΩArg). Measurement uncertainties are given as standard‑deviation columns. The data are suitable for investigating ocean‑acidification effects on mussel development, modelling carbonate chemistry, and comparing physiological responses across time and developmental stage.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

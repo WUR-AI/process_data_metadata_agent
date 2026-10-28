@@ -1,0 +1,15 @@
+{
+  "description": "This dataset provides water‑chemistry data from one Southern Ocean station (M186_54‑1). Nineteen samples were taken at depths 0–3.81 cm, with temperature 2.5–2.95 °C. It includes nitrate, nitrite, ammonium (up to 152 mg/L), phosphate, chloride, manganese and iron (up to 92 mg/L). All rows share latitude 38.74553 N, longitude 28.56587 W, elevation –1234 m, collected 16 Dec 2022. The data can be used to study nutrient and metal gradients with depth and support biogeochemical modeling.",
+  "spatialCoverage": {
+    "min_lat": 38.74553,
+    "min_lon": -28.56587,
+    "max_lat": 38.74553,
+    "max_lon": -28.56587
+  },
+  "temporalCoverage": {
+    "from": "2022-12-16T00:00:00",
+    "to": "2022-12-16T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

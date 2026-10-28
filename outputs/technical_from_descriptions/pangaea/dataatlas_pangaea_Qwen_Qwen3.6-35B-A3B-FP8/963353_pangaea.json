@@ -1,0 +1,10 @@
+{
+  "description": "53 ice and snow samples recorded at specific coordinates on December 29, 2004.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2004-12-29T00:00:00",
+    "to": "2004-12-29T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

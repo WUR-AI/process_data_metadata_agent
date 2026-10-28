@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Crocidophora serratissimalis, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences across the United States and Canada. The records are primarily human observations, providing detailed metadata such as identification dates, recorder information, and associated media. Users can leverage this data for spatial mapping, temporal filtering, and biodiversity research. The dataset supports analysis of species distribution and abundance, offering valuable insights into the ecology and geographic range of this specific moth species through standardized biodiversity metrics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

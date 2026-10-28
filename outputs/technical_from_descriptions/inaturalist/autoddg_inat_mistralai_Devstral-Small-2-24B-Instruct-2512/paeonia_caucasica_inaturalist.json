@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Caucasian Peony (Paeonia caucasica) collected from various locations in Russia, primarily in the Krasnodar region. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like coordinates, coordinate uncertainty, and elevation. Temporal data includes event dates, days, months, and years, allowing for temporal analysis. Each observation is attributed to specific individuals who recorded and identified the species, with associated licenses and rights holders. The dataset also includes media types and potential data quality issues. This dataset can be used for biodiversity research, ecological studies, and conservation efforts focused on the Caucasian Peony. It provides valuable insights into the species' distribution, habitat, and temporal patterns, aiding in the understanding and protection of this plant species.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

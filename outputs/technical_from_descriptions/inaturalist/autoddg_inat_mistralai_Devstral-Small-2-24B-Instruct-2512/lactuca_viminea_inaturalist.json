@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of Lactuca viminea, a species of wild lettuce, collected from various locations across Europe and the Middle East. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as spatial data like country codes, coordinates, and coordinate uncertainty. Temporal data includes event dates, days, months, and years, allowing for temporal analysis. The dataset also provides attribution details, such as the names of those who recorded and identified the observations, along with licensing information. Additionally, it includes metadata about the media types associated with each observation and any issues encountered during data processing. This dataset can be used for biodiversity research, ecological studies, and monitoring the distribution and abundance of Lactuca viminea across different regions and time periods.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

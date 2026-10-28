@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 observations of the species Lepomis marginatus, sourced from iNaturalist. It includes detailed taxonomic classifications, such as kingdom and family, alongside precise spatial data with decimal latitude and longitude coordinates across various US states. Temporal information is provided through event dates ranging from 2018 to 2026. The records feature human observations with associated media types and quality control issues like coordinate rounding. Users can leverage this data for biodiversity research, species distribution mapping, and ecological studies focusing on this specific fish species within its native range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

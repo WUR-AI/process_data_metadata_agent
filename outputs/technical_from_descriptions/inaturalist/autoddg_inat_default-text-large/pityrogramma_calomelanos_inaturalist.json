@@ -1,0 +1,15 @@
+{
+  "description": "This dataset compiles 20 verified observations of the fern Pityrogramma calomelanos, each identified by a unique GBIF occurrence identifier (gbifID) and linked to an external iNaturalist URL (occurrenceID). All records share the same taxonomic hierarchy—from kingdom Plantae down to species Pityrogramma calomelanos—providing a consistent classification framework. Geographic coverage spans nine countries, with latitude ranging from ‑8.5 to 27.5 degrees and longitude from ‑155.9 to 121.8 degrees, and each point includes a coordinate‑uncertainty value (0–86 m) that informs data quality. Temporal information records event dates between 2020 and 2026, while media fields note still images under CC‑BY‑NC or CC‑0 licenses. The semantic profile highlights keys for biodiversity (gbifID, taxonKey), geography (countryCode, decimalLatitude/Longitude), and provenance (identifiedBy, rightsHolder), making the data suitable for species‑distribution modelling, phenology studies, and biodiversity informatics research focused on tropical and subtropical fern habitats.",
+  "spatialCoverage": {
+    "min_lat": -8.5,
+    "min_lon": -155.9,
+    "max_lat": 27.5,
+    "max_lon": 121.8
+  },
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

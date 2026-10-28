@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains high-resolution ice core measurements from the WDC06A site in Antarctica, collected on December 9, 2006. It includes depth profiles ranging up to 2,532 meters, with corresponding gas ages spanning approximately 20 years. The records feature stable isotope ratios, specifically delta-18-oxygen and delta-36 values, which serve as critical proxies for past climate conditions. Each entry is georeferenced to a specific latitude, longitude, and elevation of 1,766 meters. Researchers can utilize this data to reconstruct historical atmospheric composition, analyze temperature variations, and study climate change patterns over the last two decades of the gas age record.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

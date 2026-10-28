@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on Arctic Water Quality, providing valuable insights into the environmental conditions of the Arctic region. It includes measurements of various water quality parameters such as IFDOM C1, IFDOM C2, IFDOM C3, FDOM A-peak, FDOM C-peak, FDOM M-peak, FDOM T-peak, fDOM FI, fDOM HI, and fDOM BI, collected during different expeditions. The data is organized by event, expedition, latitude, longitude, date/time, and station, allowing for spatial and temporal analysis. The semantic profile indicates that the dataset is domain-specific to climate, with columns representing spatial entities, temporal entities, locations, and various measurements. This dataset can be used for monitoring water quality trends, assessing the impact of climate change on Arctic waters, and supporting research in environmental science and climate studies. The measurements cover a range of values, providing a comprehensive overview of water quality in the Arctic region.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

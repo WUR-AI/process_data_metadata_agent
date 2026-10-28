@@ -1,0 +1,10 @@
+{
+  "description": "Records manganese nodule samples with location, depth, and elemental composition from September 1970.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1970-09-01T00:00:00",
+    "to": "1970-09-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

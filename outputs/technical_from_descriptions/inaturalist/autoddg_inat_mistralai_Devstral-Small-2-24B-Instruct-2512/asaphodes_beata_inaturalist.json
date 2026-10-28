@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the moth species *Asaphodes beata* in New Zealand, collected from various regions including Otago, Canterbury, and Waikato. The records span from 2012 to 2026 and include taxonomic details, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The semantic profile highlights biodiversity-focused attributes like taxonomic ranks, spatial filters (e.g., coordinates, country codes), temporal filters (e.g., event dates), and attribution fields (e.g., recorded by, identified by). Users can leverage this dataset for ecological studies, species distribution modeling, or monitoring biodiversity trends in New Zealand. The data is sourced from iNaturalist and includes quality flags and media types for further analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

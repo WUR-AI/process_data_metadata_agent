@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains balloon weather data recorded on August 18, 2018. It includes temporal, geospatial, and climate measurements for a single event. Key variables feature longitude and latitude coordinates, alongside height, atmospheric pressure, temperature, relative humidity, wind direction, and wind speed. The data spans elevations up to 701 meters and covers a specific geographic region. Users can utilize this information for meteorological analysis, weather pattern tracking, and atmospheric research. The dataset provides high-resolution temporal data with second-level precision, making it suitable for detailed environmental studies and validation of weather models.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-08-18T00:00:00",
+    "to": "2018-08-18T23:59:59"
+  },
+  "spatial": null,
+  "temporal": "seconds"
+}

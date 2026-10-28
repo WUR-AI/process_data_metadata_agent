@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on the distribution of the algae species Colpomenia peregrina, providing detailed observations from various locations around the world. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, which allows for comprehensive classification and aggregation. Additionally, the dataset contains spatial data, including country codes, state/province information, and precise coordinates, enabling spatial analysis and mapping. Temporal data, such as event dates, days, months, and years, allows for temporal analysis and tracking of observations over time. The dataset also includes information on the observers, identifiers, and rights holders, providing context and credibility to the observations. This dataset can be used for studying the global distribution patterns of Colpomenia peregrina, monitoring its presence in different regions, and understanding its ecological preferences and impacts. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear aggregation keys and classification categories.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

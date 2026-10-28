@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species *Pectocarya recurvata*, a member of the Boraginaceae family, collected from various locations in the United States, primarily in Arizona, California, and Nevada. The records include detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, along with spatial data like decimal latitude and longitude, and temporal data including event dates and observation times. Each observation is attributed to specific recorders and identifiers, with associated licenses and rights holders. The dataset also includes metadata on coordinate uncertainty, media types, and potential data quality issues. This information can be used for biodiversity research, ecological studies, and conservation efforts, particularly in understanding the distribution, habitat preferences, and temporal patterns of *Pectocarya recurvata*. The semantic profile highlights the dataset's focus on taxonomic classification, spatial and temporal filtering, and attribution, making it valuable for researchers and data analysts in the field of biodiversity.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

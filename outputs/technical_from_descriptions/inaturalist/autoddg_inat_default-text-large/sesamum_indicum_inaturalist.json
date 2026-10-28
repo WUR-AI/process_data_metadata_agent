@@ -1,0 +1,12 @@
+{
+  "description": "The collection contains 20 observation records of sesame (Sesamum indicum) and its subspecies from iNaturalist, each with a unique gbifID and occurrenceID linked to a single datasetKey. Taxonomic fields consistently list the kingdom Plantae through genus Sesamum, with two scientific names for species and subspecies. Geographic coverage spans latitudes 0 to 32.12° and longitudes –97.38° to 118.58°, across seven country codes and fifteen states, and coordinate uncertainty ranges from 0 to 1509 m. Event dates provide day, month and year details. The dataset includes media type, licensing (CC‑BY‑NC‑4.0 or CC‑BY‑4.0), and issue flags. Researchers can use these records to map sesame distribution, study phenology, or support biodiversity monitoring and conservation planning.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -97.38,
+    "max_lat": 32.12,
+    "max_lon": 118.58
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

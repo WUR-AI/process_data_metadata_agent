@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides information on the distribution of Rhamnus prinoides, a plant species, across various locations in South Africa. It includes details such as the scientific name, taxonomic classification, and geographic coordinates of observations. The dataset is enriched with identifiers, temporal data, and information on the observers and identifiers, making it useful for biodiversity studies. The semantic profile indicates that the data is well-structured for aggregation and classification purposes, with a focus on taxonomic and location-based information. This dataset can be used for research on the habitat and distribution patterns of Rhamnus prinoides, as well as for conservation efforts and ecological studies. The observations span from 2014 to 2026, providing a comprehensive overview of the species' presence in different provinces, including Eastern Cape, KwaZulu-Natal, and Gauteng.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

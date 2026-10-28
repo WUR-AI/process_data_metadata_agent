@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the butterfly species Papilio maackii, collected from various locations across Asia, primarily in China, Japan, Russia, and South Korea. The data includes detailed taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic coordinates and observation dates. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with columns representing identifiers, taxonomic ranks, locations, temporal entities, and statuses. This dataset can be used for studying the distribution, habitat, and seasonal patterns of Papilio maackii, as well as for broader biodiversity and conservation research. The observations are licensed under CC_BY_NC_4_0, ensuring open access for non-commercial use.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

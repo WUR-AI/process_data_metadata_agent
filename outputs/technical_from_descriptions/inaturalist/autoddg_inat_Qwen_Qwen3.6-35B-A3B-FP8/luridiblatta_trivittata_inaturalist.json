@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of the cockroach species Luridiblatta trivittata, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates in California, and temporal data spanning from 2013 to 2025. Each record features occurrence details, observer information, and media types, alongside quality flags indicating potential issues like coordinate rounding. Researchers can utilize this data to study the species' distribution, phenology, and habitat preferences. The structured format supports spatial and temporal filtering, making it valuable for ecological modeling, conservation planning, and tracking population trends of this specific insect over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

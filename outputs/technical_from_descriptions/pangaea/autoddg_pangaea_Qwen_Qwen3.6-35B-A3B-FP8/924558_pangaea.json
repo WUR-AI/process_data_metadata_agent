@@ -1,0 +1,7 @@
+{
+  "description": "This dataset documents laboratory experiments on the Mediterranean mussel, *Mytilus galloprovincialis*, focusing on developmental responses to elevated CO2 levels. It tracks embryonic stages from 1-cell to trochophore over 144 hours under both control and high CO2 conditions. The data includes comprehensive seawater chemistry parameters such as pH, temperature, salinity, and carbonate system variables like DIC and aragonite saturation state. Collected at Nagasaki University, the records provide spatial coordinates and detailed statistical metrics for each treatment. Researchers can use this information to assess the impacts of ocean acidification on mollusk development and survival rates.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

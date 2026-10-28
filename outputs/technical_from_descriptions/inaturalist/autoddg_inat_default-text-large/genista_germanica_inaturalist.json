@@ -1,0 +1,7 @@
+{
+  "description": "The dataset comprises twenty observations of plant Genista germanica collected through iNaturalist. Each record is uniquely identified by a GBIF occurrence identifier (gbifID) and a persistent URI (occurrenceID). Taxonomic classification is provided from kingdom down to species, with scientific and verbatim names recorded. Geographic information includes latitude, longitude, coordinate uncertainty in meters, and country province, enabling mapping across six European nations. Temporal fields capture event date and derived day, month and year components. Contributors, identification dates, and rights information are documented for attribution. Media are still images and quality issues such as rounded coordinates are flagged. This richness supports analyses of distribution, phenology and habitat preferences of Genista germanica.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

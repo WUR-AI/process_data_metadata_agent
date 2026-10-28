@@ -1,0 +1,10 @@
+{
+  "description": "Geochemical composition and location data for two samples collected on October 4, 2016.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-10-04T00:00:00",
+    "to": "2016-10-04T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

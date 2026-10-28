@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the insect species Romalea reticulata, also known as the lobed-winged grasshopper. The data includes various taxonomic classifications such as kingdom, phylum, class, order, family, genus, and species, providing a detailed classification of the observed insects. The dataset also includes location data with coordinates, country codes, and state/province information, allowing for spatial analysis. Temporal data such as event dates, days, months, and years are also provided, enabling temporal analysis of the observations. The dataset can be used for studying the distribution, habitat, and behavior of Romalea reticulata, as well as for biodiversity research and conservation efforts. The semantic profile indicates that the data is well-structured and suitable for aggregation and measurement purposes. The dataset includes information on the observers and identifiers, as well as licenses and rights holders, ensuring proper attribution and usage rights.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

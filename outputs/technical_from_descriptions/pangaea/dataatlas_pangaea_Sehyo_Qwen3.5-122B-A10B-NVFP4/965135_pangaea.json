@@ -1,0 +1,10 @@
+{
+  "description": "Porites coral geochemical and isotopic data from July 2008 with location and age.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2008-07-01T00:00:00",
+    "to": "2008-07-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

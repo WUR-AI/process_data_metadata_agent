@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the moth species Spragueia dama, sourced from iNaturalist. It includes taxonomic classifications, precise geographic coordinates, and temporal data spanning multiple years. Users can filter records by country, state, or specific dates to analyze spatial and temporal distribution patterns. The data supports ecological research, species range mapping, and conservation planning. Each record provides provenance details, including observer information and identification dates, alongside quality flags to assess data reliability. This resource is ideal for studying the habitat preferences and migration trends of Spragueia dama across North America.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

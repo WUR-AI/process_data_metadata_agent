@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of the Dollar Sunfish (Lepomis marginatus) across various states in the United States. It includes records from states such as Georgia, Florida, Tennessee, Alabama, North Carolina, Mississippi, South Carolina, Oklahoma, Texas, and Louisiana. The data encompasses taxonomic details, geographic coordinates, and observation dates, making it valuable for biodiversity studies and ecological research. The dataset's semantic profile indicates that it contains well-structured information on taxonomic classification, location, and temporal data, which can be used for aggregation and measurement purposes. Researchers can utilize this dataset to analyze the habitat preferences, range, and temporal patterns of the Dollar Sunfish, contributing to conservation efforts and understanding of fish distribution dynamics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

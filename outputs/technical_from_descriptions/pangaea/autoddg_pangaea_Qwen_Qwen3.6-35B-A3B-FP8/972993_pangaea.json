@@ -1,0 +1,12 @@
+{
+  "description": "This dataset focuses on sulfur isotope geochemistry, specifically pyrite delta-34S values ranging from -43.8 to 37.7. It aggregates measurements from various sediment cores and rock samples collected globally, with latitudes spanning -44.9 to 57.3 and longitudes from -44.6 to 174.3. Key variables include site identifiers, sample types, and analytical methods like SIMS and CRS. The data also records environmental context such as water depth, sediment depth, and lithology. Researchers can use this collection to study sulfur cycling, methane production, and paleoenvironmental conditions across diverse marine settings, supported by citations from multiple academic sources.",
+  "spatialCoverage": {
+    "min_lat": -44.9,
+    "min_lon": -44.6,
+    "max_lat": 57.3,
+    "max_lon": 174.3
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

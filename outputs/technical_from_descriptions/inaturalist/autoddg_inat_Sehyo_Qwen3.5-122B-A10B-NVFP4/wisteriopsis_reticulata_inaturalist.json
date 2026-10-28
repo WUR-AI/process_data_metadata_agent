@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Wisteriopsis reticulata, primarily sourced from iNaturalist and hosted within the GBIF infrastructure. The records are geographically concentrated in Taiwan, covering various provinces such as Taipei, Kaohsiung, and New Taipei, with precise coordinate data and associated uncertainty metrics. Each entry includes detailed taxonomic classification, observation dates ranging from 2017 to 2026, and attribution to specific observers. Researchers can utilize this collection to analyze the species' distribution patterns, phenology, and habitat preferences across different regions. The data is openly licensed, facilitating its use for biodiversity monitoring, ecological studies, and conservation planning efforts focused on this specific legume.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2017-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

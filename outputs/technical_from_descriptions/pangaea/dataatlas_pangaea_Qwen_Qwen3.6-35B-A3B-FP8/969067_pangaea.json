@@ -1,0 +1,7 @@
+{
+  "description": "Daily meteorological observations from Puchalski AWS, including temperature, humidity, and wind metrics.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "Daily"
+}

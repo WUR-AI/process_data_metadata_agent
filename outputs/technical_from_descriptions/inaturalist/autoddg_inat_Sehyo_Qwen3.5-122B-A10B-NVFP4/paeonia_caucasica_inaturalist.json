@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the Caucasian Peony (Paeonia caucasica) recorded primarily in the Krasnodar and Adygey regions of Russia. The records span from 2019 to 2026, providing detailed spatial data including decimal coordinates, state-level locality, and varying degrees of coordinate uncertainty. Each entry includes taxonomic classification, observation dates, and attribution to specific citizen scientists, often accompanied by still images. The data is structured with standard biodiversity identifiers and quality flags, making it suitable for geospatial analysis, temporal trend studies, and conservation planning for this specific plant species. Researchers can utilize these occurrence records to map distribution patterns and assess habitat presence across the Caucasus.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

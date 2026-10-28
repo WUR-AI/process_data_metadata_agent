@@ -1,0 +1,12 @@
+{
+  "description": "This dataset documents the Stordalen permafrost chronology, featuring sediment depth, sample thickness, and radiocarbon dating results. It includes temporal data for ages and uncertainties, alongside details on dated materials like moss and Carex, and laboratory labels. The records are geographically anchored at 68.35°N, 19.05°E, with an elevation of 350 meters. Researchers can utilize this information to analyze historical permafrost dynamics and environmental changes in the region. The data supports studies on geological measurements and spatial references, providing a comprehensive view of sediment accumulation and dating events at this specific site.",
+  "spatialCoverage": {
+    "min_lat": 68.35,
+    "min_lon": 19.05,
+    "max_lat": 68.35,
+    "max_lon": 19.05
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

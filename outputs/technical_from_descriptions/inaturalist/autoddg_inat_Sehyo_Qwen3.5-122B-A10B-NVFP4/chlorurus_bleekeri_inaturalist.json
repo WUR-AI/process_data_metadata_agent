@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the parrotfish species *Chlorurus bleekeri*, sourced primarily from iNaturalist. It contains 20 records spanning multiple countries, including Australia, Indonesia, Fiji, and the Philippines, with observations recorded between 2011 and 2026. Each entry provides detailed taxonomic classification, precise geographic coordinates, and temporal data for specific sighting events. The records include associated media such as still images and are attributed to various observers and rights holders under Creative Commons licenses. Researchers can utilize this collection to analyze the species' distribution patterns, validate occurrence data, and study temporal trends in marine biodiversity across the Indo-Pacific region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2011-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

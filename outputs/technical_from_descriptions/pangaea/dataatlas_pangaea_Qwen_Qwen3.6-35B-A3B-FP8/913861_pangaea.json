@@ -1,0 +1,7 @@
+{
+  "description": "Records aerosol size distributions, timestamps, and location data for the NeumayerSPUSO event.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

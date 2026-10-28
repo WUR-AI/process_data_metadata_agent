@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides information on the distribution of Alopecurus myosuroides, a species of grass, across various locations. It includes details such as the scientific name, taxonomic classification, and geographic coordinates of observations. The dataset is enriched with identifiers, temporal data, and media types, making it useful for biodiversity studies. It can be used for analyzing the spread and presence of Alopecurus myosuroides in different regions, supporting research in ecology, conservation, and environmental science. The semantic profile indicates that the data is well-structured for aggregation and classification, facilitating comprehensive analysis. This dataset is valuable for researchers and environmentalists interested in understanding the distribution patterns and ecological impact of Alopecurus myosuroides.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

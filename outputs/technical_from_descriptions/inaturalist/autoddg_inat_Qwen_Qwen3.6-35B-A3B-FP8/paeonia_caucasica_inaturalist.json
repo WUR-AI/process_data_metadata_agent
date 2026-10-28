@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of *Paeonia caucasica* from iNaturalist, primarily recorded in Russia's Krasnodar and Adygey regions between 2019 and 2026. It includes precise geographic coordinates, event dates, and taxonomic details for this plant species. Users can leverage this data for biodiversity monitoring, species distribution mapping, and ecological studies. The records feature media types like still images and are licensed under CC BY or CC BY-NC. With quality flags indicating coordinate rounding, this dataset supports research into the species' habitat preferences and phenology in the Caucasus region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the ant species Formica cunicularia, sourced primarily from iNaturalist and aggregated via GBIF. It contains twenty records spanning multiple European countries, including Germany, France, Spain, and Italy, with observations recorded between 2013 and 2026. Each entry provides detailed taxonomic classification, precise geographic coordinates, and temporal data down to the day. The records are attributed to various citizen scientists and include associated media such as still images. Users can leverage this data to study the species' distribution patterns, analyze seasonal activity, or assess data quality through provided uncertainty metrics and issue flags.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2013-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

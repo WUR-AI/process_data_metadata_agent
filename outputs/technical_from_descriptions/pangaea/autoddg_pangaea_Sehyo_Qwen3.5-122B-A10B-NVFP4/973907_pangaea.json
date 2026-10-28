@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains detailed seismic core measurements collected during a geological survey event identified as MSM44_362-1. The records include specific depth intervals, core diameter deviations, and P-wave travel times, alongside derived values such as Vp-a and AGR. Each entry is georeferenced with precise latitude, longitude, and elevation coordinates, all captured on July 12, 2015. The data is organized by sediment depth and section categories, providing a structured view of subsurface properties. Researchers can utilize this collection to analyze seismic wave propagation characteristics, assess core sample integrity, and model geological structures in the surveyed region.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-07-12T00:00:00",
+    "to": "2015-07-12T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

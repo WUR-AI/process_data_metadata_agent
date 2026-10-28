@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains environmental climate data from the Katharinentalerhof_Pforzheim event, with 12 unique files in either CSV or DAT format. The files vary in size, ranging from 6 to 9240 units. Each file is accessible via a unique URL, and all files share the same latitude and longitude coordinates, indicating a specific geographic location. The dataset lacks temporal data, as the Date/Time field is missing. Semantically, the dataset includes file identification, size measurement, access URLs, event identification, and spatial references. This environmental climate data can be used for various purposes, such as climate change studies, environmental monitoring, and meteorological research. The spatial data can help analyze and understand the climate patterns and changes in the specific geographic location.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

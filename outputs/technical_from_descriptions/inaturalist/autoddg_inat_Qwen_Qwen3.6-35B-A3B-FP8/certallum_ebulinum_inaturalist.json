@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the beetle species *Certallum ebulinum*, sourced from iNaturalist. It includes taxonomic identifiers, geographic coordinates, and temporal data for occurrences across multiple European and North African countries. The records are primarily human observations, providing spatial and temporal attributes essential for ecological studies. Users can analyze species distribution patterns, phenology, and habitat preferences using the provided latitude, longitude, and event dates. The data supports research on insect biodiversity, conservation planning, and biogeography, offering a valuable resource for understanding the presence and movement of this specific cerambycid beetle.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains ocean drilling data from scientific research expeditions, featuring sediment samples from two distinct events. It includes identifiers for sample labels and halves, alongside geological measurements such as sediment depth and age. The data also provides oceanographic metrics, specifically Sea Surface Temperature (SST) and its standard deviation, grouped by cluster. Spatial context is defined by latitude, longitude, and elevation coordinates, while temporal data is recorded with second-level precision. This collection is suitable for analyzing geological and oceanographic trends, enabling researchers to study environmental changes and sediment composition across specific geographic locations and time periods.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

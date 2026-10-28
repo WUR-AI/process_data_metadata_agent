@@ -1,0 +1,7 @@
+{
+  "description": "This dataset focuses on mountain topography, providing essential geospatial resources for terrain analysis. It contains GIS files representing spatial data with location names, serving as aggregation keys for geographic information systems. The collection includes specific zip archives for various locations such as Big Skidder, Black Hills, and San Juan, alongside a raw data Excel file. The XLSX component acts as a data container for text-based information. Users can leverage these files to study topographic features, manage spatial datasets, and perform detailed geographic aggregations. This resource is ideal for researchers and analysts needing structured topographic data for mapping, environmental studies, or regional planning projects involving mountainous regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

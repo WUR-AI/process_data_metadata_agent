@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains soil radioactivity measurements from environmental science studies. It includes spatial coordinates, elevation, and timestamps for each sample. Key variables measure uranium, thorium, and potassium concentrations, alongside their uncertainties. The data also provides total dose rates and equivalent dose values. Two distinct dating methods are recorded, offering age estimates with associated errors. With samples collected in April 2023, this resource supports geological and environmental research. Users can analyze soil composition, assess radiation exposure risks, and study sedimentation rates. The structured format facilitates easy integration into geospatial and temporal analyses for broader scientific investigations.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2023-04-01T00:00:00",
+    "to": "2023-04-30T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

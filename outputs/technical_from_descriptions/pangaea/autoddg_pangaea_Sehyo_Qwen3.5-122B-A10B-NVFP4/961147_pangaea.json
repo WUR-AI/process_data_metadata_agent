@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles biogeochemical measurements of salps collected during marine expeditions aboard the R/V Polarstern, R/V Tangaroa, and CCGS John P. Tully between 2006 and 2021. It includes detailed records for four species within the order Salpida, capturing sampling events across the Southern Ocean, Chatham Rise, and Northeast Pacific. The data encompasses physical parameters such as collection depth, vessel gear, and precise geographic coordinates, alongside biological attributes like size, life stage, and tissue type. Furthermore, the dataset provides comprehensive elemental analysis, including carbon, nitrogen, and hydrogen content, as well as ash-free dry mass and stoichiometric ratios. Researchers can utilize this resource to investigate salp population dynamics, carbon cycling, and the role of these organisms in marine biogeochemical processes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2021-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

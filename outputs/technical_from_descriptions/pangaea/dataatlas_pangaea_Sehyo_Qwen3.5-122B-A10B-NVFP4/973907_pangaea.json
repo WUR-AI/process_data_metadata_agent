@@ -1,0 +1,10 @@
+{
+  "description": "Sediment core measurements including depth, seismic velocity, and location data from July 12, 2015.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2015-07-12T00:00:00",
+    "to": "2015-07-12T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

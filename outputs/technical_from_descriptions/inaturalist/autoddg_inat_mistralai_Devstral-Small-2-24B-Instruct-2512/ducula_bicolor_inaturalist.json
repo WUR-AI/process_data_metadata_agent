@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the Ducula bicolor, a species of bird, collected from various locations. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state/province, and coordinates. Temporal data such as event date, day, month, and year are also provided. The dataset is sourced from iNaturalist and includes information on the observer, identification details, and media types associated with each observation. The semantic profile indicates that the data is structured for biodiversity research, with columns designed for spatial, temporal, and taxonomic filtering. This dataset can be used for studying the distribution, behavior, and conservation status of Ducula bicolor, as well as for biodiversity monitoring and research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

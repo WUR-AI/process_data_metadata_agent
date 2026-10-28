@@ -1,0 +1,15 @@
+{
+  "description": "The dataset contains measurements of sediment depth and Lead‑210 concentrations from a single field event (LTp22-1) collected at latitude 21.277661, longitude ‑104.690167, elevation 1430 m on 2022‑04‑08. Depth values range from 0 to 0.235 m, with corresponding top and bottom depth columns. Lead‑210 activity values span 0 to 171.2 Bq kg⁻¹, together with standard deviations and supported and unsupported fractions and their uncertainties. All columns are numeric except the event identifier, latitude/longitude, and timestamp. The data support geochemical and geological analyses of sedimentary Lead‑210 profiles, age dating, and environmental monitoring of radioactive deposition. Researchers can use the depth‑resolved measurements to construct sediment accumulation rates and assess temporal changes in atmospheric lead deposition, and the consistent spatial coordinates enable integration with other geographic information systems.",
+  "spatialCoverage": {
+    "min_lat": 21.277661,
+    "min_lon": -104.690167,
+    "max_lat": 21.277661,
+    "max_lon": -104.690167
+  },
+  "temporalCoverage": {
+    "from": "2022-04-08T00:00:00",
+    "to": "2022-04-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

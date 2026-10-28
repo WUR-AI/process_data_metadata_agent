@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains marine sediment geochemistry data, featuring chemical component measurements such as SiO2, TiO2, Al2O3, and Fe2O3. Each record includes a unique sample identifier and event code, linking to specific spatial and temporal references. The samples are geolocated by latitude, longitude, and elevation, with collection timestamps recorded to the second. The Total column aggregates the measured chemical components. This data supports geological research by enabling the analysis of sediment composition across specific marine environments. Researchers can utilize these measurements to study geochemical processes, track sediment sources, and understand the chemical evolution of marine deposits over time.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

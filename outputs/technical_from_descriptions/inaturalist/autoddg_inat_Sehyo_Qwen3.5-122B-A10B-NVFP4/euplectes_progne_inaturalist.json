@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the Southern Red Bishop (Euplectes progne), primarily sourced from iNaturalist. The records span multiple countries in Southern and East Africa, including South Africa, Kenya, and Lesotho, with observations documented from 2012 to 2025. Each entry provides detailed taxonomic classification, precise geolocation coordinates, and temporal data down to the hour. While some records include elevation and media attachments, others lack specific locality details. The dataset is valuable for researchers studying bird distribution patterns, seasonal migration, and population trends within the Ploceidae family, offering a robust foundation for biodiversity analysis and conservation planning.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2012-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

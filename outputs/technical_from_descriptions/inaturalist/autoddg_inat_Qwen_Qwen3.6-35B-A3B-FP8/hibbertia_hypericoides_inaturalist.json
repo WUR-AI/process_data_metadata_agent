@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of Hibbertia hypericoides, specifically focusing on the subspecies hypericoides and septentrionalis. It includes taxonomic classifications, precise geographic coordinates in Western Australia, and temporal data from 2001 to 2026. The records are primarily human observations sourced from iNaturalist, featuring media types like still images. Users can leverage this data for spatial and temporal filtering, taxonomic identification, and quality control via issue flags. It supports research into species distribution, phenology, and ecological monitoring, providing essential metadata on licensing and rights holders for responsible data usage.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2001-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

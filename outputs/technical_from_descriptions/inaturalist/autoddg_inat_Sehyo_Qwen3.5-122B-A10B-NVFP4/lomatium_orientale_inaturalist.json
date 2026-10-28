@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species Lomatium orientale, primarily recorded in Colorado and South Dakota, United States. The records span from 2019 to 2026 and include precise geospatial coordinates, event dates, and taxonomic classifications down to the species level. Each entry is linked to a unique GBIF identifier and includes metadata such as the observer, identification date, and associated media like still images. The data supports geospatial analysis and temporal studies of this species' distribution. Users can filter records by location, time, or data quality flags, making it valuable for ecological research and biodiversity monitoring efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2019-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the beetle species Certallum ebulinum, collected from various locations across Europe, the Middle East, and North Africa. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, and species, as well as geographic details like country code, state or province, and precise coordinates. Each observation is recorded with a unique identifier, date, and details about the observer. The dataset also includes metadata such as licenses, rights holders, and media types. The semantic profile indicates that the data is well-structured for biodiversity research, with clear classifications and measurements. This dataset can be used for studying the distribution, habitat, and behavior of Certallum ebulinum, as well as for broader ecological and conservation research.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

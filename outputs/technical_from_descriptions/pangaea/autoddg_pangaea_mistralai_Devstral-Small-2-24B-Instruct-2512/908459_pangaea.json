@@ -1,0 +1,10 @@
+{
+  "description": "This dataset provides detailed measurements of mollusk shell chemistry, specifically focusing on the species Magallana hongkongensis. It includes various material science metrics such as stiffness, hardness, density, and porosity, alongside chemical measurements like pH, alkalinity, and carbonate ion concentrations. Environmental parameters such as temperature, salinity, and pCO2 are also recorded. The data is collected from laboratory experiments conducted in Zhanjiang, China, on June 1, 2016. The semantic profile indicates that the dataset serves as a comprehensive resource for analyzing the interplay between biological, material, and chemical properties of mollusk shells under controlled conditions. Researchers can use this dataset to study the effects of environmental and chemical factors on shell formation and composition, aiding in broader ecological and climate change studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2016-06-01T00:00:00",
+    "to": "2016-06-01T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the plant species Chrysocoma ciliata, primarily recorded within South Africa across provinces such as the Western Cape and Eastern Cape. The records span from 2014 to 2024 and include precise geospatial coordinates, temporal event data, and associated media like still images. Structurally, the data adheres to biodiversity standards, linking each observation to specific taxonomic classifications and providing provenance details for identifiers and rights holders. Researchers can utilize this collection to analyze the species distribution patterns, monitor population trends over time, and support ecological studies focused on this specific Asteraceae family member.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2024-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

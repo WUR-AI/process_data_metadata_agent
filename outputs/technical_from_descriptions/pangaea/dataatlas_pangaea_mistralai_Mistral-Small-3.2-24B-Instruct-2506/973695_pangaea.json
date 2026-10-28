@@ -1,0 +1,10 @@
+{
+  "description": "Environmental sediment data from 1986, including chemical composition and location details.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1986-01-01T00:00:00",
+    "to": "1986-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

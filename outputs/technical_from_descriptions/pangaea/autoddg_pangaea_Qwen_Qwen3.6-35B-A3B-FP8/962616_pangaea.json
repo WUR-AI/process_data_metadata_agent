@@ -1,0 +1,10 @@
+{
+  "description": "This dataset supports aerial photogrammetry projects, specifically focusing on the WA Cape Blossom survey conducted on June 25, 2021. It contains geospatial data including cloud-optimized GeoTIFFs for orthoimagery and digital surface models, alongside point clouds and hillshade visualizations. The records are structured with unique project and event identifiers, linking file references to precise spatial coordinates and timestamps. Users can leverage this information for detailed terrain analysis, 3D modeling, and environmental monitoring. The inclusion of tile footprints and processing metadata facilitates efficient data management and integration into broader geospatial workflows for scientific research and mapping applications.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2021-06-25T00:00:00",
+    "to": "2021-06-25T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

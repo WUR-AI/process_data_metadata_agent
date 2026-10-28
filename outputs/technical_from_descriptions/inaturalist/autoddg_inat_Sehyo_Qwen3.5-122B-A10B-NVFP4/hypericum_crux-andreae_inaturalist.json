@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human-observed occurrences of the plant species Hypericum crux-andreae, commonly known as the St. Andrew's Cross, primarily sourced from iNaturalist. The records span multiple US states, including Florida, North Carolina, and Mississippi, with observations documented between 2018 and 2025. Each entry provides detailed taxonomic classification, precise geospatial coordinates, and temporal data down to the hour. The dataset includes attribution for observers and identifiers, alongside media types such as still images. Researchers can utilize this collection for geospatial analysis, tracking phenological patterns, and assessing the distribution and conservation status of this specific plant species across its native range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

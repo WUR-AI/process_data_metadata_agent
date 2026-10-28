@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of *Phebalium squamulosum*, a plant species from the Rutaceae family, recorded in Australia, primarily in New South Wales. It includes taxonomic details, geographic coordinates, observation dates, and metadata such as identifiers, licenses, and contributors. The data is sourced from iNaturalist and covers observations from 2014 to 2026, with spatial resolution ranging from country-level to precise coordinates. Users can filter records by location, time, or taxonomic rank, making it useful for biodiversity studies, ecological research, and species distribution analysis. The dataset also includes quality flags and attribution details, ensuring transparency and usability for scientific and conservation purposes.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

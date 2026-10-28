@@ -1,0 +1,10 @@
+{
+  "description": "Environmental data recording whale sightings from August to October 2014.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2014-08-01T00:00:00",
+    "to": "2014-10-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

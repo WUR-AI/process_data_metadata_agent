@@ -1,0 +1,10 @@
+{
+  "description": "This dataset, titled \"Flood Boulder Data,\" contains environmental measurements related to a flood event that occurred on July 24, 2018. It includes data from 11 unique sites, with each site's location specified by latitude, longitude, and elevation. The dataset records the number of trunks and the diameters of up to 25 boulders at each site, providing a comprehensive overview of the flood's impact on the landscape. The semantic profile of the dataset indicates that it contains spatial, numeric, and temporal data, which can be used for aggregation and measurement purposes. Researchers and environmental scientists can utilize this dataset to analyze the effects of flooding on boulder distribution and movement, contributing to a better understanding of flood dynamics and their environmental impacts.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-07-24T00:00:00",
+    "to": "2018-07-24T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

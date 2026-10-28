@@ -1,0 +1,7 @@
+{
+  "description": "This dataset examines the impact of CO2 on the development of Mytilus galloprovincialis, a mollusk species, under controlled laboratory conditions. It includes measurements of various chemical parameters such as pH, alkalinity, salinity, and carbonate system components, along with developmental stages and percentages at different time points. The data is categorized by treatment type (High CO2 vs. Control) and includes spatial references with latitude and longitude. The semantic profile highlights the dataset's focus on biological, chemical, and oceanographic measurements, making it useful for studying the effects of ocean acidification on marine organisms. Researchers can use this dataset to analyze how increased CO2 levels influence mollusk development and survival, contributing to broader studies on climate change impacts on marine ecosystems.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

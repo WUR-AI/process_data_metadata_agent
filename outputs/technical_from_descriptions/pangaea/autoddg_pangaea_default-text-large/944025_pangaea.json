@@ -1,0 +1,15 @@
+{
+  "description": "The dataset records geochemical measurements from a single sediment core (Core 20) collected at the German collector trial pre‑impact site (Station SO268_043MUC, Area German collector trial pre‑impact). Depths range from the surface to 0.225 m, and each sample includes concentrations of major elements (Al, Ba, Ca²⁺, Cr, Cu, Fe, K⁺, La, Li, Mg²⁺, Mn, Na⁺, Ni, P, Sr, Ti) together with their associated measurement‑error values, providing a detailed uncertainty profile. Additional derived variables (e.g., Al_2, Ba_3, Fe_3) extend the chemical suite. All records share the same geographic coordinates (latitude 11.93°, longitude ‑117.02°, elevation ‑4087.8 m) and timestamp (2019‑03‑10 10:48:26). This geochemical core data can be used to reconstruct past environmental conditions, assess elemental distribution with depth, and support modeling of sedimentary processes or impact‑related geochemistry.",
+  "spatialCoverage": {
+    "min_lat": 11.93,
+    "min_lon": -117.02,
+    "max_lat": 11.93,
+    "max_lon": -117.02
+  },
+  "temporalCoverage": {
+    "from": "2019-03-10T10:48:26",
+    "to": "2019-03-10T10:48:26"
+  },
+  "spatial": null,
+  "temporal": null
+}

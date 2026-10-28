@@ -1,0 +1,7 @@
+{
+  "description": "This dataset, titled MITAPI Diffusion Data, contains scientific files related to diffusion measurements. It includes twelve unique NetCDF files, each identified by a specific name and accessible via a direct download link. The file formats are consistently NetCDF, while file sizes vary significantly, ranging from 287 to 30,650 bytes. These files serve as aggregation keys for temporal data with yearly resolution. The dataset provides essential metadata and reference links for each scientific data point. Researchers can utilize this collection to analyze diffusion patterns and access associated measurement data. The structured file names and uniform format facilitate easy integration into larger scientific workflows for further analysis and interpretation.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": "yearly"
+}

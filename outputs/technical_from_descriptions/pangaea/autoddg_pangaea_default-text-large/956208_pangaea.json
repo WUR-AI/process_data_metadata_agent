@@ -1,0 +1,12 @@
+{
+  "description": "The dataset comprises 20 marine specimens collected across 12 events and four expeditions. Each record includes identifiers such as Spec ID and Subsample ID, a location ID, and collection dates. Sampling gear is recorded as SUIT or Hand, water depth is always zero with a depth of 0–2 m. Geographic coordinates range from 0 to 87.8° latitude and –0.65 to 130.0° longitude, and elevation spans –4353.8 m to sea level. Biological measurements include TL, SL, wet mass, sex, condition index, digestion degree, and stomatal metrics, with TL from 0 to 151 mm. The semantic profile ties columns to marine research and biology, supporting analyses of specimen morphology, distribution, and physiological condition.",
+  "spatialCoverage": {
+    "min_lat": 0.0,
+    "min_lon": -0.65,
+    "max_lat": 87.8,
+    "max_lon": 130.0
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

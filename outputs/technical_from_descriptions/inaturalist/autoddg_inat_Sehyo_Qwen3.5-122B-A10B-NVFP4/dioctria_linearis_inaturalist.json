@@ -1,0 +1,10 @@
+{
+  "description": "This dataset compiles human observations of the robber fly species Dioctria linearis, sourced from the iNaturalist platform and aggregated via GBIF. It contains 20 records spanning multiple European countries, including Germany, the United Kingdom, and Russia, with precise geospatial coordinates and temporal data ranging from 2020 to 2026. Each entry provides detailed taxonomic classification, observation dates, and coordinate uncertainty metrics, facilitating robust geospatial and temporal analyses. The records are primarily based on human observations accompanied by photographic evidence, making this collection valuable for studying the species' distribution, phenology, and habitat preferences across its range.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

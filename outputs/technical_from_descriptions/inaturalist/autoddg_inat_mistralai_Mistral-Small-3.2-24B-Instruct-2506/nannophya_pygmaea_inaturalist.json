@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains observations of the dragonfly species Nannophya pygmaea, collected from various locations across Southeast Asia. The data includes taxonomic information such as kingdom, phylum, class, order, family, genus, and species, as well as location details like country code, state or province, and precise coordinates. Each observation is recorded with a unique identifier, and additional metadata includes the date of observation, the observer's name, and the license under which the data is shared. The semantic profile of the dataset indicates that it is well-structured for biodiversity research, with clear classification and aggregation keys for various taxonomic and location-based attributes. This dataset can be used for studying the distribution and habitat preferences of Nannophya pygmaea, as well as for broader ecological and conservation research on dragonfly species in the region. The observations span from 2006 to future projections in 2026, providing a comprehensive temporal coverage for analysis.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2006-01-01T00:00:00",
+    "to": "2026-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

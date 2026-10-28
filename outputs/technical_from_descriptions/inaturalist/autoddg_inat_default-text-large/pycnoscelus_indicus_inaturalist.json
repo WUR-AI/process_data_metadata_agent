@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles 20 GBIF occurrence records of the cockroach Pycnoscelus indicus. Each record includes a unique gbifID and occurrenceID that serve as aggregation keys, as well as the full taxonomic hierarchy from kingdom to species. Geographic information is provided through country codes, state or province names, and precise decimal latitude and longitude coordinates, with associated uncertainty in meters. Temporal details such as the exact eventDate and derived day, month, and year capture when each observation was made. The dataset also records media type, licensing (CC BY‑NC 4.0 or CC BY 4.0), and attribution of observers and identifiers. Researchers can use these data for species‑distribution modeling, phenology studies, and biodiversity monitoring across Asia and the Pacific.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

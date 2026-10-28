@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains information about polar ocean surveys, with each entry representing a specific event recorded on September 8, 2020. The data includes unique identifiers for each survey and event, along with temporal information and spatial coordinates, such as latitude, longitude, and elevation, which range from sea level to a depth of approximately 4291.4 meters. The dataset also provides links to various binary files, such as images and data profiles, which can be used to interact with and visualize the collected data. Semantically, the dataset is structured to aggregate data based on time, survey ID, and event, while also providing detailed spatial measurements. This dataset can be used for analyzing polar ocean conditions, tracking specific events, and studying the spatial distribution of measurements in the polar regions. Researchers can utilize this data to gain insights into the polar ocean environment and support various scientific studies.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2020-09-08T00:00:00",
+    "to": "2020-09-08T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

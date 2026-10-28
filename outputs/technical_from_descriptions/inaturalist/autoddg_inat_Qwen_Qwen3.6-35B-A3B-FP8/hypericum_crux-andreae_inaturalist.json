@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains biodiversity observations of *Hypericum crux-andreae*, a plant species within the Hypericaceae family. It includes taxonomic classifications, precise geographic coordinates, and temporal data from 2018 to 2025. The records, primarily sourced from iNaturalist, document human observations across various US states. Key fields include decimal latitude and longitude for spatial analysis, event dates for temporal studies, and media types like still images. The data supports ecological research, species distribution mapping, and conservation efforts. Quality flags indicate potential issues such as coordinate rounding. This resource is valuable for understanding the spatial and temporal dynamics of this specific plant species.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

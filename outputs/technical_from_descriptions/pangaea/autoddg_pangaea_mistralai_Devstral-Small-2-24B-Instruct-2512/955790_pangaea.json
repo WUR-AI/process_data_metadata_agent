@@ -1,0 +1,7 @@
+{
+  "description": "This dataset provides detailed information on manganese nodules collected from various oceanic locations. It includes data on the chemical composition of the nodules, such as manganese (Mn), iron (Fe), nickel (Ni), cobalt (Co), and copper (Cu) content, as well as their physical characteristics like shape and surface texture. The dataset also contains geospatial information, including latitude, longitude, and elevation, which helps in understanding the distribution and abundance of these nodules in different oceanic regions. Additionally, it includes temporal data, allowing for the analysis of collection events over time. The semantic profile of the dataset highlights its use in geological classification and measurement, making it valuable for research in marine geology and mineral resource exploration. This dataset can be used for studying the spatial distribution of manganese nodules, analyzing their chemical composition, and assessing their potential as a resource for mining. It is also useful for understanding the geological processes that lead to the formation of these nodules.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

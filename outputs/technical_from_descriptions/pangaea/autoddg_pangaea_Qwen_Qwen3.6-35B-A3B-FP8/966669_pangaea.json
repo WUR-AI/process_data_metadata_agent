@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains cryoconite radionuclide measurements from the Flade Isblink ice cap, collected in August 2022. It includes spatial coordinates, elevation, and sample identifiers for 20 unique events. The data records concentrations of various isotopes, including lead-210, cesium-137, plutonium-238/239+240, and americium-241, along with their associated errors. Samples were categorized by moisture and texture, with loss on ignition and carbon content also measured. This resource supports climate research by analyzing radionuclide distribution in glacial environments, aiding studies on atmospheric deposition, ice melt dynamics, and environmental change in polar regions.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-08-01T00:00:00",
+    "to": "2022-08-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

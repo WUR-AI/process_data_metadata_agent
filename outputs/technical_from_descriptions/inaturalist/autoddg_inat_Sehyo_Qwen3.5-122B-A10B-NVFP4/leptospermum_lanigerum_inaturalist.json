@@ -1,0 +1,7 @@
+{
+  "description": "This dataset compiles human observations of the species Leptospermum lanigerum, commonly known as the Tasmanian tea tree, recorded across Australia. The records span multiple years and cover specific regions including Victoria, Tasmania, and South Australia, with precise geographic coordinates and observation dates. Each entry includes detailed taxonomic classification, observer information, and media links, facilitating robust biodiversity research. Users can leverage this data for geospatial analysis, temporal trend studies, and ecological modeling. The dataset is structured with standard biodiversity identifiers, ensuring compatibility with global research frameworks while providing essential metadata on data quality and licensing for responsible reuse.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

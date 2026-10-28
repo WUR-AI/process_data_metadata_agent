@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains observations of the plant species Leptosiphon chrysanthus, collected from various locations in the United States, primarily in California, Nevada, and Arizona. The data includes taxonomic information, such as kingdom, phylum, class, order, family, genus, species, and infraspecific epithet, as well as spatial data like decimal latitude, decimal longitude, and coordinate uncertainty. Temporal data includes event dates, days, months, and years of observation. The dataset also provides information on the observers, identifiers, and rights holders, along with the licenses under which the data is shared. The semantic profile indicates that the data is structured for biodiversity research, with columns serving as aggregation keys, spatial filters, temporal filters, and data quality indicators. This dataset can be used for studying the distribution, habitat preferences, and temporal patterns of Leptosiphon chrysanthus, as well as for biodiversity monitoring and conservation efforts.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

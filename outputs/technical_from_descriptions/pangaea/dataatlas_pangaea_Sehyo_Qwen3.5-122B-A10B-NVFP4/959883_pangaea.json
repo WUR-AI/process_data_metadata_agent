@@ -1,0 +1,10 @@
+{
+  "description": "Sediment pore water chemistry and location data from 18 December 2022 samples.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2022-12-18T00:00:00",
+    "to": "2022-12-18T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

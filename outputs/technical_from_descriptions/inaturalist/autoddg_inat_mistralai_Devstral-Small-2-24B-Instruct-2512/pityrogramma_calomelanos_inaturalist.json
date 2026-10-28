@@ -1,0 +1,12 @@
+{
+  "description": "This dataset provides detailed observations of the fern species *Pityrogramma calomelanos*, including taxonomic classifications, geographic locations, and temporal information. It contains 20 unique records from various regions such as the United States, Taiwan, Indonesia, and Panama, with coordinates ranging from -8.497695 to 27.513403 in latitude and -155.892319 to 121.819822 in longitude. The dataset includes metadata such as observation dates, identifiers, and attribution details, making it useful for biodiversity research, ecological studies, and conservation efforts. The semantic profile highlights its role in taxonomic classification, spatial filtering, and temporal analysis, with columns like *scientificName*, *decimalLatitude*, and *eventDate* serving as key filters. Researchers can use this dataset to analyze the distribution patterns, habitat preferences, and temporal trends of *Pityrogramma calomelanos* across different regions.",
+  "spatialCoverage": {
+    "min_lat": -8.497695,
+    "min_lon": -155.892319,
+    "max_lat": 27.513403,
+    "max_lon": 121.819822
+  },
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

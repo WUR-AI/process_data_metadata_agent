@@ -1,0 +1,10 @@
+{
+  "description": "This dataset contains 20 human observations of the orchid species Pterostylis graminea recorded across New Zealand. The records span from 2018 to 2025 and cover multiple regions, including Auckland, Wellington, and Southland. Each entry provides detailed taxonomic classification, precise geographic coordinates, and observation dates, though some elevation and locality data are missing. The observations are primarily supported by still images and include metadata on the observers and licensing terms. Researchers can utilize this collection for geospatial analysis of the species' distribution, temporal studies of flowering patterns, and biodiversity assessments within New Zealand's native flora.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2025-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

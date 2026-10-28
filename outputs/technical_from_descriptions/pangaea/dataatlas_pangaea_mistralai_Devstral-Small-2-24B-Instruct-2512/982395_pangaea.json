@@ -1,0 +1,10 @@
+{
+  "description": "Earth and environmental science data with 21 rows, 24 columns, 2018-2019 time coverage.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "2018-01-01T00:00:00",
+    "to": "2019-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}

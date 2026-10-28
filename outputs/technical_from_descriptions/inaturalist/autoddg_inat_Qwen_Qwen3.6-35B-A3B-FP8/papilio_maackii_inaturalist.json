@@ -1,0 +1,7 @@
+{
+  "description": "This dataset contains biodiversity observations of the butterfly species Papilio maackii, sourced from iNaturalist. It includes taxonomic classifications, spatial coordinates, and temporal data for occurrences across Japan, Russia, China, and South Korea. The records are primarily human observations, providing detailed metadata such as identification dates, media types, and quality control issues. Users can leverage this data for spatial filtering, temporal analysis, and taxonomic studies. The dataset supports research into species distribution, migration patterns, and ecological monitoring, offering a valuable resource for understanding the presence and behavior of Papilio maackii in its native habitats.",
+  "spatialCoverage": null,
+  "temporalCoverage": null,
+  "spatial": null,
+  "temporal": null
+}

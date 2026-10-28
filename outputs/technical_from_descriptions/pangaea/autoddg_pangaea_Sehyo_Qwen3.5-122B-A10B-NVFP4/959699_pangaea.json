@@ -1,0 +1,10 @@
+{
+  "description": "This dataset presents geochemical measurements from manganese nodules collected at a specific deep-sea location with an elevation of -4722 meters. The records include spatial coordinates, sample identifiers, and descriptions of the nodule surfaces, such as the smooth topside or rough underside. Chemically, the data quantifies concentrations of major elements like manganese and iron, alongside trace metals including cobalt, nickel, and copper, as well as a comprehensive suite of rare earth elements. Researchers can utilize this information to analyze the composition of deep-sea deposits, study elemental distribution patterns within nodules, and support geological assessments of polymetallic resources collected in 1976.",
+  "spatialCoverage": null,
+  "temporalCoverage": {
+    "from": "1976-01-01T00:00:00",
+    "to": "1976-12-31T23:59:59"
+  },
+  "spatial": null,
+  "temporal": null
+}
